@@ -126,6 +126,6 @@ epub.close()
 # Step 4: clean up: rm temp zipname
 shutil.rmtree(temp_dir)
 
-print
-print "** EPUB (processed) was generated without errors **"
+
+print("** EPUB (processed) was generated without errors **")
 
