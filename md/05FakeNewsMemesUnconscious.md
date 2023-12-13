@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Fake News, Memes, and the Unconscious Production of Paranoid Utterances
 
-### Lou Caffagni[^f05_1]
+### Lou Caffagni
 
 > *'The \'collective imbecile\' is not, indeed, the mere sum of a certain
 > number of individual imbeciles. It is, on the contrary, a collectivity
@@ -718,9 +718,7 @@ linear e em rede,* Petrópolis: Vozes, 2002.
 Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 2009.
 
-[^f05_1]: PhD in education from University of São Paulo (USP), researcher at
-    LECC-UFRJ and member of the Mário Schenberg Institute. E-mail:
-    loucaf@gmail.com.
+
 
 [^f05_2]: Olavo de Carvalho, *O imbecil coletivo: Atualidades inculturais
     brasileiras,* São Paulo: Faculdade da Cidade Editora, 1997.

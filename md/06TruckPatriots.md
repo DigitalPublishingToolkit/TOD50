@@ -1,4 +1,4 @@
----
+— -
 Pr-id: MoneyLab
 P-id: INC Reader
 A-id: 10
@@ -19,11 +19,11 @@ Rights: CC BY-NC 4.0
 
 # Around the World with the 'Truck Patriot': Memetization and the Circulation of Laughter in the 2022 Post-Election Period in Brazil
 
-### Viviane Borelli[^1] and Isabel Löfgren[^2] 
+### Viviane Borelli[^f06_1] and Isabel Löfgren[^f06_2] 
 
-​​'Laughter is a philosophy. Often, laughter is salvation. And in
-constitutional politics, at least, laughter is an opinion.' --- Eça de
-Queiroz, As Farpas[^3]
+> ​​*Laughter is a philosophy. Often, laughter is salvation. And in
+> constitutional politics, at least, laughter is an opinion.* — Eça de
+> Queiroz, As Farpas[^f06_3]
 
 ## Prelude to a meme
 
@@ -39,9 +39,9 @@ actions across the country resulting in the almost immediate blockage of
 highways by truck drivers and occupations in front of army barracks by
 fanatic militants. In addition, rumors about a military intervention to
 step in within 72 hours to keep Bolsonaro in power and annul election
-results spread very quickly.[^4] This type of networked social and
+results spread very quickly.[^f06_4] This type of networked social and
 political mobilization aided by a symbolic apparatus financed by
-businessmen, politicians, and other social groups,[^5] would culminate
+businessmen, politicians, and other social groups,[^f06_5] would culminate
 months later in the attempted coup of January 8, 2023, in Brasilia.
 
 Two days after the election, on November 1, Bolsonaro finally broke his
@@ -51,12 +51,12 @@ authorities, vaguely encouraging peaceful demonstrations, and deflecting
 any potential accusations of violence incitement by attacking the left.
 In a speech, he declared that
 
-(\...) The current popular \[Bolsonarist\] movements are the result of
-indignation and a sense of injustice regarding how the electoral process
-unfolded. Peaceful demonstrations will always be welcome, but our
-methods cannot be those of the left, which has consistently harmed the
-population, such as property invasions, destruction of heritage, and
-restrictions on the right to come and go.[^6]
+> (\...) The current popular \[Bolsonarist\] movements are the result of
+> indignation and a sense of injustice regarding how the electoral process
+> unfolded. Peaceful demonstrations will always be welcome, but our
+> methods cannot be those of the left, which has consistently harmed the
+> population, such as property invasions, destruction of heritage, and
+> restrictions on the right to come and go.[^f06_6]
 
 Despite the gravity of the protests, it was during this interim period
 between Lula\'s victory and Bolsonaro\'s return to the public scene that
@@ -72,52 +72,51 @@ media apparatus for organizing and mobilizing supporters. This, in turn,
 was supported by an institutional apparatus known as 'digital militias'
 that fostered an industry of fake news and disinformation as a
 government strategy that helped consolidate the far-right social
-movement in Brazil.[^7] As a result, anti-Bolsonaro movements were
+movement in Brazil.[^f06_7] As a result, anti-Bolsonaro movements were
 forced into a defensive position until the late 2022 general
-elections.[^8]
+elections.[^f06_8]
 
 During the presidential campaign, some high-profile Lula supporters such
 as Congressman André Janones and digital influencer Felipe Neto used
 their Twitter profiles to take down Bolsonaro's fake news machinery with
 memes, short videos, sensationalist news reports, live sendings, and
-more, to reverse the political situation.[^9] In addition, Lula's
+more, to reverse the political situation.[^f06_9] In addition, Lula's
 leftist Workers\' Party (PT) established an innovative media strategy by
 creating a legal apparatus against electoral crimes committed by
 Bolsonaro, whose campaign was largely based on fake news designed to
 delegitimize election results and defame his political opponents. Some
 of these legal actions resulted in media restrictions and other legal
 measures by the Superior Electoral Court (TSE) to thwart Bolsonaro's
-strategies to attack the electoral system's legitimacy.[^10] The leftist
+strategies to attack the electoral system's legitimacy.[^f06_10] The leftist
 campaign strategy was successful insofar as it instilled a sense of
 confidence and unity among Lula's supporters, as well as turning the
 legal apparatus in Lula's favor eventually leading to his victory.
 However, even with significant efforts by authorities and civil society
 to combat the Bolsonarist fake news machinery during the campaign, it
 was not possible to control the proliferation of messages among radical
-Bolsonarist groups in the aftermath of the election.[^11]
+Bolsonarist groups in the aftermath of the election.[^f06_11]
 
 ## The Road Blockades and the Emergence of the \'Truck Patriot\' meme
 
-![](media/image1.png){width="6.268055555555556in"
-height="3.4305555555555554in"}
+![Figure 1: Truckers\' blockade on Presidente Dutra highway outside the
+city of São Paulo,Brazil. Credit: Lucas Lacaz Ruiz/Estadão Conteúdo](media/image1.png)
 
-Figure 1: Truckers\' blockade on Presidente Dutra highway outside the
-city of São Paulo,Brazil. Credit: Lucas Lacaz Ruiz/*Estadão Conteúdo*.
+<br/>
 
 Soon after Bolsonaro's defeat was announced in the late evening of
 October 30, 2022, Bolsonaro supporters took to the streets claiming that
 the elections were rigged. They demanded the investigation of electronic
 polling stations and a 'military intervention' to delegitimize the
-election.[^12] Bolsonarist truck drivers blocked traffic on highways
+election.[^f06_12] Bolsonarist truck drivers blocked traffic on highways
 while others camped in front of army barracks all over the country
-(Figure 1).[^13] It is now known that the truckers were supported by
-some members of the Federal Highway Police (PRF),[^14] but at the time,
+(Figure 1).[^f06_13] It is now known that the truckers were supported by
+some members of the Federal Highway Police (PRF),[^f06_14] but at the time,
 it did not prevent demonstrators from unlawfully blocking the roads or
-removing them from specific locations.[^15] As a result of this
+removing them from specific locations.[^f06_15] As a result of this
 coordinated action by protesters financed in part by businessmen from
 the agribusiness and cargo transport sectors, and with the veiled
 consent of authorities like the PRF, the transportation system fell into
-chaos, and deliveries of goods nearly halted in Brazil.[^16]
+chaos, and deliveries of goods nearly halted in Brazil.[^f06_16]
 
 The incitement for mobilization for the protests occurred largely
 through the widespread false information in messages on Twitter,
@@ -126,12 +125,12 @@ groups on WhatsApp and Telegram. These platforms, previously used by
 Bolsonaro supporters for various national-scale mobilizations during his
 government, featured images, videos, and memes supporting truckers, as
 well as calls for various protest actions accompanying the
-blockades.[^17]
+blockades.[^f06_17]
 
 In these gatherings, a distinctive visuality emerged: people wearing
 yellow football jerseys and waving flags, and all sorts of nationalistic
 paraphernalia in yellow and green, the colors of the Brazilian national
-flag (Figure 1) -- a visual identity that had already been
+flag (Figure 1) —  a visual identity that had already been
 institutionalized within Bolsonarism since the 2018 presidential
 elections. Also known as 'Patriots', these green-and-yellow-clad
 protesters became the symbols of devotion and sacrifice to Bolsonaro and
@@ -139,8 +138,8 @@ his government, who often referred to the then-president as *The Myth*.
 
 On the internet, a curious memetic phenomenon involving a Bolsonarist
 'Patriot' marked the history of the Brazilian internet: the 'Truck
-Patriot' meme (in Portuguese, 'O Patriota do Caminhão*'*). We refer to
-this event as a *memetivistic turn* -- or activism through memes -- in
+Patriot' meme (in Portuguese, 'O Patriota do Caminhão'). We refer to
+this event as a *memetivistic turn* —  or activism through memes —  in
 Brazilian internet culture and in the Brazilian political landscape.
 This phenomenon helped wrest media dominance from the Bolsonarists in
 the unstable period that followed but also widened the abyss between
@@ -150,7 +149,7 @@ Lula's and Bolsonaro's supporters in the coming months.
 
 The story of how the meme started is as one-of-a-kind as the buzz it
 created, making it one of the top and most widely discussed memes in the
-media in 2022, that 'made Brazil smile'.[^18] On November 2, 2022, the
+media in 2022, that 'made Brazil smile'.[^f06_18] On November 2, 2022, the
 third day of trucker protests and roadblocks, 41-year-old businessman
 Júnior César Peixoto from Caruaru, in northeastern Brazil, went to a
 blockage point on a federal highway to deliver food to protesters. At
@@ -162,16 +161,18 @@ cruised at high speed, and clung to the windshield without letting go
 for 10 kilometers. This unusual ride allowed many passers-by and the
 truck driver himself to capture the scene on video.
 
-## ![](media/image2.png){width="6.5in" height="4.958333333333333in"}
+![Figure 2: News report showing the Bolsonaro supporter from inside the
+truck, filmed by the driver. Source: *UOL*, Youtube.[^f06_19]](media/image2.png)
 
-Figure 2: News report showing the Bolsonaro supporter from inside the
-truck, filmed by the driver. Source: *UOL*, Youtube.[^19]
+<br/>
 
-![](media/image3.png){width="6.5in" height="4.902777777777778in"}
 
-Figure 3: 'Bolsonarist stuck to the windshield of a truck that broke
+![Figure 3: 'Bolsonarist stuck to the windshield of a truck that broke
 through coup-related road blockade'. Video still. Source: *DCM TV*,
-Youtube 3 November, 2022.[^20]
+Youtube 3 November, 2022.[^f06_20]](media/image3.png)
+
+<br/>
+
 
 This is a unique case where the meme is born ready in the face of the
 unexpected and unexplainable because the 'Patriot' from Caruaru achieved
@@ -190,7 +191,7 @@ public, the original videos (Figure 2) quickly became newsworthy in
 mainstream media outlets and on messaging apps and social media
 platforms. Since WhatsApp is used by 54% of Brazilians, a significant
 portion of the population very likely became aware of the videos through
-the messaging app.[^21]
+the messaging app.[^f06_21]
 
 After the initial circulation of this material reporting the incident,
 anti-Bolsonaro audiences immediately repurposed these scenes into
@@ -199,7 +200,7 @@ digital formats. Online news outlets first reported the incident as the
 \'man hanging onto a truck\', and later as 'the Bolsonaro supporter on
 the truck'. However, after going viral the memes soon came to be known
 as 'the Truck Patriot,\' and in international meme repositories as
-simply \'Truck Patriot'.[^22]
+simply \'Truck Patriot'.[^f06_22]
 
 A search for the hashtag *#truckpatriot* yielded more than 1,000 results
 of memes and videos on Instagram, and approximately 3,000 results
@@ -211,14 +212,14 @@ memes circulated both among the general public and in the profiles of
 politicians and digital influencers associated with Lula, such as Felipe
 Neto. Neto created sophisticated productions in the form of comedy
 sketches using the 'Truck Patriot' to debunk Bolsonarist
-worldviews.[^23] On the most popular social media profiles on several
+worldviews.[^f06_23] On the most popular social media profiles on several
 platforms, posting the meme became an action of what we call *memetic
 cultural resistance* to openly express anti-Bolsonaro sentiments that
 had largely consisted of reactive responses to his institutionalized
 fake news machinery in previous years. Due to the immense popularity of
 the meme, it was voted one of the best memes of 2022 both in Brazil and
-internationally,[^24] and the meme also has its own Wikipedia
-entry.[^25]
+internationally,[^f06_24] and the meme also has its own Wikipedia
+entry.[^f06_25]
 
 However, the circulation of hundreds of memes in various genres was most
 intense on November 3 and 4, 2022. At this point, the country was
@@ -233,18 +234,18 @@ humor, satire, and parodies of the original 'TruckPatriot' video in
 various communication channels, on- and offline. We see the
 proliferation of this type of content anchored in interdiscursivity, a
 type of social communication where discourses relate to one other in an
-infinite chain of symbolic production.[^26]
+infinite chain of symbolic production.[^f06_26]
 
 In the hands of Lula\'s supporters, the memes created from this action
 became a critical device of both satire and derisive humor that
 stimulated a peal of mocking laughter, which according to Vladimir Propp
-is a reaction to a ridiculous object or situation.[^27] The
+is a reaction to a ridiculous object or situation.[^f06_27] The
 effectiveness and speed of this humoristic device created a sense of
 collective catharsis through the circulation of networked laughter and
 *schadenfreude*. Turning the 'Patriot\'s' truck-blocking attempt into
 comedy and satire expressed a collective joy and relief in Bolsonaro\'s
 defeat that served to demoralize the sitting president and his
-supporters, and also far-right movements as a whole.[^28] Moreover, it
+supporters, and also far-right movements as a whole.[^f06_28] Moreover, it
 meant that Bolsonarists were dethroned from their previously dominant
 position on social media, at least temporarily.
 
@@ -258,7 +259,7 @@ elements through an imitative gesture in which a central content is
 used, appropriated, interpreted, and recontextualized in modular formats
 of established meme genres, or else in new formats that emerge from
 continuous iterations of the same content that become highly
-recognizable to audiences.[^29] The 'Truck Patriot' meme evolved from
+recognizable to audiences.[^f06_29] The 'Truck Patriot' meme evolved from
 mashups and remixes (sampling and re-editing techniques using found
 materials) that became highly exploitable through continuous emulations,
 ultimately becoming a *catchphrase*, a popularly recognized expression
@@ -272,21 +273,22 @@ backgrounds, and in both urban and rural areas, turned the various
 manifestations of the meme into a democratic expression with a variety
 of regional expressions.
 
-![](media/image4.png){width="6.268055555555556in"
-height="6.722222222222222in"}
-
-Figure 4: Example of pastiche using cinematic tropes with the 'Truck
+![Figure 4: Example of pastiche using cinematic tropes with the 'Truck
 Patriot' or UFO clinging onto E.T.'s bicycle. Source: \@SeJustica,
-Twitter post, 7 November 2022.[^30]
+Twitter post, 7 November 2022.[^f06_30]](media/image4.png)
 
-![](media/image5.jpeg){width="6.5in" height="6.416666666666667in"}
+<br/>
+
+
+
+![](media/image5.jpeg)
 
 Figure 5: The 'Truck Patriot' mashup and a scene from *Harry Potter and
 the Chamber of Secrets* (2002). Source: Instagram \@gharrypotter\_.
 
 In the field of audiovisual production, *Netflix Brasil* posted a video
 collage that combined the Truck Patriot\'s video footage with iconic
-scenes in famous Hollywood productions.[^31] The figure of the Patriot
+scenes in famous Hollywood productions.[^f06_31] The figure of the Patriot
 is inserted into action scenes from movies such as *Spider-Man*, E.T.,
 (Figure 4) *Harry Potter (Figure 5)*, *Nightmare on Elm Street,
 Priscilla, Queen of the Desert, Mad Max,* and *others*, or he appears in
@@ -295,7 +297,7 @@ reference classic moments in film history, such as a scene in which the
 Truck Patriot is seen clinging to a train in one of the earliest films
 by the Lumière Brothers, *Arrival of a Train at La Ciotat* (1895)
 playfully renamed by commenters as *Arrival of a Train 'with a Patriot'
-at La Ciotat*.[^32]
+at La Ciotat*.[^f06_32]
 
 ![](media/image6.jpeg){width="6.084027777777778in" height="4.525in"}
 
@@ -305,7 +307,7 @@ Source: unknown.
 Regarding music and popular culture, at times the meme is reconfigured
 in visual and auditory mashups with soundtracks added to the original
 video clip (Figure 2) with songs such as Miley Cyrus\' \'Fly on the
-Wall\' or Gloria Gaynor\'s \'I Will Survive'.[^33] There are also
+Wall\' or Gloria Gaynor\'s \'I Will Survive'.[^f06_33] There are also
 iterations using iconic images like The Beatles' iconic *Abbey Road*
 album cover (Figure 10). The 'Truck Patriot' meme also merged with an
 array of imagery of national and international celebrities, as in the
@@ -318,7 +320,7 @@ systematically denied by Bolsonarist ideology, such as climate change.
 ![](media/image7.png){width="6.020833333333333in" height="3.8125in"}
 
 Figure 7: The Truck Patriot is seen in front of the Tower of Pisa.
-Source: \@folha.[^34]
+Source: \@folha.[^f06_34]
 
 In another series, we observe multiple mashups in an extensive series of
 over 200 memes depicting the 'Truck Patriot' traveling by truck around
@@ -326,8 +328,8 @@ the world, spotted in cities across Brazil and in iconic landscapes and
 global monuments in the whole world, such as the pyramids of Egypt, the
 Taj Mahal, the Eiffel Tower and the Tower of Pisa (Figure 7). The 'Truck
 Patriot' can also be seen in outer space, either plummeting off the edge
-of the Flat Earth -- a denialist theory defended by Bolsonarism (Figure
-8) -- or floating in outer space, on the Moon, or clinging to a rocket
+of the Flat Earth —  a denialist theory defended by Bolsonarism (Figure
+8) —  or floating in outer space, on the Moon, or clinging to a rocket
 on the way to Planet Mars.
 
 ![](media/image8.jpeg){width="6.804861111111111in"
@@ -335,12 +337,12 @@ height="7.7243055555555555in"}
 
 Figure 8: The Truck Patriot falling off the edge of the Flat Earth.
 Source: \@Drifez_original, 'E vamos de patriota do caminhão chegando a
-borda da terra plana', Twitter post.[^35]
+borda da terra plana', Twitter post.[^f06_35]
 
 The meme also surfaced on more commercially oriented images, products,
 and ads. Within the realm of play, the iconic figure of the 'Truck
 Patriot' was incorporated into video game interfaces like *Adventure
-Quest 3*,[^36] or became toys as in the 'Patriot Lego' set. Other sets
+Quest 3*,[^f06_36] or became toys as in the 'Patriot Lego' set. Other sets
 of toys and thematic paraphernalia like pens, mugs, and T-shirts
 appeared either as spoof ads or as items for sale on several e-commerce
 websites. Another unusual appropriation is the insertion of the Truck
@@ -368,10 +370,10 @@ The meme also traveled beyond the internet. In the visual arts, the use
 of the 'Truck Patriot' image as a cultural icon in public art like
 graffiti and mural paintings spread across the streets of Brazil. One of
 the most spectacular uses of Truck Patriot videos was as projections in
-musical performances just three days after the meme first emerged.[^37]
+musical performances just three days after the meme first emerged.[^f06_37]
 The meme saw a peak in postings immediately after the election but
 remained active in various communication streams in the following
-months,[^38] spanning the government transition on January 1, 2023, the
+months,[^f06_38] spanning the government transition on January 1, 2023, the
 Planalto Riots on January 8, and into the carnival season in March
 2023 - a time when Brazilian carnival goers typically express a wide
 range of political opinions through music, dance, and costumes. Thus, it
@@ -394,20 +396,20 @@ then putting them into circulation.
 The concept of *interdiscursivity* is central to a communicational
 approach to the phenomenon of memetization both in how memes are
 constituted and how they become part of communication processes in this
-period of political transformation.[^39] Memetization is a symbolic
+period of political transformation.[^f06_39] Memetization is a symbolic
 praxis of memes embedded in social networks that materializes as a
 visual-discursive phenomenon, whose multiple manifestations may become a
 form of popular culture, media activism, or political propaganda. Memes
 are understood through a sense-making activity grounded in
 interdiscursive operations, in such a way that 'the structure of
-discourses is always an interdiscursive phenomenon'.[^40] According to
+discourses is always an interdiscursive phenomenon'.[^f06_40] According to
 the Argentine semiotician Eliseo Verón, *interdiscursivity* is one of
 the constituent conditions of the functioning of social discourses. In
 this context, we understand that memes generate humor that serves to
 generate laughter as an effect of meaning because, as Verón reminds us,
 a discourse always generates a field of effects and never a single
 effect due to its non-linearity and the constitutive dissonances between
-production and recognition.[^41]
+production and recognition.[^f06_41]
 
 According to Shifman, when internet users create or consume political
 memes, they engage in a 'normative debate about how the world should (or
@@ -416,7 +418,7 @@ of memes and their various discursive constructs also express struggle
 and resistance as poetic and humorous devices used in political contexts
 where the meme activates 'public discourses \[that\] are socially
 constructed, and memetic variations represent different voices and
-perspectives'.[^42] Therefore, memes expand the range of political
+perspectives'.[^f06_42] Therefore, memes expand the range of political
 participation modalities by offering new, playful, and accessible modes
 of participation for expressing political opinions and engaging in
 debates on current issues. Therefore, we focus on this interdiscursive
@@ -436,12 +438,12 @@ Beiguelman's view, in this process, the interdiscursive phenomenon that
 crosses over between digital screen-based mediums and analog
 street-based mediums opens up to multiple derivations that break with
 systems of representation and their mechanisms of symbolic organization
-in both content and form.[^43] Lastly, some \'Truck Patriot\' memes also
+in both content and form.[^f06_43] Lastly, some \'Truck Patriot\' memes also
 incorporate other discourses, information, and political events as
 elements of commentary and critique, such as the pandemic and fake news
 occurring during the election period or in politics in general. We
 notice, for instance, a process of meta-mimesis when it appropriates
-other internet genres such as parodies of fake news.[^44]
+other internet genres such as parodies of fake news.[^f06_44]
 
 In these interdiscursive contexts, the \'Truck Patriot\' figure takes on
 multiple roles, first as the protagonist, but also as an interdiscursive
@@ -460,7 +462,7 @@ Bolsonarism off the road. Unknown source.
 ![](media/image11.jpeg){width="6.5in" height="5.21875in"}
 
 Figure 8: A collage with the Lula's and Bolsonaro's cut-out photographs
-on the original video footage. Source: \#*MUSEUdeMEMES*.[^45]
+on the original video footage. Source: \#*MUSEUdeMEMES*.[^f06_45]
 
 When memes cross over to the language of political cartoons, they become
 part of the political commentary and *memetize* political discourse.
@@ -472,7 +474,7 @@ clinging to whatever is left of its anti-democratic values. In Figure 8,
 the scene is personified by a cut-out of Lula's campaign photo as a
 smiling truck driver, while a desperate Jair Bolsonaro trying to hold on
 to the power he just lost. Both images embody the 'aesthetic of a failed
-coup'[^46] and the need to get rid of Bolsonaro from the political
+coup'[^f06_46] and the need to get rid of Bolsonaro from the political
 scene. This becomes especially funny when we know that Bolsonaro refuses
 to acknowledge Lula's victory and 'clings' to power through his most
 committed followers.
@@ -484,24 +486,24 @@ height="6.402083333333334in"}
 
 Figure 9: Zambelli's *Abbey Road* meme with the Truck Patriot in the
 background. The caption reads, 'Bro!!! This meme only gets
-better!!!'.Source: \@annaguirro, Twitter post 5 November 2022.[^47]
+better!!!'.Source: \@annaguirro, Twitter post 5 November 2022.[^f06_47]
 
 While the 'Truck Patriot' meme circulated mostly as a standalone meme,
 in some instances, it was combined with memes with absurd scenes from
 the last days of the presidential campaign. In Figure 8, the Truck
 Patriot becomes a supporting character in a scene that symbolizes
 Bolsonarist anti-democratic, violent, and criminal behaviors. The woman
-in the foreground is Congresswoman Carla Zambelli,[^48] one of
+in the foreground is Congresswoman Carla Zambelli,[^f06_48] one of
 Bolsonaro\'s main political allies, caught on video pointing a gun to a
 Black journalist and Lula campaigner on the eve of election day, October
-29, 2022, in a busy street in São Paulo.[^49] Besides political and
+29, 2022, in a busy street in São Paulo.[^f06_49] Besides political and
 racially motivated violence, the incident gained significant media
 attention because Brazilian law forbids the use of firearms by civilians
 24 hours before and after election day. Several witnesses captured
 images of the Congresswoman and her armed assistants publicly committing
 a serious electoral offense. Videos show Zambelli\'s confrontation with
 the black journalist, then chasing him, and finally pointing her gun
-inside a bar.[^50] A flurry of memes took over social media platforms
+inside a bar.[^f06_50] A flurry of memes took over social media platforms
 during the entire election weekend, and, when the \'Truck Patriot\' meme
 appeared a few days later, it was immediately added on to Zambelli's
 memes. In Figure 9, Zambelli's green-clad figure holding a gun is pasted
@@ -533,7 +535,7 @@ Figure 10: Photo collage of the National Congress in Brasília, where the
 \'Truck Patriot\' is depicted on a collision course with Jair Bolsonaro
 and Carla Zambelli. The caption reads 'Brazil, 2022. Rioters on panel.',
 in the style of image captions given to artworks. Credit:
-\@deyvidbacelar.[^51]
+\@deyvidbacelar.[^f06_51]
 
 Another meme shows Carla Zambelli running with a gun, followed by Jair
 Bolsonaro and the 'Truck Patriot' frozen in motion in what looks like a
@@ -572,7 +574,7 @@ solidarity. This practice had earlier been observed during the COVID-19
 pandemic when Brazilians mobilized different discursive materials in the
 form of critical memes and laughter as a form of resistance against
 Bolsonaro\'s negationist stance towards the pandemic and his ineffective
-government.[^52]
+government.[^f06_52]
 
 ![](media/image14.png){width="2.6493055555555554in"
 height="3.75625in"}![](media/image15.png){width="2.7847222222222223in"
@@ -671,7 +673,7 @@ Dadosfera. São Paulo: Ubu Editora, 2021.
 
 Borelli, Viviane, and Regiani, Herivelto. 'Memetizing and Mediatizing:
 Memes as an Evangelical Discursive Strategy'. ESSACHESS - Journal for
-Communication Studies, 10.2 (2017): 9--31.
+Communication Studies, 10.2 (2017): 9— 31.
 
 \_\_\_\_\_\_, Dalmolin, Aline, Feliciano, M.Z., and Regiani, Herivelto.
 'O Riso como Resistência: Memes contra Bolsonaro no Contexto da
@@ -693,7 +695,7 @@ https://tijolaco.net/desova-de-bolsonaro-comeca-e-ja-vai-ao-ridiculo/.
 Braga, José Luiz. 'Dispositivos interacionais; Circuitos de
 Comunicação', in José Luiz Braga e R. Calazans (eds.), *Matrizes
 Interacionais: A Comunicação Constrói a Sociedade*, Campina Grande:
-EDUEPB, Vol. 2, 2017, pp. 15--64.
+EDUEPB, Vol. 2, 2017, pp. 15— 64.
 
 Calgaro, Fernando. 'Bloqueios bolsonaristas: quais são as penas
 previstas para interdição de rodovias', *G1*, 1 November 2022,
@@ -753,7 +755,7 @@ https://www.tecmundo.com.br/dispositivos-moveis/231633-whatsapp-app-popular-bras
 
 Horbyk, Roman, Löfgren, Isabel, Soriano, Cheryl, and Prymashenko,Yana.
 'Fake News as Meta-mimesis: Imitative Genres and Storytelling in the
-Philippines, Brazil, Russia and Ukraine', *Popular Inquiry -- The
+Philippines, Brazil, Russia and Ukraine', *Popular Inquiry —  The
 Journal of the Aesthetics of Kitsch, Camp and Mass Culture* 8 (2021).
 
 \@joaorzc, 'Desculpa chegar atrasado pro meme do patriota, gente. É que
@@ -770,7 +772,7 @@ resistance in the post-electoral period in Brazil', Urgent Publishing,
 Institute of Network Cultures, Arnhem, Holland, 19 May 2019,
 https://vimeo.com/345459399.
 
---------------. 'Semiotics of Care and Violence: Memetization and
+— — — — — — — . 'Semiotics of Care and Violence: Memetization and
 Necropolitics during the Brazilian 2018 Elections and the action
 #MarielleMultiplica', in Chloë Arkenbout and Laurence Sherz (eds),
 *Critical Meme Reader 2: Memetic Tacticality*, Amsterdam: Institute of
@@ -794,7 +796,7 @@ Paiva, Fernado. *Panorama Mobile*
 *Time/Opinion Box - Usos de Apps no Brasil*, MobileTime/Opinion Box,
 2022, file:///home/araxa/Downloads/Panorama_APPS-DEZ22-OK.pdf.
 
-Pires, Breno. 'O show de Jair -- Como o PT enfrentou a milícia digital
+Pires, Breno. 'O show de Jair —  Como o PT enfrentou a milícia digital
 bolsonarista', *Revista Piauí* 195 (December 2022): 24-28.
 
 Propp, Vladimir. *Comicidade e Riso*, Trad. Aurora Fornoni Bernardini e
@@ -844,22 +846,22 @@ Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
 https://pt.wikipedia.org/wiki/Patriota_do_caminh%C3%A3o, accessed 10
 October, 2023.
 
-[^1]: Associate Professor in the Graduate Program in Communication
+[^f06_1]: Associate Professor in the Graduate Program in Communication
     Sciences at the Federal University of Santa Maria (UFSM), Brazil.
     Email: viviane.borelli@ufsm.br.
 
-[^2]: Senior lecturer in Media and Communications at Södertörn
+[^f06_2]: Senior lecturer in Media and Communications at Södertörn
     University, Sweden. Email: isabel.lofgren@sh.se.
 
-[^3]: Eça de Queiroz, *AS FARPAS: crônica mensal da politica, das letras
+[^f06_3]: Eça de Queiroz, *AS FARPAS: crônica mensal da politica, das letras
     e dos costume*s. Lisboa: Tipografia Universal, fevereiro de 1872,
     http://purl.pt/256/4/.
 
-[^4]: These 72 hours were repeatedly postponed in the following months,
+[^f06_4]: These 72 hours were repeatedly postponed in the following months,
     keeping the expectations of the protesters alive until the attempted
     coup on January 8, 2023.
 
-[^5]: In late May 2023, the parliamentary investigation commission of
+[^f06_5]: In late May 2023, the parliamentary investigation commission of
     coup-related acts (CPI dos atos golpistas) released documents that
     reveal the names of those who financed the coup attempt. See Sara
     Resende, Vinícius Cassela and José Vianna, 'Atos golpistas: o que a
@@ -867,24 +869,24 @@ October, 2023.
     *G1*, 20 July 2023,
     https://g1.globo.com/politica/noticia/2023/07/20/atos-golpistas-o-que-a-abin-rastreou-sobre-financiadores-e-novas-tentativas-de-ataques.ghtml.
 
-[^6]: UOL, 'Pronunciamento de Bolsonaro: veja o discurso completo do
+[^f06_6]: UOL, 'Pronunciamento de Bolsonaro: veja o discurso completo do
     presidente após derrota nas eleições', YouTube video, 2:28, 1
     November 2022, https://www.youtube.com/watch?v=2Ywjzf88oWY.
 
-[^7]: Isabel Löfgren, *Memes as means of public dissent and cultural
+[^f06_7]: Isabel Löfgren, *Memes as means of public dissent and cultural
     resistance in the post-electoral period in Brazil*, Urgent
     Publishing, Institute of Network Cultures, Arnhem, Holland, 19 May
     2019. https://vimeo.com/345459399.
 
-[^8]: Breno Pires, 'O show de Jair -- Como o PT enfrentou a milícia
+[^f06_8]: Breno Pires, 'O show de Jair —  Como o PT enfrentou a milícia
     digital bolsonarista', *Revista Piauí* Vol. 195, (Dezembro 2022):
-    24--28.
+    24— 28.
 
-[^9]: \@AndreJanonesAdv, Twitter profile; \@felipeneto, Twitter profile.
+[^f06_9]: \@AndreJanonesAdv, Twitter profile; \@felipeneto, Twitter profile.
 
-[^10]: Pires, 'O show de Jair', p. 26.
+[^f06_10]: Pires, 'O show de Jair', p. 26.
 
-[^11]: On the day of Bolsonaro's reappearance, *G1,* the largest online
+[^f06_11]: On the day of Bolsonaro's reappearance, *G1,* the largest online
     news portal in Brazil owned by the Globo, fact-checked false
     information circulating on Telegram, WhatsApp, Facebook, Instagram,
     TikTok, and YouTube, such as claims of election fraud. Roney
@@ -892,10 +894,10 @@ October, 2023.
     Bolsonaro', *G1*, 1 November 2022.
     https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/11/07/e-fake-que-51-mihoes-de-votos-foram-roubados-de-bolsonaro.ghtml.
 
-[^12]: Voting in Brazil is mandatory and carried out via electronic
+[^f06_12]: Voting in Brazil is mandatory and carried out via electronic
     voting stations.
 
-[^13]: The truckers\' participation was significant since the time of
+[^f06_13]: The truckers\' participation was significant since the time of
     the year was considered the \'off-season,\' meaning that at that
     moment, many truck drivers who primarily transport grain had no
     cargo to carry. This fact is believed to have contributed to a
@@ -908,7 +910,7 @@ October, 2023.
     radicals did not have the support of the truckers, as it was
     necessary to resume transportation of goods on Brazilian roads.
 
-[^14]: The Federal Highway Police (PRF) is the government authority
+[^f06_14]: The Federal Highway Police (PRF) is the government authority
     responsible for road management across the country. Even though the
     PRF stated in a press release that they were taking action against
     protesters, their permissive stance was immediately questioned.
@@ -916,13 +918,13 @@ October, 2023.
     de manifestações bolsonaristas', *CNN Brasil*, 2 November 2022,
     https://www.cnnbrasil.com.br/politica/especialistas-analisam-legalidade-de-manifestacoes-bolsonaristas/.
 
-[^15]: The media published news regarding the penalties outlined for the
+[^f06_15]: The media published news regarding the penalties outlined for the
     blockades on the highways at that time. Fernando Calgaro, 'Bloqueios
     bolsonaristas: quais são as penas previstas para interdição de
     rodovias', *G1*, 1 November 2022,
     https://g1.globo.com/politica/eleicoes/noticia/2022/11/01/bloqueios-bolsonaristas-quais-sao-as-penas-previstas-para-interdicao-de-rodovias.ghtml.
 
-[^16]: Blockades were reported in 24 Brazilian states and the Federal
+[^f06_16]: Blockades were reported in 24 Brazilian states and the Federal
     District. Brazil has a total of 26 states, in addition to the
     Federal District. The protests on November 2, 2022, occurred in
     hundreds of Brazilian cities that have military bases.G1,
@@ -930,7 +932,7 @@ October, 2023.
     no DF', *G1*, 2 November, 2022,
     https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/atos-bolsonaristas-quarteis-brasil.ghtml.
 
-[^17]: These actions included religious expressions (with symbols from
+[^f06_17]: These actions included religious expressions (with symbols from
     various religious beliefs but not necessarily institutionalized)
     such as prayers and hymns of praise around burning tires on the
     roads. Later on, protesters decided to organize demonstrations in
@@ -947,7 +949,7 @@ October, 2023.
     elections. Universidade Federal de Minas Gerais, 'Monitor de
     Whatsapp', http://www.monitor-de-whatsapp.dcc.ufmg.br/.
 
-[^18]: Mateus Almeida and Marcos Noronha, 'Bora Bill, Scooby travando,
+[^f06_18]: Mateus Almeida and Marcos Noronha, 'Bora Bill, Scooby travando,
     patriota do caminhão: relembre memes de 2022 que fizeram o Brasil
     sorrir', Gshow, 15 December 2022,
     https://gshow.globo.com/tudo-mais/viralizou/noticia/relembre-os-memes-que-movimentaram-as-redes-sociais-em-2022.ghtml;
@@ -955,15 +957,15 @@ October, 2023.
     relembre os memes de 2022', Folha de S. Paulo, 23 December 2022,
     https://www1.folha.uol.com.br/blogs/hashtag/2022/12/do-patriota-do-caminhao-a-tapioca-homofobica-relembre-os-memes-de-2022.shtml.
 
-[^19]: UOL,'Vídeo flagra homem preso a caminhão após veículo furar
+[^f06_19]: UOL,'Vídeo flagra homem preso a caminhão após veículo furar
     bloqueio', UOL, YouTube video, 1:30, 3 November 2022,
     https://www.youtube.com/watch?v=qmIGA9r455w.
 
-[^20]: DCM TV, 'Bolsonarista fica pendurado em para-brisa de caminhão
+[^f06_20]: DCM TV, 'Bolsonarista fica pendurado em para-brisa de caminhão
     que furou bloqueio golpista', *DCM T*V, YouTube video, 1:33, 3
     November 2022, https://www.youtube.com/watch?v=qmIGA9r455w.
 
-[^21]: The most popular platforms in Brazil are WhatsApp (54%),
+[^f06_21]: The most popular platforms in Brazil are WhatsApp (54%),
     Instagram (42%), Facebook (33%), followed by Youtube, Twitter, and
     Telegram. Fernando Paiva, Panorama Mobile Time/Opinion Box - Usos de
     Apps no Brasil, MobileTime/Opinion Box, 2022,
@@ -972,17 +974,17 @@ October, 2023.
     top 10', Tecmundo, 8 January 2022,
     https://www.tecmundo.com.br/dispositivos-moveis/231633-whatsapp-app-popular-brasil-veja-o-top-10.hmt.
 
-[^22]: Mateus Lima, 'Patriota do Caminhão/Truck's Patriot: part of a
+[^f06_22]: Mateus Lima, 'Patriota do Caminhão/Truck's Patriot: part of a
     series on 2022 Brazilian General Election', *Know Your Meme*, 10
     December 2022,
     https://knowyourmeme.com/memes/patriota-do-caminhao-trucks-patriot.
 
-[^23]: \@felipeneto, 'Edição urgente do BIP! Conseguimos atualizações
+[^f06_23]: \@felipeneto, 'Edição urgente do BIP! Conseguimos atualizações
     sobre o Patriota do Caminhão\... Compartilhe.', Twitter post, 4 de
     novembro de 2022, 11:20 AM,
     https://twitter.com/i/status/1588657456137355266.
 
-[^24]: The \'Truck Patriot\' meme has its own entryin the
+[^f06_24]: The \'Truck Patriot\' meme has its own entryin the
     \#*MUSEUdeMEMES* collection, a Brazilian meme collection project
     developed by coLAB - Laboratory for Research in Communication,
     Political Cultures, and Collaborative Economics at UFF (Universidade
@@ -990,18 +992,18 @@ October, 2023.
     \#*MUSEUdeMEMES*, 2022,
     https://museudememes.com.br/collection/patriota-do-caminhao.
 
-[^25]: Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
+[^f06_25]: Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
     https://pt.wikipedia.org/wiki/Patriota_do_caminh%C3%A3o, accessed 10
     October, 2023.
 
-[^26]: Eliseo Verón, *La semiosis social. Fragmentos de una teoría de la
+[^f06_26]: Eliseo Verón, *La semiosis social. Fragmentos de una teoría de la
     discursividad*. Barcelona: Gedisa, 1996.
 
-[^27]: Vladimir Propp. *Comicidade e riso*, trans. Aurora Fornoni
+[^f06_27]: Vladimir Propp. *Comicidade e riso*, trans. Aurora Fornoni
     Bernardini e Homero Freitas de Andrade. São Paulo: Editora Ática,
     1976.
 
-[^28]: In the media sensation that followed, Júnior César Peixoto gave
+[^f06_28]: In the media sensation that followed, Júnior César Peixoto gave
     interviews to television channels, news portals, newspapers, and
     magazines, stating that he was in fear for his life thinking he
     would die, and asked the driver to stop. However, the truck driver
@@ -1014,48 +1016,48 @@ October, 2023.
     patriot whose resilience in surviving this adventure became a symbol
     of sacrifice and commitment to the Bolsonaro cause.
 
-[^29]: Limor Shifman, *Memes in Digital Culture*, Cambridge:The MIT
+[^f06_29]: Limor Shifman, *Memes in Digital Culture*, Cambridge:The MIT
     Press, 2014.
 
-[^30]: \@SeJustica, 'ATENÇÃO: Ovni avistado patriotas! Pode ter a ver
+[^f06_30]: \@SeJustica, 'ATENÇÃO: Ovni avistado patriotas! Pode ter a ver
     com o Ragnarok chegando... #patriotadocaminhao #patriotas #ovni #et
     #Bolsonaro #jairbolsonaro #LulaPresidente #Ragnarok', Twitter post,
     7 November 2022, 2:39 AM,
     https://twitter.com/SeJustica/status/1589432382700277762.
 
-[^31]: \@NetflixBrasil, 'Pensando muito nessa cena.', Twitter post, 3
+[^f06_31]: \@NetflixBrasil, 'Pensando muito nessa cena.', Twitter post, 3
     November 2022, 9:17 PM,
     https://twitter.com/i/status/1588264095580651520.
 
-[^32]: \@joaorzc, 'Desculpa chegar atrasado pro meme do patriota, gente.
+[^f06_32]: \@joaorzc, 'Desculpa chegar atrasado pro meme do patriota, gente.
     É que eu vim de trem. \"L\'Arrivée d\'un patriote en gare de La
     Ciotat\". Irmãos Lumière, 1985.', Twitter post, 9 November, 2022,
     9:22 AM, https://twitter.com/joaorzc/status/1590394436814413824.
 
-[^33]: \@NetflixBrasil, 'Pensando muito nessa cena.'.
+[^f06_33]: \@NetflixBrasil, 'Pensando muito nessa cena.'.
 
-[^34]: \@folha, 'Cena de 'patriota em caminhão' em memes', Twitter post,
+[^f06_34]: \@folha, 'Cena de 'patriota em caminhão' em memes', Twitter post,
     4 November 2022, 11:20PM,
     https://twitter.com/folha/status/1588657529210507265.
 
-[^35]: \@Drifez_original, 'E vamos de patriota do caminhão chegando a
+[^f06_35]: \@Drifez_original, 'E vamos de patriota do caminhão chegando a
     borda da terra plana', Twitter post, 6 November 2022, 11:12 AM,
     https://twitter.com/Drifez_original/status/1589199155347755013.
 
-[^36]: \@Mayhem_AQ3D, 'He passed by me too', Twitter post, 9 November
+[^f06_36]: \@Mayhem_AQ3D, 'He passed by me too', Twitter post, 9 November
     2022, 7:01PM,
     https://twitter.com/Mayhem_AQ3D/status/1590404137707270144.
 
-[^37]: Plinio Teodoro, 'Vídeo bolsonarista do caminhão vira cenário para
+[^f06_37]: Plinio Teodoro, 'Vídeo bolsonarista do caminhão vira cenário para
     Primavera Sound'. *Revista Fórum*, 6 November, 2022,
     https://revistaforum.com.br/cultura/2022/11/6/video-bolsonarista-do-caminho-vira-cenario-para-primavera-sound-126045.html.
 
-[^38]: José Luiz Braga, 'Dispositivos interacionais; Circuitos de
+[^f06_38]: José Luiz Braga, 'Dispositivos interacionais; Circuitos de
     Comunicação', in José Luiz Braga e R. Calazans (eds.) *Matrizes
     Interacionais: A Comunicação Constrói a Sociedade*, vol.2, Campina
     Grande: EDUEPB, 2017, pp. 15-64.
 
-[^39]: Viviane Borelli and Herivelton Regiani, 'Memetizing and
+[^f06_39]: Viviane Borelli and Herivelton Regiani, 'Memetizing and
     Mediatizing: Memes as an Evangelical Discursive Strategy'.
     *ESSACHESS - Journal for Communication Studies* 10 (2017): 9-31, and
 
@@ -1065,17 +1067,17 @@ October, 2023.
     *Critical Meme Reader 2: Memetic Tacticality*, Amsterdam: Institute
     of Network Cultures, 2022, pp. 52-75
 
-[^40]: Eliseo Verón, *Fragmentos de um tecido*, São Leopoldo: Unisinos,
+[^f06_40]: Eliseo Verón, *Fragmentos de um tecido*, São Leopoldo: Unisinos,
     2004, p.69.
 
-[^41]: Verón, *Fragmentos de um tecido*, p.69.
+[^f06_41]: Verón, *Fragmentos de um tecido*, p.69.
 
-[^42]: Shifman, *Memes in Digital Culture*, p.8.
+[^f06_42]: Shifman, *Memes in Digital Culture*, p.8.
 
-[^43]: Giselle Beiguelman, *Políticas da Imagem: Vigilância e
+[^f06_43]: Giselle Beiguelman, *Políticas da Imagem: Vigilância e
     Resistência na Dadosfera*. São Paulo: Ubu Editora, 2021.
 
-[^44]: Roman Horbyk, Isabel Löfgren, Cheryl Soriano, and Yana
+[^f06_44]: Roman Horbyk, Isabel Löfgren, Cheryl Soriano, and Yana
     Prymashenko, 'Fake News as Meta-mimesis:
 
     Imitative Genres and Storytelling in the Philippines, Brazil, Russia
@@ -1084,22 +1086,22 @@ October, 2023.
     *Journal of the Aesthetics of Kitsch, Camp and Mass Culture* 8.1
     (2021): 30-54.
 
-[^45]: Fernando Brito, 'Desova de Bolsonaro começa e já vai ao
+[^f06_45]: Fernando Brito, 'Desova de Bolsonaro começa e já vai ao
     ridículo', Tijolaço, 5 November 2022,
     https://tijolaco.net/desova-de-bolsonaro-comeca-e-ja-vai-ao-ridiculo/.
 
-[^46]: Milly Lacombe, 'O patriota do caminhão é a estética de um golpe
+[^f06_46]: Milly Lacombe, 'O patriota do caminhão é a estética de um golpe
     fracassado', *UOL*, 4 November 2022,
     UoLhttps://www.uol.com.br/esporte/colunas/milly-lacombe/2022/11/04/o-patriota-preso-ao-caminhao-e-a-estetica-de-um-golpe-fracassado.htm.
 
-[^47]: \@annaguirro, 'Mano!!! Esse meme só melhora!!! #ZambelliNaCadeia
+[^f06_47]: \@annaguirro, 'Mano!!! Esse meme só melhora!!! #ZambelliNaCadeia
     #PatriotaDoCaminhao', Twitter post, 5 November 2022, 3:11 AM,
     https://twitter.com/annaguirro/status/1588715480969535489
 
-[^48]: Carla Zambelli is a Federal Deputy from the PL (Liberal Party), a
+[^f06_48]: Carla Zambelli is a Federal Deputy from the PL (Liberal Party), a
     party allied with Jair Bolsonaro.
 
-[^49]: It\'s important to note that, like the Congresswoman who owns
+[^f06_49]: It\'s important to note that, like the Congresswoman who owns
     three registered firearms, thousands of people celebrated the
     deregulation of gun ownership during the Bolsonaro government. The
     so-called 'CACs' - an acronym for 'hunters, shooters, and
@@ -1112,15 +1114,15 @@ October, 2023.
     *G1*, 19 January 2023,
     https://g1.globo.com/politica/noticia/2023/01/19/governo-bolsonaro-liberou-em-media-619-novas-armas-por-dia-para-cacs-47percent-dos-registros-foram-em-2022.ghtml.
 
-[^50]: Even though Zambelli claims she had been initially pushed and
+[^f06_50]: Even though Zambelli claims she had been initially pushed and
     attacked by Lula's supporters, most of the video footage shows her
     running and carrying a pistol.
 
-[^51]: \@deyvidbacelar., 'Brasil, 2022. Golpistas sobre tela', Twitter
+[^f06_51]: \@deyvidbacelar., 'Brasil, 2022. Golpistas sobre tela', Twitter
     post, 5 November 2022, 1:21 AM,
     https://twitter.com/deyvidbacelar/status/1588687985758781440.
 
-[^52]: Viviane Borelli, Aline Dalmolin, M.Z. Feliciani, Herivelto
+[^f06_52]: Viviane Borelli, Aline Dalmolin, M.Z. Feliciani, Herivelto
     Regiani, 'O Riso como Resistência: Memes contra Bolsonaro no
     Contexto da Pandemia', A*nais do 44º Congresso brasileiro de
     ciências da comunicação - INTERCOM*, Recife, Brasil, October 2021,
