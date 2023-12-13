@@ -21,17 +21,16 @@ Rights: CC BY-NC 4.0
 
 ### Lou Caffagni[^1]
 
-*'*The \'collective imbecile\' is not, indeed, the mere sum of a certain
-number of individual imbeciles. It is, on the contrary, a collectivity
-of people of normal or even superior intelligence that come together,
-driven by a common desire to stupefy themselves and each other. Whether
-the desire is conscious, or unconscious is not important.*'*
+> *'The \'collective imbecile\' is not, indeed, the mere sum of a certain
+> number of individual imbeciles. It is, on the contrary, a collectivity
+> of people of normal or even superior intelligence that come together,
+> driven by a common desire to stupefy themselves and each other. Whether
+> the desire is conscious, or unconscious is not important.*' <br/>
+> -- Olavo de Carvalho[^2]
+> 
+> *'Olavo is right'* <br/>
+> -- Bolsonarist catchphrase
 
--- Olavo de Carvalho[^2]
-
-*'Olavo is right'*
-
--- Bolsonarist catchphrase
 
 Jair Bolsonaro was elected in 2018 and since then, he has been spreading
 conspiracy theories against the electoral system in Brazil thus
@@ -107,8 +106,7 @@ gay lifestyle as part of what the alt-right called 'gender ideology'.
 What was the star attraction of this fictional pedagogical kit'? A
 phallic-shaped baby bottle they named the 'cock bottle'.
 
-![](media/image1.png){width="5.145833333333333in"
-height="3.1041666666666665in"}
+![](media/image1.png)
 
 Figure 1: Still image from a social media video showing a prototype of
 the phallic feeding bottle. Source: Facebook. Iconografia da História

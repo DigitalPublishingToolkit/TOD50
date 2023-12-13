@@ -16,12 +16,16 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+#The Planalto Riots
+## Making and Unmaking a Failed Coup in Brazil
+
+<div style="page-break-after: always"></div>
+
 
 # Colophon 
 
-**INC Theory on Demand #51**
-
-The Planalto Riots. Making and Unmaking a Failed Coup in Brazil\'s
+**INC Theory on Demand #51** <br/>
+The Planalto Riots. Making and Unmaking a Failed Coup in Brazil's
 
 **Edited by:** Lou Caffagni, Isabel Löfgren, Paola Sartoretto, and
 Gizele Martins
@@ -36,36 +40,28 @@ Svanelid.
 **Artistic contributions by:** Tatiana Letier Pinto, Isabel Löfgren,
 Laercio Redondo, and Gustavo Speridião & Leandro Barboza/Faixa Protesta.
 
-**Cover design:** Katja van Stiphout
-
+**Cover design:** Katja van Stiphout <br/>
 **Design and EPUB development:** Giulia Timis and Erica Gargaglione
+
+<br/>
 
 Published by the Institute of Network Cultures, Amsterdam 2024.
 
 ISBN: xxxx
 
-**Contact:** Institute of Network Cultures
-
+**Contact:** Institute of Network Cultures <br/>
 Amsterdam University of Applied Sciences (HvA)
 
-**Email:** info@networkcultures.org
+**Email:** info@networkcultures.org <br/>
+**Web:** [www.networkcultures.org](www.networkcultures.org)
 
-**Web:** www.networkcultures.org
-
-Order a copy or download this publication for free at:
-
+Order a copy or download this publication for free at: <br/>
 www.networkcultures.org/publications
 
-Subscribe to the INC newsletters:
-
-www.networkcultures.org/newsletter
-
-www.networkcultures.org/viralimageculture
+Subscribe to the INC newsletters: <br/>
+[www.networkcultures.org/newsletter](www.networkcultures.org/newsletter) <br/>
+[www.networkcultures.org/viralimageculture](www.networkcultures.org/viralimageculture)
 
 This publication is licensed under the Creative Commons Attribution
-NonCommeri-
-
-cal ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this
-license, visit
-
-www.creativecommons.org/licences/by-nc-sa/4.0./.
+NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit
+[www.creativecommons.org/licences/by-nc-sa/4.0./](www.creativecommons.org/licences/by-nc-sa/4.0./).

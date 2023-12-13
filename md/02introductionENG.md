@@ -26,7 +26,7 @@ book arose in June 2022, months before the event we discuss in this
 collection actually materialized. At that moment, the violent and
 nefarious attack on the United States Capitol in January 2021 was still
 unsettled. Also, the similarities and connections between the extreme
-right\'s coordinated efforts in the United States and Brazil led us to
+right's coordinated efforts in the United States and Brazil led us to
 believe that if Jair Bolsonaro lost the 2022 presidential elections, the
 transition of power would not be peaceful.
 
@@ -37,12 +37,12 @@ for nearly a decade. In the years following the so-called 'Journeys of
 June' 2013 student protests against an increase in public transportation
 fares, public demonstrations regarding political dissatisfaction were
 gradually taken over by extreme right-wing groups and their agendas.
-Since then, several figures from the extreme right\'s political
+Since then, several figures from the extreme right's political
 underground have been elevated to the status of political celebrities,
-supported by a well-coordinated digital communication structure.[^1] One
+supported by a well-coordinated digital communication structure.[^introEng_1] One
 of these figures was Jair Messias Bolsonaro, a rather obscure federal
 deputy from the state of Rio de Janeiro and a former military
-officer,[^2] known for his controversial views on human rights,
+officer,[^introEng_2] known for his controversial views on human rights,
 democracy, and gender and race equality, to name only a few. Bolsonaro
 went from being a caricatural political figure who was a frequent guest
 on comedy and talk shows on television to becoming a presidential
@@ -53,15 +53,15 @@ through what is now commonly referred to as a parliamentary coup
 orchestrated by the Federal Congress with the collaboration of then-Vice
 President Michel Temer, who impeached leftist President Dilma Rousseff
 (2012-2016) on fiscal administrative misconduct charges. In parallel
-with the investigation into irregularities in Dilma Rousseff\'s
-government finances (\'CPI das Pedaladas Fiscais\'), the Federal Police
-conducted \'Operation Carwash'\' ('Operação Lava Jato'), whose
+with the investigation into irregularities in Dilma Rousseff's
+government finances ('CPI das Pedaladas Fiscais'), the Federal Police
+conducted 'Operation Carwash'' ('Operação Lava Jato'), whose
 proceedings uncovered a massive corruption scheme in the Brazilian
 federal government, particularly in state-owned companies. As a result
-of \'Lava Jato', former President Luiz Inácio Lula da Silva[^3] was
+of 'Lava Jato', former President Luiz Inácio Lula da Silva[^introEng_3] was
 sentenced to prison in 2018. Coincidentally, when Lula da Silva was
 imprisoned, he was leading the opinion polls for the upcoming
-presidential election. After Lula\'s imprisonment, the Worker's Party
+presidential election. After Lula's imprisonment, the Worker's Party
 (PT) failed to promote Fernando Haddad (a former mayor of São Paulo,
 Brazil's largest city, and former Minister of Education under Lula da
 Silva's previous governments) as an alternative to Jair Bolsonaro, who
@@ -77,26 +77,26 @@ commentators have argued that Bolsonaro governed for four years
 small but significant group of staunch supporters who would be able to
 expand support during election periods. However, the Bolsonaro
 administration's irresponsible handling of the COVID-19 pandemic between
-2020 and 2022 had a negative impact on Bolsonaro\'s approval ratings.
+2020 and 2022 had a negative impact on Bolsonaro's approval ratings.
 Even with a decline in approval during the pandemic and many other
 questionable actions by the then-president and his associates (including
-his four sons, three of which are elected officials), Lula da Silva\'s
+his four sons, three of which are elected officials), Lula da Silva's
 victory in the 2022 general election was not easy. He won in the second
 round with just over 51 percent of all valid votes.
 
 In a political landscape of crisis and inequality where a few private
 media conglomerates concentrate all media power in the country and where
 legislation does not keep pace with the rapid development of digital
-media,[^4] the direct and simple communication style of the extreme
+media,[^introEng_4] the direct and simple communication style of the extreme
 right in Brazil (and around the world) gained enormous strength. In
 contrast, social movements in Brazil have a long tradition of grassroots
 popular mobilization, also in forming political parties during and after
 the re-democratization process in the late 1980s. It has been argued
 that in the 2022 general elections, this mobilization capacity was able
-to reestablish the weakened connection of the Workers\' Party with its
+to reestablish the weakened connection of the Workers' Party with its
 popular base. In addition, an alignment of the leftists with some
 democratic elements of the center and center-right is believed to have
-ensured Lula da Silva\'s narrow victory.
+ensured Lula da Silva's narrow victory.
 
 However, in an era of post-truth, disinformation, and fake news, it
 cannot be expected that the results of such turbulent elections would be
@@ -114,13 +114,13 @@ conference on media and governance in Latin America during a hot Swedish
 summer in 2022 as the COVID-19 pandemic was subsiding. In conversations
 about future collaborations and concerned about the upcoming general
 elections in Brazil, one of us mentioned the book *The Capitol Riots:
-Digital Media, Disinformation, and Democracy Under Attack* (2022)[^5]
-which discusses the 2021 attack on the US Congress.[^6] We decided, with
+Digital Media, Disinformation, and Democracy Under Attack* (2022)[^introEng_5]
+which discusses the 2021 attack on the US Congress.[^introEng_6] We decided, with
 equal parts seriousness and sarcasm, to start a similar book as quickly
 as possible, so that it would be ready if and when similar events
 occurred in Brazil.
 
-Brazil\'s insertion into the global wave of threats to the
+Brazil's insertion into the global wave of threats to the
 civilizational pact of democracy that culminated in the attack on a
 peaceful transition of power that respects the results of democratic
 elections deserves a sober discussion of this troubled period. The book
@@ -159,7 +159,7 @@ compared to the June 2013 protests mentioned earlier, more than twice as
 many protesters occupied Brasilia. In addition, they were not prevented
 by police from entering public buildings. At the time, several
 commentators and the press considered the possibility of complicity by
-city authorities opposed to the new government.[^7] Nonetheless, Lula da
+city authorities opposed to the new government.[^introEng_7] Nonetheless, Lula da
 Silva, who was not in Brasilia during the riots, acted quickly and a
 government intervention detained many participants in the act.
 
@@ -180,9 +180,9 @@ connectivity, speed, and often extremism that brings with it a certain
 detachment from material reality. The dynamics of digital communication
 platforms in late capitalism contribute to the aggregation of extremism
 while actors with significant economic power support and facilitate
-mobilizations like those in Washington in 2021 and Brasilia in 2023.[^8]
+mobilizations like those in Washington in 2021 and Brasilia in 2023.[^introEng_8]
 Communication as a form of social interaction and construction of
-meaning can be understood as a fundamental aspect of extremists\' agency
+meaning can be understood as a fundamental aspect of extremists' agency
 that aim to contradict and threaten important civilizational milestones
 such as respect for the results of democratic elections.
 
@@ -214,7 +214,7 @@ however, each approach is unique. Lastly, some articles in the book are
 written in Portuguese and others in English. In this way, the reader of
 texts in Portuguese will read a different book than the reader of texts
 in English and vice-versa. We have included summaries of all articles in
-both languages ​​at the end of the book to satisfy readers\' curiosity
+both languages ​​at the end of the book to satisfy readers' curiosity
 about its contents.
 
 We begin by discussing the mobilization and circulation of meanings in
@@ -223,7 +223,7 @@ Practices Before the Storm,* Lou Caffagni identifies and discusses the
 traces of paranoia in the production and circulation of memes and fake
 news using philosophical concepts of rhetorics and simulacra. Viviane
 Borelli and Isabel Löfgren discuss the intersection of humor and
-politics using the emblematic case of the \'Truck Patriot\' meme, an
+politics using the emblematic case of the 'Truck Patriot' meme, an
 anti-Bolsonaro internet phenomenon that challenged the extreme right
 dominance on social media on one hand but fueled more hatred from
 *Bolsonarists* on the other. Isabel Löfgren created a visual essay based
@@ -241,10 +241,10 @@ auto-ethnographic account of his experience as a television spectator of
 a coup attempt that had barbaric and bizarre elements. Camila Hartmann,
 Ada C. Machado Silveira, and Gabriela Schneider identify and discuss the
 contradictions between the festive and optimistic sentiment that
-dominated Lula da Silva\'s inauguration on January 1 and the threat to
+dominated Lula da Silva's inauguration on January 1 and the threat to
 the democratic pact that was loud and clear a week later through the
 lens of mediatized warfare. Gizele Martins reminds us that the extreme
-right\'s coup plot that came to the fore in 2023 had been present and
+right's coup plot that came to the fore in 2023 had been present and
 active in Brazil for at least ten years when seen from the perspective
 of popular struggles and the militarization of conflicts in Rio de
 Janeiro's *favelas* that could serve as a blueprint for potential
@@ -263,12 +263,12 @@ expressions during the dictatorship of the 1960s and 70s, up to the
 attacks on the artworks inside the government buildings during the
 attempted coup. Next, Oscar Svanelid gives voice to vandalized objects
 and artworks during the Planalto riots to discuss the relationship
-between art, design, history, and politics in Brazil. Laercio Redondo\'s
+between art, design, history, and politics in Brazil. Laercio Redondo's
 artistic contributions raises questions about the impact and
 consequences of utopian ideologies related to the construction of
 Brasilia in the late 1950s. In a letter to Oscar Niemeyer, the architect
 who designed Brasilia, Tatiana Letier Pinto locates the city's
-architecture in Brazil\'s political history.
+architecture in Brazil's political history.
 
 In the fourth and final part *The Image and the Other,* the texts
 address a traumatic aspect of Brazilian identity concerning our
@@ -279,7 +279,7 @@ the polarization of narratives about the events of 8 January 8th in an
 analogy with the game of chess and how front page images in newspapers
 frame different narratives connected to the failed coup. Bartira S.
 Fortes highlights the paradox between Indigenous visibility at Lula da
-Silva\'s inauguration on 1 January and the negation and silencing of
+Silva's inauguration on 1 January and the negation and silencing of
 diversity in the events of 8 January. In a similar vein, Ana Paula da
 Rosa discusses another contemporary paradox: the narcissistic
 omnipresence of images of the coup participants on social media during
@@ -294,7 +294,7 @@ Canavarro Martins, Marcela. *Political Mobilization in Brazil from 2013
 to 2017: A Technopolitical Analysis Using Surveys and Social Network
 Data Mining*, PhD diss., Faculty of Engineering, University of Porto,
 Porto/Portugal, 2019,
-https://repositorio-aberto.up.pt/handle/10216/122246.
+<https://repositorio-aberto.up.pt/handle/10216/122246>.
 
 da Empoli, Giuliano. *Os Engenheiros Do Caos*, Vestígio Editora, 2019.
 
@@ -302,24 +302,24 @@ Jeppesen, Sandra, Hoechsmann, Michael, Hezel Ulthiin, Iowyth, Vandyke,
 David, and McKee, Miranda. *The Capitol Riots: Digital Media,
 Disinformation, and Democracy Under Attack*, Routledge, 2022.
 
-Peruzzo, Cecilia M. Krohling. \'Comunicação Comunitária E Educação Para
-a Cidadania\', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
-https://doi.org/10.17231/comsoc.2(2000).1427.
+Peruzzo, Cecilia M. Krohling. 'Comunicação Comunitária E Educação Para
+a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
+<https://doi.org/10.17231/comsoc.2(2000).1427>.
 
-Ricardo, Carolina. \'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.\' *openDemocracy*, 10 October, 2023,
-https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/.
+Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
+Brasil.' *openDemocracy*, 10 October, 2023,
+<https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
 Break America*, New York: Random House, 2019.
 
-[^1]: Marcela Canavarro Martins, *Political Mobilization in Brazil from
+[^introEng_1]: Marcela Canavarro Martins, *Political Mobilization in Brazil from
     2013 to 2017: A Technopolitical Analysis Using Surveys and Social
     Network Data Mining*, PhD diss., Faculty of Engineering, University
     of Porto, Porto/Portugal, 2019,
-    https://repositorio-aberto.up.pt/handle/10216/122246.
+    <https://repositorio-aberto.up.pt/handle/10216/122246>.
 
-[^2]: Bolsonaro was ousted from the military in the early 1980s after
+[^introEng_2]: Bolsonaro was ousted from the military in the early 1980s after
     attempting to stage an internal coup against the military command,
     in a failed plan involving bomb attacks on army barracks, as part of
     a faction in the military that was dissatisfied with the process of
@@ -330,25 +330,24 @@ Break America*, New York: Random House, 2019.
     force that through the years formed a parallel political power
     called the 'milícias'.
 
-[^3]: Lula da Silva has previously served two presidential mandates from
-    2003 to 2011.
+[^introEng_3]: Lula da Silva has previously served two presidential mandates from 2003 to 2011.
 
-[^4]: Cecilia M. Krohling Peruzzo, \'Comunicação Comunitária E Educação
-    Para a Cidadania,\' *Comunicação e Sociedade* 2 (August 29, 2000):
+[^introEng_4]: Cecilia M. Krohling Peruzzo, 'Comunicação Comunitária E Educação
+    Para a Cidadania,' *Comunicação e Sociedade* 2 (August 29, 2000):
     651--68.
 
-[^5]: Sandra Jeppesen Michael Hoechsmann, Miranda McKee, iowyth hezel
+[^introEng_5]: Sandra Jeppesen Michael Hoechsmann, Miranda McKee, iowyth hezel
     ulthiin and David Van Dyke, *The Capitol Riots: Digital Media,
     Disinformation, and Democracy Under Attack*, New York: Routledge,
     2022.
 
-[^6]:
+[^introEng_6]:
 
-[^7]: Carolina Ricardo, \'A Democracia Não Pode Ser Considerada
-    Garantida No Brasil,\' *openDemocracy*, 10 October 2023,
-    https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/.
+[^introEng_7]: Carolina Ricardo, 'A Democracia Não Pode Ser Considerada
+    Garantida No Brasil,' *openDemocracy*, 10 October 2023,
+    <https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
-[^8]: See Giuliano da Empoli, *Os Engenheiros Do Caos*, Vestígio
+[^introEng_8]: See Giuliano da Empoli, *Os Engenheiros Do Caos*, Vestígio
     Editora, 2019, and Christopher Wylie, *Mindf\*ck: Cambridge
     Analytica and the Plot to Break America*, New York: Random House,
     2019.

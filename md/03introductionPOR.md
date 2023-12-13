@@ -33,7 +33,7 @@ seria pacífica.
 
 Nos anos que sucederam as chamadas Jornadas de Junho de 2013, protestos
 inicialmente contra o aumento das tarifas de transporte público que
-foram tomados por grupos e agendas de extrema direita,[^1] vários
+foram tomados por grupos e agendas de extrema direita,'[^introPor_1] vários
 personagens do submundo ultra-conservador foram alçados à categoria de
 celebridade política apoiados numa afinada estrutura de comunicação
 digital. Uma dessas personagens era o ex-militar e deputado federal,
@@ -78,7 +78,7 @@ mais de 51 por cento dos votos válidos.
 
 Em um cenário político de crise e desigualdade somado à problemática
 estrutura midiática do Brasil, na qual poucas empresas concentram o
-poder de comunicar,[^2] à desregulamentação da legislação, que não
+poder de comunicar,'[^introPor_2] à desregulamentação da legislação, que não
 acompanha a velocidade do desenvolvimento das mídias digitais, o estilo
 de comunicação direto e simples da extrema-direita no Brasil e no mundo
 ganha força. Em contrapartida, os movimentos sociais no Brasil têm uma
@@ -105,7 +105,7 @@ Sartoretto, Isabel Löfgren e Lou Caffagni, para um seminário de
 cooperação internacional. Em uma das reuniões, discutindo sobre
 colaboração para futuras pesquisas e já preocupados com as eleições
 presidenciais, falamos sobre o livro *The Capitol Riots: Digital Media,
-Disinformation, and Democracy Under Attack,*[^3] que discute exatamente
+Disinformation, and Democracy Under Attack,*'[^introPor_3] que discute exatamente
 o ataque ao congresso estadunidense. A nossa decisão naquele dia, com
 doses iguais de seriedade e sarcasmo, foi começar a fazer um livro, no
 mesmo modelo, o mais rápido possível para que estivesse pronto quando
@@ -146,7 +146,7 @@ esteticamente significativas. Comparando com as jornadas de junho de
 2013, quando mais do que o dobro de manifestantes ocuparam Brasília e
 foram impedidos pela polícia de entrar nos prédios públicos, a hipótese
 de omissão da polícia do Distrito Federal foi considerada por
-comentaristas e imprensa.[^4]
+comentaristas e imprensa.'[^introPor_4]
 
 \*\*\*
 
@@ -166,7 +166,7 @@ um certo descolamento da realidade material. A dinâmica das plataformas
 digitais de comunicação no capitalismo tardio contribui para que
 extremismos se aglutinem ao mesmo tempo que atores com grande poder
 econômico apoiam e facilitam mobilizações como as que aconteceram em
-Washington em 2021 e em Brasília em 2023.[^5] A comunicação como forma
+Washington em 2021 e em Brasília em 2023.'[^introPor_5] A comunicação como forma
 de interação social e construção de sentido pode ser entendida como
 condição de possibilidade dos extremismos que vêm à superfície como
 performances que contrariam e ameaçam marcos civilizatórios importantes
@@ -277,36 +277,36 @@ Jeppesen, Sandra, Hoechsmann, Michael, Hezel Ulthiin, Iowyth, Vandyke,
 David, and McKee, Miranda. *The Capitol Riots: Digital Media,
 Disinformation, and Democracy Under Attack*, Routledge, 2022.
 
-Peruzzo, Cecilia M. Krohling. \'Comunicação Comunitária E Educação Para
-a Cidadania\', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
+Peruzzo, Cecilia M. Krohling. 'Comunicação Comunitária E Educação Para
+a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
 https://doi.org/10.17231/comsoc.2(2000).1427.
 
-Ricardo, Carolina. \'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.\' *openDemocracy*, 10 October, 2023,
+Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
+Brasil.' *openDemocracy*, 10 October, 2023,
 https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
 Break America*, New York: Random House, 2019.
 
-[^1]: Marcela Canavarro Martins, *Political Mobilization in Brazil from
+'[^introPor_1]: Marcela Canavarro Martins, *Political Mobilization in Brazil from
     2013 to 2017: A Technopolitical Analysis Using Surveys and Social
     Network Data Mining*, PhD diss., Faculty of Engineering, University
     of Porto, Porto/Portugal, 2019,
     https://repositorio-aberto.up.pt/handle/10216/122246.
 
-[^2]: Cecilia M. Krohling Peruzzo, \'Comunicação Comunitária E Educação
-    Para a Cidadania,\' *Comunicação e Sociedade* 2 (August 29, 2000):
+'[^introPor_2]: Cecilia M. Krohling Peruzzo, 'Comunicação Comunitária E Educação
+    Para a Cidadania,' *Comunicação e Sociedade* 2 (August 29, 2000):
     651--68.
 
-[^3]: Sandra Jeppesen Michael Hoechsmann, Miranda McKee, iowyth hezel
+'[^introPor_3]: Sandra Jeppesen Michael Hoechsmann, Miranda McKee, iowyth hezel
     ulthiin and David Van Dyke, *The Capitol Riots: Digital Media,
     Disinformation, and Democracy Under Attack*, New York: Routledge,
     2022.
 
-[^4]: Carolina Ricardo, \'A Democracia Não Pode Ser Considerada
-    Garantida No Brasil,\' *openDemocracy*, 10 October 2023,
+'[^introPor_4]: Carolina Ricardo, 'A Democracia Não Pode Ser Considerada
+    Garantida No Brasil,' *openDemocracy*, 10 October 2023,
     https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/.
 
-[^5]: Ver Giuliano da Empoli, *Os Engenheiros Do Caos*, Vestígio
+'[^introPor_5]: Ver Giuliano da Empoli, *Os Engenheiros Do Caos*, Vestígio
     Editora, 2019, e Christopher Wylie, *Mindf\*ck: Cambridge Analytica
     and the Plot to Break America*, New York: Random House, 2019.
