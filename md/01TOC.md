@@ -49,52 +49,52 @@ Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins
 
 ## The Attempted Coup/A tentativa de golpe
 
-1.  **Experience and Barbarism in Brasilia: a Savage Journey to
+5.  **Experience and Barbarism in Brasilia: a Savage Journey to
     > Understand the Heart of Brazilian Conservative Rioters**\
     > Eduardo Ruedell
 
-2.  **Brasília, 8 de janeiro de 2023: a festa acabou! A guerra (ainda)
+6.  **Brasília, 8 de janeiro de 2023: a festa acabou! A guerra (ainda)
     > não**\
     > Camila Hartmann, Ada C. Machado Silveira e Gabriela Schneider
 
-3.  **Governos autoritários na democracia brasileira: atos golpistas da
+7.  **Governos autoritários na democracia brasileira: atos golpistas da
     > extrema-direita não começaram hoje**\
     > Gizele Martins
 
-4.  **Against the Ultra-Right Coup-Mongers, Organize Self-Defense/Contra
+8.  **Against the Ultra-Right Coup-Mongers, Organize Self-Defense/Contra
     > a direita golpista, organizar a auto-defesa**\
     > Gustavo Speridião and Leandro Barboza/Faixa Protesta
 
 ## Art and architecture: Brasília / Arte e arquitetura: Brasília
 
-1.  **A arte e o instante político**\
+9.  **A arte e o instante político**\
     > Alecsandra Matias de Oliveira
 
-2.  **The Stories of the Victims: The Planalto Riots from the
+10. **The Stories of the Victims: The Planalto Riots from the
     > Perspective of Terrorized Art**\
     > Oscar Svanelid
 
-3.  **Memory from Brasilia/Lembrança de Brasília**
+11. **Memory from Brasilia/Lembrança de Brasília**
 
 > Laercio Redondo
 
-1.  **Death of the Author/ Morte do Autor**\
+12. **Death of the Author/ Morte do Autor**\
     > Laercio Redondo
 
-2.  **Carta a Oscar Niemeyer**\
+13. **Carta a Oscar Niemeyer**\
     > *Tatiana Letier Pinto*
 
 ## The Image and the Other/A imagem e o outro
 
-1.  **8J**\
+14. **8J**\
     > Clementino Jesus Junior
 
-2.  **Indigenizing Democracy: Never Again a Brazil Without Us**
+15. **Indigenizing Democracy: Never Again a Brazil Without Us**
 
 > Bartira Fortes
 
-1.  **Enquanto Narciso Invade o Congresso brasileiro, Yanomamis
-    > desaparecem nas águas **
+16. **Enquanto Narciso Invade o Congresso brasileiro, Yanomamis
+    > desaparecem nas águas**
 
 > Ana Paula da Rosa
 

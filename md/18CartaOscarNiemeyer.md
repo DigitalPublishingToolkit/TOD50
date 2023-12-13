@@ -65,23 +65,23 @@ A destruição no Sistema Tribunal Federal (STF) foi ainda mais voraz.
 Robustas esculturas em cobre dos grandes nomes da constituição do país
 como Barão do Rio Branco, Rui Barbosa, além de outros 8, não
 surpreendente todas figuras masculinas, foram atiradas violentamente ao
-chão de mármore do Hall dos Bustos na entrada do edifício. 'A Justiça',
-a escultura em metal dourado do artista Alfredo Ceschiatti que adorna a
-antiga porta de entrada ao plenário também rolou pelo chão, porém nas
-pedras portuguesas da praça. Os móveis projetados pelo também arquiteto
-e projetista de mobiliário Jorge Zalszupin, a seu pedido especificamente
-para a Tribuna, foram arrancados e jogados a esmo tanto dentro da
-Tribuna mesma, como na praça em frente. O Brasão da República sobre o
-painel de mármore do Athos Bulcão como a peça central na geometria
-simétrica da Tribuna também foi deslocado acaso para a praça. O Brasão
-da República!!! E assim eu poderia continuar por mais tantas páginas o
-relato desse horror: o Salão Nobre com peças mobiliário do século XIX
-destruídas, vasos chineses estilhaçados, o tapete amarelo da Tribuna
-queimado, pinturas rasgadas, pichações, o crucifixo de ouro também de
-Alfredo Ceschiatti removido, a cópia da Constituição 1988 desaparecida,
-equipamentos de informática danificados com grampeadores, documentos
-queimados e molhados... são tantas repugnâncias que me dói muito
-relembrá-las.
+chão de mármore do Hall dos Bustos na entrada do edifício. \'A
+Justiça\', a escultura em metal dourado do artista Alfredo Ceschiatti
+que adorna a antiga porta de entrada ao plenário também rolou pelo chão,
+porém nas pedras portuguesas da praça. Os móveis projetados pelo também
+arquiteto e projetista de mobiliário Jorge Zalszupin, a seu pedido
+especificamente para a Tribuna, foram arrancados e jogados a esmo tanto
+dentro da Tribuna mesma, como na praça em frente. O Brasão da República
+sobre o painel de mármore do Athos Bulcão como a peça central na
+geometria simétrica da Tribuna também foi deslocado acaso para a praça.
+O Brasão da República!!! E assim eu poderia continuar por mais tantas
+páginas o relato desse horror: o Salão Nobre com peças mobiliário do
+século XIX destruídas, vasos chineses estilhaçados, o tapete amarelo da
+Tribuna queimado, pinturas rasgadas, pichações, o crucifixo de ouro
+também de Alfredo Ceschiatti removido, a cópia da Constituição 1988
+desaparecida, equipamentos de informática danificados com grampeadores,
+documentos queimados e molhados\... são tantas repugnâncias que me dói
+muito relembrá-las.
 
 No Palácio do Planalto, eles subiram a rampa que, na semana anterior, no
 dia 1 de janeiro de 2023, tinha sido o palco mais emocionante da posse
@@ -93,19 +93,19 @@ uma fúria por destruição e depredação. Um ato, talvez de rebeldia, que
 mais exprime uma covardia de uma parcela ressentida da população
 brasileira. O evento criou uma instabilidade política e uma atmosfera
 propícia para um golpe de estado. Os participantes dos ataques ao nosso
-patrimônio público se auto proclamavam ‘o povo brasileiro’ lutando por
-‘liberdade’. Eles gritavam e diziam: ‘vamos libertar o Brasil e buscar
+patrimônio público se auto proclamavam 'o povo brasileiro' lutando por
+'liberdade'. Eles gritavam e diziam: 'vamos libertar o Brasil e buscar
 nossa liberdade, dia 8 de Janeiro entramos no Palácio, nós vencemos, o
 bem vence o mal, estamos aqui no Congresso, a casa do povo, do povo
 brasileiro, o Brasil é dos brasileiros, o povo pegou de volta a casa que
-é dele, essa casa é nossa, do povo de Deus.’ Essas frases adicionavam um
+é dele, essa casa é nossa, do povo de Deus.' Essas frases adicionavam um
 lado quase cômico á violência desenfreada. Assistindo aquelas cenas
 grotescas e repletas de significados, orquestradas como uma sinfonia do
 caos, eu fiquei bastante confusa. Por isso decidi lhe escrever.
 
 Refleti muito sobre a nossa história como país para tentar entender
 como, em 2023, alguém defecou numa sala do Congresso Nacional em nome da
-‘liberdade do povo’. Isso de fato aconteceu, e não vou te poupar de
+'liberdade do povo'. Isso de fato aconteceu, e não vou te poupar de
 nenhum detalhe sórdido. Milhões de perguntas flutuam na minha cabeça.
 Quem são essas pessoas que se intitulam povo? De que liberdade eles
 estão falando? Por que destroem os símbolos da nossa identidade e
@@ -166,7 +166,7 @@ refletir e questionar como chegamos até aqui. Porém, esse flashback não
 pode ater-se somente aos últimos anos. Seria até natural nos refrear nos
 últimos 10 anos quando gradis foram instalados na Praça dos 3 Poderes
 para conter as manifestações populares iniciadas pela reinvindicação do
-‘Passe Livre’ no transporte público.[^2] Adiante, esses protestos de
+'Passe Livre' no transporte público.[^2] Adiante, esses protestos de
 Junho de 2013[^3] foram desvirtuados, desencadeando a ascensão da
 extrema direita na esfera política brasileira, além de outras distorções
 políticas como o injusto impeachment da presidente eleita Dilma
@@ -195,15 +195,15 @@ projeto, uma cidade. No dia 1º de outubro de 1957 a lei que fixava a
 data da transferência da capital do Rio de Janeiro para Brasília foi
 sancionada e, nessa ocasião o presidente proferiu as palavras que hoje
 ornamentam as paredes do *Salão Negro* do Congresso Nacional.[^7]
-Nestas, ele descreve a empreitada como ‘o passo mais viril, mais
+Nestas, ele descreve a empreitada como 'o passo mais viril, mais
 enérgico que a nação dá, com a extraordinária tarefa de povoar e
-civilizar as terras que conquistou’. Essas palavras de JK proclamadas em
+civilizar as terras que conquistou'. Essas palavras de JK proclamadas em
 1957 não se diferem muito no cerne das ideias escritas por Pero Vaz
 Caminha na sua carta de 1º de maio de 1500 ao Rei de Portugal D. Manuel
 I, na qual ele relata o encontro dos europeus com os originários dessa
 terra na ocasião da chegada das naus portuguesas na costa brasileira. No
 fim do seu relato, Pero Vaz Caminha conclama ao Rei de vir para essas
-terras para civiliza-las e ‘salvar esta gente’.
+terras para civiliza-las e 'salvar esta gente'.
 
 Eu gosto muito de cartas: escrever cartas, receber cartas, ler cartas
 alheias, esse
@@ -221,9 +221,9 @@ daquele servidor escrivão português ao seu Rei. Eu não esperava nada
 muito diferente do que li, dentro das compensações históricas e fazendo
 um julgamento posteriori, eu achei um texto de um curioso e, até um
 certo ponto, respeitoso, até chegar na parte final, onde ele conclui com
-o pedido ao Rei para ‘salvar essa gente’. Eu fico bem impressionada e
-furiosa com a audácia do uso do termo 'salvar'. Salvar? De que? De quem?
-E por que? O maior perigo e ameaça era ele, o autor com o seu Rei.
+o pedido ao Rei para 'salvar essa gente'. Eu fico bem impressionada e
+furiosa com a audácia do uso do termo \'salvar\'. Salvar? De que? De
+quem? E por que? O maior perigo e ameaça era ele, o autor com o seu Rei.
 
 Passados os três anos de construção da capital, Brasília é inaugurada no
 dia 21 de abril de 1960, exatamente como previsto na lei sancionada em
@@ -249,18 +249,18 @@ exploratórias comissionadas ao astrônomo belga Luís Cruls, logo após o
 projeto de transferência da capital do Rio de Janeiro para o interior do
 Brasil ser inserido na constituição em 1891. Essas expedições ficaram
 conhecidas como Missão Cruls. Além de concluir com um detalhado
-relatório da fauna, flora e dos cursos d’água, as expedições resultaram
+relatório da fauna, flora e dos cursos d'água, as expedições resultaram
 na demarcação do Quadrilátero Cruls, uma área retangular de 14.440 km^2^
 dentro da qual a nova capital deveria ser construída. Estou curiosa para
 ler minuciosamente os documentos da expedição, queria ler junto com o
 relato que lhe pedi, se é que você um dia vai me enviar, assim podemos
-continuar a nossa conversa sobre esse suposto ‘deserto’ onde Brasília
+continuar a nossa conversa sobre esse suposto 'deserto' onde Brasília
 foi instaurada.
 
 A Missão Cruls não foi a única excursão de interiorização no Brasil, o
 então presidente em 1943, Getúlio Vargas persistiu com o intuito de
 explorar o entro-terra e crescer o país nessa direção, iniciando o
-projeto 'A Marcha para o Oeste'[^8]. Detalhes da primeira expedição da
+projeto \'A Marcha para o Oeste\'[^8]. Detalhes da primeira expedição da
 Marcha está no relato compartilhado pelos irmãos Villas Bôas, que
 lideraram parte dessa expedição. Eles relatam no diário que foi
 posteriormente prublicado que a área era muito abundosa de animais,
@@ -268,10 +268,10 @@ vegetação e principalmente profusa na diversidade de etnias indígenas.
 Suponho que você deve ter acompanhado alguma notícia em direto pelo
 popular Repórter Esso[^9] que, em rede nacional relatava os avanços
 dessa mais recente empreitada ao centro do país. A Marcha usa a mesma
-retórica colonial: para implementar ‘progresso e civilização’. No
+retórica colonial: para implementar 'progresso e civilização'. No
 entanto, os encontros com a vasta biodiversidade e principalmente com os
-indígenas naquele território demonstraram a necessidade real de ‘salvar
-essa gente’ dessas excursões exploratórias, dos extermínios que elas
+indígenas naquele território demonstraram a necessidade real de 'salvar
+essa gente' dessas excursões exploratórias, dos extermínios que elas
 provocam, da violência que elas impõe com o apagamento, opressão e
 silenciamento de um povo, uma cultura. Além da criação de estradas e
 novas cidades, a expedição culminou na primeira grande demarcação de
@@ -287,7 +287,7 @@ Brasília, ainda se vangloriando do seu feito moderno, e então o seu
 opositor Jânio Quadros tomou posse como o 22º presidente do Brasil.
 Brasília e Xingu são projetos políticos diversos, são duas propostas de
 país opostos, são duas ideias diferentes de quem é o povo brasileiro, e
-principalmente são duas maneiras de ‘salvar essa gente’, de inclui-las
+principalmente são duas maneiras de 'salvar essa gente', de inclui-las
 ou não esse povo brasileiro na construção do país. Isto posto, acho
 difícil não associar a sua arquitetura a uma política destrutiva,
 opressora, excludente e não democrática.
@@ -314,7 +314,7 @@ história de luta e resistência e salvaguarda da biodiversidade do
 Cerrado. Além dos povos originários na região, seria provável que
 tivessem também quilombolas naquele território. São esses os
 silenciamento e apagamentos ao que me refiro quando lhe questiono a
-violência de Brasília. Chamar de ‘deserto’ para depois dizimar é uma
+violência de Brasília. Chamar de 'deserto' para depois dizimar é uma
 tática dupla de genocídio e etnocídio, primeiro subjugando
 metaforicamente para depois exterminar efetivamente.
 
@@ -373,11 +373,11 @@ Quem e o que circulava nos espaços de Brasília estava dando continuidade
 a um projeto de país moderno semeado na concepção da capital. Tem uma
 passagem do livro *A Peste* de Albert Camus que diz assim:
 
-‘o bacilo da peste nunca morre ou desaparece de vez – este pode
+'o bacilo da peste nunca morre ou desaparece de vez -- este pode
 permanecer adormecido por anos e anos em móveis e baús á espera em
-quartos, porões, móveis e estantes – para que talvez chegue o dia em
+quartos, porões, móveis e estantes -- para que talvez chegue o dia em
 que, para desgraça e esclarecimento dos homens, seus ratos despertem
-novamente e os envie para morrer em uma cidade feliz’.[^12]
+novamente e os envie para morrer em uma cidade feliz'.[^12]
 
 Brasília consegue ao mesmo tempo ser sublime e fomentar ideias de
 opressão, destruição e segregação. É nesse dilema que me encontro. Será
@@ -401,10 +401,10 @@ mesmas.
 
 Um das cenas mais tristes que circularam ontem foi de uma mulher
 defecando na mesa dentro do Congresso Nacional. Difícil de entender
-pois, quando ela foi finalmente convidada a entrar dignamente na ‘casa
-do povo’, quando finalmente temos senadoras, deputadas, ministras e
+pois, quando ela foi finalmente convidada a entrar dignamente na 'casa
+do povo', quando finalmente temos senadoras, deputadas, ministras e
 presidente mulheres e, claro, um banheiro feminino, esta preferiu
-‘protestar’ para manter a casa para os homens que a silenciam.
+'protestar' para manter a casa para os homens que a silenciam.
 
 Do modo do novo banheiro, quais outros consertos históricos podem ser
 feitos em Brasília para limpar e expulsar os fantasmas do fascismo,
@@ -431,7 +431,7 @@ importantes .
 
 Em só uma semana o cenário de Brasília foi alterado, saímos de uma
 imagem utópica, o povo entrando em Brasília e re-imaginando aqueles
-espaços, para um imagem distópica, o ‘povo’ destruindo tudo. A invasão
+espaços, para um imagem distópica, o 'povo' destruindo tudo. A invasão
 de ontem são os bacilos da peste tentando voltar para casa, a casa
 fascista que sempre os acolheu estava ameaçada pois os excluídos, o povo
 que realmente sustenta Brasília, que doou a sua terra e fez a sua
@@ -454,7 +454,7 @@ Quero ouvir seus pensamentos e sentimentos sobre arquitetura e
 democracia. É importante manter o diálogo, buscar compreender as
 diferentes perspectivas e, revisitar o nosso passado para construirmos
 um futuro para o nosso país e para o povo de fato. Millôr Fernandes já
-dizia: ‘o Brasil tem um enorme passado pela frente’.[^13]
+dizia: 'o Brasil tem um enorme passado pela frente'.[^13]
 
 Te abraço fortemente e com muito respeito.
 
@@ -464,7 +464,7 @@ Tatiana Letier Pinto
 
 ## Bibliografia
 
-'Senado constrói primeiro banheiro feminino no plenário.' *Agência
+\'Senado constrói primeiro banheiro feminino no plenário.\' *Agência
 Brasil*, 13 October 2023,
 <https://agenciabrasil.ebc.com.br/politica/noticia/2016-01/senado-constroi-primeiro-banheiro-feminino-no-plenario>.
 
@@ -474,13 +474,13 @@ Cruls, Luis. *Relatório Cruls: relatório da Comissão Exploradora do
 Planalto Central do Brasil,* Brasília: Conselho Editorial - CEDIT, 22,
 2003.
 
-Acervo Digital Fundação Biblioteca Nacional, 'Carta de Pero Vaz
-Caminha'.
+Acervo Digital Fundação Biblioteca Nacional, \'Carta de Pero Vaz
+Caminha\'.
 
 Pena, José Osvaldo de Meira. *Quando mudam as capitais*. Brasília:
 Conselho Editorial - CEDIT, 2002
 
-Quilombo Kalunga.’Quem somos’,
+Quilombo Kalunga.'Quem somos',
 https://quilombokalunga.org/press/quem-somos/.
 
 Sautchuk, Jaime. *Cruls: histórias e andanças do cientista que inspirou
@@ -512,7 +512,7 @@ Companhia das Letras, 2012.
 [^5]: Juscelino Kubistcheck foi o vigésimo primeiro presidente eleito do
     Brasil ocupando o cargo no período de 31 de janeiro de 1956 até 31
     de Janeiro de 1961. Ele se elegeu com uma campanha
-    desenvolvimentista usando o slogan ’50 anos em 5’. Já no primeiro
+    desenvolvimentista usando o slogan '50 anos em 5'. Já no primeiro
     ano JK, como era conhecido, conseguiu pautar no Congresso Nacional a
     Lei nº 2874, de 19 de setembro de 1956 com a mudança da capital. Em
     1957 a construção de Brasília começou.
@@ -520,10 +520,10 @@ Companhia das Letras, 2012.
 [^6]: A primeira Constituição da República dos Estados Unidos do Brasil
     foi decretada e promulgada pelo Congresso Nacional em 24/02/1891.
     Nela já consta a proposta de transferência da capital para o
-    Planalto Central descrita no Art. 3º ‘Fica pertencendo á União, no
+    Planalto Central descrita no Art. 3º 'Fica pertencendo á União, no
     planalto central da Republica, uma zona de 14.400 quilômetros
     quadrados, que será oportunamente demarcada, para nela
-    estabelecer-se a futura Capital Federal’.
+    estabelecer-se a futura Capital Federal'.
 
 [^7]: Lei nº 3273 que estabeleceu um cronograma para a transferência da
     capital e fixou o dia 21 de abril de 1960 como data de inauguração.
@@ -535,11 +535,11 @@ Companhia das Letras, 2012.
     brasileira. Era patrocinado pela companhia estadunidense Esso e as
     notícias eram sob controle dos Estados Unidos.
 
-[^10]: UFRJ – Universidade Federal do Rio de Janeiro.
+[^10]: UFRJ -- Universidade Federal do Rio de Janeiro.
 
-[^11]: 'Quem somos', Quilombo Kalunga, acessado 13 de Outubro de 2023,
+[^11]: \'Quem somos\', Quilombo Kalunga, acessado 13 de Outubro de 2023,
 
-    [*https://quilombokalunga.org/press/quem-somos/*](https://quilombokalunga.org/press/quem-somos/)
+    [[https://quilombokalunga.org/press/quem-somos/]{.underline}](https://quilombokalunga.org/press/quem-somos/)
 
 [^12]: Albert Camus, *A Peste,* Rio de Janeiro: Record, 2017, p. 288.
 

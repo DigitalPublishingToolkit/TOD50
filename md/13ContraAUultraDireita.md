@@ -29,8 +29,7 @@ Cinelândia, Rio de Janeiro, Brasil.
 
 ///// delete this part below
 
-\[followed by Speridiao.tiff, image in double page\][]{#_dd9esmdru9ij
-.anchor}
+\[followed by Speridiao.tiff, image in double page\]
 
 [^1]: Artista plástico, Mestre em Linguagens visuais pela Escola de
     Belas Artes da UFRJ (PPGAV-UFRJ). Vive e trabalha no Rio de Janeiro.

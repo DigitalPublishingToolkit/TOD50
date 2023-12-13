@@ -85,7 +85,7 @@ ganha força. Em contrapartida, os movimentos sociais no Brasil têm uma
 longa história de mobilização popular capilarizada que inclui os
 partidos políticos formados durante e depois da redemocratização, a
 partir da segunda metade da década de 1980. Foi justamente a partir
-dessa capacidade de mobilização social ‘rizomática’ que os movimentos
+dessa capacidade de mobilização social 'rizomática' que os movimentos
 populares puderam retomar o contato enfraquecido com o Partido dos
 Trabalhadores, que também estabeleceu alianças estratégicas com os
 setores democráticos da direita, garantindo assim a apertada vitória de
@@ -207,7 +207,7 @@ midiáticas antes da tempestade*, Lou Caffagni identifica e discute a
 dimensão paranóica e inconsciente na produção e circulação de memes e
 notícias falsas. Viviane Borelli e Isabel Löfgren analisam a interseção
 entre humor e política a partir de um levantamento do emblemático meme
-do ‘patriota do caminhão’, seguido de um ensaio visual com o meme de
+do 'patriota do caminhão', seguido de um ensaio visual com o meme de
 Isabel Löfgren. Apoena Cosenza identifica continuidades narrativas e
 políticas entre a Marcha sobre Roma, evento seminal na emergência do
 fascismo italiano na década de 20, e a tentativa frustrada de golpe do
@@ -277,12 +277,12 @@ Jeppesen, Sandra, Hoechsmann, Michael, Hezel Ulthiin, Iowyth, Vandyke,
 David, and McKee, Miranda. *The Capitol Riots: Digital Media,
 Disinformation, and Democracy Under Attack*, Routledge, 2022.
 
-Peruzzo, Cecilia M. Krohling. 'Comunicação Comunitária E Educação Para a
-Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651–68,
+Peruzzo, Cecilia M. Krohling. \'Comunicação Comunitária E Educação Para
+a Cidadania\', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
 https://doi.org/10.17231/comsoc.2(2000).1427.
 
-Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.' *openDemocracy*, 10 October, 2023,
+Ricardo, Carolina. \'A Democracia Não Pode Ser Considerada Garantida No
+Brasil.\' *openDemocracy*, 10 October, 2023,
 https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
@@ -294,17 +294,17 @@ Break America*, New York: Random House, 2019.
     of Porto, Porto/Portugal, 2019,
     https://repositorio-aberto.up.pt/handle/10216/122246.
 
-[^2]: Cecilia M. Krohling Peruzzo, 'Comunicação Comunitária E Educação
-    Para a Cidadania,' *Comunicação e Sociedade* 2 (August 29, 2000):
-    651–68.
+[^2]: Cecilia M. Krohling Peruzzo, \'Comunicação Comunitária E Educação
+    Para a Cidadania,\' *Comunicação e Sociedade* 2 (August 29, 2000):
+    651--68.
 
 [^3]: Sandra Jeppesen Michael Hoechsmann, Miranda McKee, iowyth hezel
     ulthiin and David Van Dyke, *The Capitol Riots: Digital Media,
     Disinformation, and Democracy Under Attack*, New York: Routledge,
     2022.
 
-[^4]: Carolina Ricardo, 'A Democracia Não Pode Ser Considerada Garantida
-    No Brasil,' *openDemocracy*, 10 October 2023,
+[^4]: Carolina Ricardo, \'A Democracia Não Pode Ser Considerada
+    Garantida No Brasil,\' *openDemocracy*, 10 October 2023,
     https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/.
 
 [^5]: Ver Giuliano da Empoli, *Os Engenheiros Do Caos*, Vestígio

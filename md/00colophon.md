@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Colophon 
 
-INC Theory on Demand \#48
+INC Theory on Demand #48
 
 titolo
 

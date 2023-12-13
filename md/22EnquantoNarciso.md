@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-### Enquanto Narciso Invade o Congresso Brasileiro, Yanomamis Desaparecem nas Águas\
-\
-Ana Paula da Rosa[^1] 
+### Enquanto Narciso Invade o Congresso Brasileiro, Yanomamis Desaparecem nas Águas  Ana Paula da Rosa[^1] 
 
 As eleições presidenciais do Brasil, realizadas em 2022, foram marcadas
 pelos conflitos e polarizações[^2] que resultaram na exaltação de
@@ -43,19 +41,19 @@ reencontro com a democracia a partir do retorno de Lula da Silva ao
 poder 20 anos após a sua primeira eleição. De outro, porém, grande
 número de apoiadores bolsonaristas questionando o resultado das urnas e,
 sob a alegação de golpe, não reconhecendo a vitória de Lula da Silva,
-principalmente mobilizando um repertório de ideias vinculadas à 'guerra
-contra o comunismo’, à 'destruição da família' e dos valores morais.
+principalmente mobilizando um repertório de ideias vinculadas à \'guerra
+contra o comunismo', à \'destruição da família\' e dos valores morais.
 
 Tais ideias estavam amparadas nos argumentos que o próprio Bolsonaro
 sempre defendeu, seja como candidato ou presidente, a combinação de
-patriotismo e 'amor a Deus', mesmo que tal díade fosse apenas uma faceta
-discursiva para encobrir posicionamentos misóginos, xenofóbicos e
+patriotismo e \'amor a Deus\', mesmo que tal díade fosse apenas uma
+faceta discursiva para encobrir posicionamentos misóginos, xenofóbicos e
 pautados por interesses econômicos. Aliás, os quatro anos do governo
 Bolsonaro foram marcados por posicionamentos polêmicos, vinculados a
 ideais conservadores e de extrema direita. Dentre esses posicionamentos
 destaca-se a desvalorização da vida e do conhecimento científico, em
 especial durante a pandemia de Covid-19, a qual foi tida pelo então
-presidente Jair Bolsonaro como uma ‘mera gripezinha’ enfrentada com um
+presidente Jair Bolsonaro como uma 'mera gripezinha' enfrentada com um
 conjunto de ações negacionistas, contrárias à vacinação e ao isolamento
 social. Isso instaurou uma crise sanitária no país que teve registradas
 mais de 700 mil mortes. Ao mesmo tempo, durante o governo Bolsonaro, a
@@ -96,15 +94,15 @@ viveu um dos piores momentos de sua história recente. Assim como o
 Capitólio, em Washington D. C., nos Estados Unidos, foi invadido por
 apoiadores do então presidente Donald Trump, em 2021, apoiadores de
 Bolsonaro invadiram as três instâncias do poder no Brasil: o Congresso,
-o Supremo Tribunal Federal e o Palácio do Planalto. O 'capitólio
-brasileiro' não somente carregou o *modus operandi* da ação
+o Supremo Tribunal Federal e o Palácio do Planalto. O \'capitólio
+brasileiro\' não somente carregou o *modus operandi* da ação
 norte-americana, mas acrescentou em seu fazer pelos menos três
 elementos: o ódio transformado em violência ao patrimônio público; a
 cooptação de populares, policiais e militares, e o narcisismo pela
 visibilidade midiática.[^6] E é sobre este terceiro aspecto que
 centramos nosso debate.
 
-O 'Capitólio brasileiro' não foi apenas inspirado na contrapartida
+O \'Capitólio brasileiro\' não foi apenas inspirado na contrapartida
 americana, mas uma cópia, cujos marcos memoriais podem ser analisados
 ponto a ponto. A questão é que reviver uma ação violenta não se
 restringe a sua mera repetição. Neste sentido, o acontecimento de 8 de
@@ -113,8 +111,8 @@ público, mas na tentativa de destruição completa dos valores
 democráticos e no assassinato simbólico daqueles que tentam manter, bem
 ou mal, sua existência. Uma tentativa de assassinato simbólico se faz
 pela imagem inscrita em circuitos midiáticos, tanto para destruir
-imagens precedentes como para erigir novas. A estratégia de ‘tomada do
-poder’ por supostos ‘cidadãos em marcha’, realizada na surdina, em um
+imagens precedentes como para erigir novas. A estratégia de 'tomada do
+poder' por supostos 'cidadãos em marcha', realizada na surdina, em um
 domingo, foi previamente orquestrada também nas mídias sociais e
 aplicativos de mensagens, considerando que não foi uma ação para impedir
 uma cerimônia, mas um acontecimento criado para significar um ato de
@@ -129,8 +127,8 @@ em sua morte, afogando-se na própria imagem. A analogia aqui feita com o
 mito é que na invasão aos Três Poderes, no Brasil, os próprios invasores
 produziram um sem-número de imagens de suas ações. Admirados de sua
 coragem, admiraram-se na produção imagética para as mídias sociais. Não
-bastava ocupar e destruir – era preciso mostrar a si mesmo, registrar a
-‘beleza’ do ato. Assim, vídeos, narrativas de minuto a minuto, e trocas
+bastava ocupar e destruir -- era preciso mostrar a si mesmo, registrar a
+'beleza' do ato. Assim, vídeos, narrativas de minuto a minuto, e trocas
 de mensagens em aplicativos passaram a ser não apenas um complemento,
 mas parte constituinte da invasão que se deu no território físico, mas
 também nas águas profundas do território discursivo midiático.
@@ -195,7 +193,7 @@ edifícios públicos dos centros de poder. No território midiático, a
 orquestração prévia via aplicativos de mensagens (como o Whatsapp,
 Telegram) e a produção de imagens em vídeos e fotos para as redes
 sociais para tomar o espaço simbólico. Aqui, quando usamos palavras como
-‘tomar’, ‘ofensiva’ e ‘em marcha’ nos referimos a movimentos típicos de
+'tomar', 'ofensiva' e 'em marcha' nos referimos a movimentos típicos de
 guerras e de ocupação de territórios pelas forças militares, neste caso
 transformadas em forças de ataque.
 
@@ -242,24 +240,24 @@ estes vídeos e fotos, como uma lógica de aplicativos que definem a
 realidade pela dimensão da imagem. A ocupação em Brasília, portanto, não
 existiria sem a imagem. Essa centralidade revela a característica
 narcisística da sociedade ou, como bem aponta Byung-Chul Han, a
-‘sociedade de exposição’.[^16] Para o autor, há uma coação por exposição
+'sociedade de exposição'.[^16] Para o autor, há uma coação por exposição
 que coloca a visibilidade como valor central das relações. Essa
 exigência de exposição leva a uma forma de controle marcada pela
 crescente demanda de se fazer imagem, de aderir e adentrar no espaço
-discursivo, ‘expondo-se e desnudando-se, expondo-se ao mercado
-panóptico’, como salienta Byung-Chul Han. Neste mesmo sentido, Dietmar
-Kamper considera que o existente precisa ser visível, pois ‘tudo que não
+discursivo, 'expondo-se e desnudando-se, expondo-se ao mercado
+panóptico', como salienta Byung-Chul Han. Neste mesmo sentido, Dietmar
+Kamper considera que o existente precisa ser visível, pois 'tudo que não
 é visível é tido como inútil e descartado antes mesmo de entrar no jogo.
 Por sua vez, a imagem apropriada ao olhar, com a participação daquele
 que é olhado, pode ser formada ativamente nas repetidas encenações de
-toda uma vida’.[^17] Assim, o narcisismo aqui abordado remete à adoração
+toda uma vida'.[^17] Assim, o narcisismo aqui abordado remete à adoração
 da autoimagem, já a autoexposição refere-se à necessidade de
 contemplação dos outros. Isto envolve a atração pela própria imagem e o
 voyeurismo, sentido por quem assiste à performance à distância.
 Evidencia-se duas formas de autoerotismo distintas, mas comparáveis: o
 prazer de se fazer imagem e o de ser visto durante o ato.
 
-No caso do ‘Capitólio brasileiro’, muitos daqueles que participaram da
+No caso do 'Capitólio brasileiro', muitos daqueles que participaram da
 ação nas ruas de Brasília passaram a produzir imagens de si em ato,
 agenciando sentidos na circulação midiática por meio de postagens nas
 mídias sociais. Tais imagens foram sendo reinscritas e postas em um
@@ -290,15 +288,15 @@ Figura 4: Frame de vídeo produzido por ator social com a estética da
 selfie. Fonte: Youtube.[^19]
 
 Contudo, o discurso proferido nos vídeos foi frequentemente recortado
-por palavras do tipo ‘É nosso direito’, ‘Olha isso, Brasil!’, ‘Olha isso
-aqui’. O caráter performático da ação é evidente no uso das câmeras, na
+por palavras do tipo 'É nosso direito', 'Olha isso, Brasil!', 'Olha isso
+aqui'. O caráter performático da ação é evidente no uso das câmeras, na
 convocação na fala de sujeitos externos (de políticos a colaboradores),
 no uso de palavras de ordem, na voluntarização para se fazer imagem.
 Diversas lives foram realizadas durante a ocupação, a exemplo de uma com
 duração de 4h30min realizada por um ex-participante de um reality show
 no Brasil. No vídeo, transmitido pelo Instagram, o manifestante alegou
-várias vezes estar ‘fazendo história’ e enfatizou o fato de estar
-‘mostrando tudo ao vivo para vocês direto de Brasília’. Ou seja, a
+várias vezes estar 'fazendo história' e enfatizou o fato de estar
+'mostrando tudo ao vivo para vocês direto de Brasília'. Ou seja, a
 lógica de mídia apropriada a ponto de se transformar na tônica da
 invasão, isto é, uma produção proliferante de fotos e vídeos.
 
@@ -319,7 +317,7 @@ casos, o foco está numa autoexposição voluntária para a mídia:
 > understood as a crime by the performer. In the extreme, the performer
 > sees only the mediatization and not the crime.[^21]
 
-Em seu estudo, Jeppesen localiza o ‘crime de performance’ na interface
+Em seu estudo, Jeppesen localiza o 'crime de performance' na interface
 entre a criminologia e os estudos de mídia. Esse atravessamento
 repercute também no tratamento da própria investigação policial derivada
 dos conflitos midiatizados. Tanto no caso dos Estados Unidos quanto do
@@ -341,7 +339,7 @@ movimento performático oposto, o de morte e desaparecimento.
 ## *Imagem-denúncia*: Quando as Imagens Revelam o Desaparecimento
 
 O segundo acontecimento abordado neste texto trata de um crime não
-performado – ao contrário, sua essência é exatamente a invisibilidade e
+performado -- ao contrário, sua essência é exatamente a invisibilidade e
 o silenciamento. Menos de 20 dias depois da ação em Brasília, uma
 denúncia tornou pública a crise humanitária envolvendo os povos
 indígenas no Brasil.[^22] Na reserva Yanomami, localizada entre os
@@ -387,7 +385,7 @@ diversas, questionando ora a veracidade das imagens, ora a
 responsabilização política do governo Bolsonaro.
 
 Percebe-se que, neste caso, as imagens de horror, aquelas que Susan
-Sontag chamaria de ‘fotos-choque’,[^23] passaram a agenciar a circulação
+Sontag chamaria de 'fotos-choque',[^23] passaram a agenciar a circulação
 discursiva dando visibilidade a uma pauta soterrada pelas questões
 políticas das eleições de 2022. Quando a tática midiática da denúncia é
 desenvolvida pelo coletivo de defensores dos indígenas, através da
@@ -402,8 +400,8 @@ tradicional foi pouco a pouco sendo inviabilizado, exatamente pela falta
 de políticas públicas e de ações do governo. Por causa disso, em 21 de
 janeiro de 2023, o governo Lula enviou à Terra Yanomami agentes do
 Ministério Público e o próprio presidente esteve na reserva para
-acompanhar a situação. Assim, o governo decretou ‘Emergência em Saúde
-Pública de Importância Nacional’ e vem tentando levar tratamento médico
+acompanhar a situação. Assim, o governo decretou 'Emergência em Saúde
+Pública de Importância Nacional' e vem tentando levar tratamento médico
 e suporte alimentar aos indígenas, bem como desenvolver ações de
 retirada dos garimpos ilegais. Contudo, a situação extrema vem sendo
 chamada como um cenário de guerra, impossível de se olhar.
@@ -418,7 +416,7 @@ seu movimento de voluntarização ou de autoexposição, como visto na ação
 de invasão dos Três Poderes, mas porque perdem até mesmo seu direito de
 imagem quando suas fotografias galvanizam o mundo. Trata-se de pensar
 que todo seu esforço de preservação cultural e de resistência à
-‘sociedade da exposição’ sucumbe diante da negação dos direitos humanos
+'sociedade da exposição' sucumbe diante da negação dos direitos humanos
 mais básicos como a alimentação e a saúde. Neste sentido, as fotografias
 circulam como um grito de ajuda contra anos de silenciamento. A imagem
 retira o crime das sombras, ela denuncia e, ao mesmo tempo, convoca a
@@ -447,12 +445,12 @@ Certamente, o debate da exploração da imagem e do esvaziamento da
 questão pela reiterada exposição da dor do outro também ocorre no caso
 da crise sanitária na reserva indígena. Porém, como já apontava Sontag,
 há algum outro modo de ver que não à distância? O que diferencia o ver
-de um fazer? ‘Nós não percebemos. Não podemos, na verdade, imaginar como
-é isso’.[^28] Ante a impossibilidade de imaginar, a imagem-superfície.
+de um fazer? 'Nós não percebemos. Não podemos, na verdade, imaginar como
+é isso'.[^28] Ante a impossibilidade de imaginar, a imagem-superfície.
 Kamper argumenta que o imaginário midiático se concretiza em ídolos e
-palavras, ‘vive da vida das pessoas, porém não sem algum voluntarismo
+palavras, 'vive da vida das pessoas, porém não sem algum voluntarismo
 dos envolvidos. Afinal o poder do imaginário provém do imaginário do
-poder’.[^29] Voltamos ao ponto.
+poder'.[^29] Voltamos ao ponto.
 
 ## 
 
@@ -476,7 +474,7 @@ imagens viram, duplamente, arma. Inclusive aquelas aparentemente
 imperceptíveis dos circuitos internos de televisão e segurança. Nesta
 situação, a tentativa de um assassinato simbólico da democracia e de um
 ideal de país se faz pela inscrição das imagens em fluxos. Instagram,
-Facebook, Youtube, Whatsapp... não importa o nome da mídia ou do
+Facebook, Youtube, Whatsapp\... não importa o nome da mídia ou do
 aplicativo, importa ceder à sede das imagens.
 
 Já no caso dos Yanomami, as imagens não são sedutoras, mas sedantes,
@@ -495,7 +493,7 @@ de um *isso foi*[^31] no tempo passado, mas de um *isso é.* Esta
 imagem-operação coloca em cena uma postura de luta pela valorização da
 vida, rompendo com ações calcadas na biopolítica moderna, como discutido
 por Agamben. Para o autor, o que está em jogo é o poder de decidir
-‘sobre o ponto em que a vida cessa de ser politicamente relevante’.[^32]
+'sobre o ponto em que a vida cessa de ser politicamente relevante'.[^32]
 Desta forma, quando a imagem-denúncia circula e reverbera em circuitos
 múltiplos de atores sociais se está questionando o poder soberano de
 quem decidiu, previamente, o desvalor de uma vida. A vida nua dos
@@ -508,18 +506,18 @@ denúncia. Assim, considerando a amplitude da produção imagética para
 agenciar a circulação midiática, isto é, a disputa pela produção de
 sentidos nas interações sociais, percebe-se que os conflitos têm sua
 natureza profundamente alterada pela midiatização. Neste sentido, Fausto
-Neto alerta para ‘uma nova arquitetura comunicacional no seio da qual as
+Neto alerta para 'uma nova arquitetura comunicacional no seio da qual as
 interações sociais se dão em meio a intensos e complexos
-feedbacks’.[^33] Tais feedbacks são característicos do processo de
-circulação, sendo que à midiatização ‘corresponde ao estágio atual da
+feedbacks'.[^33] Tais feedbacks são característicos do processo de
+circulação, sendo que à midiatização 'corresponde ao estágio atual da
 sociedade em que vivemos, caracterizado pela revolução que a internet
 promove em termos do acesso ao conhecimento, à cultura e às
-instituições’[^34] e a todos os conflitos que emergem destas relações.
+instituições'[^34] e a todos os conflitos que emergem destas relações.
 
-Quando se mencionam ‘conflitos midiatizados’ não se trata apenas de um
+Quando se mencionam 'conflitos midiatizados' não se trata apenas de um
 qualificador, mas sim de evidenciar uma especificidade fenomenológica.
 Tanto a invasão em Brasília quanto a crise Yanomami são frutos de uma
-lógica que é anterior à própria instalação do conflito – está na sua
+lógica que é anterior à própria instalação do conflito -- está na sua
 base. Se expor é o objeto da ocupação, evitar qualquer rastro de imagem
 é a tônica do genocídio. Isto posto, cada vez mais se faz necessário
 refletir sobre as práticas sociais atuais envoltas e atravessadas pelas
@@ -532,9 +530,9 @@ importa pensar o imaginário do poder.
 Agamben, Giorgio. *Homo sacer: o poder soberano e a vida nua* *I*. Belo
 Horizonte: Editora UFMG, 2010.
 
-‘Apoiadores de Lula abrem o bandeirão do Brasil durante a posse do
-presidente’, *Estado de Minas,* 1 January 2023,
-https://www.em.com.br/app/noticia/politica/2023/01/01/interna\_politica,1439653/apoiadores-de-lula-abrem-bandeirao-do-brasil-durante-a-posse-do-presidente.shtml.
+'Apoiadores de Lula abrem o bandeirão do Brasil durante a posse do
+presidente', *Estado de Minas,* 1 January 2023,
+https://www.em.com.br/app/noticia/politica/2023/01/01/interna_politica,1439653/apoiadores-de-lula-abrem-bandeirao-do-brasil-durante-a-posse-do-presidente.shtml.
 
 *A Última Floresta*, (Dir. Luiz Bolognesi, 2021), Netflix,
 https://www.netflix.com/se/title/81503933.
@@ -545,12 +543,12 @@ de Janeiro: Nova Fronteira, 2015.
 Bourdieu, Pierre. *O poder simbólico*, Trad. Fernando Tomaz, Rio de
 Janeiro: Betrand Brasil, 2011.
 
-Braga, José Luiz. ‘Polarização como estrutura da intolerância: uma
-questão comunicacional’, In: Heller, Barbara; Cal, Danila, Rosa, Ana
+Braga, José Luiz. 'Polarização como estrutura da intolerância: uma
+questão comunicacional', In: Heller, Barbara; Cal, Danila, Rosa, Ana
 Paula (org.), *Midiatização (in)tolerância e reconhecimento*, Salvador:
 EDUFBA, 2020, pp. 19-32.
 
-Braga, José Luiz. ‘Lógicas da mídia, lógicas da midiatização?’, in
+Braga, José Luiz. 'Lógicas da mídia, lógicas da midiatização?', in
 Cingolani, Gastón (org.), *Relatos de investigaciones sobre
 mediatizaciones*, Rosario: CIM, 2015, pp.1-20.
 
@@ -561,70 +559,70 @@ de Janeiro: Civilização Brasileira, 2017.
 Byung-Chul, Han. *Sociedade da transparência*, Trad. Enio Palo Giachini,
 Petrópolis, RJ: Vozes, 2017.
 
-Dias, Juliana and Altino, Lucas. ‘Após denúncia de mortes de crianças
+Dias, Juliana and Altino, Lucas. 'Após denúncia de mortes de crianças
 Yanomami por desnutrição grave, Funai e Ministério da Saúde montam
-estratégia emergencial’, *O Globo*, 20 January 2023,
+estratégia emergencial', *O Globo*, 20 January 2023,
 https://oglobo.globo.com/brasil/noticia/2023/01/apos-denuncia-de-mortes-de-criancas-yanomami-por-desnutricao-grave-funai-e-ministerio-da-saude-montam-estrategia-para-acoes-emergenciais.ghtml.
 
 Fausto Neto, Antônio et al. *Dez perguntas para a produção de
 conhecimento em comunicação*, São Leopoldo: Unisinos, 2013, pp. 43-64.\
-\_\_\_\_\_\_. ‘Mediação, midiatização: conceitos entre trajetórias,
-biografias e geografias’ in Jairo Ferreira et al. *Entre o que se diz e
+\_\_\_\_\_\_. 'Mediação, midiatização: conceitos entre trajetórias,
+biografias e geografias' in Jairo Ferreira et al. *Entre o que se diz e
 o que se pensa: onde está a midiatização*. Santa Maria: FACOS, 2018.
 
 Hjavard, Stig and Mortesen, Mette. *The Dynamics of Mediatized
 Conflicts*, New York: Peter Lang, 2015.
 
-Jeppesen, Sandra. ‘Performance Crime and Self-Surveillant Subjects in
-the Capitol Riots’, in Jeppesen, Sandra et al, *The Capitol Riots*, New
+Jeppesen, Sandra. 'Performance Crime and Self-Surveillant Subjects in
+the Capitol Riots', in Jeppesen, Sandra et al, *The Capitol Riots*, New
 York: Routledge, 2021, pp. 135-157.
 
 Kamper, Dietmar. *Mudança de horizonte: o sol novo a cada dia*. Trad.
 Danielle Naves de Oliveira, São Paulo: Paulus, 2016.
 
-Kemp, Simon. ‘Digital 2023: Brazil’, 12 February 2023,
+Kemp, Simon. 'Digital 2023: Brazil', 12 February 2023,
 https://datareportal.com/reports/digital-2023-brazil.
 
 Kopenawa, Albert, Bruce, Davi. *A queda do céu : Palavras de um xamã
 yanomami.* Trad. Beatriz Perrone-Moisés; prefácio de Eduardo Viveiros de
 Castro. São Paulo: Companhia das Letras, 2015.
 
-‘Líderes mundiais parabenizam Brasil na eleição de Bolsonaro na
-presidência’, *Sputnik News Brazil*, 29 October 2018,
-‘https://sputniknewsbrasil.com.br/20181029/lideres-mundiais-parabenizam-brasil-eleicao-bolsonaro-presidencia-12545198.html.
+'Líderes mundiais parabenizam Brasil na eleição de Bolsonaro na
+presidência', *Sputnik News Brazil*, 29 October 2018,
+'https://sputniknewsbrasil.com.br/20181029/lideres-mundiais-parabenizam-brasil-eleicao-bolsonaro-presidencia-12545198.html.
 
-‘Mais de mil indígenas Yanomami em estado grave foram resgatados nos
-últimos dias, diz secretário’, in *G1* Roraima, 24 January 2023,
+'Mais de mil indígenas Yanomami em estado grave foram resgatados nos
+últimos dias, diz secretário', in *G1* Roraima, 24 January 2023,
 https://g1.globo.com/rr/roraima/noticia/2023/01/24/mais-de-mil-indigenas-yanomami-em-estado-grave-foram-resgatados-nos-ultimos-dias-diz-secretario.ghtml.
 
 Mbembe, Achille. *Necropolitics*, Transl. Steven Corcoran. Durham: Duke
 University Press, 2019.
 
-Putini, Juliana. ‘Ministério da Saúde decreta emergência de saúde
-pública para combater desassistência de indígenas Yanomami’, *G1*, 20
+Putini, Juliana. 'Ministério da Saúde decreta emergência de saúde
+pública para combater desassistência de indígenas Yanomami', *G1*, 20
 January 2023.
 https://g1.globo.com/saude/noticia/2023/01/20/ministerio-da-saude-decreta-emergencia-de-saude-publica-para-combater-desassistencia-de-indigenas-yanomami.ghtml.
 
-Rosa, Ana Paula. ‘Midiatização das imagens: o contra-agenciamento em
-circulação do caso Marcos Vinicius’, in Sá, Simone; Amaral, Adriana,
+Rosa, Ana Paula. 'Midiatização das imagens: o contra-agenciamento em
+circulação do caso Marcos Vinicius', in Sá, Simone; Amaral, Adriana,
 Janotti Junior, Jeder (org.), *Territórios afetivos da imagem e do som*,
 Belo Horizonte: Fafich/Selo PPGCOM/UFMG, 2020: 294-309.
 
-\_\_\_\_\_\_. ‘Circulação: das múltiplas perspectivas de valor à
-valorização do visível’, in *Revista Intercom – RBCC 42.2* (May/August
+\_\_\_\_\_\_. 'Circulação: das múltiplas perspectivas de valor à
+valorização do visível', in *Revista Intercom -- RBCC 42.2* (May/August
 2019): 21-33.
 
-\_\_\_\_\_\_. ‘A imagem como referência: tensionamentos entre
-visibilidade e apagamentos na circulação midiática’, in *Jornada
+\_\_\_\_\_\_. 'A imagem como referência: tensionamentos entre
+visibilidade e apagamentos na circulação midiática', in *Jornada
 CAPES-Stint*, São Leopoldo/Stockholm, 8 July 2021,
-https://www.youtube.com/watch?v=yV3\_CFYLC9g&t=69s.\
+https://www.youtube.com/watch?v=yV3_CFYLC9g&t=69s.\
 \
-‘Radicais invadem e depredam o Planalto, Congresso e o Supremo’, *CNN
+'Radicais invadem e depredam o Planalto, Congresso e o Supremo', *CNN
 Brasil*, 8 January, 2023.
 https://www.cnnbrasil.com.br/politica/radicais-invadem-e-depredam-planalto-congresso-e-supremo-veja-imagens/.
 
-Silva, Vitor. ‘Um olhar diferente do Brasil - Invasão do Congresso por
-populares’. Youtube. Janeiro 8, 2023..
+Silva, Vitor. 'Um olhar diferente do Brasil - Invasão do Congresso por
+populares'. Youtube. Janeiro 8, 2023..
 https://www.youtube.com/watch?v=e4litzHI65Y.
 
 Sontag, Susan. *Diante da dor dos outros*, Trad. Rubens Figueiredo, São
@@ -634,40 +632,40 @@ Verón, Eliseo.Teoria da midiatização: uma perspectiva semioantropológica
 e algumas de suas consequências. *MATRIZes* 8 (1),, 2014 p.13-19.
 https://doi.org/10.11606/issn.1982-8160.v8i1p13-19.
 
-@urihiyanomami, ‘Desnutrição na terra Yanomami’, Instagram post, 20
+\@urihiyanomami, 'Desnutrição na terra Yanomami', Instagram post, 20
 January 2023, 14:30,
-https://www.instagram.com/p/CnorWm0OLwc/?utm\_source=ig\_web\_copy\_link&igshid=MzRlODBiNWFlZA==.
+https://www.instagram.com/p/CnorWm0OLwc/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==.
 
-@urihiyanomami, Instagram post, 9 February 2023, 10:02,
+\@urihiyanomami, Instagram post, 9 February 2023, 10:02,
 www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
 
 [^1]: Doutora em Ciências da Comunicação pela Universidade do Vale do
     Rio dos Sinos (UNISINOS), professora e pesquisadora na mesma
     instituição. anaros@unisinos.br.
 
-[^2]: José Luiz Braga, ‘Polarização como estrutura da intolerância: uma
-    questão comunicacional’, in Barbara Heller; Danila Cal e Ana Paula
+[^2]: José Luiz Braga, 'Polarização como estrutura da intolerância: uma
+    questão comunicacional', in Barbara Heller; Danila Cal e Ana Paula
     da Rosa. *Midiatização (in)tolerância e reconhecimento*. Salvador:
     EDUFBA, 2020.
 
-[^3]: Imagem disponível em ‘Líderes mundiais parabenizam Brasil na
-    eleição de Bolsonaro na presidência’, *Sputnik News Brazil*, 29
+[^3]: Imagem disponível em 'Líderes mundiais parabenizam Brasil na
+    eleição de Bolsonaro na presidência', *Sputnik News Brazil*, 29
     October 2018,
-    ‘https://sputniknewsbrasil.com.br/20181029/lideres-mundiais-parabenizam-brasil-eleicao-bolsonaro-presidencia-12545198.html.
+    'https://sputniknewsbrasil.com.br/20181029/lideres-mundiais-parabenizam-brasil-eleicao-bolsonaro-presidencia-12545198.html.
 
-[^4]: Imagem disponível em ‘Apoiadores de Lula abrem o bandeirão do
-    Brasil durante a posse do presidente’, *Estado de Minas* 1 January
+[^4]: Imagem disponível em 'Apoiadores de Lula abrem o bandeirão do
+    Brasil durante a posse do presidente', *Estado de Minas* 1 January
     2023,
-    https://www.em.com.br/app/noticia/politica/2023/01/01/interna\_politica,1439653/apoiadores-de-lula-abrem-bandeirao-do-brasil-durante-a-posse-do-presidente.shtml.
+    https://www.em.com.br/app/noticia/politica/2023/01/01/interna_politica,1439653/apoiadores-de-lula-abrem-bandeirao-do-brasil-durante-a-posse-do-presidente.shtml.
 
-[^5]: José Luiz Braga, ‘Lógicas da mídia, lógicas da midiatização?’, in
-    Gastón Cingolani, ‘*Relatos de investigaciones sobre
-    mediatizaciones’*, Rosario: CIM, 2014, pp. 1-20.
+[^5]: José Luiz Braga, 'Lógicas da mídia, lógicas da midiatização?', in
+    Gastón Cingolani, '*Relatos de investigaciones sobre
+    mediatizaciones'*, Rosario: CIM, 2014, pp. 1-20.
 
-[^6]: Ana Paula da Rosa, ‘Midiatização das imagens: o
-    contra-agenciamento em circulação do caso Marcos Vinicius’, in
-    Simone Sá, Adriana Amaral e Jeder Janotti Júnior, ‘*Territórios
-    afetivos da imagem e do som’*, Belo Horizonte: Fafich/Selo
+[^6]: Ana Paula da Rosa, 'Midiatização das imagens: o
+    contra-agenciamento em circulação do caso Marcos Vinicius', in
+    Simone Sá, Adriana Amaral e Jeder Janotti Júnior, '*Territórios
+    afetivos da imagem e do som'*, Belo Horizonte: Fafich/Selo
     PPGCOM/UFMG, 2020, pp. 294-309.
 
 [^7]: O conceito de midiatização vem sendo elaborado a partir de
@@ -679,17 +677,17 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     tecnologias em meios de comunicação que afetam as práticas sociais.
     Esse afetamento não é apenas pela ampliação do espaço discursivo,
     mas a própria vida passa a ser atravessada por lógicas de mídia e
-    midiatização. Ver Eliseo Verón, ‘Teoria da midiatização: uma
-    perspectiva semioantropológica e algumas de suas consequências’, in
+    midiatização. Ver Eliseo Verón, 'Teoria da midiatização: uma
+    perspectiva semioantropológica e algumas de suas consequências', in
     *MATRIZes* 8 (1),, 2014 p.13-19.
 
-[^8]: Antonio Fausto Neto, ‘Como as linguagens afetam e são afetadas na
-    circulação?’ in Antônio Fausto Neto et al (org.), *Dez perguntas
+[^8]: Antonio Fausto Neto, 'Como as linguagens afetam e são afetadas na
+    circulação?' in Antônio Fausto Neto et al (org.), *Dez perguntas
     para a produção de conhecimento em comunicação*, São Leopoldo:
     Unisinos, 2014.
 
-[^9]: Ana Paula da Rosa, ‘Circulação: das múltiplas perspectivas de
-    valor à valorização do visível’, in *Revista Intercom – RBCC*,
+[^9]: Ana Paula da Rosa, 'Circulação: das múltiplas perspectivas de
+    valor à valorização do visível', in *Revista Intercom -- RBCC*,
     (May/August, 2019).
 
 [^10]: Embora neste texto esteja evidenciada a relação com as águas dos
@@ -698,13 +696,13 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     minérios. Os efeitos destas atividades de mineração têm impactado
     tanto na fauna e na flora, como no habitat dos povos indígenas,
     visto que a presença dos brancos traz consigo doenças desconhecidas
-    às tribos e o processo de destruição da cultura local. Em ‘A queda
-    do céu’ (2015), Davi Kopenawa traça um retrato dos Yanomami feito de
+    às tribos e o processo de destruição da cultura local. Em 'A queda
+    do céu' (2015), Davi Kopenawa traça um retrato dos Yanomami feito de
     dentro, isto é, a partir do prisma dos próprios indígenas e de sua
     cultura ancestral. Somente no início do século XX os primeiros
     contatos com o povo branco foram realizados e de lá para cá, além de
     epidemias letais, as aberturas das fronteiras da comunidade tem
-    gerado uma ‘corrida do ouro’ com a instalação de garimpos ilegais
+    gerado uma 'corrida do ouro' com a instalação de garimpos ilegais
     que destroem a floresta. Para esses garimpos foram feitas grandes
     áreas de desmatamento, valendo-se da violência tanto contra a vida
     dos indígenas, quanto da precarização de suas condições de
@@ -716,15 +714,15 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     documentários como *A última floresta, (*Dir. Luiz Bolognesi, 2021),
     Netflix, https://www.netflix.com/se/title/81503933.
 
-[^11]: Ana Paula da Rosa, ‘A imagem como referência: tensionamentos
-    entre visibilidade e apagamentos na circulação midiática’, *Jornada
+[^11]: Ana Paula da Rosa, 'A imagem como referência: tensionamentos
+    entre visibilidade e apagamentos na circulação midiática', *Jornada
     CAPES-Stint*, São Leopoldo/Stockholm, 8 July 2021,
     <https://www.youtube.com/watch?v=yV3_CFYLC9g&t=69s>
 
 [^12]: Stig Hjavard and Mette Mortesen, T*he Dynamics of Mediatized
     Conflicts*, New York: Peter Lang, 2015.
 
-[^13]: Pierre Bourdieu, ‘*O poder simbólico*’, Rio de Janeiro: Bertrand
+[^13]: Pierre Bourdieu, '*O poder simbólico*', Rio de Janeiro: Bertrand
     Brasil, 2011.
 
 [^14]: As eleições em 2018, no Brasil, ficaram marcadas pela ascensão da
@@ -733,7 +731,7 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     teve como principal lócus as mídias digitais.
 
 [^15]: Relatório disponibilizado em 2023, produzido em parceria por *We
-    Are Social* e *Meltwater*, Simon Kemp, ‘Digital 2023: Brazil’, 12
+    Are Social* e *Meltwater*, Simon Kemp, 'Digital 2023: Brazil', 12
     February 2023, https://datareportal.com/reports/digital-2023-brazil.
 
 [^16]: Byung-Chul Han, *Sociedade da Transparência*, Rio de Janeiro:
@@ -742,20 +740,20 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
 [^17]: Dietmar Kamper, *Mudança de Horizonte*: *o sol novo a cada dia,
     mas nada de novo sol*l, São Paulo: Paulus, 2016, p. 71.
 
-[^18]: ‘Radicais invadem e depredam o Planalto, Congresso e o Supremo’,
+[^18]: 'Radicais invadem e depredam o Planalto, Congresso e o Supremo',
     *CNN Brasil,* 8 January, 2023.
     https://www.cnnbrasil.com.br/politica/radicais-invadem-e-depredam-planalto-congresso-e-supremo-veja-imagens/.
 
-[^19]: Vitor Silva, ‘Um olhar diferente do Brasil - Invasão do Congresso
-    por populares’, Youtube, Janeiro 8, 2023,
+[^19]: Vitor Silva, 'Um olhar diferente do Brasil - Invasão do Congresso
+    por populares', Youtube, Janeiro 8, 2023,
     https://www.youtube.com/watch?v=e4litzHI65Y.
 
-[^20]: Sandra Jeppesen, ‘Performance Crime and Self-Surveillant Subjects
-    in the Capitol Riots’, in Sandra Jeppesen et al, ‘*The Capitol Riots
-    – Digital Media, Disinformation, and Democracy Under Attack’*,
+[^20]: Sandra Jeppesen, 'Performance Crime and Self-Surveillant Subjects
+    in the Capitol Riots', in Sandra Jeppesen et al, '*The Capitol Riots
+    -- Digital Media, Disinformation, and Democracy Under Attack'*,
     Routledge: New York, 2022, pp.127-135.
 
-[^21]: Jeppesen, ‘Performance Crime’, p. 135
+[^21]: Jeppesen, 'Performance Crime', p. 135
 
 [^22]: A crise humanitária mencionada não teve início em 2023, como já
     indicado neste texto, mas vem se agudizando ao longo dos anos a
@@ -768,20 +766,20 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     fatos aparentemente separados, mas que estão interligados exatamente
     porque trazem marcas das políticas bolsonaristas.
 
-[^23]: Susan Sontag, ‘Diante da dor dos outros’, São Paulo: Companhia
+[^23]: Susan Sontag, 'Diante da dor dos outros', São Paulo: Companhia
     das Letras, 2003.
 
-[^24]: @urihiyanomami, ‘Desnutrição na terra Yanomami’, Instagram post,
+[^24]: \@urihiyanomami, 'Desnutrição na terra Yanomami', Instagram post,
     20 January 2023, 14:30,
-    https://www.instagram.com/p/CnorWm0OLwc/?utm\_source=ig\_web\_copy\_link&igshid=MzRlODBiNWFlZA==.
+    https://www.instagram.com/p/CnorWm0OLwc/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==.
 
-[^25]: @urihiyanomami,’Você pode ajudar o povo Yanomami, Instagram post,
-    9 February 2023, 10:02, www.instagram.com/p/Coc5I7gPKEl/
+[^25]: \@urihiyanomami,'Você pode ajudar o povo Yanomami, Instagram
+    post, 9 February 2023, 10:02, www.instagram.com/p/Coc5I7gPKEl/
 
 [^26]: Achilles Mbembe, *Necropolitics*, Durham: Duke University Press,
     2019.
 
-[^27]: Judith Butler, ‘*Quadros de guerra: quando a vida é passível de
+[^27]: Judith Butler, '*Quadros de guerra: quando a vida é passível de
     luto?*, Trad. Sérgio Tadeu de Niemeyer Lamarão e Arnaldo Marques da
     Cunha, Rio de Janeiro: Civilização Brasileira, 2017.
 
@@ -800,9 +798,9 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
 [^32]: Giorgio Agamben, *Homo sacer*: *o poder soberano e a vida nua I*,
     Belo Horizonte: Editora UFMG, 2010, p. 135.
 
-[^33]: Fausto Neto, ‘Mediação, midiatização: conceitos entre
-    trajetórias, biografias e geografias’,in Jairo Ferreira et al.
+[^33]: Fausto Neto, 'Mediação, midiatização: conceitos entre
+    trajetórias, biografias e geografias',in Jairo Ferreira et al.
     *Entre o que se diz e o q*ue *se pensa: onde está a midiatização*.
     Santa Maria: FACOS, 2018.
 
-[^34]: Fausto Neto, ‘Mediação, mediatização’, p. 68.
+[^34]: Fausto Neto, 'Mediação, mediatização', p. 68.

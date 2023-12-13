@@ -21,41 +21,41 @@ Rights: CC BY-NC 4.0
 
 ### Lou Caffagni[^1]
 
-*‘*The 'collective imbecile' is not, indeed, the mere sum of a certain
+*'*The \'collective imbecile\' is not, indeed, the mere sum of a certain
 number of individual imbeciles. It is, on the contrary, a collectivity
 of people of normal or even superior intelligence that come together,
 driven by a common desire to stupefy themselves and each other. Whether
-the desire is conscious, or unconscious is not important.*’ *
+the desire is conscious, or unconscious is not important.*'*
 
-– Olavo de Carvalho[^2]
+-- Olavo de Carvalho[^2]
 
-*‘Olavo is right‘*
+*'Olavo is right'*
 
-– Bolsonarist catchphrase
+-- Bolsonarist catchphrase
 
 Jair Bolsonaro was elected in 2018 and since then, he has been spreading
 conspiracy theories against the electoral system in Brazil thus
 discrediting the very process that brought him to the presidency. He has
-claimed on numerous occasions that ‘only God could remove him from the
-presidential chair’. Michele Prado[^3] has described the messianic
-imaginary that surrounded Bolsonaro's government, where some circles
-considered him as a leader ‘chosen by God to win an electoral war’[^4].
-Thus, when Lula da Silva's victory was announced on October 30, 2022,
-Bolsonaro's followers quickly blocked highways and put into practice the
-coup d'état that they had already been planning for four years since
-Bolsonaro took power. With the support of the Federal Highway Police and
-Military Police, truck drivers occupied roads and highways, halting the
-circulation of people and goods and choking the main cities of the
-country. The blockades were only lifted weeks later thanks to the action
-of football supporters who when the Brazilian national football
+claimed on numerous occasions that 'only God could remove him from the
+presidential chair'. Michele Prado[^3] has described the messianic
+imaginary that surrounded Bolsonaro\'s government, where some circles
+considered him as a leader 'chosen by God to win an electoral war'[^4].
+Thus, when Lula da Silva\'s victory was announced on October 30, 2022,
+Bolsonaro\'s followers quickly blocked highways and put into practice
+the coup d\'état that they had already been planning for four years
+since Bolsonaro took power. With the support of the Federal Highway
+Police and Military Police, truck drivers occupied roads and highways,
+halting the circulation of people and goods and choking the main cities
+of the country. The blockades were only lifted weeks later thanks to the
+action of football supporters who when the Brazilian national football
 championship resumed were eager to attend the matches and support their
 teams. To access the stadiums, they had to clear the way from the
 Bolsonarist barricades. Even the most fanatical supporters of Bolsonaro
 could not stand in the way of the Gaviões da Fiel, or, the Faithful
 Hawks, the organized fan union of Corinthians.[^5]) Someone could say,
-perhaps, that God sent the ‘faithful Corinthians’ to spread His wisdom
-and will: ‘Love does not delight in evil but rejoices with the truth. It
-always protects, always trusts, always hopes, always perseveres.’[^6]
+perhaps, that God sent the 'faithful Corinthians' to spread His wisdom
+and will: 'Love does not delight in evil but rejoices with the truth. It
+always protects, always trusts, always hopes, always perseveres.'[^6]
 
 However, hatred also persists, and the insurrectionists, having been
 pushed off the road blockades, then moved to the entrances of military
@@ -66,46 +66,46 @@ live in the camps permanently, while others came back and forth from the
 camps every day, often bringing their children. Their participation was
 fueled by social media messages with photomontages about military
 operations, movements of tanks, soldiers, and equipment that supposedly
-had never been seen in Brazil's history. In the meantime, Bolsonaro hid
+had never been seen in Brazil\'s history. In the meantime, Bolsonaro hid
 in the Presidential Palace, refusing to acknowledge his defeat. A few
 days before the end of his term, he flew to Florida with his family.
 
-On January 8, 2023, one week after Lula da Silva's inauguration,
+On January 8, 2023, one week after Lula da Silva\'s inauguration,
 Brasilia was taken over by barbarian invaders wearing yellow and green
 shirts, calling for a military coup to reinstate Bolsonaro as the
-‘rightful’ and ‘God-sent’ president. In this essay, I will try to
+'rightful' and 'God-sent' president. In this essay, I will try to
 understand how so many seemingly reasonable people joined this radical
 pro-Bolsonaro social movement influenced by grotesque memes, fake news,
 and conspiracy theories.
 
 The kernel of alt-right conspiracy theories became known in alt-right
-circles as ‘cultural Marxism’. But what the hell is that? Conservative
+circles as 'cultural Marxism'. But what the hell is that? Conservative
 scholars like Paul Gottfried (founder of paleo conservatism), Michael
 Minnicino (infamous creator of cultural Marxism), and James Davison
 Hunter (who theorizes the cultural war),[^7] alt-right influencers like
-Bolsonaro’s political advisor Olavo de Carvalho[^8], and specialists in
+Bolsonaro's political advisor Olavo de Carvalho[^8], and specialists in
 international relations, such as Brazilian diplomat and former Foreign
 Minister Ernesto Araujo[^9], all believe that communism conquered the
 Western world after the Berlin Wall fell. They argue that the fall of
 the Berlin Wall gave communism the edge in the cultural battlefield of
 the Cold War, allowing communist agents to perpetrate their secret
 purposes in an open field. However, they remain convinced that
-communism's true aim was not the proletarian revolution. Instead, the
+communism\'s true aim was not the proletarian revolution. Instead, the
 aim is to attack traditional Western values, break down families, and
 increase government control over the economy and personal freedoms.
 According to them, today, communists are CEOs of multinational
 companies, such as Bill Gates and George Soros, media corporations such
 as *NBC*, *CBS* (USA), *Globo* (Brazil), and *BBC* (UK), as well as most
 journalists, popular artists, judges, and politicians. As in the
-‘Purloined letter’ in Poe’s famous short story, ‘they hide in plain
-sight’.[^10] Inspired by this type of far-right propaganda, in 2018,
+'Purloined letter' in Poe's famous short story, 'they hide in plain
+sight'.[^10] Inspired by this type of far-right propaganda, in 2018,
 Brazilian conservative groups spread false rumors on social media about
 a so-called gay kit being distributed in schools to promote
 homosexuality. This gay kit was a fake news piece accusing left-wing
 politicians of distributing insidious educational material to promote a
-gay lifestyle as part of what the alt-right called ‘gender ideology’.
-What was the star attraction of this fictional pedagogical kit’? A
-phallic-shaped baby bottle they named the ‘cock bottle’.
+gay lifestyle as part of what the alt-right called 'gender ideology'.
+What was the star attraction of this fictional pedagogical kit'? A
+phallic-shaped baby bottle they named the 'cock bottle'.
 
 ![](media/image1.png){width="5.145833333333333in"
 height="3.1041666666666665in"}
@@ -115,17 +115,17 @@ the phallic feeding bottle. Source: Facebook. Iconografia da História
 
 These groups claimed, without any evidence, that communist agents had
 infiltrated the media, the courts, and the elite in Brazil, who in turn
-manipulated the election to ensure Lula da Silva's victory. They claimed
-that communist agents had secret rooms inside the Brazilian Superior
-Electoral Court (TSE), contaminated electronic voting machines with
-malware, and also helped to spread disinformation against Bolsonaro and
-his supporters to justify their actions. They argue, based on an obscure
-interpretation of Article 142 of the Brazilian constitution, that the
-army's true mission was to moderate between the legislative, executive,
-and judicial powers.[^11] However, their true plan was to instigate
-social chaos by paralyzing roads, attacking the seat of government
-power, stopping public services, and through enough pressure, forcing
-Lula da Silva to call the army so they could overthrow its
+manipulated the election to ensure Lula da Silva\'s victory. They
+claimed that communist agents had secret rooms inside the Brazilian
+Superior Electoral Court (TSE), contaminated electronic voting machines
+with malware, and also helped to spread disinformation against Bolsonaro
+and his supporters to justify their actions. They argue, based on an
+obscure interpretation of Article 142 of the Brazilian constitution,
+that the army\'s true mission was to moderate between the legislative,
+executive, and judicial powers.[^11] However, their true plan was to
+instigate social chaos by paralyzing roads, attacking the seat of
+government power, stopping public services, and through enough pressure,
+forcing Lula da Silva to call the army so they could overthrow its
 commander-in-chief and president and thus declare military rule.
 
 In this turmoil, fake news played a decisive role in the failed coup
@@ -165,12 +165,12 @@ According to Cicero,[^16] true rhetoric does not ignore reality, but
 rather integrates the discourse (*verba*), knowledge about its subject,
 things (*res*), and the context or the audience of the discourse.
 Rhetoric is not merely a manipulation of emotions but a discourse that
-connects knowledge and communication techniques. Pericles' speeches are
+connects knowledge and communication techniques. Pericles\' speeches are
 a perfect example of this conception of rhetoric. Although he seeks to
 convince the audience, his discourse mobilizes a series of knowledge.
 Pericles was efficient only insofar as he concatenated a set of
 knowledge and facts to communicate the truthfulness of the events.[^17]
-Classical rhetoric aims to persuade the crowd’s infatuations by
+Classical rhetoric aims to persuade the crowd's infatuations by
 referring to certain facts and through a set of knowledge and
 techniques. Its uses and strategies depend on a certain knowledge of the
 subject, political action, and human emotions, even if it is merely
@@ -203,14 +203,14 @@ subvert the truth in the form of memes and fake news.[^20]
 In a different methodological approach, but one equally rooted in the
 concept of cultural or semiotic contagion between the two realms,
 Richard Dawkins, a North American scholar, introduced the term meme
-(derived from the supposed theory of memetics), or ‘mind virus’.
-According to this theory, the meme is the ‘basic unit of imitation’,
+(derived from the supposed theory of memetics), or 'mind virus'.
+According to this theory, the meme is the 'basic unit of imitation',
 capable of reproducing a cultural repertoire, much like a gene
 reproduces a biological structure. However, the virus operates in both
 directions, contributing to the saturation of culture through media
 images.[^21]
 
-Like classical rhetoric, memes aim to affect the audience's emotions,
+Like classical rhetoric, memes aim to affect the audience\'s emotions,
 but they do so on a different level. Memes do not depend on a rational
 construction of arguments whereas rhetoric acts on the emotions of
 self-interested individuals, which can be understood rationally.
@@ -229,14 +229,14 @@ jeopardizing their freedom, jobs, savings, and even their lives?
 An analysis of Bolsonarist symbolism can shed light on the nature of
 their memetic discourse. For instance, we could consider two strategic
 symbols: the large yellow and green phallus balloon displayed at several
-protests on Avenida Paulista, one of São Paulo’s main avenues, and the
-epithet *imbrochável* – a neologism in Portuguese meaning unbreakable
+protests on Avenida Paulista, one of São Paulo's main avenues, and the
+epithet *imbrochável* -- a neologism in Portuguese meaning unbreakable
 but which in this context designates someone who never loses an erection
-and is always ready to perform sexual acts – assigned by Bolsonaro
+and is always ready to perform sexual acts -- assigned by Bolsonaro
 himself and his supporters on an Independence Day celebration rally
 while the presidential campaign was in full swing in late 2022. The
 fixation on the phallus and on the virility of the leader and the meme
-with phallus-shaped feeding bottles being introduced into toddlers’
+with phallus-shaped feeding bottles being introduced into toddlers'
 mouths by nursery teachers, is an almost cheap and vulgar literary
 expression of the Freudian unconscious. In this way, the memetic
 communication of the alt-right mobilizes the collective unconscious of
@@ -285,15 +285,15 @@ thereby excluding all reasonable and critical discourse.[^26]
 The main operative of these communities relies on information disorders
 performed through the usage of fake news, memes, and conspiracy
 theories, among others, that reinforce each other and occupy a large
-portion of its members' worldview. They create a totalizing worldview
+portion of its members\' worldview. They create a totalizing worldview
 that both replaces and excludes previous assumptions that are not
-connected to, or that go against the group's discourse. The members of
+connected to, or that go against the group\'s discourse. The members of
 these communities often share racial, gender, and class prejudices,
 which serve as criteria for selecting new members. In addition, these
 communities tend to attack and exclude any member who diverges from
 their mental dispositions. If someone posts divergent opinions or tries
 to reason with the group, that is, uses critical thinking, they face
-public defamation, thereby reinforcing the group's beliefs and
+public defamation, thereby reinforcing the group\'s beliefs and
 preventing dissent within the group.
 
 In *Anti-Oedipus*, Deleuze and Guattari argue that each society produces
@@ -305,24 +305,24 @@ closed structure and algorithmic logic of social media platforms create
 an ideal environment for this kind of herd mentality. However, this
 structure is maintained through a set of unspoken rules. Michele Prado
 describes how these rules operate in WhatsApp communities and how they
-help in constructing echo chambers.[^28] According to Prado’s study,
+help in constructing echo chambers.[^28] According to Prado's study,
 these groups exclude any communication that deviates from their beliefs
 and are known for organizing political persecutions against opponents or
 ex-members. They also refuse to engage in any dialogue that challenges
 their dogmatic positions. Moreover, they react aggressively to anyone
-who questions fake news or criticizes Bolsonaro's government. This
+who questions fake news or criticizes Bolsonaro\'s government. This
 ostracism can quickly escalate and spill over into the real world.[^29]
 Michele Prado, who was an active participant in these groups, was
 expelled, persecuted online, and received numerous death threats when
-she began to question Bolsonaro's measures on the COVID-19 pandemic.
+she began to question Bolsonaro\'s measures on the COVID-19 pandemic.
 
 When the traditional media presents information that threatens the
-integrity of a group’s discourse or identity, members of that group
+integrity of a group's discourse or identity, members of that group
 often respond by denying this information. They may disqualify
 journalists by conjuring up conspiratorial theories or labeling them as
-'cultural Marxists'. For instance, when Bolsonaro supporters were
+\'cultural Marxists\'. For instance, when Bolsonaro supporters were
 confronted with scenes of violence during the failed coup in Brasilia on
-January 8th, 2023, they sought to repair the group's integrity by
+January 8th, 2023, they sought to repair the group\'s integrity by
 spreading fake news. They accused one of their own leaders of being an
 infiltrator for left-wing parties and shared a meme with alleged proof
 of infiltrated members in the riots. A meme circulated on social media
@@ -383,7 +383,7 @@ system, each individual functions as a node in a network, consuming,
 creating, and forwarding communication according to community
 parameters. A successful meme is not determined by how well it adheres
 to the parameters of a true utterance, but rather by its ability to
-mobilize the unconscious and anxieties of the crowd. Bolsonaro's
+mobilize the unconscious and anxieties of the crowd. Bolsonaro\'s
 supporters thus pervert the principle of noncontradiction in their
 discourse. While this principle traditionally refers to internal
 coherence, Brazilian conservatives use it to exclude any disturbances
@@ -401,20 +401,20 @@ having social status, or avoiding self-contradiction. Rather, it is
 about being part of the same circle, sharing the same positions, and
 despising the same enemies. A reliable person in those circles is
 someone who never contradicts the discourse of the community. For
-instance, Abraham Weintraub, Bolsonaro's former minister of education,
+instance, Abraham Weintraub, Bolsonaro\'s former minister of education,
 had his speeches and posts widespread and repeated in the extremist
 communities and was therefore considered a reliable and trustworthy
-authority figure in the first years of Bolsonaro’s term. When he broke
+authority figure in the first years of Bolsonaro's term. When he broke
 apart with the movement his opinion became suddenly discredited and he
 became an enemy of the community. Rocha named this technique of
-dehumanization and discrediting of a political adversary a ‘nullifier
-disqualification’. The technique aims to deny the subjectivity of
-enemies and put them in a position of maximum alterity: ‘The effect is
+dehumanization and discrediting of a political adversary a 'nullifier
+disqualification'. The technique aims to deny the subjectivity of
+enemies and put them in a position of maximum alterity: 'The effect is
 terrifying, as it authorizes the complete dehumanization of those who do
-not share one's own convictions. And since this is a technique - never
+not share one\'s own convictions. And since this is a technique - never
 forget it - the nullifying disqualification, as perfected by Olavo de
 Carvalho, was taught and multiplied by the myriad of right-wing
-YouTubers'.[^33]
+YouTubers\'.[^33]
 
 João C. Rocha[^34] and Patrícia de Mello[^35] argue that Bolsonarism has
 a rhetoric based on hate. It is true that there is a discursive
@@ -422,7 +422,7 @@ technique founded on hate, but it is less certain that this technique is
 purely rhetorical. Olavo de Carvalho developed his rhetorical-discursive
 techniques on his YouTube channel in the form of pseudo-philosophy
 lessons for his followers. However, there is no systematic development
-of his thinking. If we analyze Olavo de Carvalho's commentaries about
+of his thinking. If we analyze Olavo de Carvalho\'s commentaries about
 his own style, it becomes clear that he never fully comprehends the
 nature or reach of his own techniques. His discursive technique is not a
 product of an explicitly elaborated art, as rhetoric is, but rather an
@@ -439,7 +439,7 @@ express themselves.
 
 Nonetheless, alt-right communication is not merely an accident of the
 unconscious. In addition to what became known as digital militias made
-up of anonymous supporters, communication under Bolsonaro’s government
+up of anonymous supporters, communication under Bolsonaro's government
 involved a coordinated political agency that resembled a military
 propaganda strategy. The coordination of digital Brazilian alt-right
 communication surpasses in many ways the strategies of left-wing
@@ -456,22 +456,22 @@ over control of the Amazon Forest. The armed forces even published a
 book called *The Yanomami Farce*[^36] that supports that thesis.
 Furthermore, Bolsonaro and Araújo jeopardized their own careers to
 support that COVID-19 was a conspiracy to attack individual liberties.
-Since the main goal of Bolsonaro’s term was reelection, his government
+Since the main goal of Bolsonaro's term was reelection, his government
 was a series of motorcycle rallies, campaign speeches, and populist
 measures, but he bet all his chips on the thesis of the COVID-19
 conspiracy. If he had adopted a reasonable policy during the pandemic,
 if he had not scorned dead and sick people publicly as he did, if he had
 not let seven hundred thousand people die, he would probably have been
-reelected. But why did he pose for pictures chasing the Esplanada’s emus
+reelected. But why did he pose for pictures chasing the Esplanada's emus
 with a box of chloroquine in his hands? Why would a well-established
 economist, such as Finance Minister Guedes, or a career diplomat, such
 as Araújo, jeopardize their reputation and liberty to support the
-bullshit of 'cultural Marxism'? Why would thousands of reasonable,
+bullshit of \'cultural Marxism\'? Why would thousands of reasonable,
 ordinary people invade, occupy, and plunder public buildings to defend a
 coup? Because they really believe in these conspiracies, and because
 this discourse has been constructed since the end of the military
 dictatorship. Documents like the *Orvil Project,*[^37] a classified file
-that recounts a delusional version of Brazil’s history through a war
+that recounts a delusional version of Brazil's history through a war
 between communists and patriots, and whose last chapter is the cultural
 war, was written in the 1970s and has been unearthed by the far-right.
 
@@ -484,15 +484,15 @@ the 1950s, including the *John Birch Society* (founded in 1958), white
 supremacists, and later, Incels, Tea Party Organization,
 anti-immigration militias, and others. In France, they included the
 Front National (1972), the *Nouvelle Droite*, and the *Groupement de
-Recherche et d'Études Pour la Civilisation Européenne*, created in 1968.
-In Germany, there is the *Aktion Neue Rechte* (1972).[^38] In Brazil,
-leaders of the military dictatorship such as General Garrastazu Médici
-(president of Brazil between 1969 and 1974), General Ernesto Geisel (who
-followed Médici), as well as the infamous torturer Carlos Brilhante
-Ustra (to whom Bolsonaro dedicated his vote on Dilma Rousseff's
-impeachment),[^39] and more recently the ideologist Olavo de Carvalho
-and his disciples, and Jair Bolsonaro. Slowly and patiently, they have
-been infiltrating many social spaces in traditional parties,
+Recherche et d\'Études Pour la Civilisation Européenne*, created in
+1968. In Germany, there is the *Aktion Neue Rechte* (1972).[^38] In
+Brazil, leaders of the military dictatorship such as General Garrastazu
+Médici (president of Brazil between 1969 and 1974), General Ernesto
+Geisel (who followed Médici), as well as the infamous torturer Carlos
+Brilhante Ustra (to whom Bolsonaro dedicated his vote on Dilma
+Rousseff\'s impeachment),[^39] and more recently the ideologist Olavo de
+Carvalho and his disciples, and Jair Bolsonaro. Slowly and patiently,
+they have been infiltrating many social spaces in traditional parties,
 universities, armies, religious congregations, and schools.
 
 While the internet is instrumental in the rise of conservative
@@ -500,38 +500,39 @@ communities, many far-right scholars and ideologists have also published
 their worldviews in books and essays, often through respected academic
 publishers. For instance, Paul Gottfried, the founder of the
 paleoconservative[^40] movement, and James Division Hunter, the creator
-of the concept of 'cultural Marxism', are professors at US universities
-who have published works with some of the most important academic
-publishers in the US. A simulacrum device thus drives the discourse and
-communication of the alt-right. Conservative scholars often take
-scientific, sociological, and philosophical concepts and twist them into
-conspiratorial and delusional theories. They misinterpret the Gramscian
-concept of hegemony and the sociological concept of globalization as
-cultural Marxism and globalism, respectively, changing the moral signal
-value of original theories.[^41] Ideologists like Olavo de Carvalho then
-take these academic ideas and turn them into more accessible forms of
-communication.[^42] In their turn, social media influencers take these
-ideas and turn them into memes and fake news. This process is not
-straightforward and is not just one-way. While sometimes internet
-communicators can influence academics, in general, the communication
-process flows from scholars, politicians, and ideologues to internet
-communicators and lastly, the crowds. While the academic production of
-the alt-right constitutes a theoretical corpus, there is an unconscious
-guideline that runs through these theories that connects them to
-internet communities. Between the top and the bottom of this network, a
-series of translations and vulgarizations of conspiracy theories can be
-observed. This process is what I call a simulacrum process, driven by
-unconscious imperatives. Like Plato’s *simulacrum*, the process is
-driven by mimesis, as argued by Horbyk, Löfgren, Soriano, and
-Prymachenko, and where ‘imitation and mimicry are at the heart of ‘fake
-news’ just as Aristotelian mimesis is at the heart of fiction; but while
-a fictional text seeks to imitate life, ‘fake news’ texts imitate other
-texts, those of actual news. It is a meta-mimesis’.[^43]
+of the concept of \'cultural Marxism\', are professors at US
+universities who have published works with some of the most important
+academic publishers in the US. A simulacrum device thus drives the
+discourse and communication of the alt-right. Conservative scholars
+often take scientific, sociological, and philosophical concepts and
+twist them into conspiratorial and delusional theories. They
+misinterpret the Gramscian concept of hegemony and the sociological
+concept of globalization as cultural Marxism and globalism,
+respectively, changing the moral signal value of original theories.[^41]
+Ideologists like Olavo de Carvalho then take these academic ideas and
+turn them into more accessible forms of communication.[^42] In their
+turn, social media influencers take these ideas and turn them into memes
+and fake news. This process is not straightforward and is not just
+one-way. While sometimes internet communicators can influence academics,
+in general, the communication process flows from scholars, politicians,
+and ideologues to internet communicators and lastly, the crowds. While
+the academic production of the alt-right constitutes a theoretical
+corpus, there is an unconscious guideline that runs through these
+theories that connects them to internet communities. Between the top and
+the bottom of this network, a series of translations and vulgarizations
+of conspiracy theories can be observed. This process is what I call a
+simulacrum process, driven by unconscious imperatives. Like Plato's
+*simulacrum*, the process is driven by mimesis, as argued by Horbyk,
+Löfgren, Soriano, and Prymachenko, and where 'imitation and mimicry are
+at the heart of 'fake news' just as Aristotelian mimesis is at the heart
+of fiction; but while a fictional text seeks to imitate life, 'fake
+news' texts imitate other texts, those of actual news. It is a
+meta-mimesis'.[^43]
 
 The process can be described in four steps. First, conservative
 academics or organizations appropriate scientific and sociological
-concepts. For example, Gottfried and Hunter interpret Gramsci's concept
-of hegemony to create the idea of 'cultural Marxism', understood as a
+concepts. For example, Gottfried and Hunter interpret Gramsci\'s concept
+of hegemony to create the idea of \'cultural Marxism\', understood as a
 social and discursive battle of left-wing academics and politicians to
 gain dominance over the cultural and political realm. The second step
 involves alt-right politicians and ideologues translating this discourse
@@ -560,7 +561,7 @@ discourses in academia, while others emerge from common users at the
 bottom of the network. A significant number of them are created by
 disciples of ideologues or professionals of digital communication, who
 aim to manipulate the crowd. Nevertheless, this group creates pieces of
-communication as a strategy to support the 'cultural war' they believe
+communication as a strategy to support the \'cultural war\' they believe
 they are fighting. The strategy of memes informed by conspiracy
 theories, oriented by collective paranoid delusions, is just one example
 of how it can be deployed.
@@ -574,8 +575,8 @@ identity that strengthen collective identity and values are present at
 all levels. Conspiracy theories, as content, reiterate themselves
 through various communication formats, including fake news and memes.
 For example, the cock-pacifier meme is not a joke or an individual
-delusion. It is a materialization of the conspiracy theory of 'cultural
-Marxism' and globalism packaged as gender ideology, another term
+delusion. It is a materialization of the conspiracy theory of \'cultural
+Marxism\' and globalism packaged as gender ideology, another term
 invented by far-right and other conservative forces. According to this
 delusional approach, international agents of socialism invest against
 family values to attack traditional institutions and destroy Western
@@ -593,7 +594,7 @@ Deleuze.[^46]
 If you were to meet one of the rioters of the January 8 Planalto Riots
 in a professional or social setting, you probably would not be able to
 tell that they would have the capacity to participate in a terrorist act
-such as the invasion of Brasilia. Bolsonaro's supporters are mostly
+such as the invasion of Brasilia. Bolsonaro\'s supporters are mostly
 middle-class and college graduates who have access to knowledge and
 specialized journalistic publications. The issue is not access to
 quality information, but rather an underlying rational issue. It is also
@@ -610,7 +611,7 @@ believe in the fake news and memes that they create.
 
 By following military-specialized channels on YouTube during the first
 week of 2023, one could see a trove of seemingly journalistic pieces
-about army movements preparing for a coup. Even the Bolsonaro family's
+about army movements preparing for a coup. Even the Bolsonaro family\'s
 social media channels were filled with a multitude of hidden signals
 tailored to their audience, pointing to a big event, a great disruption.
 This means that the invasion was prepared and fed through social media
@@ -623,11 +624,11 @@ and politics are always filled with desires.
 
 ## Bibliography
 
-*‘Projeto Orvil’,* (n.d.),
-https://www.averdadesufocada.com/images/orvil/orvil\_completo.pdf.
+*'Projeto Orvil',* (n.d.),
+https://www.averdadesufocada.com/images/orvil/orvil_completo.pdf.
 
-Araújo, Ernesto. ‘Trump e o ocidente’, *Cadernos de Política Exterior*
-III.6 (Winter 2017): 323–358.
+Araújo, Ernesto. 'Trump e o ocidente', *Cadernos de Política Exterior*
+III.6 (Winter 2017): 323--358.
 
 Aristotele. *Retórica e Poética*, Torino: Unione Tipografico-Editrice
 Torinese, 2004.
@@ -635,13 +636,13 @@ Torinese, 2004.
 Barreto, Carlos Alberto L. M. *A farsa Ianomâmi*, Rio de Janeiro:
 Biblioteca do Exército Editora, 1995.
 
-Bible Gateway. '1 Corinthians 13:4-7 (NIV),' n.d.,
+Bible Gateway. \'1 Corinthians 13:4-7 (NIV),\' n.d.,
 https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A4-7&version=NIV.
 
 Carvalho, Olavo de. *O imbecil coletivo: Atualidades inculturais
 brasileiras,* São Paulo: Faculdade da Cidade Editora, 1997.
 
-Cicerón. *De l'oratoire*, Livre III, 5.19, Paris: Les Belles Lettres,
+Cicerón. *De l\'oratoire*, Livre III, 5.19, Paris: Les Belles Lettres,
 1971.
 
 Deleuze, Gilles. *Logique du sens*, Paris: Les Éditions du Minuit, 1982.
@@ -653,7 +654,7 @@ Columbia Press, 1995.
 Schizophrenia,* Minneapolis: University of Minnesota Press, 1983.
 
 Freud, Sigmund. *Negation*, *International Journal of Psycho-Analysis*
-6.4(1925):367–371.
+6.4(1925):367--371.
 
 \_\_\_\_\_. *Totem and Taboo*, London: Rutledge, 2001.
 
@@ -670,13 +671,13 @@ Gottfried, Paul Edward. *Multiculturalism and the Politics of Guilt,
 Toward a Secular Theocracy*, Columbia: University of Missouri Press,
 2002.
 
-Gramsci, Antonio. *Selection from Political Writings 1921–1926*,
+Gramsci, Antonio. *Selection from Political Writings 1921--1926*,
 Minneapolis: University of Minnesota Press, 1990.
 
 Horbyk, Roman, Löfgren, Isabel, Soriano, Cheryll and Prymachenko, Yana.
-‘Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
-Philippines, Brazil, Russia and Ukraine’, *Public Inquiry: The Journal
-of Kitsch, Camp and Mass Culture* 8.1 (2021): 30–54.
+'Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
+Philippines, Brazil, Russia and Ukraine', *Public Inquiry: The Journal
+of Kitsch, Camp and Mass Culture* 8.1 (2021): 30--54.
 
 Hunter, James D. *Cultural Wars: The struggle to define America - Making
 Sense of the Battle over Family, Art, Education, Law, and Politics*. New
@@ -691,19 +692,19 @@ Psychoanalysis. Book XVII*, New York/London: W. W. Norton & Company,
 Luhmann, Niklas, The Theory of Society. Vo. 1. Stanford: University of
 California Press, 2012.
 
-Marx, Karl. ‘The Eighteenth Brumaire of Louis Bonaparte’, in Robert
+Marx, Karl. 'The Eighteenth Brumaire of Louis Bonaparte', in Robert
 Tucker (ed.), T*he Marx-Engels Reader*, London/New York: W.W. Norton &
 Company, 1978.
 
 Mello, Patrícia C. *A máquina do ódio: Notas de uma repórter sobre Fake
 news e violência digital*, São Paulo: Companhia das Letras, 2020.
 
-Minnicino, Michael J. ‘The Frankfurt School and ‘political correctness’.
-*Fidelio*, 1 (Winter 1992): 4–27.
+Minnicino, Michael J. 'The Frankfurt School and 'political correctness'.
+*Fidelio*, 1 (Winter 1992): 4--27.
 
 Plato. *Gorgias*. Oxford: Clarendon Press, 1979.
 
-Poe, Edgar A. ‘The Purloined Letter’, In: Edgar A. Poe, *The Murder in
+Poe, Edgar A. 'The Purloined Letter', In: Edgar A. Poe, *The Murder in
 the Rue Morgue and The Purloined Letter*. Genoa: Black Cat Publishing,
 1999.
 
@@ -733,33 +734,33 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
     Bolsonaro, she participated in some Bolsonarist groups until the
     Covid Pandemics. When she began to question the government policies,
     she was persecuted by her fellow companions. In 2021, she wrote a
-    book about her experience in Bolsonaro’s trenches.
+    book about her experience in Bolsonaro's trenches.
 
-[^5]: A union isn’t a common term to translate the organizations of fans
+[^5]: A union isn't a common term to translate the organizations of fans
     of a club, but I believe is justified because of the social and
     political nature of this specific organization that has played a
     significant role in other recent historical events.
 
-[^6]: Bible Gateway, '1 Corinthians 13:4-7 (NIV),' n.d.
+[^6]: Bible Gateway, \'1 Corinthians 13:4-7 (NIV),\' n.d.
     https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A4-7&version=NIV.
 
 [^7]: See Paul Edward Gottfried, *Multiculturalism and the Politics of
     Guilt, Toward a Secular theocracy.* Columbia: University of Missouri
     Press, 2002.; Michael J. Minnicino, *The Frankfurt School and
-    ‘political correctness’*. *Fidelio* 1 (Winter 1992): 4–27; and James
-    D. Hunter, *Cultural Wars: The struggle to define America - Making
-    sense of the battle over family, art, education, law, and politics.*
-    New York: BasicBooks, 1992.
+    'political correctness'*. *Fidelio* 1 (Winter 1992): 4--27; and
+    James D. Hunter, *Cultural Wars: The struggle to define America -
+    Making sense of the battle over family, art, education, law, and
+    politics.* New York: BasicBooks, 1992.
 
 [^8]: Olavo de Carvalho was an astrologer and ideologue of the alt-right
     in Brazil. He has written numerous books criticizing the left-wing
     views, political correctness and supporting many alt-right leaders
     such as Trump and Putin. He influenced the emergence of Bolsonarism.
 
-[^9]: Ernesto H. F. Araújo, ‘Trump e o ocidente*’*, *Cadernos de
-    Política Exterior* III.6 (Winter2017): 323–358.
+[^9]: Ernesto H. F. Araújo, 'Trump e o ocidente*'*, *Cadernos de
+    Política Exterior* III.6 (Winter2017): 323--358.
 
-[^10]: Edgar A. Poe, ‘The Purloined Letter’, In Edgar A. Poe, *The
+[^10]: Edgar A. Poe, 'The Purloined Letter', In Edgar A. Poe, *The
     Murder in the Rue Morgue and The Purloined Letter*. Genoa: Black cat
     Publishing, 1999.
 
@@ -771,15 +772,15 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 [^13]: Aristotle, *Retorica e Poetica*. Torino: Unione
     Tipografico-Editrice Torinese, 2004.
 
-[^14]: Cicerón, *De l'oratoire: Livre III, 5, 19*. Paris: Les Belles
+[^14]: Cicerón, *De l\'oratoire: Livre III, 5, 19*. Paris: Les Belles
     Lettres, 1971.
 
 [^15]: Roman Horbyk, Isabel Löfgren, Yana Prymachenko, Cheryll Soriano.
-    ‘Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
-    Philippines, Brazil, Russia and Ukraine’. *Public Inquiry: The
+    'Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
+    Philippines, Brazil, Russia and Ukraine'. *Public Inquiry: The
     Journal of Kitsch, Camp and Mass Culture* 8.1 (Autumn 2021).
 
-[^16]: Cicerón, *De l'oratoire. Livre III, 5, 19*. Paris: Les Belles
+[^16]: Cicerón, *De l\'oratoire. Livre III, 5, 19*. Paris: Les Belles
     Lettres, 1971.
 
 [^17]: Thucydides, *The Peloponnesian War*. New York: Oxford University
@@ -788,17 +789,17 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 [^18]: Gilles Deleuze, *Logique du sens.* Paris: Les Éditions du Minuit,
     1982.
 
-[^19]: My thesis contradicts Plato's position on rhetoric. Plato asserts
-    that rhetoric is a kind of simulacrum of episteme. However, in his
-    theory of truth, he insists that opinion is distinct from an image
-    and holds a superior position in the hierarchy of knowledge.
+[^19]: My thesis contradicts Plato\'s position on rhetoric. Plato
+    asserts that rhetoric is a kind of simulacrum of episteme. However,
+    in his theory of truth, he insists that opinion is distinct from an
+    image and holds a superior position in the hierarchy of knowledge.
     Opinions are situated between images and rational argumentation. I
     argue that rhetoric is associated with opinion and the realm of
     politics, while memes are connected to artificial images; they serve
     as copies of opinionated arguments.
 
-[^20]: Horbyk, Löfgren, Soriano and Prymachenko. ‘Fake News as
-    Meta-Mimesis’.
+[^20]: Horbyk, Löfgren, Soriano and Prymachenko. 'Fake News as
+    Meta-Mimesis'.
 
 [^21]: Muniz Sodré, *Antropológica do espelho: uma teoria da comunicação
     linear e em rede.* Petrópolis: Vozes, 2002, p. 56. (Translated from
@@ -832,7 +833,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 [^30]: For example: Sigmund Freud, *Psycho-Analytic Notes upon an
     Autobiographical Account of a Case of Paranoia (Dementia
     paranoides)*. London: White Press, 2014; Sigmund Freud, *Totem and
-    Taboo.* London: Rutledge, 2001; Sigmund Freud, ‘Negation’,
+    Taboo.* London: Rutledge, 2001; Sigmund Freud, 'Negation',
     *International Journal of Psycho-Analysis* 6.4, (July, 1925):
     367-371.
 
@@ -853,11 +854,11 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
     Biblioteca do Exército Editora, 1995.
 
 [^37]: *Orvil* is a classified document produced by the Intelligence
-    Service of the Brazilian Army in the 80’s. There is no date or
+    Service of the Brazilian Army in the 80's. There is no date or
     author. The document has been circulating in many extremist
-    communities since the 2000’s. The word *Orvil* is an inversion of
-    *Livro*, which means ‘book’ in Portuguese. ‘Projeto Orvil’,
-    https://www.averdadesufocada.com/images/orvil/orvil\_completo.pdf.
+    communities since the 2000's. The word *Orvil* is an inversion of
+    *Livro*, which means 'book' in Portuguese. 'Projeto Orvil',
+    https://www.averdadesufocada.com/images/orvil/orvil_completo.pdf.
 
 [^38]: Michele Prado, *Tempestade Ideológica*.
 
@@ -880,13 +881,13 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 [^42]: Olavo de Carvalho, *O imbecvil coletivo: Atualidades inculturais
     brasileiras.*
 
-[^43]: Horbyk, Löfgren, Soriano and Prymachenko. ‘Fake News as
-    Meta-Mimesis’.
+[^43]: Horbyk, Löfgren, Soriano and Prymachenko. 'Fake News as
+    Meta-Mimesis'.
 
-[^44]: Horbyk, Löfgren, Soriano and Prymachenko. ‘Fake News as
-    Meta-Mimesis’.
+[^44]: Horbyk, Löfgren, Soriano and Prymachenko. 'Fake News as
+    Meta-Mimesis'.
 
-[^45]: Karl Marx, ‘The Eighteenth Brumaire of Louis Bonaparte’. In
+[^45]: Karl Marx, 'The Eighteenth Brumaire of Louis Bonaparte'. In
     Robert Tucker (Ed.)*The Marx-Engels Readers*. London/New York: W.W.
     Norton & Company, 1978: 594-495.
 

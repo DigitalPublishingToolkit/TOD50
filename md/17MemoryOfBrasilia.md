@@ -23,17 +23,17 @@ Rights: CC BY-NC 4.0
 
 The union of art, life and architecture is analyzed within the process
 of creating panels and tiles by Brazilian artist Athos Bulcão
-(1918-2008). Bulcão’s work is distinguished by a method whereby
+(1918-2008). Bulcão's work is distinguished by a method whereby
 construction workers actively participated in the process of aesthetic
 and technical assembly of the murals. This is the starting point for the
 project that examines aspects of modernism in the construction of
-Brasília in the late 1950s. Bulcao’s works are poetic insertions in the
+Brasília in the late 1950s. Bulcao's works are poetic insertions in the
 construction of Brasília. It is this relationship between artist and
 worker, city and landscape that builds the common thread linking all the
 research that resulted in a series of silkscreens on plywood, two videos
 and a wall painting.
 
-*Memory from Brasília* contextualizes these aspects of Bulcão’s
+*Memory from Brasília* contextualizes these aspects of Bulcão's
 historical work in relation to the city today. It reflects upon an
 important artist in the recent history of Brazil and discusses modernist
 architecture and its utopias as a means of transforming Brazilian

@@ -82,9 +82,9 @@ Contrariando temores e especulações, foi um dia de festa, com desfile em
 carro aberto pelo Eixo Monumental de Brasília.
 
 Ato seguido a sua posse, o presidente Lula viajou a Santos-SP para o
-enterro do ‘Rei do Futebol’. Edson Arantes do Nascimento, defenestrado
+enterro do 'Rei do Futebol'. Edson Arantes do Nascimento, defenestrado
 politicamente em decorrência de manifestação pró-governos militares na
-década de 1970, quando afirmou que ‘brasileiro não sabia votar’, havia
+década de 1970, quando afirmou que 'brasileiro não sabia votar', havia
 falecido e com ele ia-se o ídolo Pelé. 
 
 Uma semana depois, no dia 8 de janeiro, um campo de batalha se instaurou
@@ -144,11 +144,11 @@ República em 1889. Alguns momentos históricos específicos da formação do
 Estado nacional ajudam a compreender o impacto que a tutela militar tem
 na democracia brasileira. Parte da literatura nacional atribui a
 interrupção do regime monárquico no Brasil, entre outros fatores e
-atores, aos militares – que já demonstravam a sua ascensão e interesse
+atores, aos militares -- que já demonstravam a sua ascensão e interesse
 na política.[^6] A Proclamação da República foi um grande acordo entre
 as elites dominantes, com ampla presença da Igreja e dos militares. O
-período clássico da República Velha (1889–1894) é reconhecido como a
-‘República da Espada’, justamente por ter sido governado de forma
+período clássico da República Velha (1889--1894) é reconhecido como a
+'República da Espada', justamente por ter sido governado de forma
 centralizada pelos marechais Deodoro da Fonseca e Floriano Peixoto.
 
 Outro destaque relevante é a revolta civil-militar de 1930 que resultou
@@ -160,7 +160,7 @@ anos. Na sequência, o Estado Novo brasileiro (1937-1945) foi
 praticamente uma aliança entre a elite burguesa e parte das burocracias
 civis e militares. Simpatias com o fascismo na década de 1930 e, com a
 eclosão da 2a. Guerra Mundial, adesão aos Aliados com o envio de tropas
-brasileiras, os 'pracinhas', em 1942 para lutar na Itália.
+brasileiras, os \'pracinhas\', em 1942 para lutar na Itália.
 
 A eleição do general Eurico Gaspar Dutra pelo voto direto do povo, em
 1946, marcou o início de uma experiência de um regime democrático no
@@ -178,8 +178,8 @@ lhe sucederam até 1985, com o retorno de civis à presidência.
 
 A tutela militar não se mostraria tão presente ainda na vida brasileira
 não fossem as operações de Garantia da Lei e da Ordem (GLO), as quais
-somam 36 entre 2010 e 2016. Iniciadas sob a denominação de 'Forças de
-Pacificação' nas favelas da Vila Cruzeiro e do Complexo do Alemão, na
+somam 36 entre 2010 e 2016. Iniciadas sob a denominação de \'Forças de
+Pacificação\' nas favelas da Vila Cruzeiro e do Complexo do Alemão, na
 cidade do Rio de Janeiro, elas inauguraram uma série de atividades com
 vistas à promoção de uma imagem de segurança da cidade em preparação
 para sediar as competições da Copa do Mundo de Futebol (2014) e dos
@@ -192,8 +192,8 @@ Televisão em seu telejornal de maior audiência deu mostras da profunda
 imbricação entre um grupo de mídia e o poder instituído.
 
 Observando-se o histórico esboçado, percebe-se que não foi à toa que o
-governo Bolsonaro se militarizou em diversas instâncias, triplicando –
-em relação à gestão anterior – a presença de militares em cargos civis
+governo Bolsonaro se militarizou em diversas instâncias, triplicando --
+em relação à gestão anterior -- a presença de militares em cargos civis
 na administração federal.[^9] Percebemos que a tutela militar na
 política e na sociedade brasileira se estabeleceu desde o início da
 formação do Estado nacional e não é algo que ressurja com Bolsonaro em
@@ -289,15 +289,15 @@ conteúdos ocupados na produção de informações falsas e na customização
 das bolhas.
 
 O *Gabinete do Ódio* foi capaz de desenvolver competências para
-inserir-se na articulação internacional da ‘rede trans-plataforma’
+inserir-se na articulação internacional da 'rede trans-plataforma'
 composta por *podcasts*, programação de *broadcast* e *cards*/memes para
 mídias sociais, especialmente Telegram e WhatsApp. A rede funciona tanto
 como um enclave cultural de desinformação para conservadores, quanto
-como um agente estruturante de um ‘contra-público’ da mídia de massa,
+como um agente estruturante de um 'contra-público' da mídia de massa,
 desafiando a institucionalidade e a cultura de mídia profissional. A
 estrutura montada manteve-se, no entanto, mesmo com o final do mandato,
-animando o bolsonarismo. As ‘plataformas de choque’ e as ‘plataformas
-policiais’ (do inglês *riot platforms and police platforms*),[^12] cuja
+animando o bolsonarismo. As 'plataformas de choque' e as 'plataformas
+policiais' (do inglês *riot platforms and police platforms*),[^12] cuja
 implantação e consolidação foi oportunizada pela política de segurança
 pública desenvolvida para recepcionar a Copa do Mundo de Futebol de 2014
 e os Jogos Olímpicos de 2016 parecem não ter dado notícia capaz de
@@ -317,7 +317,7 @@ A cobertura midiática voluntariosa dos ativistas (e também dos
 profissionais) dos incidentes de 8 de janeiro em Brasília afetou os
 brasileiros num primeiro momento, amplificando a sensação de medo e
 insegurança, uma apropriação brasileira do que nos Estados Unidos
-denominou-se de ‘revolta desenfreada’ (do inglês *riots uprising*).
+denominou-se de 'revolta desenfreada' (do inglês *riots uprising*).
 
 Assim, faz-se procedente perguntar sobre uma orientação prévia quanto à
 necessidade premente da geração de imagens de violência pública nos
@@ -327,7 +327,7 @@ público, dado que muitas outras iniciativas de ordem judicial haviam
 falhado no intento de impedir sua eleição e posse. 
 
 Os acontecimentos da capital federal materializam procedimentos próprios
-do que vem sendo debatido como ‘guerra híbrida’, dado que envolve
+do que vem sendo debatido como 'guerra híbrida', dado que envolve
 diversos dispositivos de desinformação e confronto de narrativas, e se
 assentam em um panorama conflituoso. Estabelecer conceitos e aplicá-los
 à realidade brasileira, no entanto, é tarefa espinhosa. O uso do
@@ -339,14 +339,14 @@ contribui, de certa forma, para a intensificação da confusão conceitual
 que já estava presente na gênese da noção. As análises de pesquisadores
 brasileiros que a utilizam reiteram a confusão conceitual e,
 especialmente, a imprecisão nas atribuições da esfera midiática na assim
-denominada ‘guerra híbrida’. E, por outro lado, seu uso no âmbito
+denominada 'guerra híbrida'. E, por outro lado, seu uso no âmbito
 jornalístico acaba por sancioná-la socialmente como categoria analítica,
 o que é fortemente criticado pelos defensores dos direitos humanos.[^14]
 
 Isso se deve a que as distintas denominações que apelam ao termo
-‘guerra’ buscam dar atenção ao panorama conflitivo que catalisa o centro
+'guerra' buscam dar atenção ao panorama conflitivo que catalisa o centro
 social da realidade brasileira. De uma maneira geral, entendem seus
-críticos que o recurso à denominação ‘guerra’ corrobora a manutenção de
+críticos que o recurso à denominação 'guerra' corrobora a manutenção de
 Forças Armadas num cenário que, a rigor, não demanda mobilização de
 efetivos militares. Os conflitos domésticos, responsáveis por dizimar
 mulheres, jovens pobres e negros, homossexuais e transsexuais, bem como
@@ -379,7 +379,7 @@ de veteranos cuja atuação na sociedade nacional mereceria críticas, uma
 vez que sua replicação vulnera os limites supostos ao uso da violência
 no espaço doméstico.[^19]
 
-Assim, o uso do conceito de ‘guerra híbrida’ em contextos distintos
+Assim, o uso do conceito de 'guerra híbrida' em contextos distintos
 daquele que o gerou mais obscurece do que esclarece aspectos da
 realidade que se analisa. Ademais, seu uso discursivo ambíguo no Brasil
 da atualidade tem servido para justificar cenários que permitem ações de
@@ -396,7 +396,7 @@ institucionalidade. Tomar os tumultos em Brasília com o propósito de
 construir uma provocação às forças militares que os autorizaria a
 coadjuvar junto às derrotadas forças bolsonaristas, configurando uma
 intentona de golpe de Estado. Assim, os tumultos teriam sido planejados
-com a potência de uma ‘bomba semiótica’,[^21] uma alegoria mascaradora
+com a potência de uma 'bomba semiótica',[^21] uma alegoria mascaradora
 do propósito de sustentar um golpe de Estado e desatar a insurgência
 militar.
 
@@ -418,8 +418,8 @@ conflitivas, a comunicação estratégica profissional,[^25] presente nos
 esforços da extrema-direita brasileira, em concordância com seus aliados
 transnacionais, utiliza as plataformas de mídias digitais para produzir
 efeitos de dissonância cognitiva coletiva.[^26] Essa perspectiva permite
-considerar que milhões de brasileiros são transformados em ‘combatentes
-involuntários’ de um conflito movido pela polarização política e de
+considerar que milhões de brasileiros são transformados em 'combatentes
+involuntários' de um conflito movido pela polarização política e de
 consequências ameaçadoras para a democracia. 
 
 Faz-se necessário remeter às mudanças ocorridas no uso social das
@@ -448,16 +448,16 @@ respeito à concentração que estava sendo planejada. Cogitavam se ela
 deveria ocorrer nos Quartéis Generais, que já estavam mobilizados desde
 outubro de 2022, ou no Palácio do Planalto. E uma maneira de unificar o
 movimento foi lançar a bandeira de mobilização para o 8 de janeiro.
-Várias *hashtags* foram detectadas. *\#Brazilianwasstolen*, por exemplo,
-como réplica do Capitólio - *\#stopthesteal*[^27] -, e outras anteriores
-como *\#brazilianspring*, *\#brazilwasstolen* e *\#intervencaofederal*.
-Consta que *\#festadaselma* foi a definitiva para a mobilização do dia 8
+Várias *hashtags* foram detectadas. *#Brazilianwasstolen*, por exemplo,
+como réplica do Capitólio - *#stopthesteal*[^27] -, e outras anteriores
+como *#brazilianspring*, *#brazilwasstolen* e *#intervencaofederal*.
+Consta que *#festadaselma* foi a definitiva para a mobilização do dia 8
 de janeiro. Eles teriam mudado para Selma para referir-se ao local da
-'festa', em alusão à Esplanada dos Ministérios, local habitual de
+\'festa\', em alusão à Esplanada dos Ministérios, local habitual de
 concentrações populares em Brasília. Um dos maiores grupos bolsonaristas
-no Telegram se chama Selva. E 'Selva!' é uma saudação militar no Brasil.
-Esta hashtag \#festadaselma circulou especialmente nas últimas 48h,
-enquanto as outras já circulavam desde novembro.
+no Telegram se chama Selva. E \'Selva!\' é uma saudação militar no
+Brasil. Esta hashtag #festadaselma circulou especialmente nas últimas
+48h, enquanto as outras já circulavam desde novembro.
 
 No caso dos Estados Unidos, os alertas circulados nas mídias sociais
 foram utilizados para incriminar a militância. As pessoas postaram
@@ -581,8 +581,8 @@ As imagens da Praça dos Três Poderes possuem vínculos que provêm do
 ambiente de desinformação, nutrido tanto pelo sistemático ataque da
 mídia de referência aos governos do Partido dos Trabalhadores (PT),
 quanto pelo sistema de redes operantes nas mídias sociais, especialmente
-desde 2013. Elas mantêm entre si um profundo laço de apelo ao ‘discurso
-de ódio’ como fonte comum de dotação de sentido. As reações críticas
+desde 2013. Elas mantêm entre si um profundo laço de apelo ao 'discurso
+de ódio' como fonte comum de dotação de sentido. As reações críticas
 provêm de um ambiente intelectual, ilustrado, que conta com dificuldades
 de capilarização na sociedade brasileira e, assim, sua capacidade de
 engendrar reações críticas é limitada. A reconstrução do tecido social,
@@ -610,18 +610,18 @@ radicalização. In ACIESP. *Fapesp 60 Anos: a ciência no desenvolvimento
 nacional*. São Paulo: ACIESP-Fapesp, 2022, pp.190-221.
 https://doi.org/10.4322/978-65-86819-27-4.1000007.
 
-Almeida, Frederico de. '“Vândalos”, “Trabalhadores” e “Cidadãos”:
+Almeida, Frederico de. \'"Vândalos", "Trabalhadores" e "Cidadãos":
 sujeição criminal e legitimidade política na criminalização dos
-protestos de junho de 2013', *Dados rev. ciênc. sociais* 63.4 (2020).
+protestos de junho de 2013\', *Dados rev. ciênc. sociais* 63.4 (2020).
 https://doi.org/10.1590/dados.2020.63.4.218
 
-Bolton, Derek. ‘Targeting Ontological Security: Information Warfare in
-the Modern Age’, *Political Psychology* 42.1 (2021): 127–42,
+Bolton, Derek. 'Targeting Ontological Security: Information Warfare in
+the Modern Age', *Political Psychology* 42.1 (2021): 127--42,
 https://doi.org/10.1111/pops.12691.
 
-Carvalho, José M. ‘Fundamentos da política e da sociedade brasileiras’,
+Carvalho, José M. 'Fundamentos da política e da sociedade brasileiras',
 in Lúcia Avelar and Antônio O. Cintra, *Sistema político brasileiro: uma
-introdução*. São Paulo: Unesp, 2007, pp. 19–34.
+introdução*. São Paulo: Unesp, 2007, pp. 19--34.
 
 Carvalho, José M. *Cidadania no Brasil: o longo caminho*, Rio de
 Janeiro: Civilização Brasileira, 2008.
@@ -629,21 +629,21 @@ Janeiro: Civilização Brasileira, 2008.
 Castro Rocha, João C. *Guerra cultural e retórica do ódio: crônicas de
 um Brasil pós-político*, Goiânia: Caminhos, 2021.
 
-Costa, Darc. 'Guerra psicológica nos novos tipos de guerra', *Revista
+Costa, Darc. \'Guerra psicológica nos novos tipos de guerra\', *Revista
 Silva* 2.2(2018): 17-32,
 http://www.ebrevistas.eb.mil.br/silva/article/view/11109.
 
-Cruz, Isabela. ‘Entrevista de Julio C. Rodrigues: Confiança nas
-instituições gerou erro na percepção de risco’, *Nexo Jornal*, 9 janeiro
+Cruz, Isabela. 'Entrevista de Julio C. Rodrigues: Confiança nas
+instituições gerou erro na percepção de risco', *Nexo Jornal*, 9 janeiro
 2023, https://encurtador.com.br/wyCPT.
 
 Dayan, Daniel and Katz, Elihou. *Media Events. The live broadcasting of
 the history*, Cambridge-MA: Harvard University Press, 1992.
 
 Dourado, Maria E. B., Leite, Alexandre C. C., and Nobre, Fábio R. F.
-‘Guerra híbrida vs. Gibridnaya Voyna: os diferentes significados dos
-conflitos híbridos para o Ocidente e para a Rússia’, *Esc. Guerra Nav.*
-26.1 (2020): 39–64, https://10.21544/1809-3191.v26n1.p39-64.
+'Guerra híbrida vs. Gibridnaya Voyna: os diferentes significados dos
+conflitos híbridos para o Ocidente e para a Rússia', *Esc. Guerra Nav.*
+26.1 (2020): 39--64, https://10.21544/1809-3191.v26n1.p39-64.
 
 Fausto, Boris. *História do Brasil,* São Paulo: USP, 2009.
 
@@ -658,7 +658,7 @@ https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/.
 
 Heidelberg Institute for International Conflict Research (HIIK).
 *Conflict Barometer 2021*, Heidelberg, 2022,
-https://hiik.de/wp-content/uploads/2022/03/CoBa\_01.pdf.
+https://hiik.de/wp-content/uploads/2022/03/CoBa_01.pdf.
 
 Leirner, Piero. *O Brasil no espectro de uma guerra híbrida: Militares,
 operações psicológicas e política em perspectiva etnográfica*, São
@@ -668,16 +668,16 @@ Liang, Qiao and Xiangsui, Wang. *A guerra além dos limites: conjecturas
 sobre a guerra e a tática na era da globalização,* Beijing: Pla
 Literature and Arts Publishing House, 1999.
 
-liu, michelle c. et al. ‘Riot Platforms: Protest, Police, Planet’,
-*Antipode* 54.6 (2022): 1901–1922, https://doi.org/10.1111/anti.12861.
+liu, michelle c. et al. 'Riot Platforms: Protest, Police, Planet',
+*Antipode* 54.6 (2022): 1901--1922, https://doi.org/10.1111/anti.12861.
 
 Neto, Lira. *Getúlio: dos anos de formação à conquista do poder
 (1982-1930)*, São Paulo: Companhia das Letras, 2012.
 
 Pascual, Alejandra Leonor. *Terrorismo de Estado,* Brasília: UnB, 2004.
 
-Passos, Anaís Medeiros. ‘¿Guerra al crimen organizado? Favelas e
-intervención militar en Brasil’, in Carolina Sampó and Sonia Alda (ed.),
+Passos, Anaís Medeiros. '¿Guerra al crimen organizado? Favelas e
+intervención militar en Brasil', in Carolina Sampó and Sonia Alda (ed.),
 *La transformación de las Fuerzas Armadas en América Latina ante el
 crimen organizado*. Lima/Madrid: Ejército del Perú/Real Instituto
 Elcano, 2019, pp. 207-226.
@@ -694,24 +694,24 @@ Schmidt, Flávia de H. *Nota técnica. Presença de militares em cargos e
 funções comissionados do executivo federal*, Brasília: Instituto de
 Pesquisa Econômica Aplicada, 2022.
 
-Silva, João C. J. ‘Análise histórica das Constituições brasileiras’,
-*Ponto e Vírgula* 10 (2011): 217–244,
+Silva, João C. J. 'Análise histórica das Constituições brasileiras',
+*Ponto e Vírgula* 10 (2011): 217--244,
 http://revistas.pucsp.br/index.php/pontoevirgula/article/viewFile/13910/10234.
 
-Silveira, Ada C. M. 'A Cavalaria como imagem de mundo: *manu militari* e
-ambivalências ético-políticas'. *Galáxia* 47 (2022):1–24,
+Silveira, Ada C. M. \'A Cavalaria como imagem de mundo: *manu militari*
+e ambivalências ético-políticas\'. *Galáxia* 47 (2022):1--24,
 https://doi.org/10.1590/1982-2553202256876.
 
 Souza, Jessé. *A ralé brasileira: quem é e como vive,* Rio de Janeiro:
 Civilização Brasileira, 2022.
 
-Suresh, Vishnuprasad P. et al. ‘Tracking Fringe and Coordinated Activity
-on Twitter Leading Up To the US Capitol Attack’, *Data Paper*,
+Suresh, Vishnuprasad P. et al. 'Tracking Fringe and Coordinated Activity
+on Twitter Leading Up To the US Capitol Attack', *Data Paper*,
 https://doi.org/10.48550/arXiv.2302.04450.
 
 Waiselfisz, Julio Jacob. *Mapa da violência 2016. Homicídios por armas
 de fogo no Brasil*. Flacso/Brasil, 26 August 2015,
-https://flacso.org.br/files/2016/08/Mapa2016\_armas\_web-1.pdf.
+https://flacso.org.br/files/2016/08/Mapa2016_armas_web-1.pdf.
 Flacso/Brasil.
 
 [^1]: Professora do Departamento de Ciências da Comunicação da
@@ -727,12 +727,12 @@ Flacso/Brasil.
     Universidade Federal de Santa Maria, Brasil.
     camilahartmann6@gmail.com
 
-[^4]: michelle c. liu et al., ‘Riot Platforms: Protest, Police, Planet’,
-    *Antipode* 54.6 (2022): 1901–1922.
+[^4]: michelle c. liu et al., 'Riot Platforms: Protest, Police, Planet',
+    *Antipode* 54.6 (2022): 1901--1922.
     https://doi.org/10.1111/anti.12861.
 
-[^5]: Isabela Cruz, ‘Entrevista de Julio C. Rodriguez: Confiança nas
-    instituições gerou erro na percepção de risco’, *Nexo Jornal*, 9
+[^5]: Isabela Cruz, 'Entrevista de Julio C. Rodriguez: Confiança nas
+    instituições gerou erro na percepção de risco', *Nexo Jornal*, 9
     January 2023, https://encurtador.com.br/wyCPT.
 
 [^6]: Boris Fausto, *História do Brasil,* São Paulo: USP, 2009.
@@ -740,52 +740,52 @@ Flacso/Brasil.
     José M. de Carvalho, *Cidadania no Brasil: o longo caminho*, Rio de
     Janeiro: Civilização Brasileira, 2008.
 
-    José M. de Carvalho. ‘Fundamentos da política e da sociedade
-    brasileiras’, in Lúcia Avelar and Antônio O. Cintra, *Sistema
+    José M. de Carvalho. 'Fundamentos da política e da sociedade
+    brasileiras', in Lúcia Avelar and Antônio O. Cintra, *Sistema
     político brasileiro: uma introdução*, São Paulo: Unesp, 2007,
     pp.19-34.
 
 [^7]: Lira Neto, *Getúlio: dos anos de formação à conquista do poder
     (1982-1930)*, São Paulo: Companhia das Letras, 2012.
 
-[^8]: João C. J. Silva, ‘Análise histórica das Constituições
-    brasileiras’, *Ponto e Vírgula* 10 (2011): 217-244.
+[^8]: João C. J. Silva, 'Análise histórica das Constituições
+    brasileiras', *Ponto e Vírgula* 10 (2011): 217-244.
     http://revistas.pucsp.br/index.php/pontoevirgula/article/viewFile/13910/10234.
 
 [^9]: Flávia de H. Schmidt, *Nota técnica. Presença de militares em
     cargos e funções comissionados do executivo federal*, Brasília:
     Instituto de Pesquisa Econômica Aplicada, 2022.
 
-[^10]: Ada C. M. Silveira. 'A cavalaria como imagem de mundo: *manu
-    militari* e ambivalências ético-políticas'. *Galáxia* 47 (2022):
+[^10]: Ada C. M. Silveira. \'A cavalaria como imagem de mundo: *manu
+    militari* e ambivalências ético-políticas\'. *Galáxia* 47 (2022):
     1-24, https://doi.org/10.1590/1982-2553202256876.
 
 [^11]: Daniel Dayan and Elihou Katz, *Media Events. The live
     broadcasting of the history*, Cambridge, MA: Harvard University
     Press,1992.
 
-[^12]: michele c. liu et al., , ‘Riot Platforms: Protest, Police,
-    Planet’, *Antipode* 54.6 (2022): 1901–1922.
+[^12]: michele c. liu et al., , 'Riot Platforms: Protest, Police,
+    Planet', *Antipode* 54.6 (2022): 1901--1922.
     https://doi.org/10.1111/anti.12861
 
 [^13]: Maria E. B. Dourado, Alexandre C. C. Leite, and Fábio R. F.
-    Nobre, ‘Guerra híbrida vs. Gibridnaya Voyna: os diferentes
+    Nobre, 'Guerra híbrida vs. Gibridnaya Voyna: os diferentes
     significados dos conflitos híbridos para o Ocidente e para a
-    Rússia’, *Esc. Guerra Nav.* 26.1 (2020): 39–64,
+    Rússia', *Esc. Guerra Nav.* 26.1 (2020): 39--64,
     10.21544/1809-3191.v26n1.p39-64.
 
-[^14]: Frederico de Almeida. '“Vândalos”, “Trabalhadores” e “Cidadãos”:
+[^14]: Frederico de Almeida. \'"Vândalos", "Trabalhadores" e "Cidadãos":
     sujeição criminal e legitimidade política na criminalização dos
-    protestos de junho de 2013', *Dados rev. ciênc. sociais* 63.4
+    protestos de junho de 2013\', *Dados rev. ciênc. sociais* 63.4
     (2020). https://doi.org/10.1590/dados.2020.63.4.218
 
 [^15]: Heidelberg Institute for International Conflict Research (HIIK),
     *Conflict Barometer 2021*, Heidelberg, 2022,
-    https://hiik.de/wp-content/uploads/2022/03/CoBa\_01.pdf.
+    https://hiik.de/wp-content/uploads/2022/03/CoBa_01.pdf.
 
 [^16]: Julio Jacobo Waiselfisz, *Mapa da violência 2016. Homicídios por
     armas de fogo no Brasil.* Flacso/Brasil, 26 August 2015,
-    https://flacso.org.br/files/2016/08/Mapa2016\_armas\_web-1.pdf.
+    https://flacso.org.br/files/2016/08/Mapa2016_armas_web-1.pdf.
 
 [^17]: Fórum Brasileiro de Segurança Pública. *Anuário Brasileiro de
     Segurança Pública*, São Paulo: FBSP, 2023,
@@ -794,13 +794,13 @@ Flacso/Brasil.
 [^18]: Silvia Ramos (Coord.). *A dor e a luta: números do feminicídio,*
     Rio de Janeiro: Rede de Observatórios da Segurança - CESeC, 2021.
 
-[^19]: Anaís Medeiros Passos. '¿Guerra al crimen organizado? Favelas e
+[^19]: Anaís Medeiros Passos. \'¿Guerra al crimen organizado? Favelas e
     intervención militar en Brasil, in Carolina Sampó and Sonia Alda,
     *La transformación de las Fuerzas Armadas en América Latina ante el
     crimen organizado*. Lima/Madrid: Ejército del Perú/Real Instituto
-    Elcano, 2019, pp. 207–226.
+    Elcano, 2019, pp. 207--226.
 
-[^20]: Sergio Adorno et al. 'Violência e radicalização', in ACIESP.
+[^20]: Sergio Adorno et al. \'Violência e radicalização\', in ACIESP.
     *Fapesp 60 Anos: a ciência no desenvolvimento nacional*. São Paulo:
     ACIESP-Fapesp, 2022, pp.190-221.
     https://doi.org/10.4322/978-65-86819-27-4.1000007.
@@ -813,23 +813,23 @@ Flacso/Brasil.
     Militares, operações psicológicas e política em perspectiva
     etnográfica*, São Paulo: Alameda, 2020.
 
-[^23]: Darc Costa, 'Guerra psicológica nos novos tipos de guerra',
-    *Revista Silva* 2.2 (2018): 17–32. Also avaliable from:
+[^23]: Darc Costa, \'Guerra psicológica nos novos tipos de guerra\',
+    *Revista Silva* 2.2 (2018): 17--32. Also avaliable from:
     http://www.ebrevistas.eb.mil.br/silva/article/view/11109.
 
 [^24]: Qiao Liang and Wang Xiangsui, *A guerra além dos limites:
     conjecturas sobre a guerra e a tática na era da globalização,*
     Beijing: Pla Literature and Arts Publishing House, 1999.
 
-[^25]: Derek Bolton, ‘Targeting Ontological Security: Information
-    Warfare in the Modern Age’, *Political Psychology* 42.1 (2021):
+[^25]: Derek Bolton, 'Targeting Ontological Security: Information
+    Warfare in the Modern Age', *Political Psychology* 42.1 (2021):
     127-42, https://doi.org/10.1111/pops.12691.
 
 [^26]: João C. de Castro Rocha, *Guerra cultural e retórica do ódio:
     crônicas de um Brasil pós-político*, Goiânia: Caminhos, 2021.
 
-[^27]: Vishnuprasad P. Suresh et al, ‘Tracking Fringe and Coordinated
-    Activity on Twitter Leading Up To the US Capitol Attack’, *Data
+[^27]: Vishnuprasad P. Suresh et al, 'Tracking Fringe and Coordinated
+    Activity on Twitter Leading Up To the US Capitol Attack', *Data
     Paper,* https://doi.org/10.48550/arXiv.2302.04450.
 
 [^28]: Jessé Souza, *A ralé brasileira: quem é e como vive,* Rio de

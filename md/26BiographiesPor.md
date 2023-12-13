@@ -39,8 +39,8 @@ Federal do Rio de Janeiro e Doutorado em Filosofia, Arte e Pensamento
 Crítico pela European Graduate School - EGS (Suíça). Suas áreas de
 pesquisa incluem política visual, arte contemporânea, filosofia das
 mídias e ativismo midiático. Tem uma prática artística desde 2003 com
-diversas exposições, prêmios e editais como IASPIS – The Swedish Arts
-Grants Committee e FUNARTE – Fundação Nacional de Artes, e colabora
+diversas exposições, prêmios e editais como IASPIS -- The Swedish Arts
+Grants Committee e FUNARTE -- Fundação Nacional de Artes, e colabora
 frequentemente com laboratórios e coletivos artísticos, instituições de
 arte e organizações da sociedade civil em sua prática de pesquisa
 artística. Ela escreveu extensamente sobre cultura popular digital,
@@ -104,9 +104,9 @@ pinturas e poesias de rebelião. Participou de diversas exposições
 coletivas, entre elas *O que há de música em você*, na Athena Galeria de
 Arte, outubro de 2023, *Sol a Sol*, na Galeria Arte Fasam, agosto de
 2020; *A Casa Carioca*, no MAR-Rio, 2020; *Atelier Sanitário +
-Bastardo*, no Centro Cultural Phábrika, 2018; *Entre \#4*, na Portas
+Bastardo*, no Centro Cultural Phábrika, 2018; *Entre #4*, na Portas
 Vilaseca Galeria, 2017; e *Tudo fora de ordem*, Espaço Saracura, 2017.
-Instagram: @leandro\_barboza.
+Instagram: \@leandro_barboza.
 
 **Viviane Borelli** é professora associada do Programa de Pós-Graduação
 em Comunicação e dos cursos de Comunicação Social - Jornalismo, Produção
@@ -114,8 +114,8 @@ Editorial, Relações Públicas e Publicidade e Propaganda da Universidade
 Federal de Santa Maria (UFSM), de Santa Maria, RS. É doutora em Ciências
 da Comunicação pela Unisinos, São Leopoldo, RS. Coordena o Grupo de
 Pesquisa Comunicação Midiática e Estratégias Comunicacionais (Cimid) e o
-projeto de pesquisa ‘Sociedades em midiatização: circulação, discursos e
-plataformas’. Seus interesses de pesquisa são na área de midiatização,
+projeto de pesquisa 'Sociedades em midiatização: circulação, discursos e
+plataformas'. Seus interesses de pesquisa são na área de midiatização,
 teorias da comunicação, semiótica, discurso, circulação, humor e meme,
 política e religião. E-mail: viviane.borelli@ufsm.br.
 
@@ -142,8 +142,8 @@ social, artes cênicas e mídia. Seus interesses de pesquisa incluem temas
 de democracia, mudanças climáticas, mídia e arte indígena, participação
 dos povos indígenas na política global, justiça socioambiental, ativismo
 digital, artivismo e decolonização. Em sua dissertação de mestrado
-intitulada ‘Democracia, uma Heroína Trágica Carnavalesca: as narrativas
-de um movimento social transnacional contra o golpe no Brasil’ (2020),
+intitulada 'Democracia, uma Heroína Trágica Carnavalesca: as narrativas
+de um movimento social transnacional contra o golpe no Brasil' (2020),
 Fortes investigou a emergência de formas de resistência entre
 brasileira(o)s em diáspora contra a virada autoritária no Brasil desde
 2016 e desenvolveu o conceito de democracia como uma heroína trágica
@@ -160,8 +160,8 @@ Jornalismo (2017) pela UFSM. Integrante do Grupo de Pesquisa
 Comunicação, Identidades e Fronteiras - CIFront (UFSM/CNPq) desde 2014 e
 do MagNet, rede internacional de pesquisadores em estudos de revistas,
 desde a sua fundação, em 2023. Dentre as suas publicações destaca-se o
-capítulo 'Convertendo a exclusão social em notícia: a visibilidade da
-periferia em capas de revista' na edição de 2018 do livro da Associação
+capítulo \'Convertendo a exclusão social em notícia: a visibilidade da
+periferia em capas de revista\' na edição de 2018 do livro da Associação
 Nacional dos Programas de Pós-Graduação em Comunicação (COMPÓS), Brasil.
 Os termos mais frequentes na contextualização de sua produção
 científica, tecnológica e artístico-cultural são: periferia,
@@ -175,18 +175,18 @@ Desenho Industrial / Programação Visual pela UFRJ - Universidade Federal
 do Rio de Janeiro. É professor do ensino médio em escolas particulares
 atuando com educação audiovisual e em multimídia, Professor de cursos
 técnicos e livres em instituições privadas e Organizações Não
-Governamentais com ações em escolas públicas. Em sua tese ‘Canto da lama
-- pedagogia e cinema desde el sur contra a necropolítica’ apresenta o
-Cinema Ambiental Desde el Sur como uma forma de enxergar como a autoria
-de atingidos por crimes ambientais pode apresentar contravisualidades no
-enfrentamento às corporações por reparações, com uso de auto narrativas
-a partir de ferramentas audiovisuais a partir de práticas educacionais
-dialógicas. Ele é pesquisador do GEASur - Grupo de Estudos em Educação
-Ambiental Desde el Sur desde 2017 e fundador do CAN - Cineclube
-Atlântico Negro, que desde 2008 propõe o uso do cinema de autoria negra
-para uma educação antirracista e a favor dos direitos humanos. Como
-cineasta realizou 29 filmes de diversos gêneros, em sua maioria
-documentários.
+Governamentais com ações em escolas públicas. Em sua tese 'Canto da
+lama - pedagogia e cinema desde el sur contra a necropolítica' apresenta
+o Cinema Ambiental Desde el Sur como uma forma de enxergar como a
+autoria de atingidos por crimes ambientais pode apresentar
+contravisualidades no enfrentamento às corporações por reparações, com
+uso de auto narrativas a partir de ferramentas audiovisuais a partir de
+práticas educacionais dialógicas. Ele é pesquisador do GEASur - Grupo de
+Estudos em Educação Ambiental Desde el Sur desde 2017 e fundador do
+CAN - Cineclube Atlântico Negro, que desde 2008 propõe o uso do cinema
+de autoria negra para uma educação antirracista e a favor dos direitos
+humanos. Como cineasta realizou 29 filmes de diversos gêneros, em sua
+maioria documentários.
 
 **Tatiana Letier Pinto** é uma brasileira arquiteta, artista e
 pesquisadora independente atualmente morando em Estocolmo. Seu trabalho
@@ -213,11 +213,11 @@ Tlaxcala). Dedicou-se a análises aprofundadas da atividade midiática e
 reconstrução da noticiabilidade frente a confrontos entre uma percepção
 litorânea e elitista do jornalismo, a qual estigmatiza os espaços
 periféricos nacionais, como o são as favelas, as largas fronteiras
-brasileiras e a Amazônia, análises presentes no livro 'Conexões
-(trans)fronteiriças' (Silveira e Guimarães 2016) e o capítulo 'The name
-of the other' (Silveira, Guimarães e Schwartz 2017). Seus principais
-interesses de investigação dizem respeito a midiatização, jornalismo e
-securitização e ComDev. E-mail: ada.silveira@ufsm.br.
+brasileiras e a Amazônia, análises presentes no livro \'Conexões
+(trans)fronteiriças\' (Silveira e Guimarães 2016) e o capítulo \'The
+name of the other\' (Silveira, Guimarães e Schwartz 2017). Seus
+principais interesses de investigação dizem respeito a midiatização,
+jornalismo e securitização e ComDev. E-mail: ada.silveira@ufsm.br.
 
 **Alecsandra Matias de Oliveira** é Doutora em Artes Visuais (ECA USP).
 Pós-doutorado em Artes Visuais (UNESP). Professora do CELACC (ECA USP).
@@ -233,9 +233,9 @@ atualmente mestranda na área de Comunicação pela Universidade Federal de
 Santa Maria (UFSM), Brasil, na linha de pesquisa de mídia e estratégias
 comunicacionais. Seus interesses de pesquisa incluem a comunicação
 social e política dentro das redes sociais na era da plataformização,
-fazendo parte do grupo de pesquisa ‘Circulação midiática’. Em sua
-dissertação ‘A batalha espiritual em voto: a circulação de sentidos no
-acontecimento \#bolsonarosatanista nas eleições presidenciais de 2022’,
+fazendo parte do grupo de pesquisa 'Circulação midiática'. Em sua
+dissertação 'A batalha espiritual em voto: a circulação de sentidos no
+acontecimento #bolsonarosatanista nas eleições presidenciais de 2022',
 ainda em construção, desenvolve a articulação entre a presença dos
 evangélicos na política brasileira e o impacto das estratégias
 discursivas dentro do Twitter no período das eleições presidenciais de
@@ -299,21 +299,22 @@ anti-vacina francês Collectif Lyon Pour La Liberté.
 
 **Gabriela Schneider** é doutora em Comunicação pela Universidade
 Federal de Santa Maria - UFSM, Brasil. Professora dos cursos de Direito
-e de Segurança Pública Municipal da Faculdade de Direito de Santa Maria
-- FADISMA. Advogada, atuante na Comissão de Direitos Humanos da Ordem
-dos Advogados do Brasil - OAB, em Santa Maria. Pesquisadora associada do
-Grupo de Estudos em Capacidade Estatal, Segurança e Defesa - GECAP, e
-integrante do Grupo de Pesquisa Comunicação, Identidades e Fronteiras -
-CIFront, ambos da UFSM. É autora da tese de doutorado 'Mídia e Segurança
-Pública no Brasil: O Jornal Nacional e a securitização da Intervenção
-Federal no Rio de Janeiro (2018)', defendida em 2023 e orientada pela
-Profa. Dra. Ada Cristina Machado Silveira. Dedicou-se aos estudos
-relacionados ao estado brasileiro, especialmente referente à aquisição
-de direitos e aos sistemas penais, presentes no artigo 'A Relação
-Histórica entre o Processo de Aquisição de Direitos e o Sistema
-Acusatório no Brasil' (Schneider e Callegari 2018). Seus interesses de
-pesquisa incluem mídia, discursos jornalísticos, segurança pública,
-violência, direito penal e direitos humanos.
+e de Segurança Pública Municipal da Faculdade de Direito de Santa
+Maria - FADISMA. Advogada, atuante na Comissão de Direitos Humanos da
+Ordem dos Advogados do Brasil - OAB, em Santa Maria. Pesquisadora
+associada do Grupo de Estudos em Capacidade Estatal, Segurança e
+Defesa - GECAP, e integrante do Grupo de Pesquisa Comunicação,
+Identidades e Fronteiras - CIFront, ambos da UFSM. É autora da tese de
+doutorado \'Mídia e Segurança Pública no Brasil: O Jornal Nacional e a
+securitização da Intervenção Federal no Rio de Janeiro (2018)\',
+defendida em 2023 e orientada pela Profa. Dra. Ada Cristina Machado
+Silveira. Dedicou-se aos estudos relacionados ao estado brasileiro,
+especialmente referente à aquisição de direitos e aos sistemas penais,
+presentes no artigo \'A Relação Histórica entre o Processo de Aquisição
+de Direitos e o Sistema Acusatório no Brasil\' (Schneider e Callegari
+2018). Seus interesses de pesquisa incluem mídia, discursos
+jornalísticos, segurança pública, violência, direito penal e direitos
+humanos.
 
 **Gustavo Speridião** é artista plástico, vive e trabalha no Rio de
 Janeiro. Produz desenhos, colagens, pinturas, instalações, esculturas,
@@ -323,17 +324,17 @@ critica e se envolve com a história da arte e a cultura contemporânea.
 Desde 2018 desenvolve com Leandro Barboza o projeto FAIXA PROTESTA, que
 leva faixas às manifestações com pinturas e poesias de rebelião.
 Speridião participou de diversas exposições coletivas com destaque para
-'Imagine Brazil' sob curadoria de Gunnar B. Kvaran, Thierry Raspail e
-Hans Ulrich Obrist (2013-2015). Apresentou as individuais 'Chronicle du
-Trouble' curada por Thierry Raspail (galeria Les Filles du Calvaire,
-Paris, 2020), 'Quilômetros' (Sé galeria, São Paulo, 2017), 'Géometrie.
-Montage. Equilibrage. Photos e Videos' (Maison Européenne de La
-Photographie, Paris, 2013) e as exposições simultâneas 'Sobre Pintura' e
-'Time Color' curadas por Miguel Chaia (Sé galeria, São Paulo, 2021).
-Dentre os prêmios recebidos, destacam-se o Projéteis Artes Visuais, da
-Funarte, em 2007 e o Marcantônio Villaça/FUNARTE (Aquisição para o
-acervo do Museu de Arte Contemporânea de Niterói), em 2010. Suas obras
-estão em importantes coleções públicas brasileiras como a do Museu
+\'Imagine Brazil\' sob curadoria de Gunnar B. Kvaran, Thierry Raspail e
+Hans Ulrich Obrist (2013-2015). Apresentou as individuais \'Chronicle du
+Trouble\' curada por Thierry Raspail (galeria Les Filles du Calvaire,
+Paris, 2020), \'Quilômetros\' (Sé galeria, São Paulo, 2017),
+\'Géometrie. Montage. Equilibrage. Photos e Videos\' (Maison Européenne
+de La Photographie, Paris, 2013) e as exposições simultâneas \'Sobre
+Pintura\' e \'Time Color\' curadas por Miguel Chaia (Sé galeria, São
+Paulo, 2021). Dentre os prêmios recebidos, destacam-se o Projéteis Artes
+Visuais, da Funarte, em 2007 e o Marcantônio Villaça/FUNARTE (Aquisição
+para o acervo do Museu de Arte Contemporânea de Niterói), em 2010. Suas
+obras estão em importantes coleções públicas brasileiras como a do Museu
 Nacional de Belas Artes, Rio de Janeiro, a Coleção Gilberto
 Chateaubriand (Museu de Arte Moderna, Rio de Janeiro), a do Museu de
 Arte Contemporânea de Niterói e a do Museu de Arte do Rio de Janeiro

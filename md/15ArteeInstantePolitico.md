@@ -19,12 +19,11 @@ Rights: CC BY-NC 4.0
 
 # A arte e o instante político
 
-### \
-Alecsandra Matias de Oliveira[^1]
+###  Alecsandra Matias de Oliveira[^1]
 
-‘A história é objeto de uma construção cujo lugar não é o tempo
-homogêneo e o vazio, mas o tempo saturado de 'agoras'.’\
-– Walter Benjamin[^2]
+'A história é objeto de uma construção cujo lugar não é o tempo
+homogêneo e o vazio, mas o tempo saturado de \'agoras\'.'\
+-- Walter Benjamin[^2]
 
 Toda arte é política? Essa definitivamente é uma questão perturbadora. A
 crítica dos modernistas, o realismo social dos clubes de gravura, a
@@ -32,37 +31,38 @@ irreverência pop das bananas de Antônio Henrique Amaral, a acidez de
 Antônio Dias e a denúncia de João Câmara Filho, no fundo, tornaram-se
 exemplos de como os artistas brasileiros são tocados pelo instante que
 vivem. Aos historiadores e especialistas parecem mais seguras
-referências datadas entre 1930 e 1980 – quando as fronteiras entre arte
+referências datadas entre 1930 e 1980 -- quando as fronteiras entre arte
 e política, aparentemente, deixavam margens mais confortáveis para
-digressões e debates. Por que algumas produções atuais remetem aos 'anos
-de chumbo', ou seja, entendem que necessitam discutir o período mais
-tenebroso da ditadura civil-militar? Nesse exercício reflexivo, não se
-pode contar com certezas, a opção mais coesa é observar episódios que
+digressões e debates. Por que algumas produções atuais remetem aos
+\'anos de chumbo\', ou seja, entendem que necessitam discutir o período
+mais tenebroso da ditadura civil-militar? Nesse exercício reflexivo, não
+se pode contar com certezas, a opção mais coesa é observar episódios que
 convergem política e arte na história recente do Brasil. O desafio dos
 intelectuais, então, se resume em entender como lidar com obras que
-tratam sobre o contexto político desses dois decênios do século 21 – um
+tratam sobre o contexto político desses dois decênios do século 21 -- um
 período de reviravoltas.
 
-'Contra a foice e o martelo, a família marcha com Deus pela liberdade' –
-o slogan da 'revolução gloriosa' de 1964[^3] ainda ressoava nas ruas,
-quando em 1968, o mundo passou por insurreições estudantis: além das
-barricadas francesas, eclodiram os movimentos de contracultura nos EUA,
-a Primavera de Praga na República Tcheca, o Massacre de Tlatelolco no
-México, protestos no Japão e a Passeata dos 100 mil no Brasil. O desejo
-era de romper com todas as estruturas de poder em busca da felicidade. A
-promessa desses jovens era a de virar o mundo de ponta-cabeça.
+\'Contra a foice e o martelo, a família marcha com Deus pela liberdade\'
+-- o slogan da \'revolução gloriosa\' de 1964[^3] ainda ressoava nas
+ruas, quando em 1968, o mundo passou por insurreições estudantis: além
+das barricadas francesas, eclodiram os movimentos de contracultura nos
+EUA, a Primavera de Praga na República Tcheca, o Massacre de Tlatelolco
+no México, protestos no Japão e a Passeata dos 100 mil no Brasil. O
+desejo era de romper com todas as estruturas de poder em busca da
+felicidade. A promessa desses jovens era a de virar o mundo de
+ponta-cabeça.
 
 Considerado um ponto de inflexão (tal como, 1789, 1848 ou 1917), o ano
 de 1968, por seus antecedentes e por seus desdobramentos, tornou-se
-'ano-monumento', na historiografia contemporânea, ou seja, é 'aquele
-capaz de fazer recordar e reavivar' as reivindicações ligadas às ações
+\'ano-monumento\', na historiografia contemporânea, ou seja, é \'aquele
+capaz de fazer recordar e reavivar\' as reivindicações ligadas às ações
 libertárias e à mudança dos padrões da vida cotidiana. Ou ainda, aquele
 que rememora as críticas às instituições e à elitização da arte através
-de cartazes e de frases em muros que convocavam a 'Incendiar o Louvre'
-ou ainda ter 'a Gioconda no metrô'. 
+de cartazes e de frases em muros que convocavam a \'Incendiar o Louvre\'
+ou ainda ter \'a Gioconda no metrô\'. 
 
 Fomentados pelo espírito de revolta contra as hierarquias, obrigações e
-regras, os estudantes brasileiros entoavam: 'Abaixo a ditadura!'. Como
+regras, os estudantes brasileiros entoavam: \'Abaixo a ditadura!\'. Como
 golpe final à liberdade de expressão, o governo militar apoiado por
 grupos de direita instituiu o Ato Institucional de no. 5 (o AI-5),
 decretando o recesso do Congresso e cassando dezenas de mandatos de
@@ -80,27 +80,27 @@ integraram, cada vez mais, os trabalhos. Adotaram-se a marginalidade
 experimental como enfrentamento dos códigos moralistas em vigor, o
 emprego de um alto nível de codificação e a circulação da obra em
 circuitos alternativos (como, os cineclubes, performances e a arte
-postal, por exemplo). Em alguns casos, o 'terrorismo cultural' destruiu
-obras e levou muitos artistas à clandestinidade e ao exílio. Professores
-como o físico e crítico de arte Mario Schenberg foram aposentados
-compulsoriamente nas universidades brasileiras. Mas, observemos como os
-artistas e críticos de arte se comportaram diante dos acontecimentos de
-1968.
+postal, por exemplo). Em alguns casos, o \'terrorismo cultural\'
+destruiu obras e levou muitos artistas à clandestinidade e ao exílio.
+Professores como o físico e crítico de arte Mario Schenberg foram
+aposentados compulsoriamente nas universidades brasileiras. Mas,
+observemos como os artistas e críticos de arte se comportaram diante dos
+acontecimentos de 1968.
 
 Um pouco antes do AI-5, a *IX Bienal de São Paulo*, também conhecida
-como a 'Bienal do Pop', trouxe as obras de artistas norte-americanos,
+como a \'Bienal do Pop\', trouxe as obras de artistas norte-americanos,
 como Jasper Johns, Andy Warhol, Roy Lichtenstein, Robert Rauschenberg e
-Edward Hopper – a crítica à sociedade de consumo era o mote desses
+Edward Hopper -- a crítica à sociedade de consumo era o mote desses
 trabalhos. A pop americana admitia a crise da arte que se estendia desde
 o início do século 20 e expôs a massificação da cultura popular
 capitalista. Buscando a estética das massas, essas obras aproximaram-se
 do *kitsch*. Porém, a grande polêmica nesta edição da bienal ficou por
 conta da retirada pela polícia federal, antes da abertura da mostra, das
 obras *O presente*, de Cybèle Varela e *Meditação sobre a bandeira
-nacional*, de Quissak Jr., consideradas ofensivas e anti-nacionalistas –
-fato que nos coloca a diferente leitura entre a nossa pop e a americana.
-Qual seria a tônica que provocou a censura das duas obras brasileiras no
-certame? 
+nacional*, de Quissak Jr., consideradas ofensivas e anti-nacionalistas
+-- fato que nos coloca a diferente leitura entre a nossa pop e a
+americana. Qual seria a tônica que provocou a censura das duas obras
+brasileiras no certame? 
 
 Talvez, eventos ocorridos meses depois nos revelem mais pistas. No *IV
 Salão de Arte Moderna* *do Distrito Federal*, Nelson Leirner submeteu à
@@ -108,7 +108,7 @@ avaliação do júri a obra *O porco* (1966) e essa foi aceita.
 Provocativo, Leirner publicou no *Jornal da Tarde* uma fotografia da
 obra e questionava os critérios do júri para o aceite. Ocorreu, então,
 uma forte contestação ao sistema da arte que envolvia instituições
-artísticas e críticos de arte: 'o que, afinal, é considerado arte?',
+artísticas e críticos de arte: \'o que, afinal, é considerado arte?\',
 perguntava o artista. 
 
 Ainda no mesmo salão, impactados pela recente morte do guerrilheiro
@@ -125,12 +125,12 @@ tornando-se uma das peças principais de sua produção).
 
 Nos três episódios envolvendo a *Bienal* e o *Salão de Arte Moderna do
 Distrito Federal* já se identificava a crítica travestida de ironia à
-ditadura militar e ao velho sistema de legitimação da arte – marca
+ditadura militar e ao velho sistema de legitimação da arte -- marca
 profunda dessa produção brasileira. Percebe-se também a sombra da
 censura militar cercando as exposições. Nesse sentido, o embate entre
 arte e ditadura estava definitivamente posto às claras. Aqui, as
-perspectivas divergem: para muitos pesquisadores, 'não foi a arte que
-enfrentou a ditadura: foi a ditadura que enfrentou a arte'.[^5]
+perspectivas divergem: para muitos pesquisadores, \'não foi a arte que
+enfrentou a ditadura: foi a ditadura que enfrentou a arte\'.[^5]
 
 De qualquer modo, a ideia de morte como símbolo do momento político e a
 denúncia da prática de tortura exercida pelos militares se fazem
@@ -142,35 +142,35 @@ conservadora movida pela cultura de massa.
 
 Na série temática das bananas, Antônio Henrique Amaral nos convoca à
 imersão numa ironia amarga, referindo-se à situação política do país em
-fins da década de 1960 – comparável as 'republiquetas de bananas', termo
-pejorativo dedicado aos países latino-americanos militarizados e sob a
-influência dos EUA – lembremos que o golpe militar de 1964 foi apoiado e
-estimulado por agências governamentais norte-americanas e empresas
-multinacionais. Marcello Nitsche, no trabalho *Aliança para o progresso*
-(1965) também expôs a situação de submissão do Brasil para com os EUA,
-porém, em 1968, ele apresentou na 'Bienal do Pop', as bolhas, grandes
-esculturas infláveis que permitiam a interação com o público – outro
-modo de subverter o estado de apreciação da obra (não mais a
-contemplação e sim a participação).
+fins da década de 1960 -- comparável as \'republiquetas de bananas\',
+termo pejorativo dedicado aos países latino-americanos militarizados e
+sob a influência dos EUA -- lembremos que o golpe militar de 1964 foi
+apoiado e estimulado por agências governamentais norte-americanas e
+empresas multinacionais. Marcello Nitsche, no trabalho *Aliança para o
+progresso* (1965) também expôs a situação de submissão do Brasil para
+com os EUA, porém, em 1968, ele apresentou na \'Bienal do Pop\', as
+bolhas, grandes esculturas infláveis que permitiam a interação com o
+público -- outro modo de subverter o estado de apreciação da obra (não
+mais a contemplação e sim a participação).
 
 Na décima edição da bienal, a intervenção militar nas artes visuais
 atingiu campo internacional. Os eventos que originaram a também chamada
-de 'Bienal do Boicote', ocorreram em janeiro de 1969, quando o Museu de
-Arte Moderna do Rio de Janeiro foi invadido por militares armados com
+de \'Bienal do Boicote\', ocorreram em janeiro de 1969, quando o Museu
+de Arte Moderna do Rio de Janeiro foi invadido por militares armados com
 metralhadoras. Sua diretora, Niomar Muniz Sodré, foi presa e as obras
 selecionadas para representar o país na Bienal de Jovens em Paris foram
 impedidas de participar da mostra francesa. Em fins de 1968, a Bienal da
 Bahia e mostras em Ouro Preto e Belo Horizonte tinham sido censuradas
 com semelhante violência. Iniciou-se, então, um movimento nacional e
-internacional de questionamento à Bienal de São Paulo – isto porque ela
+internacional de questionamento à Bienal de São Paulo -- isto porque ela
 empregava recursos estatais em sua organização e mantinha-se calada
 frente à repressão em outras instituições artísticas. 
 
 A adesão de Pierre Restany, crítico de arte, profundamente envolvido com
 o novo realismo (movimento que levantou questões semelhantes à pop
 inglesa e norte-americana) e encarregado da exposição de arte e
-tecnologia, foi o estopim para o movimento 'Non à la Biennale'. A
-polêmica foi intensa, mas, ao fim, a Bienal abriu suas portas – não com
+tecnologia, foi o estopim para o movimento \'Non à la Biennale\'. A
+polêmica foi intensa, mas, ao fim, a Bienal abriu suas portas -- não com
 a potencialidade que parecia ter antes do boicote, mas com o esforço de
 artistas e críticos que viram sua realização como um ato de resistência
 frente ao regime.
@@ -186,8 +186,9 @@ nos levou às restrições das liberdades individuais por mais de 20 anos.
 Evidentemente, as estratégias das artes visuais contra a ditadura
 militar orbitavam também por outras poéticas, tais como a de Cildo
 Meireles, Paulo Bruscky, Hélio Oiticica e Lygia Clark, entre tantos
-outros. O 'É proibido proibir' de maio de 1968, esteve no tropicalismo e
-nas proposições de diversos artistas. E essas são insurgências da arte.
+outros. O \'É proibido proibir\' de maio de 1968, esteve no tropicalismo
+e nas proposições de diversos artistas. E essas são insurgências da
+arte.
 
 ## \*\*\*
 
@@ -198,14 +199,14 @@ metáforas tão presentes nas narrativas contemporâneas. Aliás, as ficções
 sempre foram o vértice entre arte e política. Segundo Rancière, arte e
 política produzem ficções, construídas entre a aparência e a realidade,
 entre o visível e o seu significado, entre o singular e o comum.[^6]
-Então, os artistas trazem indagações envolvidas pelo 'calor da hora' e
+Então, os artistas trazem indagações envolvidas pelo \'calor da hora\' e
 continuam criando obras motivadas pelas circunstâncias políticas de sua
-época – algo que os teóricos não conseguem de modo tão tenaz,
+época -- algo que os teóricos não conseguem de modo tão tenaz,
 justamente, porque precisam do distanciamento do tempo.
 
 Nesse sentido, historiadores e demais intelectuais ficaram atônitos com
 as reverberações políticas atuais, entre elas, as Jornadas de Junho de
-2013 (também conhecidas por ‘Manifestações pelos 20 Centavos’), as
+2013 (também conhecidas por 'Manifestações pelos 20 Centavos'), as
 passeatas prol do impeachment da presidenta Dilma Rousseff, a Operação
 Lava Jato (2014/2021), a eleição de Jair Bolsonaro (2018-2022), a
 Invasão dos Três Poderes em 8 de janeiro de 2023 e suas demais
@@ -215,7 +216,7 @@ ainda articular historicamente esse processo político em curso.
 Já os trabalhos artísticos que emergem dessas circunstâncias não se
 conservam apenas no lugar de comentário da vida ou se colocam meramente
 como panfletos de militância partidária. As obras espelham demandas e
-sentimentos da coletividade – são declarações políticas que, em sua
+sentimentos da coletividade -- são declarações políticas que, em sua
 maioria, evocam o potencial transformador da arte. Lembremos que, em
 meio às táticas de protesto, surgem manifestações artísticas, tais como,
 fotografias, performances, grafites, música e dança que acabam por
@@ -223,7 +224,7 @@ compor uma estética contemporânea. Recordemos ainda que nos últimos 60
 anos, arte e política têm importante quebra de paradigmas.
 
 A partir do desmoronamento das metanarrativas, alguns estudiosos
-decretam o 'fim da história' ou o 'fim da arte'. Hans Belting, por
+decretam o \'fim da história\' ou o \'fim da arte\'. Hans Belting, por
 exemplo, não propôs o fim da arte, nem da história da arte como uma
 disciplina, mas apresentou fatores que marcaram o esgotamento
 epistemológico da tentativa eurocêntrica de enquadrá-las: o autor
@@ -244,7 +245,7 @@ historiográficas trazem preocupações e atividades que requerem o
 tratamento de questões sociais, de gênero, do corpo, da sexualidade e
 das instituições que detém algum tipo de poder (família, escola, igreja,
 entre outras) e todo e qualquer domínio dos saberes. O atual contexto
-político exige ainda a prática das micropolíticas – as pequenas
+político exige ainda a prática das micropolíticas -- as pequenas
 revoluções que provam que a existência é, fundamentalmente, um movimento
 de resistência. A inerente transgressão da arte permite sair do nível do
 discurso para a prática diária.
@@ -257,8 +258,8 @@ seja a sua própria ou a da coletividade. Artistas, coletivos e
 movimentos artísticos têm papel crucial na construção de seu tempo
 através de múltiplas linguagens estéticas. Alguns atingem um
 significativo grau de especificidade no modo de construção e se tornam,
-de certo modo, cronistas do cotidiano – uma expressão que somente pode
-ser compreendida através da reconstituição dos diversos 'agoras' – um
+de certo modo, cronistas do cotidiano -- uma expressão que somente pode
+ser compreendida através da reconstituição dos diversos \'agoras\' -- um
 tempo fraturado diante da profusão de imagens, sons e sentidos imersos
 na sociedade contemporânea. As práticas poéticas e políticas podem
 responder às atuais indagações e/ou podem implicar novas reflexões.
@@ -280,51 +281,52 @@ das tarifas de ônibus e metrô da capital paulista.
 
 Figura 1. Ciro Cozzolino, *SP JUN 2013* , 2013, acrílica sobre tela,
 147,2 cm x 185,1 cm x 5 cm, Museu de Arte Contemporânea da Universidade
-de São Paulo – MAC USP.
+de São Paulo -- MAC USP.
 
 A agitação nas ruas do país tornou-se intensa. No Rio de Janeiro e em
-outras cidades semelhantes, instituições financeiras foram atacadas –
+outras cidades semelhantes, instituições financeiras foram atacadas --
 parecia que as movimentações de Seattle, em 2000 - seriam o modelo para
 as mobilizações de 2013. Os protestos contra o FMI e o Banco Mundial
 surgiram como protótipo para a postura política daqueles jovens. Entre
 2000 e 2004, André Ryoki fotografou as movimentações anticapitalistas no
-Brasil. Nesses registros, O 'instante aprisionado' é a vertente mais
-acentuada. O fotógrafo leva o observador para o centro da cena – o
+Brasil. Nesses registros, O \'instante aprisionado\' é a vertente mais
+acentuada. O fotógrafo leva o observador para o centro da cena -- o
 coloca frente à movimentação e ao embate entre polícia e ativistas.
 Esbarrando entre o fotojornalismo e o uso da estética para a evocação
 política, Ryoki enfatiza a materialização da experiência lúdica,
 criativa e reivindicatória das manifestações. Em algumas imagens, as
-máscaras e os rostos dos jovens referem-se à resistência eternizada –
+máscaras e os rostos dos jovens referem-se à resistência eternizada --
 algo como a crônica do sonho e da utopia presente nos olhares de cada
 ativista retratado (Figuras 2 a 6).
 
 \[Figure 2\]
 
-Figure 2: André Ryoki, *Sem título* *(Manifestação "N9")*, 09 de
+Figure 2: André Ryoki, *Sem título* *(Manifestação \"N9\")*, 09 de
 novembro de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção
 do artista.
 
 \[Figure 3\]
 
-Figure 3: André Ryoki, *Sem título (Manifestação "A20")*, 20 de abril de
-2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do artista.
+Figure 3: André Ryoki, *Sem título (Manifestação \"A20\")*, 20 de abril
+de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
+artista.
 
 \[Figure 4\]
 
-Figure 4: André Ryoki, *Sem título* *(Manifestação "S26")*, 26 de
+Figure 4: André Ryoki, *Sem título* *(Manifestação \"S26\")*, 26 de
 setembro de 2000, filme 35mm p&b, sobre papel Ilford resinado, coleção
 do artista.
 
 \[Figure 5\]
 
-Figure 5: André Ryoki, *Sem título* *(Manifestação "A20")*, 20 de abril
-de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
+Figure 5: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
+abril de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
 artista.
 
 \[Figure 6\]
 
-Figure 6: André Ryoki, *Sem título* *(Manifestação "A20")*, 20 de abril
-de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
+Figure 6: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
+abril de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
 artista.
 
 Voltando ao ano de 2013 e ao Rio de Janeiro, Josely Carvalho recolheu os
@@ -335,7 +337,7 @@ o ato que irrompeu dos manifestantes; emoldurou a memória do vidro
 estilhaçado. Em 2018, após o assassinato de Marielle Franco, a artista
 resolveu atribuir seu nome à obra. Talvez, por compreender que o
 processo que se iniciou nas manifestações de 2013 tenha relações com a
-morte da vereadora carioca – e, de fato, Marielle foi morta por ser
+morte da vereadora carioca -- e, de fato, Marielle foi morta por ser
 mulher, negra, lésbica e incômoda às forças do aparelho estatal, cercado
 de colonialidade e patriarcalismo (Figura 7).
 
@@ -350,15 +352,15 @@ meritocrática e midiática. As Jornadas de Junho de 2013 ganharam um
 discurso voltado ao combate à corrupção. Elas integraram o processo
 histórico e, simultaneamente, prepararam as ruas para o impeachment da
 presidenta Dilma Rousseff e todos os seus desdobramentos. Nessas
-manifestações, 'vermelhos' e 'verdes-e-amarelos' tomaram as ruas e
+manifestações, \'vermelhos\' e \'verdes-e-amarelos\' tomaram as ruas e
 travaram batalhas no campo das reivindicações. Na memória de alguns
-deles, estavam o movimento dos 'caras-pintadas' e o impeachment de
+deles, estavam o movimento dos \'caras-pintadas\' e o impeachment de
 Collor, em 1992. Nessa movimentação, encontravam-se artistas militantes
 à esquerda e artistas à direita (por que não?).
 
-Dos grandes aos pequenos acontecimentos, 'nada do que um dia acontecer
-pode ser considerado perdido para a história', como diria Walter
-Benjamin…[^7]e tampouco à arte. A revolução diária dos artistas
+Dos grandes aos pequenos acontecimentos, \'nada do que um dia acontecer
+pode ser considerado perdido para a história\', como diria Walter
+Benjamin...[^7]e tampouco à arte. A revolução diária dos artistas
 mostra-se profundamente comprometida com o combate à exclusão social.
 Beth Moysés está envolvida com universo feminino, trazendo para suas
 obras embates sobre gênero, identidade, abusos, violência doméstica,
@@ -378,7 +380,7 @@ momento político nos quais estamos imersos. O medo para alguns e o
 desejo para outros de uma intervenção militar vive presente entre nós.
 As referências ao regime militar, à repressão e à tortura são sombras
 que ameaçam a frágil democracia brasileira (mais do que nunca, a
-democracia estava sob ataque – sabemos agora) (Figura 8).
+democracia estava sob ataque -- sabemos agora) (Figura 8).
 
 \[Figure 8\]
 
@@ -390,8 +392,8 @@ apresenta símbolos de resistência, ao longo do mundo, bordados em
 camisetas usadas. São emblemas variados ligados à resistência feminina,
 negra e homossexual. Mostra o repertório imagético contrário ao nazismo,
 à polícia militar ou aos regimes ditatoriais, inclui o bordado de
-ícones, tais como, a máscara do Anonymous, os Black Blocs, o 'Pato da
-FIESP', a insígnia da CBF e homenagem aos desaparecidos políticos na
+ícones, tais como, a máscara do Anonymous, os Black Blocs, o \'Pato da
+FIESP\', a insígnia da CBF e homenagem aos desaparecidos políticos na
 ditadura. Esse é um trabalho sutil dentro do conjunto da obra da
 artista; ele é delicado na manufatura e pelos diversos significados que
 lhe podem ser atribuídos, mas ele discute, sobretudo, a situação social,
@@ -404,15 +406,15 @@ sobre camisa, coleção da artista.
 
 *Rebote*, 2020-2021 (série de retratos formada por 10 desenhos), de
 Rodrigo Linhares, subverte a lógica ensimesmada do corpo do artista que
-já não é mais protagonista solitário – algo comum na sua produção
+já não é mais protagonista solitário -- algo comum na sua produção
 anterior. Nesses retratos atuais, os modelos estão de costas para o
-espectador e rechaçam seu olhar – o que dá mais armas para a inquirição:
-quem são eles? O que observam? Por que protestam? Sim, seria repulsa? De
-fato, a imagem anterior de um corvo enforcado (presente em *Rebote*,
-2019), segundo o artista, refere-se a Vladimir Herzog, morto, em 1975,
-pelas forças repressoras da ditadura militar no Brasil. Décadas depois
-desse assassinato, sucessivas manifestações de rua pediam a volta do
-regime militar ao país[^8]. Então, o exercício de 'rebote' sugere a
+espectador e rechaçam seu olhar -- o que dá mais armas para a
+inquirição: quem são eles? O que observam? Por que protestam? Sim, seria
+repulsa? De fato, a imagem anterior de um corvo enforcado (presente em
+*Rebote*, 2019), segundo o artista, refere-se a Vladimir Herzog, morto,
+em 1975, pelas forças repressoras da ditadura militar no Brasil. Décadas
+depois desse assassinato, sucessivas manifestações de rua pediam a volta
+do regime militar ao país[^8]. Então, o exercício de \'rebote\' sugere a
 pulsão de morte e simultânea resistência ao retorno desse difícil
 período histórico (Figuras 10 e 11).
 
@@ -434,7 +436,7 @@ sobre a multidão e, em especial a transmissão da faixa presidencial
 feita por oito representantes da diversidade brasileira. Para além dos
 trabalhos individuais, vale a menção à exposição *Brasil Futuro: as
 formas da democracia*, com curadoria de Rogério Carvalho e Lilia
-Schwarcz, no Museu Nacional de Brasília – que integrou os festejos da
+Schwarcz, no Museu Nacional de Brasília -- que integrou os festejos da
 posse do terceiro mandato de Lula. Com 180 obras, a mostra deu o tom de
 celebração da democracia, do resgate dos símbolos nacionais e de atenção
 às pautas do feminismo, da negritude, dos povos originários, do
@@ -444,13 +446,13 @@ Sob a ocupação da cidade e as cerimônias de posse, colocamos, entre as
 proposições contemporâneas, a série fotográfica chamada *Empossamento*,
 2003, de Mauro Restiffe. Nesses registros, o evento histórico da posse
 do primeiro presidente vindo da classe trabalhadora, Lula. Naquele
-instante, Brasília recebia em suas vias a multidão – os trabalhadores
+instante, Brasília recebia em suas vias a multidão -- os trabalhadores
 ganharam protagonismo nessas imagens. Alguns críticos, classificaram
-essas fotografias como a 'desestabilização da arquitetura', uma vez que
-a arquitetura da cidade foi subjugada pela multidão. A propósito,
+essas fotografias como a \'desestabilização da arquitetura\', uma vez
+que a arquitetura da cidade foi subjugada pela multidão. A propósito,
 Restiffe também fez registros fotográficos da posse de Jair Bolsonaro,
 em 2019. E a comparação entre esses dois momentos históricos foi exposta
-na 34ª. edição da *Bienal de São Paulo 'Faz escuro, mas eu canto'*,
+na 34ª. edição da *Bienal de São Paulo \'Faz escuro, mas eu canto\'*,
 realizada em 2021. Se fez nítido a inflexão entre os dois momentos
 políticos do país: 2003 e 2019 se mostraram diversos política e
 esteticamente.
@@ -458,7 +460,7 @@ esteticamente.
 Porém, sete dias após a posse de 2023, seguiram-se notícias
 estarrecedoras: gritos de intervenção, invasão dos espaços
 institucionais dos três poderes, roubo e destruição de patrimônio
-público – algo muito diferente do espaço da cidade tomado de modo
+público -- algo muito diferente do espaço da cidade tomado de modo
 cidadão: os prédios públicos e símbolos democráticos foram invadidos.
 Acostumada a ser o centro nervoso da política do país, Brasília
 tornou-se, literalmente, campo de batalha. E nessa disputa, seu capital
@@ -481,7 +483,7 @@ pode confirmar, repudiar ou ainda revisar. No discurso da arte mostra-se
 a marca do tempo e a incitação política; no discurso da história, atuam
 a maturação e o decurso. Para a elaboração da história, se fazem
 necessários o recuo e o avanço temporal. Cabe aos artistas o registro
-sensível dos 'agoras' e aos historiadores o permanente reexame dessas
+sensível dos \'agoras\' e aos historiadores o permanente reexame dessas
 proposições.
 
 ## Bibliografia
@@ -495,17 +497,17 @@ Cultural, 2003.
 Belting, Hans. *O Fim da História da Arte: Uma Revisão Dez Anos Depois*.
 Trad. Rodinei Nascimento, São Paulo: Cosac & Naify, 2006.
 
-Benjamin, Walter. ‘Obras escolhidas. Magia e Técnica, Arte e Política’,
+Benjamin, Walter. 'Obras escolhidas. Magia e Técnica, Arte e Política',
 in Tânia Regina Zimmermann (org.) *Ensaios Sobre Literatura e História
 da Cultura*. São Paulo: Brasiliense, 1987, pp. 222-232.
 
-Benjamin, Walter. ‘Teses sobre o conceito da história’. In *O Anjo da
+Benjamin, Walter. 'Teses sobre o conceito da história'. In *O Anjo da
 História*. Belo Horizonte: Autêntica Editora, 2012,. pp. 7-20
 
-Cayses, Julia Buenaventura Valencia. ‘Isto não é uma obra: arte e
-ditadura’, *50 Anos do Golpe de 64*, *Estudos avançados*, 28.80 (April
+Cayses, Julia Buenaventura Valencia. 'Isto não é uma obra: arte e
+ditadura', *50 Anos do Golpe de 64*, *Estudos avançados*, 28.80 (April
 2014),
-http://www.scielo.br/scielo.php?script=sci\_arttext&pid=S0103-40142014000100011.
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142014000100011.
 
 Corrêa, Erick e Mhereb, Maria Teresa. *68 - Como Incendiar Um País*. São
 Paulo: Veneta, 2018.
@@ -513,54 +515,52 @@ Paulo: Veneta, 2018.
 Danto, Arthur. *Após o Fim da Arte. A Arte Contemporânea e os Limites da
 História.* São Paulo: Odysseus Editora, 2006.
 
-Oliveira, Alecsandra Matias. 'Contexto sociocultural da década de 70',
-In: Elza Ajzenberg, *Schenberg – Arte e Ciência*. São Paulo: ECA USP,
+Oliveira, Alecsandra Matias. \'Contexto sociocultural da década de 70\',
+In: Elza Ajzenberg, *Schenberg -- Arte e Ciência*. São Paulo: ECA USP,
 1995, pp. 129-142.\
-\_\_\_\_\_\_. ‘A arte pop brasileira...que gostava de política em 1968’.
-*Jornal da USP*, 24 October 2014,
+\_\_\_\_\_\_. 'A arte pop brasileira\...que gostava de política em
+1968'. *Jornal da USP*, 24 October 2014,
 https://jornal.usp.br/artigos/a-arte-pop-brasileira-que-gostava-de-politica-em-1968/.
 
-\_\_\_\_\_\_. ‘Brasília, 'traço do arquiteto'’. *Jornal da USP*, 31
+\_\_\_\_\_\_. 'Brasília, \'traço do arquiteto\''. *Jornal da USP*, 31
 January 2023.
 https://jornal.usp.br/articulistas/alecsandra-matias-de-oliveira/brasilia-traco-do-arquiteto/.
 
-\_\_\_\_\_\_. ‘Rebote’. *Aínas Magazine* 18 (2023): 59-62.
+\_\_\_\_\_\_. 'Rebote'. *Aínas Magazine* 18 (2023): 59-62.
 
 Otellado, Pablo e Ryoki, André. Estamos Vencendo! Resistência Global no
 Brasil. São Paulo: Conrad Editora do Brasil, 2004 (Coleção Baderna).
 
-Ranciére, Jacques. ’Política da arte’, in *São Paulo S.A. – práticas
+Ranciére, Jacques. 'Política da arte', in *São Paulo S.A. -- práticas
 estéticas, sociais e políticas em debate*. São Paulo: SESC, 2005.
-
-[[]{#headingh.gjdgxs .anchor}]{#_heading=h.gjdgxs .anchor}
 
 [^1]: Alecsandra Matias de Oliveira, doutora em Artes Visuais - ECA USP,
     crítica de arte e curadora independente. E-mail:
     alecsandramatias@gmail.com.
 
-[^2]: Walter Benjamin, ‘Teses sobre o conceito da história’. In *O Anjo
+[^2]: Walter Benjamin, 'Teses sobre o conceito da história'. In *O Anjo
     da História*. Belo Horizonte: Autêntica Editora, 2012,. pp. 7-20
 
 [^3]: O golpe militar surge na historiografia revisionista como
-    'revolução gloriosa'. Na verdade, trata-se da ditadura civil-militar
-    imposta ao Brasil, entre os anos de 1964 e 1985. Aqui, no texto, o
-    termo é irônico.
+    \'revolução gloriosa\'. Na verdade, trata-se da ditadura
+    civil-militar imposta ao Brasil, entre os anos de 1964 e 1985. Aqui,
+    no texto, o termo é irônico.
 
-[^4]: Alecsandra Matias de Oliveira. 'Contexto sociocultural da década
-    de 70', in Elza Ajzenberg *Schenberg – Arte e Ciência*, 1995, p.
+[^4]: Alecsandra Matias de Oliveira. \'Contexto sociocultural da década
+    de 70\', in Elza Ajzenberg *Schenberg -- Arte e Ciência*, 1995, p.
     129-142.
 
-[^5]: Julia Buenaventura Valencia Cayses, ‘Isto não é uma obra: arte e
-    ditadura’, 50 Anos do Golpe de 64, Estudos avançados, 28.80 (April
+[^5]: Julia Buenaventura Valencia Cayses, 'Isto não é uma obra: arte e
+    ditadura', 50 Anos do Golpe de 64, Estudos avançados, 28.80 (April
     2014),
-    http://www.scielo.br/scielo.php?script=sci\_arttext&pid=S0103-40142014000100011.
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142014000100011.
 
-[^6]: Jacques Rancière, ’Política da arte’, in *São Paulo S.A. –
+[^6]: Jacques Rancière, 'Política da arte', in *São Paulo S.A. --
     práticas estéticas, sociais e políticas em debate*. São Paulo: SESC,
     2005.
 
-[^7]: Walter Benjamin, ‘Teses sobre o conceito da história’. In *O Anjo
+[^7]: Walter Benjamin, 'Teses sobre o conceito da história'. In *O Anjo
     da História*. Belo Horizonte: Autêntica Editora, 2012,. pp. 7-20
 
-[^8]: Ver Alecsandra Matias de Oliveira, ‘Rebote’, *aínas magazine,*
+[^8]: Ver Alecsandra Matias de Oliveira, 'Rebote', *aínas magazine,*
     2023, pp. 59-62

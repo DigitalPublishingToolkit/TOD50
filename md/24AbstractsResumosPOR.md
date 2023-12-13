@@ -32,16 +32,16 @@ inconsciente coletivo que mobiliza identidades e símbolos em uma luta
 política. Analisamos o processo de criação e disseminação de memes a
 partir dos conceitos de retórica e simulacro.
 
-## A volta ao mundo com o ‘Patriota do Caminhão’: a memetização e a circulação do riso como ato de resistência política no período pós-eleitoral em 2022 no Brasil
+## A volta ao mundo com o 'Patriota do Caminhão': a memetização e a circulação do riso como ato de resistência política no período pós-eleitoral em 2022 no Brasil
 
 ### Viviane Borelli e Isabel Löfgren
 
 O capítulo mostra como a circulação do meme que ficou conhecido como
-'Patriota do Caminhão ' constituiu-se numa estratégia de resistência
+\'Patriota do Caminhão \' constituiu-se numa estratégia de resistência
 política e ativismo no periodo pós-eleitoral no pleito presidencial no
 Brasil em 2022. Assim que os resultados da eleição foram divulgados e a
 vitória do pleito dada a Luiz Inácio Lula da Silva, militantes
-bolsonaristas auto-denominados ‘patriotas’ organizaram bloqueios nas
+bolsonaristas auto-denominados 'patriotas' organizaram bloqueios nas
 estradas com apoio de grupos de caminhoneiros e de trabalhadores
 autônomos, e conivência de Polícia Rodoviária Federal. O meme surgiu do
 fato inusitado de um militante bolsonarista tentar impedir que um
@@ -58,12 +58,13 @@ oportunidade para a esquerda no período pós-eleitoral, em que o riso
 tornou-se uma ferramenta de celebração de vitória e de catarse coletiva
 assim como de resistência política diante das tensões e ameaças de
 golpes e atos antidemocráticos por parte dos bolsonaristas. Refletimos
-que a apropriação da imagem do 'Patriota do Caminhão' por múltiplas
-angulações, enquadramentos e reconfigurações denotam um fenômeno ímpar –
-a circulação do riso em rede por meio do memetivismo – que articulou,
-por um lado, a unificação de públicos anti-bolsonaristas e por outro,
-contribuiu para alimentar o ódio e ressentimento dos bolsonaristas, que
-culminaria meses depois na tentativa de golpe do 8 de janeiro de 2023.
+que a apropriação da imagem do \'Patriota do Caminhão\' por múltiplas
+angulações, enquadramentos e reconfigurações denotam um fenômeno ímpar
+-- a circulação do riso em rede por meio do memetivismo -- que
+articulou, por um lado, a unificação de públicos anti-bolsonaristas e
+por outro, contribuiu para alimentar o ódio e ressentimento dos
+bolsonaristas, que culminaria meses depois na tentativa de golpe do 8 de
+janeiro de 2023.
 
 1.  ## Marcha sobre Brasília: uma interpretação da ação bolsonarista na insurreição de 8 de Janeiro de 2023
 
@@ -116,14 +117,14 @@ de Jair Bolsonaro invadiram a Praça dos Três Poderes em Brasília, no
 coração político da capital do Brasil. Imediatamente após chegarem ao
 local, os manifestantes começaram a quebrar portas e janelas dos três
 principais prédios do governo localizados na praça. Aos gritos de
-"quebra tudo!", eles invadiram e depredaram as fachadas e os interiores
-dos prédios do governo, vandalizaram obras de arte de grande valor
-histórico e confiscaram símbolos da República expostos no interior dos
-edifícios. Mas como narrar esses eventos? A partir de que visão de mundo
-é possível entendê-los? Essas perguntas me assombraram ao longo daquele
-dia enquanto eu assistia pela televisão à destruição promovida por
-aqueles manifestantes conservadores. O ensaio a seguir traz um relato
-narrativo de minha experiência como testemunha do levante
+\"quebra tudo!\", eles invadiram e depredaram as fachadas e os
+interiores dos prédios do governo, vandalizaram obras de arte de grande
+valor histórico e confiscaram símbolos da República expostos no interior
+dos edifícios. Mas como narrar esses eventos? A partir de que visão de
+mundo é possível entendê-los? Essas perguntas me assombraram ao longo
+daquele dia enquanto eu assistia pela televisão à destruição promovida
+por aqueles manifestantes conservadores. O ensaio a seguir traz um
+relato narrativo de minha experiência como testemunha do levante
 antidemocrático de 8 de janeiro, apresentando as impressões que
 articulei em meu caderno de campo naquele dia com uma breve discussão
 teórica sobre os conceitos de história, experiência e barbárie para
@@ -167,7 +168,7 @@ com uma invasão aos prédios dos Três Poderes, em Brasília, capital do
 Brasil. No entanto, os atos da extrema-direita ocorridos no dia 8 de
 janeiro de 2023 parecem ser mais uma continuidade das manifestações das
 décadas anteriores. Pois, em um passado recente, há dez anos, desde as
-‘Jornadas de Junho’ de 2013, movimentos conservadores e de
+'Jornadas de Junho' de 2013, movimentos conservadores e de
 extrema-direita já aproveitavam o enfraquecimento e subsequente
 criminalização de protestos da esquerda que se faziam presentes nas
 ruas. Após a criminalização e o automático enfraquecimento político da
@@ -184,8 +185,7 @@ da extrema-direita dez anos atrás.
 
 ## **A arte e o instante político**
 
-### **\
-**Alecsandra Matias de Oliveira
+### ** **Alecsandra Matias de Oliveira
 
 O ensaio tem como objetivo tecer comentários que envolvem os
 acontecimentos políticos e a produção de artes visuais no Brasil, entre
@@ -196,8 +196,8 @@ inscrevem-se algumas obras que contam sobre a cena política brasileira
 nos últimos 60 anos, dando ênfase à arte pop nacional e às discussões
 vindas das bienais em fins de 1960 (ocorridas justamente no período mais
 tenso da ditadura civil-militar). Nesse itinerário, acrescentem-se
-criações atuais que remetem aos “anos de chumbo”. Essas propostas
-contemporâneas soam como alerta às questões ainda não resolvidas – que,
+criações atuais que remetem aos "anos de chumbo". Essas propostas
+contemporâneas soam como alerta às questões ainda não resolvidas -- que,
 de certo modo, ficaram adormecidas, nos anos de redemocratização, mas
 que despertaram a partir de 2013, com as Jornadas de Junho. Chama-se a
 atenção para o sentido do tempo: longe de ser o cronológico que regula
@@ -205,11 +205,11 @@ os eventos diários, a temporalidade que une as obras aqui evocadas é a
 da resistência às mentalidades (colonial e autoritária) que ainda
 norteiam as decisões políticas nacionais. Paralelamente à longa duração,
 as proposições da arte aparecem em tempo diverso às reflexões
-históricas; tornam-se reações imediatas; algumas obras nascem no “calor
-da hora” – surgem da espontaneidade proibida aos outros saberes que
+históricas; tornam-se reações imediatas; algumas obras nascem no "calor
+da hora" -- surgem da espontaneidade proibida aos outros saberes que
 demandam maturação e que necessitam do julgamento do decurso. Acima de
 tudo, a preocupação deste texto está em observar como os artistas
-conseguem captar o instante político presente no cotidiano – livres de
+conseguem captar o instante político presente no cotidiano -- livres de
 amarras.
 
 ## As histórias das vítimas: os distúrbios no Planalto sob a perspectiva da arte aterrorizada 
@@ -237,14 +237,13 @@ significado simbólico e sua força material de resistência. O artigo
 finalmente argumenta que os motins do Planalto visualizaram a
 necessidade de se envolver mais profundamente nas questões relativas ao
 papel e agenciamento da arte nas sedes governamentais em Brasília e até
-que ponto estes poderiam ser vistos como ressoando com um 'legado
-autoritário e sangrento' (Thotti, 2023) que continua assombrando a
+que ponto estes poderiam ser vistos como ressoando com um \'legado
+autoritário e sangrento\' (Thotti, 2023) que continua assombrando a
 sociedade brasileira.
 
 ## **Caro Oscar Niemeyer** 
 
-### \
-Tatiana Letier Pinto
+###  Tatiana Letier Pinto
 
 Escrever uma carta para alguém é um ato de afeto, é um convite para o
 diálogo abrindo um canal de comunicação direto entre duas pessoas. Nesse
@@ -254,7 +253,7 @@ cordial, especular uma conversa com o arquiteto Oscar Niemeyer
 Brasília como um espaço segregativo na sua essência, com os fatos
 ocorridos no dia 8 de Janeiro de 2023 em Brasília, quando os três
 principais edifícios das esferas de poder do Brasil foram invadidos e
-depredados por uma horda que se autointitulavam ‘povo brasileiro’. As
+depredados por uma horda que se autointitulavam 'povo brasileiro'. As
 invasões destruíram espaços sagrados para o nosso entendimento de
 democracia e, embora as reparações físicas tenham sido feitas
 rapidamente nos dias subsequentes, quais os outros reparos seriam
@@ -269,7 +268,7 @@ necessários para realmente fazer de Brasília a casa do povo brasileiro?
 A tentativa de golpe de estado no dia 8 de janeiro de 2023 no Brasil
 torna-se, após alguns meses, não apenas uma data inicial a ser explorada
 nas narrativas históricas de um período sombrio da já sombria história
-brasileira. É uma data em que a rainha do jogo de xadrez foi ‘comida’
+brasileira. É uma data em que a rainha do jogo de xadrez foi 'comida'
 pelo peão após cercada pelo bispo e o cavalo. Mesmo que esta data não
 decrete o fim da ascensão de um movimento neofascista, ela joga de
 maneira inequívoca nas telas e nas redes sociais a negação de uma
@@ -281,9 +280,9 @@ algumas manchetes de jornal do período em veículos oficiais, e como os
 fatos podem atender mais às narrativas ficcionais do que às factuais e
 memoriais. A data de 8 de janeiro oficializa, uma semana após a posse do
 novo/antigo Presidente da República Luiz Inácio Lula da Silva, a
-revelação de um país que desde o seu ‘encobrimento’ não tem posses.
+revelação de um país que desde o seu 'encobrimento' não tem posses.
 
-##  **A indigenização da democracia: ‘Nunca mais um Brasil sem nós’**
+##  **A indigenização da democracia: 'Nunca mais um Brasil sem nós'**
 
 ### Bartira S. Fortes
 
@@ -304,8 +303,8 @@ seguida, aborda-se a cerimônia de posse da deputada federal eleita e
 líder indígena Sônia Guajajara como a primeira Ministra dos Povos
 Indígenas, na semana seguinte aos atos anti-democráticos. Por fim,
 explora as mobilizações durante a *19ª Edição do Acampamento Terra Livre
-2023* sob o tema ‘O Futuro Indígena é Hoje: Sem Demarcação, não há
-Democracia!’. O objetivo deste artigo é elucidar a importância da
+2023* sob o tema 'O Futuro Indígena é Hoje: Sem Demarcação, não há
+Democracia!'. O objetivo deste artigo é elucidar a importância da
 participação indígena na formação da democracia brasileira, enfatizando
 o conceito de indigenização da democracia e examinando o papel crucial
 dos povos indígenas no enfrentamento das mudanças climáticas. Em
@@ -332,7 +331,7 @@ as práticas sociais e as dinâmicas comunicativas que revelam por um lado
 oculto à exposição por parte dos golpistas bolsonaristas, e por outro o
 desaparecimento de sujeitos subalternizados, como as populações
 indígenas, pela invisibilidade. Neste sentido, o olhar recai sobre o
-conceito de 'crime performático' para as mídias digitais como um
+conceito de \'crime performático\' para as mídias digitais como um
 movimento narcisístico em confronto à invisibilidade de indígenas que
 possuem seus direitos negados tanto enquanto cidadãos políticos quanto
 como vidas. Na disputa pela produção de sentidos sobre ambos os

@@ -35,7 +35,7 @@ por Jair Bolsonaro e pelos setores das forças armadas mais próximos a
 ele, chegaram a reivindicar explicitamente um golpe militar contra o
 Estado Democrático de Direito Brasileiro.[^2]
 
-Na história do Brasil, era inimaginável até então que ‘manifestantes’
+Na história do Brasil, era inimaginável até então que 'manifestantes'
 conseguissem invadir a sede dos Três Poderes da República, o Congresso
 Nacional, o Palácio do Planalto e até o Supremo Tribunal Federal. Mas,
 com a visível conivência da polícia militar de Brasília, a atual capital
@@ -88,9 +88,9 @@ faraônicas dos megaeventos em minha própria comunidade. Além disso,
 desde adolescente trabalho como comunicadora social em favelas e, a
 partir de 2013, circulo por quase todas as favelas que foram removidas e
 desocupadas para construção das obras para as Olimpíadas e para Copa do
-Mundo, que sofreram ocupações militares ou que ‘receberam’ as Unidades
+Mundo, que sofreram ocupações militares ou que 'receberam' as Unidades
 de Polícia Pacificadoras (UPPs). Também estive nas diversas
-manifestações das 'Jornadas de Junho' em 2013, enquanto militante,
+manifestações das \'Jornadas de Junho\' em 2013, enquanto militante,
 jornalista e pesquisadora. Por isso, neste artigo, assim como nos
 escritos de Maria Carolina Maria de Jesus, Conceição Evaristo e tantas
 outras que sempre se posicionaram e escreveram enquanto moradoras da
@@ -100,23 +100,23 @@ infiltrando-se em manifestações de esquerda, em espaços populares e em
 organizações de esquerda nas mais diferentes capitais do país.[^7]
 
 Durante as disputas das eleições presidenciais de anos anteriores,
-passeatas e ‘panelaços’ organizados pela extrema-direita já vinham se
+passeatas e 'panelaços' organizados pela extrema-direita já vinham se
 tornando parte do cotidiano brasileiro. A mídia comercial,[^8] que se
 concentra nas mãos de 11 famílias ligadas a políticos e grandes
 empresários brasileiros, participou ativamente destes momentos,
 influenciando a população a se colocar contra as pautas levantadas pela
 esquerda. Exemplo disso foi a matéria publicada no *Portal G1*
 (pertencente ao grupo Globo, maior conglomerado de mídia do país) em
-2015, com o título ‘Todos os estados e o DF têm protestos contra o
+2015, com o título 'Todos os estados e o DF têm protestos contra o
 governo Dilma - Atos deste domingo pediram a saída da presidente e fim
 da corrupção. Mais pessoas foram às ruas do que em abril, mas menos do
-que em março’.[^9]
+que em março'.[^9]
 
 Assim, lá em 2015, a mídia já reforçava insistentemente que a Presidenta
 Dilma era corrupta, mesmo sem quaisquer provas. Depois de muitos ataques
 à então Presidenta, a própria mídia brasileira ajudou a convocar a
 população para as manifestações que culminaram no golpe contra o governo
-petista. Um dos grandes exemplos desse esforço foram os ‘panelaços’
+petista. Um dos grandes exemplos desse esforço foram os 'panelaços'
 realizados todos os dias durante o noticiário do Jornal Nacional: a cada
 vez que se falava contra a Presidente Dilma no jornal de maior destaque
 da TV aberta, pessoas de todas as partes do país protestavam contra o
@@ -140,7 +140,7 @@ estatal-partidária.
 
 ## Contexto: os impactos históricos dos governos petistas nas favelas do Rio de Janeiro
 
-Em 2023 a ‘Jornadas de Junho’ completam dez anos. Na época, inúmeros
+Em 2023 a 'Jornadas de Junho' completam dez anos. Na época, inúmeros
 movimentos sociais tomaram as ruas das grandes capitais do Brasil.[^10]
 Iniciadas com o movimento estudantil *Passe Livre*, as manifestações
 convocaram a população a participar de atos públicos contra o aumento
@@ -162,7 +162,7 @@ Naquela época, os movimentos sociais das favelas se juntaram às milhares
 de pessoas que já ocupavam as ruas lutando contra o aumento das tarifas
 de ônibus e de outros transportes públicos. A partir disso, as pautas,
 bandeiras e gritos entoados pelas principais avenidas e praças do centro
-da cidade deixaram de ser ‘só por 20 centavos’, passando a incluir
+da cidade deixaram de ser 'só por 20 centavos', passando a incluir
 outras demandas da população como: o direito à cidade; a luta contra o
 racismo; a humanização da segurança pública (que automaticamente
 envolveu o tema da UPP) e do sistema penitenciário; a desmilitarização
@@ -173,7 +173,7 @@ ruas do Centro do Rio.[^14]
 
 O governo federal, estadual e municipal tentaram projetar na mídia a
 imagem de um Rio de Janeiro seguro. Apoiando-se nos discursos de
-‘manutenção da ordem’, eles passaram a criminalizar e a reprimir as
+'manutenção da ordem', eles passaram a criminalizar e a reprimir as
 manifestações com o aumento do uso das forças policial nas ruas do Rio
 e, em especial, nas favelas. As UPPs foram estrategicamente colocadas
 nos espaços urbanos periféricos próximos aos megaeventos esportivos ou
@@ -209,12 +209,12 @@ No Brasil, os direitos civis tem servido historicamente aos interesses
 da elite, em favor da opressão povos negros, pobres e favelados. Por
 aqui, os direitos civis são sinônimos de militarização e controle dos
 corpos e dos territórios negros. Para quem vive nas favelas e nas
-periferias do Brasil, os termos ‘pacificação’, ‘polícia’, ‘exército’,
-‘tanques’ e ‘caveirões’[^21] são eufemismos para controle, militarização
+periferias do Brasil, os termos 'pacificação', 'polícia', 'exército',
+'tanques' e 'caveirões'[^21] são eufemismos para controle, militarização
 e criminalização da pobreza. Para o filósofo camaronês Achille Mbembe,
 esta é uma forma de controle que tem suas raízes na colonização:
 
-(...) ‘política neste caso, não o avanço de um movimento dialético da
+(\...) 'política neste caso, não o avanço de um movimento dialético da
 razão. A política só pode ser traçada como uma transgressão em espiral,
 como aquela diferença que desorienta a própria ideia do limite. Mais
 especificamente a política é a diferença colocada em jogo pela violação
@@ -346,23 +346,23 @@ participação autênticas. 8 de janeiro não pode mais se repetir, precisa
 manter-se na memória para que nunca mais voltemos a temer a perda do que
 ainda nos resta de democracia!
 
-## **Bibliografia**\
+## **Bibliografia** 
 
-Bergamini, Guilherme. ‘Mídia brasileira é controlada por apenas 11
-famílias’, *FNDC*, 17 setembro 2015,
+Bergamini, Guilherme. 'Mídia brasileira é controlada por apenas 11
+famílias', *FNDC*, 17 setembro 2015,
 http://www.fndc.org.br/noticias/midia-brasileira-e-controlada-por-apenas-11-familias-924625/.
 
 Brasil, Casa Civil. *Lei nº 12.035, Adotada em 1º de Outubro de 2009,*
 2009,
-http://www.planalto.gov.br/ccivil\_03/\_ato2007-2010/2009/lei/l12035.htm.
+http://www.planalto.gov.br/ccivil_03/\_ato2007-2010/2009/lei/l12035.htm.
 
-G1. ‘Todos os estados e o DF têm protestos contra o governo Dilma’,
+G1. 'Todos os estados e o DF têm protestos contra o governo Dilma',
 *Portal G1*, 16 agosto 2015,
 https://g1.globo.com/politica/noticia/2015/08/manifestantes-protestam-contra-o-governo-dilma-em-cidades-do-brasil.html.
 
-G1. ‘Ataques em Brasília: quem quebrou, quem bancou, quem incitou e como
-agiram as forças de segurança’, *Portal G1*, 13 janeiro 2023,
-https://g1.globo.com/df/distrito-federal/noticia/2023/01/13/ataques-em-brasilia-quem-quebrou-quem-bancou-quem-incitou-e-como-agiram-as-forcas-de-seguranca.ghtml\#.
+G1. 'Ataques em Brasília: quem quebrou, quem bancou, quem incitou e como
+agiram as forças de segurança', *Portal G1*, 13 janeiro 2023,
+https://g1.globo.com/df/distrito-federal/noticia/2023/01/13/ataques-em-brasilia-quem-quebrou-quem-bancou-quem-incitou-e-como-agiram-as-forcas-de-seguranca.ghtml#.
 
 Instituto Pacs. *Militarização do Cotidiano: Um legado olímpico,* Rio de
 Janeiro: Instituto Pacs, 2017,
@@ -370,45 +370,45 @@ http://biblioteca.pacs.org.br/wp-content/uploads/2018/06/Militarizac%CC%A7a%CC%8
 
 OCidadão, https://jornalocidadao.net/sobre/.
 
-Mbembe, Achille. ‘Necropolítica’*, Trad: Renata Santini, Arte & Ensaios*
+Mbembe, Achille. 'Necropolítica'*, Trad: Renata Santini, Arte & Ensaios*
 32 (Dezembro, 2016): XX-XX.
 
-Martins, Gizele. ‘A favela, os megaeventos e as manifestações no Rio de
-Janeiro’, *O Cidadão,* 17 novembro 2013,
+Martins, Gizele. 'A favela, os megaeventos e as manifestações no Rio de
+Janeiro', *O Cidadão,* 17 novembro 2013,
 https://jornalocidadao.net/a-favela-os-megaeventos-e-as-manifestacoes/.
 
 \_\_\_\_\_\_. *Militarização e Censura: A luta por liberdade de
 expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
 
-[^1]: Gizele Martins é ……..E-mail: gizelemartins@ufrj.br.
+[^1]: Gizele Martins é ........E-mail: gizelemartins@ufrj.br.
 
 [^2]: Francisco Carlos Teixeira da Silva e Karl Schurster, *Como (não)
     fazer um golpe de estado no Brasil: uma história interna do 8 de
     janeiro de 2023,* Recife: Editora Universidade de Pernambuco, 2023.
 
-[^3]: ‘[Mais de 1,4 mil bolsonaristas radicais estão
+[^3]: '[Mais de 1,4 mil bolsonaristas radicais estão
     presos](https://g1.globo.com/politica/noticia/2023/01/11/cnj-diz-que-ha-1418-presos-por-ataques-as-sedes-dos-tres-poderes.ghtml)
     no DF após os ataques, segundo dados do Conselho Nacional de Justiça
     (CNJ). Pouco mais de 200 foram detidos em flagrante, ainda durante o
     quebra-quebra, e o restante no acampamento golpista instalado em
     frente ao Quartel-General do Exército, já na segunda-feira (9). Os
     homens presos foram levados para o Complexo da Papuda. As mulheres,
-    para a Penitenciária Feminina do DF, conhecida como Colmeia. (...) A
-    Advocacia-Geral da União (AGU) identificou [52 pessoas e sete
+    para a Penitenciária Feminina do DF, conhecida como Colmeia. (\...)
+    A Advocacia-Geral da União (AGU) identificou [52 pessoas e sete
     empresas](https://g1.globo.com/politica/noticia/2023/01/12/agu-identifica-52-pessoas-e-7-empresas-que-financiaram-atos-golpistas-e-pede-bloqueio-de-r-65-milhoes.ghtml)
     suspeitas de terem financiado a manifestação golpista e pediu o
     bloqueio de R\$ 6,5 milhões em bens. Segundo as investigações, o
     grupo bancou os ônibus que transportaram os bolsonaristas radicais e
-    os custos do acampamento em frente ao QG do Exército.’ G1. ‘Ataques
+    os custos do acampamento em frente ao QG do Exército.' G1. 'Ataques
     em Brasília: quem quebrou, quem bancou, quem incitou e como agiram
-    as forças de segurança’, *Portal G1*, 13 Janeiro 2023,
-    https://g1.globo.com/df/distrito-federal/noticia/2023/01/13/ataques-em-brasilia-quem-quebrou-quem-bancou-quem-incitou-e-como-agiram-as-forcas-de-seguranca.ghtml\#
+    as forças de segurança', *Portal G1*, 13 Janeiro 2023,
+    https://g1.globo.com/df/distrito-federal/noticia/2023/01/13/ataques-em-brasilia-quem-quebrou-quem-bancou-quem-incitou-e-como-agiram-as-forcas-de-seguranca.ghtml#
 
-[^4]: Ana Clara Costa, ‘A teia do Golpe de 8 de Janeiro’, *Piauí* 201
+[^4]: Ana Clara Costa, 'A teia do Golpe de 8 de Janeiro', *Piauí* 201
     (Junho 2023), https://piaui.folha.uol.com.br/materia/teia-do-golpe/.
 
-[^5]: TV Cultura, ‘Campanha de Bolsonaro apresenta documentos que
-    comprovariam tese de fraude eleitoral’ YouTube video, 3:28, 25
+[^5]: TV Cultura, 'Campanha de Bolsonaro apresenta documentos que
+    comprovariam tese de fraude eleitoral' YouTube video, 3:28, 25
     outubro 2022, https://www.youtube.com/watch?v=jKfQa5AmpYU.
 
 [^6]: Patrícia C. Mello, *A máquina do ódio: Notas de uma repórter sobre
@@ -418,15 +418,15 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
 [^7]: Breno Altman and Maria Carlotto (eds), *Junho de 2013: A rebelião
     fantasma,* São Paulo: Boitempo, 2023.
 
-[^8]: ‘Apenas 11 famílias controlam os principais meios de comunicação
+[^8]: 'Apenas 11 famílias controlam os principais meios de comunicação
     brasileiros. Além disso, 25% dos senadores e 10% dos deputados são
     donos de concessões de rádio e televisão. Guilherme Bergamini,
-    ‘Mídia brasileira é controlada por apenas 11 famílias’, *FNDC*, 17
+    'Mídia brasileira é controlada por apenas 11 famílias', *FNDC*, 17
     setembro 2015,
     http://www.fndc.org.br/noticias/midia-brasileira-e-controlada-por-apenas-11-familias-924625/
 
-[^9]: G1, ‘Todos os estados e o DF têm protestos contra o governo
-    Dilma’, Portal G1, 16 de Agosto de 2015,
+[^9]: G1, 'Todos os estados e o DF têm protestos contra o governo
+    Dilma', Portal G1, 16 de Agosto de 2015,
     https://g1.globo.com/politica/noticia/2015/08/manifestantes-protestam-contra-o-governo-dilma-em-cidades-do-brasil.html
 
 [^10]: As manifestações de 2013 reuniram movimentos de favelas que
@@ -437,14 +437,14 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     escolas públicas, melhoria na saúde etc.
 
 [^11]: As favelas foram removidas para dar lugar a instalações
-    esportivas e ‘sanear’ a cidade para visitantes estrangeiros,
+    esportivas e 'sanear' a cidade para visitantes estrangeiros,
     aproveitou-se a ocasião para um gigantesco remanejamento urbano.
 
 [^12]: Instituto Pacs, *Militarização do Cotidiano: Um legado olímpico,*
     Rio de Janeiro: Instituto Pacs, 2017,
     http://biblioteca.pacs.org.br/wp-content/uploads/2018/06/Militarizac%CC%A7a%CC%83o-do-Cotidiano-Um-legado-oli%CC%81mpico.pdf.
 
-[^13]: ‘Desde junho de 2013 as ruas do Rio de Janeiro e de diversos
+[^13]: 'Desde junho de 2013 as ruas do Rio de Janeiro e de diversos
     estados do Brasil começaram a ser ocupadas por grandes
     manifestações, no início, a pauta era pelo não aumento das
     passagens. Várias cidades do país estavam sofrendo com mais uma ação
@@ -453,21 +453,21 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     pudessem ter melhorias. Pelo contrário, passagens mais caras,
     cobradores sem emprego, motoristas além de dirigir precisam hoje
     fazer cobranças das passagens e sem contar nos ônibus que não têm
-    nenhuma estrutura para atender os cidadãos.’ Gizele Martins, ‘A
-    favela, os megaeventos e as manifestações no Rio de Janeiro’, *O
+    nenhuma estrutura para atender os cidadãos.' Gizele Martins, 'A
+    favela, os megaeventos e as manifestações no Rio de Janeiro', *O
     Cidadão*, 17 de novembro de 2013,
     https://jornalocidadao.net/a-favela-os-megaeventos-e-as-manifestacoes/.
 
-[^14]: ‘Por isto, a ideia de que 'Não são só pelos 20 centavos'. Outros
-    movimentos sociais começaram a colocar nos cartazes, nos gritos e
-    nas intervenções dos carros de som outras demandas da população. E,
-    hoje, outras bandeiras também são levantadas pelas multidões que
-    ainda ocupam as ruas do Centro do Rio: segurança pública, que
-    automaticamente envolve o tema da Unidade de Polícia Pacificadora
-    (UPP), além da desmilitarização da polícia; remoções; direito à
-    cidade; educação; saúde; liberdade sexual e sistema penitenciário’.
-    Gizele Martins, ‘A favela, os megaeventos e as manifestações no Rio
-    de Janeiro’.
+[^14]: 'Por isto, a ideia de que \'Não são só pelos 20 centavos\'.
+    Outros movimentos sociais começaram a colocar nos cartazes, nos
+    gritos e nas intervenções dos carros de som outras demandas da
+    população. E, hoje, outras bandeiras também são levantadas pelas
+    multidões que ainda ocupam as ruas do Centro do Rio: segurança
+    pública, que automaticamente envolve o tema da Unidade de Polícia
+    Pacificadora (UPP), além da desmilitarização da polícia; remoções;
+    direito à cidade; educação; saúde; liberdade sexual e sistema
+    penitenciário'. Gizele Martins, 'A favela, os megaeventos e as
+    manifestações no Rio de Janeiro'.
 
 [^15]: Copa das Confederações FIFA ou Taça das Confederações FIFA, foi
     um torneio de futebol organizado pela Federação Internacional de
@@ -480,7 +480,7 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     segundo o Censo Maré 2000. As favelas que formam todo o conjunto
     são: Baixa do Sapateiro, Morro do Timbau, Parque Maré, Nova Maré,
     Nova Holanda, Rubens Vaz, Parque União, Conjunto Esperança, Conjunto
-    Pinheiros, Vila do Pinheiro, Vila do João, ‘Salsa e Merengue’,
+    Pinheiros, Vila do Pinheiro, Vila do João, 'Salsa e Merengue',
     Marcílio Dias, Roquete Pinto, Praia de Ramos, Bento Ribeiro Dantas e
     Mandacaru. (Martins, 2018, p 32)
 
@@ -499,25 +499,25 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
 
 [^19]: Brasil, Presidência da República, *Medida Provisória 642/2014,
     Diário Oficial da União,* Publicada em 22 de abril de 2014,
-    https://www.camara.leg.br/proposicoesWeb/prop\_mostrarintegra?codteor=1264174&filename=MPV%20642/2014.
+    https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1264174&filename=MPV%20642/2014.
 
 [^20]: Gizele Martins, *Militarização e Censura: A luta por liberdade de
     expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018, p. 41.
 
-[^21]: ‘Caveirões’ são carros blindados da Polícia Militar do Rio de
+[^21]: 'Caveirões' são carros blindados da Polícia Militar do Rio de
     Janeiro utilizados dentro das favelas e periferias do Rio de
     Janeiro. Os carros blindados foram apelidados de caveirão pelos
     moradores de favelas, pois o logotipo da polícia especial (BOPE)
     exibido nestes carros é uma caveira.
 
-[^22]: Achille Mbembe, ‘Necropolítica’*, Trad: Renata Santini, Arte &
+[^22]: Achille Mbembe, 'Necropolítica'*, Trad: Renata Santini, Arte &
     Ensaios* 32 (Dezembro, 2016)*,* p. 16.
 
-[^23]: 'No primeiro dia, 5 de abril de 2014, de acordo com reportagem do
-    jornal O Globo, as forças armadas chegaram com tanques. Foram
+[^23]: \'No primeiro dia, 5 de abril de 2014, de acordo com reportagem
+    do jornal O Globo, as forças armadas chegaram com tanques. Foram
     empregados na Força de Pacificação da Maré 1.900 militares do
     Exército (Brigada de Infantaria Paraquedista), 400 da Marinha (Corpo
-    de Fuzileiros Navais) e 200 da PM'. Martins, *Militarização e
+    de Fuzileiros Navais) e 200 da PM\'. Martins, *Militarização e
     Censura: A luta por liberdade de expressão na Favela da Maré.*
 
 [^24]: No que diz respeito à propriedade industrial e intelectual,
@@ -538,10 +538,10 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     serviços públicos tais como saúde, segurança, vigilância sanitária,
     alfândega e de frequência de radiodifusão. Para além dessas
     garantias expressas em seu texto, a Lei 12.035/2009 previu, ainda, a
-    edição, pelo governo brasileiro, de 'normas complementares que se
-    façam necessárias para a realização dos Jogos Rio 2016' e o suporte,
-    com recursos públicos, de 'eventuais défices operacionais do Comitê
-    Organizador \[...\] a partir da data de sua criação'. Brasil, Casa
-    Civil, *Institui o Ato Olímpico.* Lei nº 12.035, Adotada em 1º de
-    Outubro de 2009,
-    http://www.planalto.gov.br/ccivil\_03/\_ato2007-2010/2009/lei/l12035.htm.
+    edição, pelo governo brasileiro, de \'normas complementares que se
+    façam necessárias para a realização dos Jogos Rio 2016\' e o
+    suporte, com recursos públicos, de \'eventuais défices operacionais
+    do Comitê Organizador \[\...\] a partir da data de sua criação\'.
+    Brasil, Casa Civil, *Institui o Ato Olímpico.* Lei nº 12.035,
+    Adotada em 1º de Outubro de 2009,
+    http://www.planalto.gov.br/ccivil_03/\_ato2007-2010/2009/lei/l12035.htm.

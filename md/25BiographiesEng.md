@@ -65,15 +65,15 @@ Research*.
 
 **Gizele de Oliveira Martins** is a journalist and a PhD candidate in
 Communication at the Federal University of Rio de Janeiro (UFRJ). She
-graduated in journalism from PUC-Rio and holds a master's degree in
+graduated in journalism from PUC-Rio and holds a master\'s degree in
 Education, Culture, and Communication in Urban Peripheries from the
 State University of Rio de Janeiro (UERJ). In 2019, she released the
 book *Militarization and Censorship - the Struggle for Freedom of
 Expression* in the Maré Favela, in Rio de Janeiro. She has lectured
 internationally and has received numerous awards for her journalism
 focused on human rights and anti-racism issues. She also coaches
-community communication courses, such as 'Living Histories: The History
-of Resistance in Rio de Janeiro's Favelas’, and is a consultant and
+community communication courses, such as \'Living Histories: The History
+of Resistance in Rio de Janeiro\'s Favelas', and is a consultant and
 facilitator for the National Network for the Protection of Journalists
 and Communicators in Brazil. Today, she works with community
 organizations such as the *Coalizão de Mídias Periféricas*; *Faveladas,
@@ -83,7 +83,7 @@ Mobilização da Maré*.
 ## Contributors: 
 
 **Leandro Barboza** is a visual artist and restorer who lives and works
-in Rio de Janeiro. He earned a Bachelor's degree in Painting from the
+in Rio de Janeiro. He earned a Bachelor\'s degree in Painting from the
 School of Fine Arts at the Federal University of Rio de Janeiro (UFRJ)
 in 2004. He is also a member of the Faixa Protesta collective, along
 with Gustavo Speridião. In addition to numerous restoration projects in
@@ -99,12 +99,12 @@ independent publication fairs, workshops, meetings, and even a doctoral
 defense. Since 2018, he has been working with Gustavo Speridião on the
 FAIXA PROTESTA project, which involves bringing banners with paintings
 and rebellious poetry to protests. He has participated in various group
-exhibitions, including "O que há de música em você" at Athena Galeria de
-Arte in October 2023, "Sol a Sol" at Galeria Arte Fasam in August 2020,
-"A Casa Carioca" at MAR-Rio in 2020, "Atelier Sanitário + Bastardo" at
-Centro Cultural Phábrika in 2018, "Entre \#4" at Portas Vilaseca Galeria
-in 2017, and "Tudo fora de ordem" at Espaço Saracura in 2017. You can
-find him on Instagram: @leandro\_barboza.
+exhibitions, including \"O que há de música em você\" at Athena Galeria
+de Arte in October 2023, \"Sol a Sol\" at Galeria Arte Fasam in August
+2020, \"A Casa Carioca\" at MAR-Rio in 2020, \"Atelier Sanitário +
+Bastardo\" at Centro Cultural Phábrika in 2018, \"Entre #4\" at Portas
+Vilaseca Galeria in 2017, and \"Tudo fora de ordem\" at Espaço Saracura
+in 2017. You can find him on Instagram: \@leandro_barboza.
 
 **Viviane Borelli** is an associate professor in the Graduate Program in
 Communication and the undergraduate programs of Social Communication -
@@ -112,15 +112,15 @@ Journalism, Editorial Production, Public Relations, and Advertising at
 the Federal University of Santa Maria (UFSM), located in Santa Maria,
 RS, Brazil. She holds a PhD in Communication Sciences from Unisinos, São
 Leopoldo, RS. She coordinates the Media Communication and Communication
-Strategies Research Group (Cimid) and the research project ‘Societies in
-Mediatization: Circulation, Discourses and Platforms’. Her research
+Strategies Research Group (Cimid) and the research project 'Societies in
+Mediatization: Circulation, Discourses and Platforms'. Her research
 interests lie in the areas of mediatization, communication theories,
 semiotics, discourse, circulation, humor, memes, politics, and religion.
 
 **Apoena Canuto Cosenza** is an economic historian who graduated from
 the Program of Economic History at the Department of History of the
-University of São Paulo, where he earned his master's and doctoral
-degrees. In his doctoral research, he studied Brazil's foreign trade
+University of São Paulo, where he earned his master\'s and doctoral
+degrees. In his doctoral research, he studied Brazil\'s foreign trade
 during the first two governments of the PT (Workers Party) from 2003 to
 2011. He is a member of the Laboratory of Political Economy and Economic
 History at USP and a founding member of the Mário Schenberg Institute.
@@ -139,10 +139,10 @@ conjuncture of Humanities and Social Sciences, intersecting
 environmental science, global development studies, social anthropology,
 performing arts, and media. Her research interests include themes of
 democracy, climate change, Indigenous media, and art, Indigenous
-peoples’ participation in global politics, socioenvironmental justice,
-digital activism, artivism, and decolonization. In her master’s thesis
-titled ‘Democracy, a Tragic Carnivalesque Hero: The Narratives of a
-Transnational Social Movement Against the Coup in Brazil’ (2020), Fortes
+peoples' participation in global politics, socioenvironmental justice,
+digital activism, artivism, and decolonization. In her master's thesis
+titled 'Democracy, a Tragic Carnivalesque Hero: The Narratives of a
+Transnational Social Movement Against the Coup in Brazil' (2020), Fortes
 investigated the emergence of forms of resistance among Brazilians in
 the diaspora against the authoritarian turn in Brazil since 2016 and
 developed the concept of democracy as a tragic carnivalesque hero.
@@ -158,8 +158,8 @@ Master in Communications (2019) from UFSM. She has been a member of the
 *Communication, Identities and Borders* Research Group (UFSM/CNPq) since
 2014, and *MagNet*, an international network of researchers in Magazine
 Studies, since its foundation, in 2023. She published the chapter
-'Converting Social Exclusion into News: The Visibility of the Periphery
-on Magazine Covers' (2018) in an anthology by the National Association
+\'Converting Social Exclusion into News: The Visibility of the Periphery
+on Magazine Covers\' (2018) in an anthology by the National Association
 of Graduate Programs in Communication (COMPÓS), Brazil. Her research
 interests in scientific, technological, and artistic-cultural production
 include periphery, mediatization, platforms, journalism, semiotics,
@@ -172,8 +172,8 @@ Janeiro State University (UERJ), and a B.A. in Industrial Design /
 Visual Programming from the Federal University of Rio de Janeiro (UFRJ).
 He is a high school teacher in public schools working with audiovisual
 and multimedia education, and a teacher of technical and free courses in
-private institutions and NGOs. His PhD thesis ‘Canto da lama - Cinema
-and Pedagogy *desde el sur* Against Necropolitics’ (2022) presents a
+private institutions and NGOs. His PhD thesis 'Canto da lama - Cinema
+and Pedagogy *desde el sur* Against Necropolitics' (2022) presents a
 Global South perspective on environmental cinema practices as a way to
 see how the authorship of those affected by environmental crimes can
 present counter-visualities to confront corporations for reparations, by
@@ -188,8 +188,8 @@ documentaries.
 **Tatiana Letier Pinto** is a Brazilian architect, artist, and
 independent researcher based in Stockholm. Her main research interests
 revolve around social inequalities in the built environment and the
-political aspect of space. She holds a master’s degree in Sustainable
-Architecture from Bologna University and a master’s from the Bartlett
+political aspect of space. She holds a master's degree in Sustainable
+Architecture from Bologna University and a master's from the Bartlett
 Development Planning Unit at the University College of London. She
 collaborates with the Decolonizing Architecture Advanced Studies (DAAS)
 in the post-master course held at the Royal Institute of Art (KKH) in
@@ -230,14 +230,14 @@ independent curator. She is the author of the books *Schenberg: Crítica
 e Criação* (EDUSP, 2011) and *Memória da Resistência* (MCSP, 2022).
 
 **Maria Eduarda Mathias** has an undergraduate degree in Publicity and
-Advertising and is currently studying for a Master's degree in
+Advertising and is currently studying for a Master\'s degree in
 Communication, both at the Federal University of Santa Maria (UFSM),
 Brazil, in the research line of media and communication strategies. Her
 research interests include social communication and politics, social
 networks and platformization, and is part of the research group
-*Mediatic Circulation* at UFSM. In her dissertation titled ‘The
+*Mediatic Circulation* at UFSM. In her dissertation titled 'The
 Spiritual Battle in Voting: the Circulation of Meaning in the
-*\#bolsonarosatanista* Event during the 2022 Presidential Elections’,
+*#bolsonarosatanista* Event during the 2022 Presidential Elections',
 still being developed, she develops the articulation between the
 presence of Evangelical Christians in Brazilian politics and the impact
 of discursive strategies on Twitter during the 2022 presidential
@@ -271,17 +271,17 @@ in Brazil, linked to the Graduate Program in Communication Sciences. She
 has a PhD and Master in Communication Sciences from the University of
 Vale do Rio dos Sinos (Unisinos), Brazil, and an undergraduate degree in
 Journalism from the Federal University of Santa Maria (UFSM), Brazil.
-She is the leader of the CNPq research group ‘Media Circulation and
-Communication Strategies’ (Cimid), with lines of research in the
+She is the leader of the CNPq research group 'Media Circulation and
+Communication Strategies' (Cimid), with lines of research in the
 following themes: social networks, media and religion, journalism, media
 discourse, communication, and biopolitics.
 
 **Ana Paula da Rosa** is a Professor, researcher, and Coordinator of the
 post-graduate program in Communication Science at Universidade do Vale
 do Rio dos Sinos (UNISINOS), Brazil. She has an undergraduate degree in
-Journalism from Universidade de Passo Fundo (2001), a Master's degree in
-Communications and Language from Universidade Tuiuti do Paraná (2007),
-and a PhD in Communication Science in *Mediatization and Social
+Journalism from Universidade de Passo Fundo (2001), a Master\'s degree
+in Communications and Language from Universidade Tuiuti do Paraná
+(2007), and a PhD in Communication Science in *Mediatization and Social
 Processes* research group, from Universidade do Vale do Rio dos Sinos
 (UNISINOS), and a post-doctoral degree in Communications from
 Universidade Federal Fluminense (UFF) (2018), all in Brazil. She is also
@@ -299,9 +299,9 @@ mediatized conflicts.
 interested in how media affect social processes, and how social
 processes impact media. He is currently a PhD student in Media and
 Communications and a Research Fellow at the Universidade Federal de
-Santa Maria (UFSM), Brazil. Ruedell received a Bachelor’s Degree in
+Santa Maria (UFSM), Brazil. Ruedell received a Bachelor's Degree in
 Social Communication with minors in Editorial Production (2020) and a
-Master’s Degree in Media Communication (2023) both at UFSM, with a
+Master's Degree in Media Communication (2023) both at UFSM, with a
 dissertation about the communication structure of French anti-vaccine
 movement *Collectif Lyon Pour La Liberté*. E-mail:
 eduardo.ruedell@acad.ufsm.br.
@@ -310,16 +310,16 @@ eduardo.ruedell@acad.ufsm.br.
 University of Santa Maria (UFSM) Brazil, and a Lecturer in Law and
 Municipal Public Security courses at the Faculty of Law of Santa Maria -
 FADISMA. She is a lawyer in the Human Rights Commission of the Brazilian
-Lawyers’ Association (OAB), in Santa Maria. She is also an associate
+Lawyers' Association (OAB), in Santa Maria. She is also an associate
 researcher at the study group on *State Capacity, Security and Defense*
 (GECAP), and a member of the *Communication, Identities and Borders*
 Research Group CIFront, both at UFSM. Her doctoral thesis is titled
-'Media and Public Security in Brazil: the *Jornal Nacional* and the
-Securitization of Federal Intervention in Rio de Janeiro in 2018'. Her
+\'Media and Public Security in Brazil: the *Jornal Nacional* and the
+Securitization of Federal Intervention in Rio de Janeiro in 2018\'. Her
 studies related to the Brazilian state, especially regarding the
-acquisition of rights and penal systems are present in the article 'The
+acquisition of rights and penal systems are present in the article \'The
 Historical Relation between the Process of Acquisition of Rights and the
-Accusation System in Brazil' (Schneider and Callegari, 2018). Her
+Accusation System in Brazil\' (Schneider and Callegari, 2018). Her
 research interests include media, journalistic discourses, public
 security, violence, criminal law, and human rights.
 
