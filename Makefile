@@ -13,8 +13,8 @@ icmls=$(wildcard icml/*.icml)
 
 
 test: $(allmarkdown)
-	echo "start" ; 
-	echo $(allmarkdown) ; 
+	echo "start" ;
+	echo $(allmarkdown) ;
 	echo "end" ;
 
 folders:
@@ -35,7 +35,8 @@ markdowns:$(alldocx) # convert docx to md
 	       	--atx-headers \
 		--template=essay.md.template \
 		-o $$md ; \
-	./scripts/md_unique_footnotes.py $$md ; \
+		./scripts/md_urlize.py $$md $$i ; \
+		./scripts/md_unique_footnotes.py $$md ; \
 	done
 
 
@@ -69,7 +70,7 @@ html: book.md
 
 book.md: clean $(allmarkdown)
 	for i in $(allmarkdown) ; \
-	do ./scripts/md_stripmetada.py $$i >> md/book.md ; \
+	do  ./scripts/md_stripmetada.py $$i >> md/book.md ; \
 	done
 #Note: md_urlize.py script requires Django to be installed
 
@@ -96,7 +97,7 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		cd ..
 
 clean:  # remove outputs
-	rm -f md/book.md  
+	rm -f md/book.md
 	rm -f *~ */*~  #emacs files
 # improve rule: rm if file exits
 
