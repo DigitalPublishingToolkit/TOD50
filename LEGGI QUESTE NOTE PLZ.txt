@@ -1,23 +1,21 @@
 
-some notes:
+
 
 general:
-	- each chapter has notes about the authors in the first footnote, take that out?
-	- find a way to format all the artworks in the same way
-	- check editors in the colophon
-	-TAKE ALL THE IMAGES FROM THE DOCX FILESSS
+	- each chapter has notes about the authors in the first footnote, take that out? YES
+	- find a way to format all the artworks in the same way (they should all have english and portuguese translation already)
+
 	-check quotes/blockquotes
-	- MANCA CAP 12, redondo death of the author
+	
+	-controlla TOC dai docx per controllare che i titoli siano coerenti 
+	
 	
 
 file 06:
-	- check difference between initial block quote and quote in the second page
 	- images double spread
 
 file 13:
 	- come formattare questo??
-file 14:
-	- un sacco di immagini da inserire
 
 file17:
 	-[Note to designer: the image accompanying this entry should be placed on a double page after this “cover page” with the texts in English and Portuguese placed on the same page.
@@ -25,14 +23,14 @@ file17:
 file 18:
 	-[Enter Letier_Figure1.tiff on spread after the article, followed by caption on the page after the image]
 	
-file 19: carta a oscar, AGGIUNGERE legenda delle immagini dentro al capitolo
+file 18: carta a oscar, AGGIUNGERE legenda delle immagini dentro al capitolo + segui indicazioni dentro al file .../md/imgs/19Legenda.docx !
 
-file 20:
-	- first image and title?
+file 21:
+	- le due lettere all'inizio J e K sembrano un titolo (maybe) controlla il docx
 	
 //// PER I MARKDOWNS:
 
-controlla le note e i caratteri speciali dentro la caption delle immagini
-- f06 nota19 e 20
+controlla se le note e i caratteri speciali dentro la caption delle immagini sono visualizzati correttamente
+
 
 
