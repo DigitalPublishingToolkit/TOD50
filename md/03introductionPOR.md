@@ -215,7 +215,7 @@ bolsonarismo. Fechando a primeira parte, Aline Roes Dalmolin e Maria
 Eduarda Mathias discutem a mobilização digital que levou aos atos de 8
 de janeiro.
 
-Na segunda parte, *A tentativa de golpe,* passamos para discussões sobre
+Na segunda parte, *A tentativa de golpe*, passamos para discussões sobre
 diversas experiências dos atos de 8 de janeiro atravessadas pela
 comunicação midiática. Eduardo Ruedell faz uma auto-etnografia da sua
 experiência como espectador televisivo de uma tentativa de golpe que
@@ -269,7 +269,7 @@ Canavarro Martins, Marcela. *Political Mobilization in Brazil from 2013
 to 2017: A Technopolitical Analysis Using Surveys and Social Network
 Data Mining*, PhD diss., Faculty of Engineering, University of Porto,
 Porto/Portugal, 2019,
-https://repositorio-aberto.up.pt/handle/10216/122246.
+<https://repositorio-aberto.up.pt/handle/10216/122246>.
 
 da Empoli, Giuliano. *Os Engenheiros Do Caos*, Vestígio Editora, 2019.
 
@@ -279,11 +279,11 @@ Disinformation, and Democracy Under Attack*, Routledge, 2022.
 
 Peruzzo, Cecilia M. Krohling. 'Comunicação Comunitária E Educação Para
 a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
-https://doi.org/10.17231/comsoc.2(2000).1427.
+<https://doi.org/10.17231/comsoc.2(2000).1427>.
 
 Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
 Brasil.' *openDemocracy*, 10 October, 2023,
-https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/.
+<https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
 Break America*, New York: Random House, 2019.
@@ -292,7 +292,7 @@ Break America*, New York: Random House, 2019.
     2013 to 2017: A Technopolitical Analysis Using Surveys and Social
     Network Data Mining*, PhD diss., Faculty of Engineering, University
     of Porto, Porto/Portugal, 2019,
-    https://repositorio-aberto.up.pt/handle/10216/122246.
+    <https://repositorio-aberto.up.pt/handle/10216/122246>.
 
 '[^introPor_2]: Cecilia M. Krohling Peruzzo, 'Comunicação Comunitária E Educação
     Para a Cidadania,' *Comunicação e Sociedade* 2 (August 29, 2000):
@@ -305,7 +305,7 @@ Break America*, New York: Random House, 2019.
 
 '[^introPor_4]: Carolina Ricardo, 'A Democracia Não Pode Ser Considerada
     Garantida No Brasil,' *openDemocracy*, 10 October 2023,
-    https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/.
+    <https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 '[^introPor_5]: Ver Giuliano da Empoli, *Os Engenheiros Do Caos*, Vestígio
     Editora, 2019, e Christopher Wylie, *Mindf\*ck: Cambridge Analytica

@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # The March on Brasilia: An Interpretation of Bolsonarist Actions in Preparation for the January 8, 2023 Insurrection
 
-### Apoena C. Cosenza[^1]
+### Apoena C. Cosenza
 
 ## Introduction
 
@@ -28,7 +28,7 @@ buildings in Brasília. The event was described by analysts and
 commentators as a coup act. Since the 2022 presidential elections, won
 by Luís Inácio Lula da Silva, supporters of former President Jair
 Bolsonaro have refused to recognize election results, claiming that
-those were rigged. They camped in front of barracks[^2] and called on
+those were rigged. They camped in front of barracks[^f07_2] and called on
 the armed forces to carry out a coup d\'état. On January 8, part of the
 camped protesters went to the Legislative Chamber and Planalto Palace,
 the presidential headquarters in Brazil, and invaded these two
@@ -62,21 +62,21 @@ discussion in the fields of history and sociology. One of the possible
 definitions comes from Giorgi Dimitrov, responsible for elaborating the
 popular front policy (anti-fascist front), that defeated fascism during
 World War II. For Dimitrov, fascism was a class alliance formed by the
-most chauvinist sector of the *financial bourgeoisie*[^3] allied with
-political gangsterism.[^4] Using the concept of *class fraction*,[^5] it
+most chauvinist sector of the *financial bourgeoisie*[^f07_3] allied with
+political gangsterism.[^f07_4] Using the concept of *class fraction*,[^f07_5] it
 is possible to say that Bolsonarism brings together sectors of the
 commercial bourgeoisie, the financial bourgeoisie, the agrarian
 oligarchy, and war- and crime lords (the so-called Brazilian
-*militias*[^6]). Thus, it expresses the alliance between radical sectors
+*militias*[^f07_6]). Thus, it expresses the alliance between radical sectors
 of the financial bourgeoisie, the old land oligarchy, and political
-gangsterism.[^7]
+gangsterism.[^f07_7]
 
 Also from the point of view of aesthetics and political objectives,
 Bolsonarism has parallels with fascism. Fascism is an ideology that is
 structured in violence around a social mythology and establishing the
-State as a historical entity to be glorified.[^8] To garner political
+State as a historical entity to be glorified.[^f07_8] To garner political
 support, Bolsonarism, like fascism, carries out agitation based on myths
-and on the violation of the truth.[^9] In fascist ideologies, the leader
+and on the violation of the truth.[^f07_9] In fascist ideologies, the leader
 of the movement is always treated as a creature that expresses more than
 his own humanity. He is no longer seen as a man, and is treated as an
 expression of the collective will of the movement. In Italy, Mussolini
@@ -99,7 +99,7 @@ In 1922, fascism was still only a minority in the country\'s
 legislature. But Mussolini and other leading members of the fascist
 movement were convinced that the conditions were right for a coup
 d\'état. The plan involved setting up columns leaving different regions
-of Italy, taking strategic posts, until arriving in Rome.[^10] On
+of Italy, taking strategic posts, until arriving in Rome.[^f07_10] On
 October 24, in Naples, Mussolini addressed around sixty thousand
 blackshirts, a *squadristi* group, stating that the fascists 'wanted to
 govern Italy'. Then he went to Milan, where he would await the outcome
@@ -143,7 +143,7 @@ arrested, accused of trying to carry out a terrorist attack. Arrested,
 the demonstrator admitted to being part of a conspiracy conjured up in
 the camp located in front of the Army Headquarters. Further, he
 acknowledges having received the explosives to be installed and cause
-panic, opening the ground for military intervention.[^11]
+panic, opening the ground for military intervention.[^f07_11]
 
 Bolsonaro did not openly support the activities of the militants.
 Instead, he traveled to the USA on December 30th, 2022 after stating
@@ -151,21 +151,20 @@ that he would not demobilize the encamped supporters, as he had not
 mobilized them himself. Documents arising from subsequent investigations
 reveal that between the elections and Bolsonaro's trip, a draft for a
 coup d'état was produced, which was found in the house of Anderson
-Torres, former Minister of Justice and Public Security.[^12] A
+Torres, former Minister of Justice and Public Security.[^f07_12] A
 conversation was also discovered between Colonel Elcio Franco, one of
 Jair Bolsonaro's trusted men, and former Major Ailton Barros, where they
-described how to mobilize 1,500 men for a coup.[^13] The entire strategy
+described how to mobilize 1,500 men for a coup.[^f07_13] The entire strategy
 involved the army leading the coup, which would be supported by the
 population. However, the army\'s top leadership did not actively join
 the conspiracy.
 
 As of January 4, 2023, Bolsonaro still maintained the title of
-*President of Brazil* in his Twitter account description[^14]. This was
+*President of Brazil* in his Twitter account description[^f07_14]. This was
 seen by the demonstrators as a sign that *The Myth* did not recognize
 the election, so he was just waiting for the right time to act. That
 day, material began circulating on social media and messaging apps
-calling for the 'Green and Yellow Revolution', to be launched on January
-7. The objective was to close down the Congress. On January 6,
+calling for the 'Green and Yellow Revolution', to be launched on January 7. The objective was to close down the Congress. On January 6,
 protesters\' violence against journalists escalated. When questioned,
 the militants claimed that the violence was directed against 'those who
 encouraged the fraud' of the elections. On social media posts, they
@@ -187,7 +186,7 @@ Headquarters, in Brasilia. However, at the time of action, no prominent
 leadership came forward, and the march took place in a disorganized
 manner. Once inside the Planalto Palace, instead of organizing a center
 of action and power, the demonstrators began to plunder property.
-Deprived of strategic cadres[^15] to lead them, and with no one to
+Deprived of strategic cadres[^f07_15] to lead them, and with no one to
 deliver the coup for them, the demonstrators had no chance of seizing
 power.
 
@@ -243,7 +242,7 @@ Blackshirts in Naples.
 Mussolini already preached that liberal democracy was flawed because it
 allowed governments to succeed by deceiving the people and betraying
 their homeland and that only strong leadership could express the real
-needs of a silent majority and national strength[^16]. Thus, the fascist
+needs of a silent majority and national strength[^f07_16]. Thus, the fascist
 doctrine was characterized by elements such as: (a) defense of force as
 a legitimate political instrument and of the vote as an instrument of
 misrepresentation; (b) elevation of national myths above rational
@@ -252,7 +251,7 @@ important historical actor, to the detriment of the individual or social
 classes; and (d) subordination of the economy to politics and morals.
 Later, this doctrine would be described as a rupture with the
 Enlightenment, with fascism being an anti-liberal and anti-communist
-ideology, which subordinates reason to the objectives of the State[^17].
+ideology, which subordinates reason to the objectives of the State[^f07_17].
 This doctrinal set was strong enough to attract the support of thinkers
 during the rise of fascism. Benedetto Croce, for example, supported
 Mussolini\'s March to Rome and would only break with fascism in 1924.
@@ -266,17 +265,17 @@ fascist ideological aspects, but which have, at the core of their
 functioning, the belief that the most important historical agent is a
 foreign country. These are movements such as the *French People\'s
 Party*, which acted as a collaborationist movement in Nazi-occupied
-France during World War II;[^18] the *Personalist Party of Vietnam*,
-that was pro-Western and pro-Catholicism during the Vietnam War,[^19]
+France during World War II;[^f07_18] the *Personalist Party of Vietnam*,
+that was pro-Western and pro-Catholicism during the Vietnam War,[^f07_19]
 among others.
 
 In the case of Bolsonarism, one of the possible interpretations is that
 Bolsonaro's speeches express the line of thought of Olavo de Carvalho,
-considered the movement's intelectual guide.[^20] Olavo influenced an
-important current of thought among the Brazilian far-right.[^21] Thus,
+considered the movement's intelectual guide.[^f07_20] Olavo influenced an
+important current of thought among the Brazilian far-right.[^f07_21] Thus,
 it is fair to consider him the mind behind Bolsonarist propaganda. His
 thought is characterized by being anti-rational and anti-science,
-advocating a return late medieval Catholic values.[^22] Thus, he defends
+advocating a return late medieval Catholic values.[^f07_22] Thus, he defends
 a Christian Brazilian society, strongly linked to Europe and the USA.
 This propaganda can explain Bolsonaro's government strategy for
 international relations, for instance, which abandoned the principle of
@@ -298,7 +297,7 @@ invalidate the elections. This attempt failed, since there was a clear
 collective international position contrary to Bolsonaro\'s arguments.
 The US embassy, a country considered an important strategic ally in
 Bolsonarist and Olavist thinking, stated the following day that the
-electoral system in Brazil was safe.[^23]
+electoral system in Brazil was safe.[^f07_23]
 
 One of the main differences between fascism and other far-right
 movements is that it is a mass movement. In other words, it uses
@@ -309,9 +308,9 @@ propaganda, it reaches its purest form in agitation. Fascism\'s hate
 speech seeks to mobilize the deepest yearnings and place a chosen enemy
 as responsible for those yearnings being unable to be met. Thus,
 fascists present themselves as the movement that can free the people
-from those who oppress the desire of the masses.[^24]
+from those who oppress the desire of the masses.[^f07_24]
 
-Bolsonarism chose the 'left'[^25] as its main target, be it in its
+Bolsonarism chose the 'left'[^f07_25] as its main target, be it in its
 general form, or in the form of voters of the Workers' Party (PT)
 candidate. Still, given the institutional resistance it encountered, the
 Federal Supreme Court became the target of attacks. In its agitation
@@ -332,14 +331,14 @@ In the 1920s and 1930s, newspapers, flyers, and rallies were the tools
 of agitation. Bolsonarism, on the other hand, used social networks and
 messaging applications to carry out their communication, constituting a
 true virtual ecosystem. At the center of this ecosystem are the
-so-called 'big groups' of the Telegram app,[^26] and some regional
+so-called 'big groups' of the Telegram app,[^f07_26] and some regional
 Whatsapp groups. Members of these groups produce and make available
 agitation material, such as captioned images, cartoons, videos, or
 sensationalist texts. To validate the information, they refer to
 ultra-right websites. Audiovisual material is made available via YouTube
 or TikTok. This material is then forwarded to sectoral or thematic
 groups, and smaller groups, forming a semi-hierarchical communication
-network.[^27] Some of the material that is forwarded in groups is
+network.[^f07_27] Some of the material that is forwarded in groups is
 reproduced by members or administrators on social networks, usually
 first on Twitter. From there, it is reproduced on Facebook and Instagram
 and other channels. This assembled structure, although it relies on a
@@ -351,11 +350,10 @@ infinitely greater capacity for mobilization. Still, it does not demand
 formal commitment from those who become part of the political agitation
 machine, often without being fully aware of their actions.
 
-![](media/image1.png){width="4.134027777777778in"
-height="3.442361111111111in"}
+![Figure 1: Representation of Bolsonarist virtual agitation network. Image
+by the author.](imgs/07_1.png)
 
-Figure 1: Representation of Bolsonarist virtual agitation network. Image
-by the author.
+<br/>
 
 Given the nature of messaging apps, monitoring to identify shared
 content is limited. Only members can view messages. Thus, it is not
@@ -371,13 +369,13 @@ that the March on Brasilia was planned.
 
 To test this hypotesis, a wide collection of tweets was conducted,
 including 162,494 posts on that social network, using some key
-terms,[^28] including two that were calls for insurrection: 'Revolução
+terms,[^f07_28] including two that were calls for insurrection: 'Revolução
 Verde Amarelo' (Green and Yellow Revolution), and the code word 'Festa
 da Selma' (Selma's party). The analyzed posts originated from 89,580
 different users, and were shared 679,342 times. More than half a million
-communicative connections[^29] were observed.
+communicative connections[^f07_29] were observed.
 
-The terms 'Green and Yellow Revolution' and 'Selma's party''[^30] are
+The terms 'Green and Yellow Revolution' and 'Selma's party''[^f07_30] are
 quite indicative of the preparation process that preceded the
 insurrection. From January 4, the term 'Green Yellow Revolution' began
 to circulate calling for the demonstration on January 7 with the aim of
@@ -385,12 +383,11 @@ closing the congress. On January 5, the term 'Selma's party' began to
 circulate, with the pre-party scheduled for Saturday January 7, and the
 actual party soon after.
 
-![](media/image2.png){width="6.6930555555555555in"
-height="3.3472222222222223in"}
-
-Figure 2: Mentions of the term 'festadaselma' or 'Selma's party' by the
+![Figure 2: Mentions of the term 'festadaselma' or 'Selma's party' by the
 public on Twitter, from December 26, 2022 to January 10, 2023. Image by
-the author using data collected from Twitter.
+the author using data collected from Twitter.](imgs/07_02.png)
+
+<br/>
 
 Figure 2 shows the preparation before January 7, the mobilization during
 that day, and then the moment of the insurrection on January 8. During
@@ -436,7 +433,7 @@ Bolsonaro family and some Bolsonaristas are accused of having a
 connection, were not politically mobilized to carry out the March.
 
 According to Colonel Jorge Eduardo Naime, there were militants with
-guerrilla training in the insurrection on January 8.[^31] But these
+guerrilla training in the insurrection on January 8.[^f07_31] But these
 militants were not organized into commanded combat groups subordinate to
 strategic leadership. There was no military command structure. There was
 no objective for the insurrection to carry out a coup, since the means
@@ -452,8 +449,7 @@ of civilian cadres, whether they were deputies, political advisers, and
 low-level military personnel. In practice, they are those who organize
 Bolsonarism as a movement. In addition to the Bolsonaro family, people
 like Anderson Torres, Colonel Elcio Franco, and Ailton Barros, were part
-of the first echelon of leadership, between December 2022 and January
-2023. This leadership bet on the strategy for taking power by trying to
+of the first echelon of leadership, between December 2022 and January 2023. This leadership bet on the strategy for taking power by trying to
 co-opt the high command of the army so they would deliver the coup and
 hand over power to Bolsonaro. Therefore, they only acted in the sense of
 mobilizing the population to put pressure on the army, while attempting
@@ -563,16 +559,14 @@ caminhão-tanque diz que recebeu bomba no acampamento do QG do Exército,
 em Brasília', *G1*, 19 January 2023. in:
 https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-por-tentar-explodir-caminhao-tanque-diz-que-recebeu-bomba-no-acampamento-do-qg-do-exercito-em-brasilia.ghtml
 
-[^1]: Apoena Canuto Cosenza holds a PhD in Economic History from
-    Universidade de São Paulo - USP, and is currently a member of the
-    Mario Schenberg Institute.
 
-[^2]:
+
+[^f07_2]:
     > The protesters camped in front of the army headquarters in
     > Brasília and in front of different barracks throughout the
     > country.
 
-[^3]:
+[^f07_3]:
     > The term *financial bourgeoisie* comes from Hilferding in 1910,
     > and was later used by Lenin in 1917. This is the group of
     > businessmen who work in finance. Finance, for them, was the union
@@ -582,97 +576,97 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
     > Studie über die jüngste Entwicklung des Kapitalismus*. Wiener
     > Volksbuchandlung, 1910.
 
-[^4]:
+[^f07_4]:
     > Dimitrov, Georgi. 'The United Front Against Fascism and War: The
     > fascist offensive and the tasks of the Communist International in
     > the fight for the unity of the working class against fascism'. New
     > York: Workers Library Publishers, 1935.
 
-[^5]:
+[^f07_5]:
     > *Class fraction* is a grouping that although it forms part of a
     > broader socioeconomic class has its own interests that can place
     > it in a different political field from the rest of its class.
 
-[^6]: At Brazil, the term Militia (*Milícias*) has become a synonym of
+[^f07_6]: At Brazil, the term Militia (*Milícias*) has become a synonym of
     organized crime that is ruled by crooked members of state repression
     forces, that takes control over a territory.
 
-[^7]: Apoena Canuto Cosenza and Igor Grabois, 'Frações de Classe e
+[^f07_7]: Apoena Canuto Cosenza and Igor Grabois, 'Frações de Classe e
     Reservas Estratégicas: Um paradigma da aliança anti-fascista'.
     *Revista Mouro* 11 (14), 2020.
 
-[^8]:
+[^f07_8]:
     > Benito Mussolini and Giovanni Gentile, *The Doctrine of Fascism*.
     > Vallecchi, 1935.
 
-[^9]:
+[^f07_9]:
     > Silva, Cris Guimarães Cirino da. 'O bolsonarismo da esfera
     > pública: uma análise Foucaultiana sobre os conceitos de
     > pós-verdade, fake news e discurso de ódio presentes nas falas de
     > Bolsonaro'. Masters dissertation, UFA, 2020.
 
-[^10]:
+[^f07_10]:
     > Stanley G. Payne,* A History of Fascism, 1914--1945*, Madison,
     > University of Wisconsin Press, 1996.
 
-[^11]:
+[^f07_11]:
     > José Vianna and James Alberti, 'Bolsonarista preso por tentar
     > explodir caminhão-tanque diz que recebeu bomba no acampamento do
     > QG do Exército, em Brasília', *Jornal G1*, 19 January 2023.
 
-[^12]:
+[^f07_12]:
     > Vinicius Sassine and Camila Mattoso, 'PF encontra na casa de
     > ex-ministro minuta para Bolsonaro mudar resultado da eleição',
     > *Folha de São Paulo*, 12 February 2023.
 
-[^13]:
+[^f07_13]:
     > 'Áudio revela coronel Elcio Franco em trama golpista', *CNN
     > Brasil*, 8 May 2023.
 
-[^14]: Jair M. Bolsonaro, \@jairbolsonaro,
+[^f07_14]: Jair M. Bolsonaro, \@jairbolsonaro,
     https://twitter.com/jairbolsonaro.
 
-[^15]: We adopted as a category the concepts of 'strategic cadres' which
+[^f07_15]: We adopted as a category the concepts of 'strategic cadres' which
     are the general organizational and political leaders of the
     movement, and 'tactical cadres' which are the occasional
     organizational leaders of a given subgroup or given specific
     political action of a larger political movement.
 
-[^16]: MUSSOLINI, "Speech at the Parlament, 3, January, 1925", in
+[^f07_16]: MUSSOLINI, "Speech at the Parlament, 3, January, 1925", in
     MUSSOLINI, My Autobiography. New York: Charles Scribner's Sons,
     1928. P. 23
 
-[^17]: Benito Mussolini and E. Cope, *The doctrine of fascism*.
+[^f07_17]: Benito Mussolini and E. Cope, *The doctrine of fascism*.
     Vallecchi, 1935.
 
-[^18]:
+[^f07_18]:
     > Sean Hickey. The Vichy regime and its National Revolution in the
     > political writings of Robert Brasillach, Marcel Déat, Jacques
     > Doriot, and Pierre Drieu La Rochelle. Master Thesis, McGill
     > University, 1991.
 
-[^19]:
+[^f07_19]:
     > Robert G. Scigliano, 'Political parties in South Vietnam under the
     > Republic', *Pacific Affairs* 33.4 (1960): 327--346.
 
-[^20]:
+[^f07_20]:
     > Claudio Reis, 'O intelectual orgânico do bolsonarismo e o caso da
     > pandemia'. *Revista Enfil* 12 (2020): 76--95.
 
-[^21]:
+[^f07_21]:
     > Gilberto Calil, 'Olavo de Carvalho e a ascensão da
     > extrema-direita',* Argumentum* 13.2 (2021): 64--81.
 
-[^22]:
+[^f07_22]:
     > Reis, 'O intelectual orgânico do bolsonarismo e o caso da
     > pandemia'.
 
-[^23]:
+[^f07_23]:
     > 'Um dia após Bolsonaro atacar urnas, embaixada dos EUA diz que
     > eleições no Brasil são \'modelo\' para o mundo', *Jornal* *G1*, 19
     > July 2022.
 
-[^24]:
+[^f07_24]:
     > Robert Lanning, 'Irrationalism: The foundation of hate
     > propaganda', *Journal of Hate Studies.* 10, 2011, p. 49. See also,
     > Robert Lanning, 'The Masses and Pro-fascist Propaganda'. In: *'The
@@ -680,36 +674,36 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
     > Hegelian-Marxist critique of Adorno.* Brill*,* 2014*,*
     > pp.120--150.
 
-[^25]: It is important to emphasize that what Bolsonarism calls the left
+[^f07_25]: It is important to emphasize that what Bolsonarism calls the left
     is not exactly what political science would call the left. In fact,
     there is little methodological rigor in the classification of what
     is or is not left by Jair Bolsonaro\'s supporters.
 
-[^26]:
+[^f07_26]:
     > Levy Teles, 'Bolsonaristas operam supergrupos nas redes e cobram
     > soltura de presos', *Terra*, 21 February 2023.
 
-[^27]:
+[^f07_27]:
     > Nina Santos, Viktor Chagas and Juliana Marinho, 'De onde vem a
     > informação que circula em grupos bolsonaristas no
     > WhatsApp',* Intexto* 53 (2022): 123603--123603.
 
-[^28]: The terms collected were ':Alexandre de Moraes', 'Bolsonaro
+[^f07_28]: The terms collected were ':Alexandre de Moraes', 'Bolsonaro
     Mito', 'Dia 7 manifestação', 'Fecha STF', 'Festa da Selma', 'Fraude
     Eleição', 'Intervenção Militar', 'Lula Ladrão', 'Nuremberg',
     'Revolução Verde Amarelo', 'Viva Bolsonaro'.
 
-[^29]: This term is used by Brazilian influencers to describe the amount
+[^f07_29]: This term is used by Brazilian influencers to describe the amount
     of times an idea or a post generated some kind of registered
     engagement other than reactions such as 'likes'.
 
-[^30]: 'Festa da Selma' is a term that has a double reference. It is a
+[^f07_30]: 'Festa da Selma' is a term that has a double reference. It is a
     reference to the city of Selma, in the state of Alabama in the
     United States, the scene of the massacre of a manifestation of the
     black movement known as 'Bloody Sunday'. It is also a reference to
     the term 'Selva', used as a greeting by the Brazilian army.
 
-[^31]:
+[^f07_31]:
     > Alan Rios. 'Golpistas tinham técnica de guerrilha e eram
     > financiados, diz coronel à CPI'. *Jornal Metrópole*, 16 March
     > 2023.

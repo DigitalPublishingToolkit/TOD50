@@ -25,11 +25,11 @@ Rights: CC BY-NC 4.0
 > number of individual imbeciles. It is, on the contrary, a collectivity
 > of people of normal or even superior intelligence that come together,
 > driven by a common desire to stupefy themselves and each other. Whether
-> the desire is conscious, or unconscious is not important.*' <br/>
-> -- Olavo de Carvalho[^f05_2]
+> the desire is conscious, or unconscious is not important.'* <br/>
+> — Olavo de Carvalho[^f05_2]
 > 
 > *'Olavo is right'* <br/>
-> -- Bolsonarist catchphrase
+> — Bolsonarist catchphrase
 
 
 Jair Bolsonaro was elected in 2018 and since then, he has been spreading
@@ -106,10 +106,10 @@ gay lifestyle as part of what the alt-right called 'gender ideology'.
 What was the star attraction of this fictional pedagogical kit'? A
 phallic-shaped baby bottle they named the 'cock bottle'.
 
-![](media/image1.png)
+![Figure 1: Still image from a social media video showing a prototype of
+the phallic feeding bottle. Source: Facebook. Iconografia da História](/imgs/05_1.png)
 
-Figure 1: Still image from a social media video showing a prototype of
-the phallic feeding bottle. Source: Facebook. Iconografia da História
+<br/>
 
 These groups claimed, without any evidence, that communist agents had
 infiltrated the media, the courts, and the elite in Brazil, who in turn
@@ -228,9 +228,9 @@ An analysis of Bolsonarist symbolism can shed light on the nature of
 their memetic discourse. For instance, we could consider two strategic
 symbols: the large yellow and green phallus balloon displayed at several
 protests on Avenida Paulista, one of São Paulo's main avenues, and the
-epithet *imbrochável* -- a neologism in Portuguese meaning unbreakable
+epithet *imbrochável* — a neologism in Portuguese meaning unbreakable
 but which in this context designates someone who never loses an erection
-and is always ready to perform sexual acts -- assigned by Bolsonaro
+and is always ready to perform sexual acts — assigned by Bolsonaro
 himself and his supporters on an Independence Day celebration rally
 while the presidential campaign was in full swing in late 2022. The
 fixation on the phallus and on the virility of the leader and the meme
@@ -246,11 +246,12 @@ seek to arrange an argumentation as a successive chaining of thoughts.
 Rather, it concatenates signs following a mysterious and dreamlike order
 that is not readily assimilated into a logical sequence.
 
-![](media/image2.png)
-
-Figure 2: A still image from a social media video showing a phallic
+![Figure 2: A still image from a social media video showing a phallic
 balloon displayed in Avenida Paulista protests. Source: Reddit,
-r/brasil.
+r/brasil.](imgs/05_2.png)
+
+<br/>
+
 
 It is for this reason that Freud chooses dreams as the main
 manifestation of the unconscious,[^f05_23] while Deleuze and Guattari chose

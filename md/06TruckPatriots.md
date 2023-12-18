@@ -19,11 +19,9 @@ Rights: CC BY-NC 4.0
 
 # Around the World with the 'Truck Patriot': Memetization and the Circulation of Laughter in the 2022 Post-Election Period in Brazil
 
-### Viviane Borelli[^f06_1] and Isabel Löfgren[^f06_2] 
+### Viviane Borelli and Isabel Löfgren
 
-> ​​*Laughter is a philosophy. Often, laughter is salvation. And in
-> constitutional politics, at least, laughter is an opinion.* — Eça de
-> Queiroz, As Farpas[^f06_3]
+> ​​*Laughter is a philosophy. Often, laughter is salvation. And in constitutional politics, at least, laughter is an opinion.* — Eça de Queiroz, As Farpas[^f06_3]
 
 ## Prelude to a meme
 
@@ -98,8 +96,8 @@ Bolsonarist groups in the aftermath of the election.[^f06_11]
 
 ## The Road Blockades and the Emergence of the \'Truck Patriot\' meme
 
-![Figure 1: Truckers\' blockade on Presidente Dutra highway outside the
-city of São Paulo,Brazil. Credit: Lucas Lacaz Ruiz/Estadão Conteúdo](media/image1.png)
+![Figure 1: Truckers' blockade on Presidente Dutra highway outside the
+city of São Paulo,Brazil. Credit: Lucas Lacaz Ruiz/Estadão Conteúdo](imgs/06_1.png)
 
 <br/>
 
@@ -162,14 +160,14 @@ for 10 kilometers. This unusual ride allowed many passers-by and the
 truck driver himself to capture the scene on video.
 
 ![Figure 2: News report showing the Bolsonaro supporter from inside the
-truck, filmed by the driver. Source: *UOL*, Youtube.[^f06_19]](media/image2.png)
+truck, filmed by the driver. Source: *UOL*, Youtube.[^f06_19]](imgs/06_2.png)
 
 <br/>
 
 
 ![Figure 3: 'Bolsonarist stuck to the windshield of a truck that broke
 through coup-related road blockade'. Video still. Source: *DCM TV*,
-Youtube 3 November, 2022.[^f06_20]](media/image3.png)
+Youtube 3 November, 2022.[^f06_20]](imgs/06_3.png)
 
 <br/>
 
@@ -275,16 +273,16 @@ of regional expressions.
 
 ![Figure 4: Example of pastiche using cinematic tropes with the 'Truck
 Patriot' or UFO clinging onto E.T.'s bicycle. Source: \@SeJustica,
-Twitter post, 7 November 2022.[^f06_30]](media/image4.png)
+Twitter post, 7 November 2022.[^f06_30]](imgs/06_4.png)
 
 <br/>
 
 
 
-![](media/image5.jpeg)
+![Figure 5: The 'Truck Patriot' mashup and a scene from *Harry Potter and
+the Chamber of Secrets* (2002). Source: Instagram \@gharrypotter\_.](imgs/06_5.png)
 
-Figure 5: The 'Truck Patriot' mashup and a scene from *Harry Potter and
-the Chamber of Secrets* (2002). Source: Instagram \@gharrypotter\_.
+<br/>
 
 In the field of audiovisual production, *Netflix Brasil* posted a video
 collage that combined the Truck Patriot\'s video footage with iconic
@@ -299,10 +297,11 @@ by the Lumière Brothers, *Arrival of a Train at La Ciotat* (1895)
 playfully renamed by commenters as *Arrival of a Train 'with a Patriot'
 at La Ciotat*.[^f06_32]
 
-![](media/image6.jpeg){width="6.084027777777778in" height="4.525in"}
+![Figure 6: The Truck Patriot seen outside Greta Thunberg's train window.
+Source: unknown.](imgs/06_6.png)
 
-Figure 6: The Truck Patriot seen outside Greta Thunberg's train window.
-Source: unknown.
+<br/>
+
 
 Regarding music and popular culture, at times the meme is reconfigured
 in visual and auditory mashups with soundtracks added to the original
@@ -317,10 +316,10 @@ ignoring what is happening outside. Her character serves as a symbol for
 all progressive-minded people whose causes and beliefs had been
 systematically denied by Bolsonarist ideology, such as climate change.
 
-![](media/image7.png){width="6.020833333333333in" height="3.8125in"}
+![Figure 7: The Truck Patriot is seen in front of the Tower of Pisa.
+Source: \@folha.[^f06_34]](imgs/06_7.png)
 
-Figure 7: The Truck Patriot is seen in front of the Tower of Pisa.
-Source: \@folha.[^f06_34]
+<br/>
 
 In another series, we observe multiple mashups in an extensive series of
 over 200 memes depicting the 'Truck Patriot' traveling by truck around
@@ -332,12 +331,11 @@ of the Flat Earth —  a denialist theory defended by Bolsonarism (Figure
 8) —  or floating in outer space, on the Moon, or clinging to a rocket
 on the way to Planet Mars.
 
-![](media/image8.jpeg){width="6.804861111111111in"
-height="7.7243055555555555in"}
-
-Figure 8: The Truck Patriot falling off the edge of the Flat Earth.
+![Figure 8: The Truck Patriot falling off the edge of the Flat Earth.
 Source: \@Drifez_original, 'E vamos de patriota do caminhão chegando a
-borda da terra plana', Twitter post.[^f06_35]
+borda da terra plana', Twitter post.[^f06_35]](imgs/06_8.png)
+
+<br/>
 
 The meme also surfaced on more commercially oriented images, products,
 and ads. Within the realm of play, the iconic figure of the 'Truck
@@ -356,15 +354,15 @@ social media feeds and looking at the memes, thereby reinforcing the
 viral effect of networked laughter circulating among various audiences
 beyond the original visual artifact.
 
-![](media/image9.jpeg){width="5.7756944444444445in"
-height="4.1090277777777775in"}
-
-Figure 9: The \'Truck Patriot\' in a carnival theme. In the background
+![Figure 9: The \'Truck Patriot\' in a carnival theme. In the background
 we see a carnival float representing a truck with a caricature of the
 Truck Patriot, and in the foreground are carnival goers dressed up as
 'patriots' with yellow football jerseys and a cow mask, symbolizing
 cattle, as Bolsonarists are referred to collectively by anti-Bolsonaro
-supporters.
+supporters.](imgs/06_9.png)
+
+<br/>
+
 
 The meme also traveled beyond the internet. In the visual arts, the use
 of the 'Truck Patriot' image as a cultural icon in public art like
@@ -453,16 +451,16 @@ political transformation, and as a strategy for resistance.
 
 #### The 'Truck Patriot' meme as a Symbol of Democracy 
 
-![](media/image10.png){width="6.305555555555555in"
-height="4.595138888888889in"}
+![Figura 10: A political cartoon in which the \'truck\' of democracy drives
+Bolsonarism off the road. Unknown source.](imgs/06_10.png)
 
-Figura 7: A political cartoon in which the \'truck\' of democracy drives
-Bolsonarism off the road. Unknown source.
+<br/>
 
-![](media/image11.jpeg){width="6.5in" height="5.21875in"}
+![Figure 11: A collage with the Lula's and Bolsonaro's cut-out photographs
+on the original video footage. Source: \#*MUSEUdeMEMES*.[^f06_45]](imgs/06_11.png)
 
-Figure 8: A collage with the Lula's and Bolsonaro's cut-out photographs
-on the original video footage. Source: \#*MUSEUdeMEMES*.[^f06_45]
+<br/>
+
 
 When memes cross over to the language of political cartoons, they become
 part of the political commentary and *memetize* political discourse.
@@ -481,12 +479,11 @@ committed followers.
 
 #### The 'Truck Patriot' Meme as a Supporting Character
 
-![](media/image12.png){width="6.072916666666667in"
-height="6.402083333333334in"}
-
-Figure 9: Zambelli's *Abbey Road* meme with the Truck Patriot in the
+![Figure 12: Zambelli's *Abbey Road* meme with the Truck Patriot in the
 background. The caption reads, 'Bro!!! This meme only gets
-better!!!'.Source: \@annaguirro, Twitter post 5 November 2022.[^f06_47]
+better!!!'.Source: \@annaguirro, Twitter post 5 November 2022.[^f06_47]](imgs/06_12.png)
+
+<br/>
 
 While the 'Truck Patriot' meme circulated mostly as a standalone meme,
 in some instances, it was combined with memes with absurd scenes from
@@ -528,14 +525,15 @@ allies.
 
 #### The Truck Patriot as an Agent of Political Transformation
 
-![](media/image13.png){width="5.749305555555556in"
-height="6.572916666666667in"}
-
-Figure 10: Photo collage of the National Congress in Brasília, where the
+![Figure 13: Photo collage of the National Congress in Brasília, where the
 \'Truck Patriot\' is depicted on a collision course with Jair Bolsonaro
 and Carla Zambelli. The caption reads 'Brazil, 2022. Rioters on panel.',
 in the style of image captions given to artworks. Credit:
-\@deyvidbacelar.[^f06_51]
+\@deyvidbacelar.[^f06_51]](imgs/06_13.png)
+
+<br/>
+
+
 
 Another meme shows Carla Zambelli running with a gun, followed by Jair
 Bolsonaro and the 'Truck Patriot' frozen in motion in what looks like a
@@ -576,16 +574,16 @@ form of critical memes and laughter as a form of resistance against
 Bolsonaro\'s negationist stance towards the pandemic and his ineffective
 government.[^f06_52]
 
-![](media/image14.png){width="2.6493055555555554in"
-height="3.75625in"}![](media/image15.png){width="2.7847222222222223in"
-height="3.727777777777778in"}
-
-Figure 11: (left) \'Nobody lets go of anyone\'s hand\' was a meme and
+![Figure 14: (left) \'Nobody lets go of anyone\'s hand\' was a meme and
 slogan created during the 2018 election, inspired by collectivist and
 intersectional ideals symbolizing the unity of the left against
 Bolsonarism. (right) An ironic reinterpretation adapted from the 2018
 meme, this time featuring the Truck Patriot, saying 'No one lets go from
-the truck'. Source: unknown.
+the truck'. Source: unknown.](imgs/06_14.png)
+
+<br/>
+
+
 
 Besides a need to celebrate Lula's victory in the elections, the 'Truck
 Patriot' meme was important to communicate the need to stay together to
@@ -662,11 +660,11 @@ democratic government with Lula's victory.
 
 \@annaguirro, 'Mano!!! Esse meme só melhora!!! #ZambelliNaCadeia
 #PatriotaDoCaminhao', Twitter post, 5 November, 2022, 3:11 AM,
-https://twitter.com/annaguirro/status/1588715480969535489.
+<https://twitter.com/annaguirro/status/1588715480969535489>.
 
 'Bolsonaristas se reuniram em atos antidemocráticos em 24 estados e no
 DF', G1, 3 November 2022,
-https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/atos-bolsonaristas-quarteis-brasil.ghtml.
+<https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/atos-bolsonaristas-quarteis-brasil.ghtml>.
 
 Beiguelman, Giselle. Políticas da Imagem: Vigilância e Resistência na
 Dadosfera. São Paulo: Ubu Editora, 2021.
@@ -751,7 +749,7 @@ https://g1.globo.com/politica/noticia/2023/01/19/governo-bolsonaro-liberou-em-me
 
 Gonçalves, Andre Luiz Dias. 'WhatsApp é o app mais popular do Brasil;
 veja o top 10', Tecmundo, 8 January 2022,
-https://www.tecmundo.com.br/dispositivos-moveis/231633-whatsapp-app-popular-brasil-veja-o-top-10.htm.
+https://www.tecmundo.com.br/dispositivos-moveis/231633-whatsapp-app-popular-brasil-veja-o-top-10.html.
 
 Horbyk, Roman, Löfgren, Isabel, Soriano, Cheryl, and Prymashenko,Yana.
 'Fake News as Meta-mimesis: Imitative Genres and Storytelling in the
@@ -765,7 +763,7 @@ https://twitter.com/joaorzc/status/1590394436814413824.
 
 Lacombe, Milly. 'O patriota do caminhão é a estética de um golpe
 fracassado', *Uol*, 4 November 2022,
-UoLhttps://www.uol.com.br/esporte/colunas/milly-lacombe/2022/11/04/o-patriota-preso-ao-caminhao-e-a-estetica-de-um-golpe-fracassado.htm.
+UoL https://www.uol.com.br/esporte/colunas/milly-lacombe/2022/11/04/o-patriota-preso-ao-caminhao-e-a-estetica-de-um-golpe-fracassado.html.
 
 Löfgren, Isabel. 'Memes as means of public dissent and cultural
 resistance in the post-electoral period in Brazil', Urgent Publishing,
@@ -846,12 +844,7 @@ Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
 https://pt.wikipedia.org/wiki/Patriota_do_caminh%C3%A3o, accessed 10
 October, 2023.
 
-[^f06_1]: Associate Professor in the Graduate Program in Communication
-    Sciences at the Federal University of Santa Maria (UFSM), Brazil.
-    Email: viviane.borelli@ufsm.br.
 
-[^f06_2]: Senior lecturer in Media and Communications at Södertörn
-    University, Sweden. Email: isabel.lofgren@sh.se.
 
 [^f06_3]: Eça de Queiroz, *AS FARPAS: crônica mensal da politica, das letras
     e dos costume*s. Lisboa: Tipografia Universal, fevereiro de 1872,
