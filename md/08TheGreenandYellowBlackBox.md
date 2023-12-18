@@ -282,7 +282,8 @@ themselves.
 
 > I fought all this time in \[front of\] the barracks because I believed
 > they were going to do something. But now, I don\'t believe in Bolsonaro,
-> not even if he himself calls me back to the streets.\
+> not even if he himself calls me back to the streets.
+> 
 > -- User 1, January 1, 2023 [^f08_31]
 
 User 1's message refers to the mobilizations in front of Army barracks
@@ -303,14 +304,15 @@ that he was governing the country because his signature appeared in
 dismissal notices published in the *Diário Oficial da União* (Federal
 Official Gazette), as mentioned by User 2 in his comment (Figure 1):
 
-![](media/image1.jpeg)
-Figure 1: User 2 sustains that General Heleno has assumed the
+![Figure 1: User 2 sustains that General Heleno has assumed the
 provisory Brazilian government.[^f08_32] Source: Telegram, 2 January,
-2023.
+2023.](imgs/08_1.png)
+
 
 > Well, what a barbarity. General Heleno is the overseer, and along with
 > the armed forces, they will run Brazil within the boundaries. Let\'s
-> stay strong in front of the barracks.\
+> stay strong in front of the barracks.
+> 
 > -- User 3, January 2, 2023.[^f08_33]
 
 Continuing the thread of this same conversation, one user went as far
@@ -319,36 +321,39 @@ followed by a comment questioning the validity of legal actions under
 the Lula government, even though the official acts in question were
 signed during the final days of the Bolsonaro administration.
 
-Guys, Heleno was dismissed; he no longer holds the position of Minister
-of the Institutional Security Cabinet (GSI). This publication still has
-his name because it was signed before his dismissal and was published
-today. Let\'s stop deluding ourselves. The new GSI minister was
-appointed yesterday by \'nine\'[^f08_34] \[allusion to Lula\], and it\'s
-MARCO EDSON GONÇALVES DIAS, one of the decrees signed by the
-\'LULA-THIEF\' yesterday. I\'ll leave here the list of appointees.\
--- User 4, January 2, 2023.[^f08_35]
+> Guys, Heleno was dismissed; he no longer holds the position of Minister
+> of the Institutional Security Cabinet (GSI). This publication still has
+> his name because it was signed before his dismissal and was published
+> today. Let\'s stop deluding ourselves. The new GSI minister was
+> appointed yesterday by \'nine\'[^f08_34] \[allusion to Lula\], and it\'s
+> MARCO EDSON GONÇALVES DIAS, one of the decrees signed by the
+> \'LULA-THIEF\' yesterday. I\'ll leave here the list of appointees.
+> 
+> -- User 4, January 2, 2023.[^f08_35]
 
-The PT issues decrees without publishing them in the Federal Official
-Gazette, which has no validity. They desperately want power, even the
-inauguration was fake.\
--- User 3, January 2, 2023.[^f08_36]
+> The PT issues decrees without publishing them in the Federal Official
+> Gazette, which has no validity. They desperately want power, even the
+> inauguration was fake.
+> 
+> -- User 3, January 2, 2023.[^f08_36]
 
-> Starting on January 3, the narratives confirming the installed
-> military intervention are replaced by questioning the possibility of
-> it materializing through the mobilization of radical Bolsonarists. The
-> increasing presence of these narratives is observed within the group
-> by the users themselves who express that the movement is gaining
-> strength in the media ecosystem of the radical right.
+Starting on January 3, the narratives confirming the installed
+military intervention are replaced by questioning the possibility of
+it materializing through the mobilization of radical Bolsonarists. The
+increasing presence of these narratives is observed within the group
+by the users themselves who express that the movement is gaining
+strength in the media ecosystem of the radical right.
 
-I notice this in the 14 Telegram groups I participate in as a
-conservative patriot and contributor to the dissemination of videos,
-audios, and written comments. Starting in the early hours of January 2,
-2023, there is a significant increase in the average number of opinions.
-Most of them post banners saying \'GENERAL STRIKE ON THE 9TH\' IN
-BRAZIL, and others invite to urgently form a large gathering of
-Brazilians in Brasília. They clarify that they do not desire a left-wing
-government, which they see as a THREAT to Freedom and democracy.\
--- User 2, January 3, 2023.[^f08_37]
+> I notice this in the 14 Telegram groups I participate in as a
+> conservative patriot and contributor to the dissemination of videos,
+> audios, and written comments. Starting in the early hours of January 2,
+> 2023, there is a significant increase in the average number of opinions.
+> Most of them post banners saying \'GENERAL STRIKE ON THE 9TH\' IN
+> BRAZIL, and others invite to urgently form a large gathering of
+> Brazilians in Brasília. They clarify that they do not desire a left-wing
+> government, which they see as a THREAT to Freedom and democracy.
+> 
+> -- User 2, January 3, 2023.[^f08_37]
 
 Between January 4 and 6, messages of convocation for the activities
 circulated intensively, including detailed information about caravans
@@ -358,55 +363,57 @@ mobilization taking shape, and the term \'patriota\' ('patriot')
 identifies the supporters of the cause, following an already established
 naming convention in Bolsonarist groups.
 
-Patriots of God\... For those who cannot go to Brasília, fill the QGs
-(military headquarters). But Brasília has to be huge. Many, many are
-already heading there. Believe, Bolsonaro had already posted the map on
-his Instagram a month ago, indicating Brasília as the center of the
-protest. Jungle, jungle. SOS Armed Forces. We don\'t want Lula in power.
-A general cleanup of institutions. Brasília must be surrounded, with
-coordinated and orderly crowds. No one enters or leaves (Congress and
-Supreme Court). Go, Brazil! Our flag will never be red.\
--- User 5, January 4, 2023.[^f08_38]
+> Patriots of God\... For those who cannot go to Brasília, fill the QGs
+> (military headquarters). But Brasília has to be huge. Many, many are
+> already heading there. Believe, Bolsonaro had already posted the map on
+> his Instagram a month ago, indicating Brasília as the center of the
+> protest. Jungle, jungle. SOS Armed Forces. We don\'t want Lula in power.
+> A general cleanup of institutions. Brasília must be surrounded, with
+> coordinated and orderly crowds. No one enters or leaves (Congress and
+> Supreme Court). Go, Brazil! Our flag will never be red.
+> 
+> -- User 5, January 4, 2023.[^f08_38]
 
-Calling all patriots! Folks, let\'s share this group and clarify its
-true purpose. It\'s a call to patriots who want a new September 7^th^,
-just as Professor Olavo de Carvalho talks about in his videos. We will
-come out in the largest mass of people Brazil has ever seen. The left,
-which thinks it\'s the majority, will fall to the ground humiliated
-because God is the one who governs Brazil and our lives. Communism has
-no place\... Order and progress now.\
--- User 6, January 4, 2023.[^f08_39]
+> Calling all patriots! Folks, let\'s share this group and clarify its
+> true purpose. It\'s a call to patriots who want a new September 7^th^,
+> just as Professor Olavo de Carvalho talks about in his videos. We will
+> come out in the largest mass of people Brazil has ever seen. The left,
+> which thinks it\'s the majority, will fall to the ground humiliated
+> because God is the one who governs Brazil and our lives. Communism has
+> no place\... Order and progress now.
+> 
+> -- User 6, January 4, 2023.[^f08_39]
 
-For those who need a bus to Brasília, just contact us on WhatsApp at
-\[hidden number\]. Ramiro Caminhoneiro is providing 3,000 buses.
-Everyone, join Ramiro dos Camioneiros\' \[sic\] live on Instagram now.
-There are 3,000 buses to take people to Brasília for free. Share
-URGENTLY!!! It\'s a critical call, or it will be the slavery and misery
-of all.\
--- User 2, January 5, 2023[^f08_40]
+> For those who need a bus to Brasília, just contact us on WhatsApp at
+> \[hidden number\]. Ramiro Caminhoneiro is providing 3,000 buses.
+> Everyone, join Ramiro dos Camioneiros\' \[sic\] live on Instagram now.
+> There are 3,000 buses to take people to Brasília for free. Share
+> URGENTLY!!! It\'s a critical call, or it will be the slavery and misery
+> of all.
+> 
+> -- User 2, January 5, 2023[^f08_40]
 
-Good evening, everyone. We are recruiting individuals who have
-availability to travel to Brasília by bus, departing on Sunday and
-returning on Thursday. Everything is paid for, and you will be camping
-in the Planalto area. Please help us spread the word and find more
-people. We currently have 5 buses, and if we have more participants, we
-can secure additional buses. Interested individuals can contact Carla at
-\[hidden number\].\
--- User 7, January 6, 2023.[^f08_41]
+> Good evening, everyone. We are recruiting individuals who have
+> availability to travel to Brasília by bus, departing on Sunday and
+> returning on Thursday. Everything is paid for, and you will be camping
+> in the Planalto area. Please help us spread the word and find more
+> people. We currently have 5 buses, and if we have more participants, we
+> can secure additional buses. Interested individuals can contact Carla at
+> \[hidden number\].
+> 
+> -- User 7, January 6, 2023.[^f08_41]
 
 It is worth noting that the organizer mentioned by User 7, Ramiro
 Caminhoneiro, is one of the protest leaders arrested on January 20,
 2023, by the Federal Police in a specific operation to apprehend
 financiers, participants, and instigators of the coup events.[^f08_42]
 
-![](media/image2.jpeg){width="5.688888888888889in"
-height="6.763194444444444in"}
-
-Figure 2: Post explaining where the locations for the attempted coup
+![Figure 2: Post explaining where the locations for the attempted coup
 events would be held. The post reads: 'The party at Selma\'s house has
 begun, everyone is invited, let\'s enjoy it'. In the image, you can see
 the text 'Location of Selma\'s party' and 'cake table', circled in
-purple. Source: Telegram, 6 January, 2023.
+purple. Source: Telegram, 6 January, 2023.](imgs/08_2.jpg)
+
 
 Another important aspect is the informative messages about the event in
 Brasília, which circulated primarily between January 6 and 7, explaining
@@ -427,13 +434,12 @@ or even the algorithms themselves,[^f08_44] as indicated in the following
 post, initially shared on Instagram and later disseminated in the
 Telegram group (Figure 3).
 
-![](media/image3.jpeg){width="2.861111111111111in" height="3.6375in"}
-
-Figure 3: User providing instructions on how to circulate mobilization
+![Figure 3: User providing instructions on how to circulate mobilization
 messages for the coup events. In the posted photo, it says in
 Portuguese: 'Attention!!! The algorithm doesn\'t recognize handwritten
 messages. Take photos and post them! Share the information'.. Source:
-Telegram, 6 January, 2023.
+Telegram, 6 January, 2023.](imgs/08_3.png)
+
 
 Finally, the posts that circulated in the group between January 7 and 8
 continue to coordinate the previously mentioned aspects, emphasizing
