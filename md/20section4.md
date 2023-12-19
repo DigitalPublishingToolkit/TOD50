@@ -17,4 +17,4 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# The Image and the Other/A imagem e o outro
+# The Image and the Other / A imagem e o outro

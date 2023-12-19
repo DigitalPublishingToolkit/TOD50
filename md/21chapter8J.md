@@ -21,7 +21,11 @@ Rights: CC BY-NC 4.0
 
 ### Clementino Jesus Junior[^1]
 
-## ![](media/image1.png){width="3.09375in" height="3.0520833333333335in"}i j ** **Ataque à Rainha
+![](imgs/21_1.jpg)
+
+<br/>
+
+## Ataque à Rainha
 
 Janeiro é o mês da transição. Seu nome, na língua portuguesa, vem do
 deus romano Janus que é representado por uma figura com duas faces em
@@ -145,20 +149,13 @@ foi publicada nessas capas, assim como as escolhas das imagens que as
 ilustrariam após o imediatismo virtual desses eventos nas plataformas de
 mídias sociais no momento dos ataques aos palácios dos 3 poderes.
 
-![Tela de celular com publicação numa rede social Descrição gerada
-automaticamente com confiança
-média](media/image2.jpeg){width="4.647222222222222in"
-height="2.607638888888889in"}
+![Figura 1: Capa do *The New York Times,* 2 de janeiro de 2023. Fonte:
+*NYTimes.com.*[^11])](imgs/21_2.png)
 
-Figura 1: Capa do *The New York Times,* 2 de janeiro de 2023. Fonte:
-*NYTimes.com.*[^11]
+<br/>
 
-![Mapa de cidade Descrição gerada
-automaticamente](media/image3.jpeg){width="4.520833333333333in"
-height="2.838888888888889in"}
-
-Figura 2: Capa do The New York Times, 9 de janeiro de 2023. Fonte: *The
-New York Times.*[^12]
+![Figura 2: Capa do The New York Times, 9 de janeiro de 2023. Fonte: *The
+New York Times.*[^12]](imgs/21_3.png)
 
 A primeira jogada está na visão em 'plano geral' das massas populares
 presentes no que chamo de 'dois domingos de transição': da energia da
@@ -191,20 +188,13 @@ observa as ações à distância, pois os registros próximos, em close-up,
 foram feitos de maneira mais detalhada, e em tempo real, pelos próprios
 vândalos e suas selfies.
 
-![Diagrama Descrição gerada automaticamente com confiança
-baixa](media/image4.jpeg){width="5.049305555555556in"
-height="5.163888888888889in"}
+![Figura 3: Capa do jornal *O Globo,* 9 de janeiro de 2023. Fonte: Acervo
+Digital/*O Globo.*[^14]](imgs/21_4.png)
 
-Figura 3: Capa do jornal *O Globo,* 9 de janeiro de 2023. Fonte: Acervo
-Digital/*O Globo.*[^14]
 
-![Jornal com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](media/image5.png){width="5.044444444444444in"
-height="3.329861111111111in"}
 
-Figura 4: Capa da *Folha de S. Paulo* de 19 de janeiro de 2023. Fonte:
-*Folha de S. Paulo*.[^15]
+![Figura 4: Capa da *Folha de S. Paulo* de 19 de janeiro de 2023. Fonte:
+*Folha de S. Paulo*.[^15]](imgs/21_5.png)
 
 A segunda jogada no tabuleiro revela o ponto de vista das janelas do
 Palácio do Planalto mencionadas anteriormente, mas já sem uma visão
@@ -234,12 +224,8 @@ para a fotógrafa possibilitou inclusive à editora de seus livros sobre
 cobertura política voltar a divulgá-los e aproveitar para aumentar as
 vendas.[^19]
 
-![Uma imagem contendo edifício, homem, em pé, mulher Descrição gerada
-automaticamente](media/image6.jpeg){width="5.200694444444444in"
-height="2.9138888888888888in"}
-
-Figura 5: Imagem da Câmera de Segurança do Palácio do Planalto com o
-vândalo que destruiu relógio histórico.[^20]
+![Figura 5: Imagem da Câmera de Segurança do Palácio do Planalto com o
+vândalo que destruiu relógio histórico.[^20]](imgs/21_6.png)
 
 A terceira jogada e último exemplo de imagem que usarei é marcante:
 registrada pela câmera de segurança do Palácio do Planalto do vândalo

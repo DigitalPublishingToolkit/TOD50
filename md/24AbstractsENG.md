@@ -21,8 +21,6 @@ Rights: CC BY-NC 4.0
 
 ### Media Practices Before the Storm
 
-## 
-
 ## Fake News, Memes and the Unconscious Production of Paranoid Utterances
 
 ### Lou Caffagni
@@ -109,7 +107,9 @@ sectors of the nation.
 
 ### The Attempted Coup
 
-## **Experience and Barbarism in Brasilia: a Savage Journey to Understand the Heart of Brazilian Conservative Rioters^\ ^**Eduardo Ruedell
+## **Experience and Barbarism in Brasilia: a Savage Journey to Understand the Heart of Brazilian Conservative Rioters**
+
+### Eduardo Ruedell
 
 On the afternoon of Sunday, January 8, 2023, over four thousand
 supporters of Jair Bolsonaro broke into the Praça dos Três Poderes
@@ -131,7 +131,7 @@ narrative in understanding the unfolding of the Planalto Riots.
 
 ## Brasília, January 8, 2023: The Party Is Over! The War (Still) Isn\'t
 
-### ** **Camila Hartmann, Ada C. Machado Silveira, Gabriela Schneider
+### Camila Hartmann, Ada C. Machado Silveira, Gabriela Schneider
 
 Our chapter highlights aspects of communication-media dynamics that
 affect Brazilian democratic life today. We do so notably through the
@@ -158,7 +158,7 @@ war that has (mis)information as its main input.
 
 ## **Authoritarian Governments in Brazilian Democracy: Far-Right Coup Attempts Didn\'t Start Today**
 
-### ** **Gizele Martins
+### Gizele Martins
 
 The article begins the discussion by addressing the current political
 situation in Brazil, where there is a significant far-right presence
@@ -181,11 +181,11 @@ began ten years ago.
 
 ### Art and Architecture: Brasilia
 
-## **Art and the Political Moment**
+## Art and the Political Moment
 
-### ** **Alecsandra Matias de Oliveira
+### Alecsandra Matias de Oliveira
 
-###  This essay comments on political events and the production of visual art in Brazil between 1968 and the episodes on January 8, 2023, by raising questions about the 'reaction time' of artists and the 'reflection time' of critics and historians. Therefore, some works that tell about the Brazilian political scene in the last 60 years will be shown, focusing on national Pop Art and the discussions in the biennials of the late 1960s and early 1970s and artworks that refer to the 'Years of Lead', -- the tensest period of civil and military dictatorships. These artistic proposals sounded the alarm of unresolved issues that lay dormant, so to speak, during the years of re-democratization in the mid-1980s but reawakened with the Journeys of June 2013. The meaning of time becomes important: far from being the chronology that governs daily events, the temporality that unites the works presented here is that of resistance to the (colonial and authoritarian) mentalities that still guide national political decisions in Brazil. Parallel to the long duration, art appears in moments that differ from historical reflections as they are immediate reactions to events. Thus, some works are born in the 'heat of the moment', arising from the spontaneity forbidden to other types of knowledge that require maturation and need the judgment of its course. This text is mainly about observing how artists capture the political moment in everyday life when freed from chains.
+This essay comments on political events and the production of visual art in Brazil between 1968 and the episodes on January 8, 2023, by raising questions about the 'reaction time' of artists and the 'reflection time' of critics and historians. Therefore, some works that tell about the Brazilian political scene in the last 60 years will be shown, focusing on national Pop Art and the discussions in the biennials of the late 1960s and early 1970s and artworks that refer to the 'Years of Lead', -- the tensest period of civil and military dictatorships. These artistic proposals sounded the alarm of unresolved issues that lay dormant, so to speak, during the years of re-democratization in the mid-1980s but reawakened with the Journeys of June 2013. The meaning of time becomes important: far from being the chronology that governs daily events, the temporality that unites the works presented here is that of resistance to the (colonial and authoritarian) mentalities that still guide national political decisions in Brazil. Parallel to the long duration, art appears in moments that differ from historical reflections as they are immediate reactions to events. Thus, some works are born in the 'heat of the moment', arising from the spontaneity forbidden to other types of knowledge that require maturation and need the judgment of its course. This text is mainly about observing how artists capture the political moment in everyday life when freed from chains.
 
 ## The Stories of the Victims: The Planalto Riots from the Perspective of Terrorized Art
 
@@ -217,7 +217,7 @@ Brazilian society.
 
 ## Dear Oscar Niemeyer
 
-### ** **Tatiana Letier Pinto
+### Tatiana Letier Pinto
 
 Writing a letter is an act of affection towards the receiver -- it is an
 invitation to dialogue, an opening of a direct channel of communication
@@ -239,7 +239,7 @@ into a democratic space for the Brazilian people?
 
 ## 8J
 
-### ** **Clementino Jesus Junior
+### Clementino Jesus Junior
 
 January 8, 2023, is more than a date to be explored in the historical
 narratives of a dark period in Brazil\'s already dark history. It is a
@@ -260,7 +260,7 @@ country that since its 'dis-covery' has no possessions.
 
 ## Indigenizing Democracy: 'Never again a Brazil Without Us' 
 
-###  Bartira S. Fortes
+### Bartira S. Fortes
 
 The chapter explores the intersection of art, democracy, decolonization,
 and Indigenous rights in the new era of Brazilian democracy following
@@ -289,7 +289,7 @@ democracy and confronting patriarchal and colonial legacies.
 
 ## While Narcissus Invades the Brazilian National Congress, the Yanomami Disappear in the Waters
 
-### ** **Ana Paula da Rosa
+### Ana Paula da Rosa
 
 We resort to the myth of Narcissus to problematize images and their
 power both in the invasion of the Três Poderes Square (Palácio do
