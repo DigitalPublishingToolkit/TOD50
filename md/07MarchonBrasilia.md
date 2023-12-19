@@ -562,30 +562,30 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
 
 
 [^f07_2]:
-    > The protesters camped in front of the army headquarters in
-    > Brasília and in front of different barracks throughout the
-    > country.
+     The protesters camped in front of the army headquarters in
+     Brasília and in front of different barracks throughout the
+     country.
 
 [^f07_3]:
-    > The term *financial bourgeoisie* comes from Hilferding in 1910,
-    > and was later used by Lenin in 1917. This is the group of
-    > businessmen who work in finance. Finance, for them, was the union
-    > between banking capital and industrial capital. That is, they are
-    > bankers, large shareholders, partners in economic conglomerates,
-    > among others. See Rudolf Hilferding *Das Finanzkapital, eine
-    > Studie über die jüngste Entwicklung des Kapitalismus*. Wiener
-    > Volksbuchandlung, 1910.
+     The term *financial bourgeoisie* comes from Hilferding in 1910,
+     and was later used by Lenin in 1917. This is the group of
+     businessmen who work in finance. Finance, for them, was the union
+     between banking capital and industrial capital. That is, they are
+     bankers, large shareholders, partners in economic conglomerates,
+     among others. See Rudolf Hilferding *Das Finanzkapital, eine
+     Studie über die jüngste Entwicklung des Kapitalismus*. Wiener
+     Volksbuchandlung, 1910.
 
 [^f07_4]:
-    > Dimitrov, Georgi. 'The United Front Against Fascism and War: The
-    > fascist offensive and the tasks of the Communist International in
-    > the fight for the unity of the working class against fascism'. New
-    > York: Workers Library Publishers, 1935.
+     Dimitrov, Georgi. 'The United Front Against Fascism and War: The
+     fascist offensive and the tasks of the Communist International in
+     the fight for the unity of the working class against fascism'. New
+     York: Workers Library Publishers, 1935.
 
 [^f07_5]:
-    > *Class fraction* is a grouping that although it forms part of a
-    > broader socioeconomic class has its own interests that can place
-    > it in a different political field from the rest of its class.
+     *Class fraction* is a grouping that although it forms part of a
+     broader socioeconomic class has its own interests that can place
+     it in a different political field from the rest of its class.
 
 [^f07_6]: At Brazil, the term Militia (*Milícias*) has become a synonym of
     organized crime that is ruled by crooked members of state repression
@@ -596,32 +596,32 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
     *Revista Mouro* 11 (14), 2020.
 
 [^f07_8]:
-    > Benito Mussolini and Giovanni Gentile, *The Doctrine of Fascism*.
-    > Vallecchi, 1935.
+     Benito Mussolini and Giovanni Gentile, *The Doctrine of Fascism*.
+     Vallecchi, 1935.
 
 [^f07_9]:
-    > Silva, Cris Guimarães Cirino da. 'O bolsonarismo da esfera
-    > pública: uma análise Foucaultiana sobre os conceitos de
-    > pós-verdade, fake news e discurso de ódio presentes nas falas de
-    > Bolsonaro'. Masters dissertation, UFA, 2020.
+     Silva, Cris Guimarães Cirino da. 'O bolsonarismo da esfera
+     pública: uma análise Foucaultiana sobre os conceitos de
+     pós-verdade, fake news e discurso de ódio presentes nas falas de
+     Bolsonaro'. Masters dissertation, UFA, 2020.
 
 [^f07_10]:
-    > Stanley G. Payne,* A History of Fascism, 1914--1945*, Madison,
-    > University of Wisconsin Press, 1996.
+     Stanley G. Payne,* A History of Fascism, 1914--1945*, Madison,
+     University of Wisconsin Press, 1996.
 
 [^f07_11]:
-    > José Vianna and James Alberti, 'Bolsonarista preso por tentar
-    > explodir caminhão-tanque diz que recebeu bomba no acampamento do
-    > QG do Exército, em Brasília', *Jornal G1*, 19 January 2023.
+     José Vianna and James Alberti, 'Bolsonarista preso por tentar
+     explodir caminhão-tanque diz que recebeu bomba no acampamento do
+     QG do Exército, em Brasília', *Jornal G1*, 19 January 2023.
 
 [^f07_12]:
-    > Vinicius Sassine and Camila Mattoso, 'PF encontra na casa de
-    > ex-ministro minuta para Bolsonaro mudar resultado da eleição',
-    > *Folha de São Paulo*, 12 February 2023.
+     Vinicius Sassine and Camila Mattoso, 'PF encontra na casa de
+     ex-ministro minuta para Bolsonaro mudar resultado da eleição',
+     *Folha de São Paulo*, 12 February 2023.
 
 [^f07_13]:
-    > 'Áudio revela coronel Elcio Franco em trama golpista', *CNN
-    > Brasil*, 8 May 2023.
+     'Áudio revela coronel Elcio Franco em trama golpista', *CNN
+     Brasil*, 8 May 2023.
 
 [^f07_14]: Jair M. Bolsonaro, \@jairbolsonaro,
     https://twitter.com/jairbolsonaro.
@@ -640,39 +640,39 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
     Vallecchi, 1935.
 
 [^f07_18]:
-    > Sean Hickey. The Vichy regime and its National Revolution in the
-    > political writings of Robert Brasillach, Marcel Déat, Jacques
-    > Doriot, and Pierre Drieu La Rochelle. Master Thesis, McGill
-    > University, 1991.
+     Sean Hickey. The Vichy regime and its National Revolution in the
+     political writings of Robert Brasillach, Marcel Déat, Jacques
+     Doriot, and Pierre Drieu La Rochelle. Master Thesis, McGill
+     University, 1991.
 
 [^f07_19]:
-    > Robert G. Scigliano, 'Political parties in South Vietnam under the
-    > Republic', *Pacific Affairs* 33.4 (1960): 327--346.
+     Robert G. Scigliano, 'Political parties in South Vietnam under the
+     Republic', *Pacific Affairs* 33.4 (1960): 327--346.
 
 [^f07_20]:
-    > Claudio Reis, 'O intelectual orgânico do bolsonarismo e o caso da
-    > pandemia'. *Revista Enfil* 12 (2020): 76--95.
+     Claudio Reis, 'O intelectual orgânico do bolsonarismo e o caso da
+     pandemia'. *Revista Enfil* 12 (2020): 76--95.
 
 [^f07_21]:
-    > Gilberto Calil, 'Olavo de Carvalho e a ascensão da
-    > extrema-direita',* Argumentum* 13.2 (2021): 64--81.
+     Gilberto Calil, 'Olavo de Carvalho e a ascensão da
+     extrema-direita',* Argumentum* 13.2 (2021): 64--81.
 
 [^f07_22]:
-    > Reis, 'O intelectual orgânico do bolsonarismo e o caso da
-    > pandemia'.
+     Reis, 'O intelectual orgânico do bolsonarismo e o caso da
+     pandemia'.
 
 [^f07_23]:
-    > 'Um dia após Bolsonaro atacar urnas, embaixada dos EUA diz que
-    > eleições no Brasil são \'modelo\' para o mundo', *Jornal* *G1*, 19
-    > July 2022.
+     'Um dia após Bolsonaro atacar urnas, embaixada dos EUA diz que
+     eleições no Brasil são \'modelo\' para o mundo', *Jornal* *G1*, 19
+     July 2022.
 
 [^f07_24]:
-    > Robert Lanning, 'Irrationalism: The foundation of hate
-    > propaganda', *Journal of Hate Studies.* 10, 2011, p. 49. See also,
-    > Robert Lanning, 'The Masses and Pro-fascist Propaganda'. In: *'The
-    > Masses and Pro-fascist Propaganda'. In the hotel abyss: an
-    > Hegelian-Marxist critique of Adorno.* Brill*,* 2014*,*
-    > pp.120--150.
+     Robert Lanning, 'Irrationalism: The foundation of hate
+     propaganda', *Journal of Hate Studies.* 10, 2011, p. 49. See also,
+     Robert Lanning, 'The Masses and Pro-fascist Propaganda'. In: *'The
+     Masses and Pro-fascist Propaganda'. In the hotel abyss: an
+     Hegelian-Marxist critique of Adorno.* Brill*,* 2014*,*
+     pp.120--150.
 
 [^f07_25]: It is important to emphasize that what Bolsonarism calls the left
     is not exactly what political science would call the left. In fact,
@@ -680,13 +680,13 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
     is or is not left by Jair Bolsonaro\'s supporters.
 
 [^f07_26]:
-    > Levy Teles, 'Bolsonaristas operam supergrupos nas redes e cobram
-    > soltura de presos', *Terra*, 21 February 2023.
+     Levy Teles, 'Bolsonaristas operam supergrupos nas redes e cobram
+     soltura de presos', *Terra*, 21 February 2023.
 
 [^f07_27]:
-    > Nina Santos, Viktor Chagas and Juliana Marinho, 'De onde vem a
-    > informação que circula em grupos bolsonaristas no
-    > WhatsApp',* Intexto* 53 (2022): 123603--123603.
+     Nina Santos, Viktor Chagas and Juliana Marinho, 'De onde vem a
+     informação que circula em grupos bolsonaristas no
+     WhatsApp',* Intexto* 53 (2022): 123603--123603.
 
 [^f07_28]: The terms collected were ':Alexandre de Moraes', 'Bolsonaro
     Mito', 'Dia 7 manifestação', 'Fecha STF', 'Festa da Selma', 'Fraude
@@ -704,6 +704,6 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
     the term 'Selva', used as a greeting by the Brazilian army.
 
 [^f07_31]:
-    > Alan Rios. 'Golpistas tinham técnica de guerrilha e eram
-    > financiados, diz coronel à CPI'. *Jornal Metrópole*, 16 March
-    > 2023.
+     Alan Rios. 'Golpistas tinham técnica de guerrilha e eram
+     financiados, diz coronel à CPI'. *Jornal Metrópole*, 16 March
+     2023.

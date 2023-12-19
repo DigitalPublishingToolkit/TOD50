@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # The Green-and-Yellow Black Box: Mobilization on Platforms for the Attempted Coup on January 8, 2023 
 
-### Aline Roes Dalmolin[^f08_1]and Maria Eduarda Mathias[^f08_2] 
+### Aline Roes Dalmolin and Maria Eduarda Mathias
 
 ## Introduction 
 

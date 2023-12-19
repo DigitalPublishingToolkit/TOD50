@@ -462,27 +462,15 @@ Atenciosamente,
 
 Tatiana Letier Pinto
 
+![](imgs/19_1.tif)
 
----
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
-Book-type: anthology
-Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
-Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
-...
+<br/>
 
+![](imgs/19_2.tif)
 
+<br/>
 
+###Legenda 
 
 1.  Banheiro feminino construído no Senado Federal em Brasília somente
      em 2015. (Foto: Tatiana Letier Pinto, Junho 2023)
@@ -527,7 +515,7 @@ Rights: CC BY-NC 4.0
      colocados na Praça dos Três Poderes. (Fonte: Redes sociais)
      
 
-\[English\]
+####English
 
 1\. Female restroom in the Brazilian Federal Senate in Brasilia, built in
 2015. (Photo: Tatiana Letier Pinto, June 2023)

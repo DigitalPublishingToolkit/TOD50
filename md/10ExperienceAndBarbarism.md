@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Experience and Barbarism in Brasilia: a Savage Journey to Understand the Heart of Brazilian Conservative Rioters
 
-### Eduardo Ruedell[^1]
+### Eduardo Ruedell
 
 If you were in Brazil or checked the social media profile of Brazilians
 over the past four years, you would probably hear or read that future

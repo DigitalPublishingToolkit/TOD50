@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # A arte e o instante político
 
-###  Alecsandra Matias de Oliveira[^1]
+###  Alecsandra Matias de Oliveira
 
 > 'A história é objeto de uma construção cujo lugar não é o tempo
 > homogêneo e o vazio, mas o tempo saturado de \'agoras\'.'\
@@ -122,8 +122,6 @@ autoritários que militantes de extrema direita destruíram o painel a
 machadadas (mais tarde, ela seria reconstituída pelo artista,
 tornando-se uma das peças principais de sua produção).
 
- 
-
 Nos três episódios envolvendo a *Bienal* e o *Salão de Arte Moderna do
 Distrito Federal* já se identificava a crítica travestida de ironia à
 ditadura militar e ao velho sistema de legitimação da arte -- marca
@@ -191,7 +189,7 @@ outros. O \'É proibido proibir\' de maio de 1968, esteve no tropicalismo
 e nas proposições de diversos artistas. E essas são insurgências da
 arte.
 
-## \*\*\*
+\*\*\*
 
 Hoje, as práticas poéticas e políticas nos deixam em terreno arenoso.
 Diversos artistas se arriscam ao registrar fatos sem o julgamento do
@@ -383,8 +381,16 @@ As referências ao regime militar, à repressão e à tortura são sombras
 que ameaçam a frágil democracia brasileira (mais do que nunca, a
 democracia estava sob ataque -- sabemos agora) (Figura 8).
 
-![Figura 8: Bianca Turner, *Filosofia dos gabinetes*, 2018, série de 15
+![Figura 8.1: Bianca Turner, *Filosofia dos gabinetes*, 2018, série de 15
 lambe-lambes, coleção da artista.](imgs/15_8.jpg)
+
+<br/>
+
+![Figura 8.2](imgs/15_9.jpg)
+
+<br/>
+
+![Figura 8.3](imgs/15_10.jpg)
 
 <br/>
 
@@ -400,8 +406,20 @@ artista; ele é delicado na manufatura e pelos diversos significados que
 lhe podem ser atribuídos, mas ele discute, sobretudo, a situação social,
 econômica, política e racial que cerca nossa realidade (Figura 9).
 
-![Figura 9: Marcela Tiboni, *Resistência Uniforme*, 2017-2018, bordado
-sobre camisa, coleção da artista.](imgs/15_9.jpg)
+![Figura 9.1: Marcela Tiboni, *Resistência Uniforme*, 2017-2018, bordado
+sobre camisa, coleção da artista.](imgs/15_11.png)
+
+<br/>
+
+![Figura 9.2](imgs/15_12.png)
+
+<br/>
+
+![Figura 9.3](imgs/15_13.png)
+
+<br/>
+
+![Figura 9.4](imgs/15_14.png)
 
 <br/>
 
@@ -420,12 +438,12 @@ pulsão de morte e simultânea resistência ao retorno desse difícil
 período histórico (Figuras 10 e 11).
 
 ![Figura 10: Rodrigo Linhares, *Rebote*, 2021, desenho lavado, nanquim
-sobre papel algodão, 180 x 130 cm, coleção do artista.](imgs/15_10.jpg)
+sobre papel algodão, 180 x 130 cm, coleção do artista.](imgs/15_15.jpg)
 
 <br/>
 
 ![Figura 11: Rodrigo Linhares, Vista da exposição *Rebote*, Temporada de
-projetos, 2021, Paço das Artes, São Paulo, SP.](imgs/15_11.png)
+projetos, 2021, Paço das Artes, São Paulo, SP.](imgs/15_16.jpg)
 
 <br/>
 

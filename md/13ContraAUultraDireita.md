@@ -19,18 +19,14 @@ Rights: CC BY-NC 4.0
 
 # Against the Ultra-Right Coup-Mongers, Organize Self-Defense / Contra a ultra-direita golpista, organizar a auto-defesa
 
-### Gustavo Speridião[^1] and Leandro Barboza/Faixa Protesta 
+### Gustavo Speridião, Leandro Barboza and Faixa Protesta 
 
-Tinta sobre pano de algodão
-
-9 de janeiro de 2023
+Tinta sobre pano de algodão, 9 de janeiro de 2023.
 
 Cinelândia, Rio de Janeiro, Brasil.
 
-///// delete this part below
 
-\[followed by Speridiao.tiff, image in double page\]
+![](imgs/13_1.tif)
 
-[^1]: Artista plástico, Mestre em Linguagens visuais pela Escola de
-    Belas Artes da UFRJ (PPGAV-UFRJ). Vive e trabalha no Rio de Janeiro.
-    Website: www.speridiao.com.
+<br/>
+

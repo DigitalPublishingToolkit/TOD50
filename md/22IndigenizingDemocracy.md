@@ -28,6 +28,8 @@ Rights: CC BY-NC 4.0
 civil society ascending the Planalto ramp for the presidential sash
 handover ceremony on January 1, 2023. Photo: Ricardo Stuckert.](imgs/22_1.jpg)
 
+<br/>
+
 On January 1, 2023, the frigid Swedish winter provided a striking
 contrast to the warmth and vibrant atmosphere surrounding the
 inauguration of Luiz Inácio Lula da Silva, also known as Lula, as the
@@ -174,6 +176,7 @@ Falling Sky and the Mother of All Struggles), 2023. Part of the
 exhibition *Brasil futuro: As formas da democracia* (*Future Brazil: The
 Forms of Democracy*).[^11] Photo: Marina Gadelha / ASCOM SECEC DF.](imgs/22_2.jpg)
 
+<br/>
 
 In conjunction with the presidential inauguration, the National Museum
 of the Republic in Brazil unveiled the exhibition Brasil Futuro: as
@@ -305,6 +308,7 @@ to remove people from the land in Lagoa Azul, Manaus. Taken by Luiz
 Vasconcelos in 2008, the photo was awarded first place in the General
 News category of the 2009 World Press Photo Contest.[^26]](imgs/22_3.jpg)
 
+<br/>
 
 While the country rejoiced in the presidential inauguration, opposition
 forces were already plotting to dismantle the hard-fought democratic
@@ -361,6 +365,8 @@ continue to shape Brazil.
 ![Figure 4: Sônia Guajajara is lifted by Indigenous people at the end of
 her inauguration ceremony as Minister of Indigenous Peoples on January
 11, 2023. Photo: Jacqueline Lisboa / WWF-Brasil.](imgs/22_4.jpg)
+
+<br/>
 
 As a result of the repercussions caused by the Planalto riots, the
 National Museum of the Republic, along with the exhibition *Brasil
@@ -472,6 +478,7 @@ political participation in shaping Brazil's future.
 organized by APIB (Articulation of Indigenous Peoples of Brazil) between
 24 and 28 April, Brasília. Photo Kamikia Kisêdjê/APIB.](imgs/22_5.jpg)
 
+<br/>
 
 It has been nearly four months since the presidential inauguration took
 place. On April 24, 2023, the 19th edition of *Camp Terra Livre*

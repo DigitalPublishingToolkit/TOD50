@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Brasília, 8 de Janeiro de 2023: a Festa Acabou! A Guerra (Ainda) Não.
 
-### Ada C. Machado da Silveira[^1], Gabriela Schneider[^2], Camila Hartmann[^3]
+### Ada C. Machado da Silveira, Gabriela Schneider, Camila Hartmann
 
 ## Introdução
 
@@ -648,9 +648,7 @@ conflitos híbridos para o Ocidente e para a Rússia', *Esc. Guerra Nav.*
 Fausto, Boris. *História do Brasil,* São Paulo: USP, 2009.
 
 Ferreira, Wilson R. V. *Bombas semióticas na guerra híbrida brasileira
-(2013-2016): por que aquilo deu nisso?,* São Paulo: Cinegnose, 2020.
-
-# 
+(2013-2016): por que aquilo deu nisso?,* São Paulo: Cinegnose, 2020. 
 
 Fórum Brasileiro de Segurança Pública. *Anuário Brasileiro de Segurança
 Pública*, São Paulo: FBSP, 2023,
@@ -714,18 +712,6 @@ de fogo no Brasil*. Flacso/Brasil, 26 August 2015,
 https://flacso.org.br/files/2016/08/Mapa2016_armas_web-1.pdf.
 Flacso/Brasil.
 
-[^1]: Professora do Departamento de Ciências da Comunicação da
-    Universidade Federal de Santa Maria e pesquisadora do Conselho
-    Nacional de Pesquisa Científica e Tecnológica, Brasil.
-    <ada.silveira@ufsm.br>
-
-[^2]: Professora na Faculdade de Direito de Santa Maria (FADISMA).
-    schd.gabriela@gmail.com
-
-[^3]: Professora na Universidade Federal do Rio Grande do Sul e
-    doutoranda no Programa de pós-graduação em Comunicação da
-    Universidade Federal de Santa Maria, Brasil.
-    camilahartmann6@gmail.com
 
 [^4]: michelle c. liu et al., 'Riot Platforms: Protest, Police, Planet',
     *Antipode* 54.6 (2022): 1901--1922.

@@ -19,10 +19,12 @@ Rights: CC BY-NC 4.0
 
 # The Stories of the Victims: The Planalto Riots from the Perspective of Terrorized Art
 
-### Oscar Svanelid[^1]
+### Oscar Svanelid
 
 > 'The old world is dying. The new world is emerging slowly. And in this
-> chiaroscuro, monsters are born.' -- Antonio Gramsci[^2]
+> chiaroscuro, monsters are born.' 
+> 
+> -- Antonio Gramsci[^2]
 
 The political ideology of Bolsonarismo revealed its true monstrous face
 at the attempted coup of January 8^th^ in 2023, known as the Planalto
@@ -66,7 +68,7 @@ the desire to destroy the symbolic order of the enemy, known as
 iconoclasm.[^6] When speaking about the Planalto Riots, we should also
 not forget that one of the many nicknames of the former president of
 Brazil, Jair Bolsonaro, is 'the enemy of modernity'. Therefore, it
-hardly came as a surprise when his followers attacked the P*raça dos
+hardly came as a surprise when his followers attacked the *Praça dos
 Três Poderes* (The Three Powers Square), which the urban planner Lúcio
 Costa designed together with Niemeyer in the late 1950s as the core of
 the modern aesthetic and political order that Brasilia was meant to

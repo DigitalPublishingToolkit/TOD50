@@ -21,7 +21,9 @@ Rights: CC BY-NC 4.0
 
 ### Viviane Borelli and Isabel Löfgren
 
-> ​​*Laughter is a philosophy. Often, laughter is salvation. And in constitutional politics, at least, laughter is an opinion.* — Eça de Queiroz, As Farpas[^f06_3]
+> ​​*Laughter is a philosophy. Often, laughter is salvation. And in constitutional politics, at least, laughter is an opinion.* 
+> 
+> -- Eça de Queiroz, As Farpas[^f06_3]
 
 ## Prelude to a meme
 
@@ -277,8 +279,6 @@ Twitter post, 7 November 2022.[^f06_30]](imgs/06_4.png)
 
 <br/>
 
-
-
 ![Figure 5: The 'Truck Patriot' mashup and a scene from *Harry Potter and
 the Chamber of Secrets* (2002). Source: Instagram \@gharrypotter\_.](imgs/06_5.png)
 
@@ -301,7 +301,6 @@ at La Ciotat*.[^f06_32]
 Source: unknown.](imgs/06_6.png)
 
 <br/>
-
 
 Regarding music and popular culture, at times the meme is reconfigured
 in visual and auditory mashups with soundtracks added to the original
@@ -333,7 +332,7 @@ on the way to Planet Mars.
 
 ![Figure 8: The Truck Patriot falling off the edge of the Flat Earth.
 Source: \@Drifez_original, 'E vamos de patriota do caminhão chegando a
-borda da terra plana', Twitter post.[^f06_35]](imgs/06_8.png)
+borda da terra plana', Twitter post.[^f06_35]](imgs/06_8.jpg)
 
 <br/>
 
@@ -533,8 +532,6 @@ in the style of image captions given to artworks. Credit:
 
 <br/>
 
-
-
 Another meme shows Carla Zambelli running with a gun, followed by Jair
 Bolsonaro and the 'Truck Patriot' frozen in motion in what looks like a
 still shot of an action scene. They seem to be running off in
@@ -582,8 +579,6 @@ meme, this time featuring the Truck Patriot, saying 'No one lets go from
 the truck'. Source: unknown.](imgs/06_14.png)
 
 <br/>
-
-
 
 Besides a need to celebrate Lula's victory in the elections, the 'Truck
 Patriot' meme was important to communicate the need to stay together to
@@ -659,7 +654,7 @@ democratic government with Lula's victory.
 \@AndreJanonesAdv, Twitter profile.
 
 \@annaguirro, 'Mano!!! Esse meme só melhora!!! #ZambelliNaCadeia
-#PatriotaDoCaminhao', Twitter post, 5 November, 2022, 3:11 AM,
+\#PatriotaDoCaminhao', Twitter post, 5 November, 2022, 3:11 AM,
 <https://twitter.com/annaguirro/status/1588715480969535489>.
 
 'Bolsonaristas se reuniram em atos antidemocráticos em 24 estados e no
@@ -717,9 +712,7 @@ https://www.youtube.com/watch?v=qmIGA9r455w.
 https://www1.folha.uol.com.br/blogs/hashtag/2022/12/do-patriota-do-caminhao-a-tapioca-homofobica-relembre-os-memes-de-2022.shtml.
 
 Domingos, Roney. 'É fake que 51 milhões de votos foram roubados de
-Bolsonaro', *G1*,
-
-1 November 2022.
+Bolsonaro', *G1*, 1 November 2022.
 
 https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/11/07/e-fake-que-51-mihoes-de-votos-foram-roubados-de-bolsonaro.ghtml.
 
@@ -772,7 +765,7 @@ https://vimeo.com/345459399.
 
 — — — — — — — . 'Semiotics of Care and Violence: Memetization and
 Necropolitics during the Brazilian 2018 Elections and the action
-#MarielleMultiplica', in Chloë Arkenbout and Laurence Sherz (eds),
+\#MarielleMultiplica', in Chloë Arkenbout and Laurence Sherz (eds),
 *Critical Meme Reader 2: Memetic Tacticality*, Amsterdam: Institute of
 Network Cultures, 2022, pp. 52-75.
 
@@ -815,7 +808,7 @@ https://www.cnnbrasil.com.br/politica/especialistas-analisam-legalidade-de-manif
 
 \@SeJustica, 'ATENÇÃO: Ovni avistado patriotas! Pode ter a ver com o
 Ragnarok chegando... #patriotadocaminhao #patriotas #ovni #et #Bolsonaro
-#jairbolsonaro #LulaPresidente #Ragnarok', Twitter post, 7 November
+\#jairbolsonaro #LulaPresidente #Ragnarok', Twitter post, 7 November
 2022, 2:39 AM, https://twitter.com/SeJustica/status/1589432382700277762.
 
 Shifman, Limor. *Memes in Digital Culture*, Cambridge: The MIT Press,

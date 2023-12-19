@@ -55,7 +55,8 @@ Amsterdam University of Applied Sciences (HvA)
 **Email:** info@networkcultures.org <br/>
 **Web:** [www.networkcultures.org](www.networkcultures.org)
 
-Order a copy or download this publication for free at: <br/>
+Order a copy or download this publication for free at: 
+<br/>
 www.networkcultures.org/publications
 
 Subscribe to the INC newsletters: <br/>

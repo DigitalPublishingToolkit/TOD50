@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Memory from Brasilia
 
-### Laercio Redondo[^1]
+### Laercio Redondo
 
 The union of art, life and architecture is analyzed within the process
 of creating panels and tiles by Brazilian artist Athos Bulcão
@@ -44,14 +44,12 @@ society.
 Fragment of the work during the exhibition *Lugar Comum*
 
 Museum of Contemporary Art of the University of São Paulo
-
 São Paulo, Brazil, 2022
-
-# Photo credit: Laercio Redondo
+Photo credit: Laercio Redondo
 
 # Memória de Brasília
 
-### Laercio Redondo[^2]
+### Laercio Redondo
 
 A conjunção entre arte, vida e arquitetura é analisada a partir do
 processo de criação dos painéis e azulejos do artista Athos Bulcão
@@ -72,14 +70,11 @@ historia recente do Brasil.
 
 Detalhe do trabalho durante a exposição *Lugar Comum*
 
-Museu de Arte Contemporânea da Universidade de São Paulo
+Museu de Arte Contemporânea da Universidade de São Paulo. 
+São Paulo, Brasil, 2022, Photo: Laercio Redondo
 
-São Paulo, Brasil, 2022
+![](imgs/17_1.jpg)
 
-Photo: Laercio Redondo
+<br/>
 
-[^1]: Laercio Redondo is a visual artist. Website:
-    www.laercioredondo.com.
 
-[^2]: Laercio Redondo é artista plástico. Website:
-    www.laercioredondo.com.

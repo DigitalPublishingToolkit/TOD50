@@ -30,7 +30,7 @@ Polyptych, 47x36cm (each)
 2014
 
 
-## Morte do Autor (this should be another heading 1 but idk if it messes up with the table of content in indd)
+# Morte do Autor
 ### Laercio Redondo
 
 Este trabalho foi baseado em um artigo da revista L’Architecture d’Aujourd’hui de 1957, ilustrado com desenhos e maquetes que mostrava o Palácio da Alvorada, projeto do arquiteto Oscar Niemeyer (1907-2012). O prédio estava destinado a se tornar a residência oficial do Presidente da República em Brasília, a nova capital do país.
@@ -41,3 +41,15 @@ Na série de serigrafias impressas em painéis de compensado naval, todas as ima
 Serigrafia em plywood
 Políptico, 47×36 cm (cada)
 2014
+
+![](imgs/18_1.jpg)
+
+<br/>
+
+![](imgs/18_2.jpg)
+
+<br/>
+
+![](imgs/18_3.jpg)
+
+<br/>

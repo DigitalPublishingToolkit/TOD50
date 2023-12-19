@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Governos Autoritários na Democracia Brasileira: Como o Ataque Golpista de 8 de Janeiro Começou em 2013
 
-### Gizele Martins[^1]
+### Gizele Martins
 
 ## Introdução
 
@@ -346,7 +346,7 @@ participação autênticas. 8 de janeiro não pode mais se repetir, precisa
 manter-se na memória para que nunca mais voltemos a temer a perda do que
 ainda nos resta de democracia!
 
-## **Bibliografia** 
+## Bibliografia 
 
 Bergamini, Guilherme. 'Mídia brasileira é controlada por apenas 11
 famílias', *FNDC*, 17 setembro 2015,

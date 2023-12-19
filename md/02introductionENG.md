@@ -115,7 +115,7 @@ summer in 2022 as the COVID-19 pandemic was subsiding. In conversations
 about future collaborations and concerned about the upcoming general
 elections in Brazil, one of us mentioned the book *The Capitol Riots:
 Digital Media, Disinformation, and Democracy Under Attack* (2022)[^introEng_5]
-which discusses the 2021 attack on the US Congress.[^introEng_6] We decided, with
+which discusses the 2021 attack on the US Congress. We decided, with
 equal parts seriousness and sarcasm, to start a similar book as quickly
 as possible, so that it would be ready if and when similar events
 occurred in Brazil.
@@ -270,7 +270,7 @@ Brasilia in the late 1950s. In a letter to Oscar Niemeyer, the architect
 who designed Brasilia, Tatiana Letier Pinto locates the city's
 architecture in Brazil's political history.
 
-In the fourth and final part *The Image and the Other,* the texts
+In the fourth and final part *The Image and the Other*, the texts
 address a traumatic aspect of Brazilian identity concerning our
 (self-)image, our complicated and problematic relationship with
 Indigenous peoples, and how this relationship came to the forefront

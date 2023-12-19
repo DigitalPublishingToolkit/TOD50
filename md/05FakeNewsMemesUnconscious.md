@@ -26,10 +26,12 @@ Rights: CC BY-NC 4.0
 > of people of normal or even superior intelligence that come together,
 > driven by a common desire to stupefy themselves and each other. Whether
 > the desire is conscious, or unconscious is not important.'* <br/>
-> — Olavo de Carvalho[^f05_2]
+> 
+> -- Olavo de Carvalho[^f05_2]
 > 
 > *'Olavo is right'* <br/>
-> — Bolsonarist catchphrase
+> 
+> -- Bolsonarist catchphrase
 
 
 Jair Bolsonaro was elected in 2018 and since then, he has been spreading
@@ -107,7 +109,7 @@ What was the star attraction of this fictional pedagogical kit'? A
 phallic-shaped baby bottle they named the 'cock bottle'.
 
 ![Figure 1: Still image from a social media video showing a prototype of
-the phallic feeding bottle. Source: Facebook. Iconografia da História](/imgs/05_1.png)
+the phallic feeding bottle. Source: Facebook. Iconografia da História](imgs/05_1.png)
 
 <br/>
 
@@ -251,7 +253,6 @@ balloon displayed in Avenida Paulista protests. Source: Reddit,
 r/brasil.](imgs/05_2.png)
 
 <br/>
-
 
 It is for this reason that Freud chooses dreams as the main
 manifestation of the unconscious,[^f05_23] while Deleuze and Guattari chose
