@@ -308,6 +308,8 @@ Official Gazette), as mentioned by User 2 in his comment (Figure 1):
 provisory Brazilian government.[^f08_32] Source: Telegram, 2 January,
 2023.](imgs/08_1.png)
 
+<br/>
+
 
 > Well, what a barbarity. General Heleno is the overseer, and along with
 > the armed forces, they will run Brazil within the boundaries. Let\'s
@@ -414,6 +416,8 @@ begun, everyone is invited, let\'s enjoy it'. In the image, you can see
 the text 'Location of Selma\'s party' and 'cake table', circled in
 purple. Source: Telegram, 6 January, 2023.](imgs/08_2.jpg)
 
+<br/>
+
 
 Another important aspect is the informative messages about the event in
 Brasília, which circulated primarily between January 6 and 7, explaining
@@ -439,6 +443,8 @@ messages for the coup events. In the posted photo, it says in
 Portuguese: 'Attention!!! The algorithm doesn\'t recognize handwritten
 messages. Take photos and post them! Share the information'.. Source:
 Telegram, 6 January, 2023.](imgs/08_3.png)
+
+<br/>
 
 
 Finally, the posts that circulated in the group between January 7 and 8

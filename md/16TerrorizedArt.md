@@ -21,8 +21,8 @@ Rights: CC BY-NC 4.0
 
 ### Oscar Svanelid[^1]
 
-'The old world is dying. The new world is emerging slowly. And in this
-chiaroscuro, monsters are born.' -- Antonio Gramsci[^2]
+> 'The old world is dying. The new world is emerging slowly. And in this
+> chiaroscuro, monsters are born.' -- Antonio Gramsci[^2]
 
 The political ideology of Bolsonarismo revealed its true monstrous face
 at the attempted coup of January 8^th^ in 2023, known as the Planalto
@@ -97,10 +97,10 @@ attack must have experienced this farce as a terrifying event.
 
 ## Kubitschek's Table
 
-![](media/image1.png){width="6.299305555555556in" height="2.875in"}
+![Figure 1: The work table designed by Oscar Niemeyer and used by the
+Brazilian president Juscelino Kubitschek in the 1960s.](imgs/16_1.png)
 
-Figure 1: The work table designed by Oscar Niemeyer and used by the
-Brazilian president Juscelino Kubitschek in the 1960s.
+<br/>
 
 The object that I sympathize with the most is a wooden table that was
 used as a barricade by *Bolsonaristas* during the riots at the
@@ -150,10 +150,9 @@ dramatic life story, which must be rather unique, at least for a table.
 
 ## Lady Justice Taken Hostage
 
-![](media/image2.png){width="2.8229166666666665in"
-height="3.2131944444444445in"}
+![Figure 2: Alfredo Ceschiatti, *A Justiça*, 1961, granite, 3,3 x 1,48 m.](imgs/16_2.png)
 
-Figure 2: Alfredo Ceschiatti, *A Justiça*, 1961, granite, 3,3 x 1,48 m.
+<br/>
 
 During the Planalto riots, valuable furniture wasn\'t the only thing
 that was targeted. Several famous paintings and sculptures were also
@@ -237,11 +236,10 @@ to ensure that Lady Justice is treated with the utmost care.
 
 ## The Unknown Horizon of Di Cavalcanti's Women
 
-![](media/image3.png){width="4.302083333333333in"
-height="3.8979166666666667in"}
+![Figure 3: Emiliano Di Cavalcanti, *Untitled*, 1962, Oil on canvas, 1,20
+x 3,43 m.](imgs/16_3.png)
 
-Figure 3: Emiliano Di Cavalcanti, *Untitled*, 1962, Oil on canvas, 1,20
-x 3,43 m.
+<br/>
 
 The act of vandalism that received the most attention in the Planalto
 Riots targeted a famous painting by Brazilian painter Emiliano Di

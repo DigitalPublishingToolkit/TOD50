@@ -21,9 +21,10 @@ Rights: CC BY-NC 4.0
 
 ###  Alecsandra Matias de Oliveira[^1]
 
-'A história é objeto de uma construção cujo lugar não é o tempo
-homogêneo e o vazio, mas o tempo saturado de \'agoras\'.'\
--- Walter Benjamin[^2]
+> 'A história é objeto de uma construção cujo lugar não é o tempo
+> homogêneo e o vazio, mas o tempo saturado de \'agoras\'.'\
+> 
+> -- Walter Benjamin[^2]
 
 Toda arte é política? Essa definitivamente é uma questão perturbadora. A
 crítica dos modernistas, o realismo social dos clubes de gravura, a
@@ -277,11 +278,11 @@ artista retratou a juventude da primeira semana das jornadas liderada
 pelo MPL (Movimento Passe Livre) que tinha como demanda o não aumento
 das tarifas de ônibus e metrô da capital paulista.
 
-\[Figure 1\]
-
-Figura 1. Ciro Cozzolino, *SP JUN 2013* , 2013, acrílica sobre tela,
+![Figure 1: Ciro Cozzolino, *SP JUN 2013* , 2013, acrílica sobre tela,
 147,2 cm x 185,1 cm x 5 cm, Museu de Arte Contemporânea da Universidade
-de São Paulo -- MAC USP.
+de São Paulo -- MAC USP.](imgs/15_1.jpg)
+
+<br/>
 
 A agitação nas ruas do país tornou-se intensa. No Rio de Janeiro e em
 outras cidades semelhantes, instituições financeiras foram atacadas --
@@ -299,35 +300,35 @@ máscaras e os rostos dos jovens referem-se à resistência eternizada --
 algo como a crônica do sonho e da utopia presente nos olhares de cada
 ativista retratado (Figuras 2 a 6).
 
-\[Figure 2\]
-
-Figure 2: André Ryoki, *Sem título* *(Manifestação \"N9\")*, 09 de
+![Figure 2: André Ryoki, *Sem título* *(Manifestação \"N9\")*, 09 de
 novembro de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção
-do artista.
+do artista.](imgs/15_2.tif)
 
-\[Figure 3\]
+<br/>
 
-Figure 3: André Ryoki, *Sem título (Manifestação \"A20\")*, 20 de abril
+![Figure 3: André Ryoki, *Sem título (Manifestação \"A20\")*, 20 de abril
 de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
-artista.
+artista.](imgs/15_3.tif)
 
-\[Figure 4\]
+<br/>
 
-Figure 4: André Ryoki, *Sem título* *(Manifestação \"S26\")*, 26 de
+![Figure 4: André Ryoki, *Sem título* *(Manifestação \"S26\")*, 26 de
 setembro de 2000, filme 35mm p&b, sobre papel Ilford resinado, coleção
-do artista.
+do artista.](imgs/15_4.tif)
 
-\[Figure 5\]
+<br/>
 
-Figure 5: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
+![Figure 5: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
 abril de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
-artista.
+artista.](imgs/15_5.tif)
 
-\[Figure 6\]
+<br/>
 
-Figure 6: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
+![Figure 6: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
 abril de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
-artista.
+artista.](imgs/15_6.tif)
+
+<br/>
 
 Voltando ao ano de 2013 e ao Rio de Janeiro, Josely Carvalho recolheu os
 vidros blindados atacados pela multidão e concebeu *Memorial às
@@ -341,10 +342,10 @@ morte da vereadora carioca -- e, de fato, Marielle foi morta por ser
 mulher, negra, lésbica e incômoda às forças do aparelho estatal, cercado
 de colonialidade e patriarcalismo (Figura 7).
 
-\[Figure 7\]
+![Figura 7: Josely Carvalho, *Marielle Franco (1979-2018), (2013-2018)*,
+aço corten, vidro e acrílico, dimensões variáveis, coleção da artista.](imgs/15_7.jpg)
 
-Figura 7: Josely Carvalho, *Marielle Franco (1979-2018), (2013-2018)*,
-aço corten, vidro e acrílico, dimensões variáveis, coleção da artista.
+<br/>
 
 Nesse ponto, convém dizer que as Jornadas de Junho, após sua segunda
 semana, as manifestações de rua foram apropriadas pela juventude
@@ -382,10 +383,10 @@ As referências ao regime militar, à repressão e à tortura são sombras
 que ameaçam a frágil democracia brasileira (mais do que nunca, a
 democracia estava sob ataque -- sabemos agora) (Figura 8).
 
-\[Figure 8\]
+![Figura 8: Bianca Turner, *Filosofia dos gabinetes*, 2018, série de 15
+lambe-lambes, coleção da artista.](imgs/15_8.jpg)
 
-Figura 8: Bianca Turner, *Filosofia dos gabinetes*, 2018, série de 15
-lambe-lambes, coleção da artista.
+<br/>
 
 Já o trabalho *Resistência uniforme* (2017-2018), de Marcela Tiboni,
 apresenta símbolos de resistência, ao longo do mundo, bordados em
@@ -399,10 +400,10 @@ artista; ele é delicado na manufatura e pelos diversos significados que
 lhe podem ser atribuídos, mas ele discute, sobretudo, a situação social,
 econômica, política e racial que cerca nossa realidade (Figura 9).
 
-\[Figure 9\]
+![Figura 9: Marcela Tiboni, *Resistência Uniforme*, 2017-2018, bordado
+sobre camisa, coleção da artista.](imgs/15_9.jpg)
 
-Figura 9. Marcela Tiboni, *Resistência Uniforme*, 2017-2018, bordado
-sobre camisa, coleção da artista.
+<br/>
 
 *Rebote*, 2020-2021 (série de retratos formada por 10 desenhos), de
 Rodrigo Linhares, subverte a lógica ensimesmada do corpo do artista que
@@ -418,15 +419,15 @@ do regime militar ao país[^8]. Então, o exercício de \'rebote\' sugere a
 pulsão de morte e simultânea resistência ao retorno desse difícil
 período histórico (Figuras 10 e 11).
 
-\[Figure 10\]
+![Figura 10: Rodrigo Linhares, *Rebote*, 2021, desenho lavado, nanquim
+sobre papel algodão, 180 x 130 cm, coleção do artista.](imgs/15_10.jpg)
 
-Figura 10: Rodrigo Linhares, *Rebote*, 2021, desenho lavado, nanquim
-sobre papel algodão, 180 x 130 cm, coleção do artista.
+<br/>
 
-\[Figure 11\]
+![Figura 11: Rodrigo Linhares, Vista da exposição *Rebote*, Temporada de
+projetos, 2021, Paço das Artes, São Paulo, SP.](imgs/15_11.png)
 
-Figura 11: Rodrigo Linhares, Vista da exposição *Rebote*, Temporada de
-projetos, 2021, Paço das Artes, São Paulo, SP.
+<br/>
 
 Agora, 2023 mal tinha começado e a capital de nosso país ocupou os
 noticiários. Nos primeiros dias, vieram de lá as imagens da posse do

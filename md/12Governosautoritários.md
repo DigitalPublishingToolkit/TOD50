@@ -214,11 +214,11 @@ periferias do Brasil, os termos 'pacificação', 'polícia', 'exército',
 e criminalização da pobreza. Para o filósofo camaronês Achille Mbembe,
 esta é uma forma de controle que tem suas raízes na colonização:
 
-(\...) 'política neste caso, não o avanço de um movimento dialético da
-razão. A política só pode ser traçada como uma transgressão em espiral,
-como aquela diferença que desorienta a própria ideia do limite. Mais
-especificamente a política é a diferença colocada em jogo pela violação
-do tabu.[^22]
+> (\...) 'política neste caso, não o avanço de um movimento dialético da
+> razão. A política só pode ser traçada como uma transgressão em espiral,
+> como aquela diferença que desorienta a própria ideia do limite. Mais
+> especificamente a política é a diferença colocada em jogo pela violação
+> do tabu.[^22]
 
 Não por acaso, em um período de um ano e cinco meses, entre 2014 e 2015,
 o exército efetivamente ocupou a Maré, na proporção de um soldado para
