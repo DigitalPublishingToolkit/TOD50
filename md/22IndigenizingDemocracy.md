@@ -21,15 +21,12 @@ Rights: CC BY-NC 4.0
 
 ### Bartira S. Fortes[^1]
 
-## 
 
 ## PROLOGUE - The Cocar[^2] and the Sash: Indigenous Participation in the Presidential Handover
 
-\[Figure 1\]
-
-Figure 1: President Lula alongside representatives of the Brazilian
+![Figure 1: President Lula alongside representatives of the Brazilian
 civil society ascending the Planalto ramp for the presidential sash
-handover ceremony on January 1, 2023. Photo: Ricardo Stuckert.
+handover ceremony on January 1, 2023. Photo: Ricardo Stuckert.](imgs/22_1.jpg)
 
 On January 1, 2023, the frigid Swedish winter provided a striking
 contrast to the warmth and vibrant atmosphere surrounding the
@@ -172,12 +169,11 @@ challenges.
 
 ## ACT 1 -- Future Brazil: Reclaiming Democracy through Indigenous Art
 
-**\[Figure 2\]**
-
-Figure 2: Daiara Tukano, *A queda do céu e a mãe de todas as lutas* (The
+![Figure 2: Daiara Tukano, *A queda do céu e a mãe de todas as lutas* (The
 Falling Sky and the Mother of All Struggles), 2023. Part of the
 exhibition *Brasil futuro: As formas da democracia* (*Future Brazil: The
-Forms of Democracy*).[^11] Photo: Marina Gadelha / ASCOM SECEC DF.
+Forms of Democracy*).[^11] Photo: Marina Gadelha / ASCOM SECEC DF.](imgs/22_2.jpg)
+
 
 In conjunction with the presidential inauguration, the National Museum
 of the Republic in Brazil unveiled the exhibition Brasil Futuro: as
@@ -303,13 +299,12 @@ politics.
 
 ## ACT 2 -- Unmasking Colonial Violence: 'What if it were us?'
 
-\[Figure 3\]
-
-Figure 3: The photo depicts Valda Ferreira de Souza, an Indigenous
+![Figure 3: The photo depicts Valda Ferreira de Souza, an Indigenous
 Sateré-Mawé woman, holding her baby while resisting a military operation
 to remove people from the land in Lagoa Azul, Manaus. Taken by Luiz
 Vasconcelos in 2008, the photo was awarded first place in the General
-News category of the 2009 World Press Photo Contest.[^26]
+News category of the 2009 World Press Photo Contest.[^26]](imgs/22_3.jpg)
+
 
 While the country rejoiced in the presidential inauguration, opposition
 forces were already plotting to dismantle the hard-fought democratic
@@ -363,11 +358,9 @@ continue to shape Brazil.
 
 ## ACT 3 - The Sacred Echo of the *Maracá*[^32]: 'It is Time to Indigenize Politics and Reforest Minds'
 
-\[Figure 4\]
-
-Figure 4: Sônia Guajajara is lifted by Indigenous people at the end of
+![Figure 4: Sônia Guajajara is lifted by Indigenous people at the end of
 her inauguration ceremony as Minister of Indigenous Peoples on January
-11, 2023. Photo: Jacqueline Lisboa / WWF-Brasil.
+11, 2023. Photo: Jacqueline Lisboa / WWF-Brasil.](imgs/22_4.jpg)
 
 As a result of the repercussions caused by the Planalto riots, the
 National Museum of the Republic, along with the exhibition *Brasil
@@ -475,11 +468,10 @@ political participation in shaping Brazil's future.
 
 ## EPILOGUE -- 'Indigenous Future is Today: Without demarcation, there is no democracy!'
 
-\[Figure 5\]
-
-Figure 5: Mobilization at the 19th Edition of Camp Terra Livre 2023
+![Figure 5: Mobilization at the 19th Edition of Camp Terra Livre 2023
 organized by APIB (Articulation of Indigenous Peoples of Brazil) between
-24 and 28 April, Brasília. Photo Kamikia Kisêdjê/APIB.
+24 and 28 April, Brasília. Photo Kamikia Kisêdjê/APIB.](imgs/22_5.jpg)
+
 
 It has been nearly four months since the presidential inauguration took
 place. On April 24, 2023, the 19th edition of *Camp Terra Livre*
@@ -577,9 +569,7 @@ carrying with them the reverberations of Indigenous peoples' maracás and
 the determination to forge a future where no democracy exists without
 the demarcation of Indigenous territories. As the Indigenous leader and
 thinker Ailton Krenak significantly expresses, the future is
-ancestral![^50]
-
-## 
+ancestral![^50] 
 
 ## Bibliography
 

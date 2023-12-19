@@ -66,9 +66,9 @@ por outro, contribuiu para alimentar o ódio e ressentimento dos
 bolsonaristas, que culminaria meses depois na tentativa de golpe do 8 de
 janeiro de 2023.
 
-1.  ## Marcha sobre Brasília: uma interpretação da ação bolsonarista na insurreição de 8 de Janeiro de 2023
-
-    ### Apoena Canuto Cosenza
+ ## Marcha sobre Brasília: uma interpretação da ação bolsonarista na insurreição de 8 de Janeiro de 2023
+ 
+ ### Apoena Canuto Cosenza
 
 As manifestações de 8 de janeiro de 2023, no Brasil, podem ser
 interpretadas enquanto uma insurreição de ultra-direita similar à Marcha
@@ -183,9 +183,9 @@ da extrema-direita dez anos atrás.
 
 ### Arte e Arquitetura: Brasília
 
-## **A arte e o instante político**
+## A arte e o instante político
 
-### ** **Alecsandra Matias de Oliveira
+### Alecsandra Matias de Oliveira
 
 O ensaio tem como objetivo tecer comentários que envolvem os
 acontecimentos políticos e a produção de artes visuais no Brasil, entre
@@ -241,7 +241,7 @@ que ponto estes poderiam ser vistos como ressoando com um \'legado
 autoritário e sangrento\' (Thotti, 2023) que continua assombrando a
 sociedade brasileira.
 
-## **Caro Oscar Niemeyer** 
+##  Caro Oscar Niemeyer
 
 ###  Tatiana Letier Pinto
 
@@ -282,7 +282,7 @@ memoriais. A data de 8 de janeiro oficializa, uma semana após a posse do
 novo/antigo Presidente da República Luiz Inácio Lula da Silva, a
 revelação de um país que desde o seu 'encobrimento' não tem posses.
 
-##  **A indigenização da democracia: 'Nunca mais um Brasil sem nós'**
+##  A indigenização da democracia: 'Nunca mais um Brasil sem nós'
 
 ### Bartira S. Fortes
 
@@ -313,8 +313,7 @@ e estruturas de poder, a participação indígena funciona como um
 catalisador para reimaginar a democracia brasileira e confrontar legados
 patriarcais e coloniais.
 
-## **Enquanto Narciso Invade o Congresso Brasileiro, Yanomamis Desaparecem nas Águas**
-
+## Enquanto Narciso Invade o Congresso Brasileiro, Yanomamis Desaparecem nas Águas
 ## Ana Paula da Rosa
 
 Recorremos ao mito de Narciso para problematizar as imagens e seu poder

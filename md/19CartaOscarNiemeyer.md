@@ -21,8 +21,8 @@ Rights: CC BY-NC 4.0
 
 ### **Tatiana Letier Pinto**[^1]
 
-Rio de Janeiro, 9 de Janeiro de 2023\
-\
+Rio de Janeiro, 9 de Janeiro de 2023
+
 Caro Oscar Niemeyer,
 
 Há algum tempo, desejo trocar algumas palavras com você sobre
@@ -427,7 +427,7 @@ representando o povo brasileiro. Lula da Silva iniciou o processo de uma
 reparação histórica. Ele conseguiu romper com as estruturas dos seus
 edifícios sem usar um gradil ou arremessar extintores nas paredes. Para
 mim Brasília foi um pouco redesenhada ali, foram efêmeros minutos mas
-importantes .
+importantes.
 
 Em só uma semana o cenário de Brasília foi alterado, saímos de uma
 imagem utópica, o povo entrando em Brasília e re-imaginando aqueles
@@ -537,9 +537,7 @@ Companhia das Letras, 2012.
 
 [^10]: UFRJ -- Universidade Federal do Rio de Janeiro.
 
-[^11]: \'Quem somos\', Quilombo Kalunga, acessado 13 de Outubro de 2023,
-
-    [[https://quilombokalunga.org/press/quem-somos/]{.underline}](https://quilombokalunga.org/press/quem-somos/)
+[^11]: \'Quem somos\', Quilombo Kalunga, acessado 13 de Outubro de 2023, https://quilombokalunga.org/press/quem-somos/
 
 [^12]: Albert Camus, *A Peste,* Rio de Janeiro: Record, 2017, p. 288.
 

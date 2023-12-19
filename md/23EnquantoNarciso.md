@@ -72,18 +72,15 @@ Brasil (Figura 1), e de outro, as iniciativas dos lulistas de
 reapropriação do símbolo nacional aludindo a uma noção coletiva e de
 união (Figura 2).
 
-![](media/image1.png){width="5.8805555555555555in"
-height="3.327777777777778in"}
+![Figura 1: Bandeira apropriada na campanha de 2018, Fonte:
+Reuters/Nacho[^3]](imgs/23_1.png)
 
-Figura 1: Bandeira apropriada na campanha de 2018, Fonte:
-Reuters/Nacho[^3]
+<br/>
 
-![Multidão de pessoas Descrição gerada automaticamente com confiança
-média](media/image2.jpeg){width="5.7868055555555555in"
-height="4.350694444444445in"}
+![Figura 2: Bandeirão na posse de Lula. Fonte: Foto reprodução/*TV
+Brasil*[^4]](imgs/23_2.png)
 
-Figura 2: Bandeirão na posse de Lula. Fonte: Foto reprodução/*TV
-Brasil*[^4]
+<br/>
 
 Contudo, esse cenário agudo, marcado por lógicas de mídia e de
 midiatização,[^5] teve seu auge após a posse. Esta, realizada em 1º de
@@ -272,20 +269,15 @@ punho registrando o momento da tomada do Palácio do Planalto, ao mesmo
 tempo a estética da selfie e dos vídeos feitos em primeiríssimo plano
 (Figuras 3 e 4 abaixo).
 
-![Pessoas sentadas em frente a janela Descrição gerada
-automaticamente](media/image3.jpeg){width="5.929166666666666in"
-height="3.339583333333333in"}
+![Figura 3: Manifestantes registram a tomada do prédio com celulares.
+Fonte: Reprodução Twitter/*CNN*.[^18]](imgs/23_3.png)
 
-Figura 3: Manifestantes registram a tomada do prédio com celulares.
-Fonte: Reprodução Twitter/*CNN*.[^18]
+<br/>
 
-![Foto editada de rosto de homem visto de perto Descrição gerada
-automaticamente com confiança
-média](media/image4.jpeg){width="5.9743055555555555in"
-height="3.36875in"}
+![Figura 4: Frame de vídeo produzido por ator social com a estética da
+selfie. Fonte: Youtube.[^19]](imgs/23_4.png)
 
-Figura 4: Frame de vídeo produzido por ator social com a estética da
-selfie. Fonte: Youtube.[^19]
+<br/>
 
 Contudo, o discurso proferido nos vídeos foi frequentemente recortado
 por palavras do tipo 'É nosso direito', 'Olha isso, Brasil!', 'Olha isso
@@ -355,19 +347,15 @@ de crianças desnutridas, pele e osso, foram postadas em mídias sociais
 pela associação como imagem denúncia de uma situação alarmante (Figuras
 5 e 6).
 
-![Grupo de pessoas andando na terra Descrição gerada automaticamente com
-confiança média](media/image5.jpeg){width="3.8895833333333334in"
-height="3.879166666666667in"}
+![Figura 5: Fotografia de crianças desnutridas veiculadas por ativistas.
+Fonte: Urihi Yanomami.](imgs/23_5.png)
 
-Figura 5: Fotografia de crianças desnutridas veiculadas por ativistas.
-Fonte: Urihi Yanomami.
+<br/>
 
-![Uma imagem contendo pessoa, mesa, banco, comida Descrição gerada
-automaticamente](media/image6.jpeg){width="4.165277777777778in"
-height="3.1243055555555554in"}
+![Figura 6: Mãe e filho em estado de desnutrição severa viralizaram nas
+redes Fonte: Urihi Yanomami.](imgs/23_6.png)
 
-Figura 6: Mãe e filho em estado de desnutrição severa viralizaram nas
-redes Fonte: Urihi Yanomami.
+<br/>
 
 A partir de então, um amplo circuito passou a se desdobrar, com as
 imagens sendo repercutidas nas mídias tradicionais, como os principais
@@ -450,9 +438,7 @@ de um fazer? 'Nós não percebemos. Não podemos, na verdade, imaginar como
 Kamper argumenta que o imaginário midiático se concretiza em ídolos e
 palavras, 'vive da vida das pessoas, porém não sem algum voluntarismo
 dos envolvidos. Afinal o poder do imaginário provém do imaginário do
-poder'.[^29] Voltamos ao ponto.
-
-## 
+poder'.[^29] Voltamos ao ponto. 
 
 ## Entre Sedutoras, Sedentas, Sedantes:[^30] a imagem e sua força 
 
