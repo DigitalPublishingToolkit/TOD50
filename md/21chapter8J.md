@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # 8J 
 
-### Clementino Jesus Junior[^1]
+### Clementino Jesus Junior
 
 ![](imgs/21_1.jpg)
 
@@ -126,10 +126,10 @@ simultâneo o rei e a rainha. Essa ação exemplifica bem o 'complexo da
 visualidade' que segundo a teoria de Nicholas Mirzoeff significa o ato
 de
 
-'classificar\', separar e estetizar \[que\] formam, juntos, o que
-chamarei de um complexo de visualidade. Todo esse platonismo depende de
-uma classe servil, seja formalmente uma classe escrava ou não, cuja
-tarefa é fazer o trabalho que deve ser feito e nada mais.[^10]
+> 'classificar\', separar e estetizar \[que\] formam, juntos, o que
+> chamarei de um complexo de visualidade. Todo esse platonismo depende de
+> uma classe servil, seja formalmente uma classe escrava ou não, cuja
+> tarefa é fazer o trabalho que deve ser feito e nada mais.[^10]
 
 Para Mirzoeff o complexo da visualidade é um sistema onde o autor -- a
 autoridade -- é quem usa seu poder para estabelecer socialmente o que é
@@ -156,6 +156,8 @@ mídias sociais no momento dos ataques aos palácios dos 3 poderes.
 
 ![Figura 2: Capa do The New York Times, 9 de janeiro de 2023. Fonte: *The
 New York Times.*[^12]](imgs/21_3.png)
+
+<br/>
 
 A primeira jogada está na visão em 'plano geral' das massas populares
 presentes no que chamo de 'dois domingos de transição': da energia da
@@ -191,10 +193,12 @@ vândalos e suas selfies.
 ![Figura 3: Capa do jornal *O Globo,* 9 de janeiro de 2023. Fonte: Acervo
 Digital/*O Globo.*[^14]](imgs/21_4.png)
 
-
+<br/>
 
 ![Figura 4: Capa da *Folha de S. Paulo* de 19 de janeiro de 2023. Fonte:
 *Folha de S. Paulo*.[^15]](imgs/21_5.png)
+
+<br/>
 
 A segunda jogada no tabuleiro revela o ponto de vista das janelas do
 Palácio do Planalto mencionadas anteriormente, mas já sem uma visão
@@ -226,6 +230,8 @@ vendas.[^19]
 
 ![Figura 5: Imagem da Câmera de Segurança do Palácio do Planalto com o
 vândalo que destruiu relógio histórico.[^20]](imgs/21_6.png)
+
+<br/>
 
 A terceira jogada e último exemplo de imagem que usarei é marcante:
 registrada pela câmera de segurança do Palácio do Planalto do vândalo

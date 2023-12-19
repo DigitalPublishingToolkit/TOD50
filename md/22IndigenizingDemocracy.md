@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Indigenizing Democracy: 'Never again a Brazil without us'
 
-### Bartira S. Fortes[^1]
+### Bartira S. Fortes
 
 
 ## PROLOGUE - The Cocar[^2] and the Sash: Indigenous Participation in the Presidential Handover
@@ -76,13 +76,13 @@ of climate change, framing Brazil's environmental commitments and
 Indigenous rights as the wellspring from which the country would regain
 its standing on the global stage and restore its democratic ideals:
 
-Indigenous peoples need to have their lands demarcated and free from the
-threats of illegal and predatory economic activities. Their culture must
-be preserved, their dignity respected, and sustainability ensured. They
-are not hindrances to development -- they are guardians of our rivers
-and forests and an essential part of our greatness as a nation.
-Therefore, we are creating the Ministry of Indigenous Peoples to combat
-500 years of inequality.[^5]
+> Indigenous peoples need to have their lands demarcated and free from the
+> threats of illegal and predatory economic activities. Their culture must
+> be preserved, their dignity respected, and sustainability ensured. They
+> are not hindrances to development -- they are guardians of our rivers
+> and forests and an essential part of our greatness as a nation.
+> Therefore, we are creating the Ministry of Indigenous Peoples to combat
+> 500 years of inequality.[^5]
 
 Shortly after delivering his speech, Lula stood alongside Sônia
 Guajajara, a prominent Indigenous leader and elected Federal Deputy.
@@ -199,12 +199,12 @@ Amazon. Her site-specific painting intervention conveyed a powerful
 message about the crucial role of Indigenous peoples in the foundation
 of democracy in Brazil. A short text beside the artwork reads:
 
-To love life as the sky loves the earth and as the earth loves the sky.
-The forest that holds up the sky has already spoken: Democracy is to
-demarcate all Indigenous lands. Earth is the mother of all struggles.
-How much more grief for how many worlds can we endure? The problem runs
-deep, and the sky is high above. Let us wake up to be able to dream of
-greater worlds. Añu Mahsã.[^14] [^15]
+> To love life as the sky loves the earth and as the earth loves the sky.
+> The forest that holds up the sky has already spoken: Democracy is to
+> demarcate all Indigenous lands. Earth is the mother of all struggles.
+> How much more grief for how many worlds can we endure? The problem runs
+> deep, and the sky is high above. Let us wake up to be able to dream of
+> greater worlds. Añu Mahsã.[^14] [^15]
 
 Inspired by the book *The Falling Sky*,[^16] Tukano's painting depicts a
 woman, symbolizing the Earth, holding the sky, portrayed as a male body
@@ -244,14 +244,14 @@ live stream on Tukano's Instagram account. During the stream, she
 provided insights into the meaning and purpose of her artwork, adding a
 layer of interactive engagement to the virtual experience. In her words:
 
-For us \[Indigenous peoples\], democracy has never existed. But it is a
-beautiful utopia, and we will fight for it until our last breath. To
-engage in this \[democratic\] exercise, we can only do it together, by
-being able to dialogue on equal terms \[\...\] including understanding
-what art is. In my language, there is a word that might be closer to
-art, hori, which means miracle, vision, light, color. It represents a
-vision that goes beyond what the eyes can see, but rather the vision of
-the spirit.[^22]
+> For us \[Indigenous peoples\], democracy has never existed. But it is a
+> beautiful utopia, and we will fight for it until our last breath. To
+> engage in this \[democratic\] exercise, we can only do it together, by
+> being able to dialogue on equal terms \[\...\] including understanding
+> what art is. In my language, there is a word that might be closer to
+> art, hori, which means miracle, vision, light, color. It represents a
+> vision that goes beyond what the eyes can see, but rather the vision of
+> the spirit.[^22]
 
 By intertwining ancestral heritage with hori[^23] expressions, Tukano
 reflected a commitment to decolonizing not only the realm of art but
@@ -277,17 +277,17 @@ Indigenous rapper Kandú Puri and the Indigenous rap group Nativos Mcs,
 took the stage. As I tuned in to the live performances, the powerful
 voice of Kaê Guajajara echoed through on the screen:
 
-I am Indigenous, an Indigenous slum dweller\
-I will not accept mere crumbs\
-I will never be content with neglect, with hunger,\
-With living on the fringes of a system we did not choose\
-That has robbed, invaded, and imposed upon us
-
-All this gold, all this wealth\
-Filled with blood\
-Built upon our bodies\
-My mother taught me to listen and hide\
-And the slum taught me to fight[^25]
+> I am Indigenous, an Indigenous slum dweller\
+> I will not accept mere crumbs\
+> I will never be content with neglect, with hunger,\
+> With living on the fringes of a system we did not choose\
+> That has robbed, invaded, and imposed upon us
+> 
+> All this gold, all this wealth\
+> Filled with blood\
+> Built upon our bodies\
+> My mother taught me to listen and hide\
+> And the slum taught me to fight[^25]
 
 With messages of Indigenous resistance, these events marked an
 unprecedented milestone in Brazil's history, as Indigenous peoples had
@@ -332,15 +332,15 @@ against Indigenous peoples, compared to the response to the coup
 attempt, was further acknowledged by the Indigenous Peoples Articulation
 of Brazil (APIB):[^29]
 
-For over 500 years, Indigenous peoples have resisted the establishment
-of a state that institutionally attacks, kills, and tears apart various
-Indigenous communities throughout Brazilian territory. In a politically
-significant moment, precisely when a democratically elected government
-gives prominence to the protection of Indigenous peoples, symbolically
-marked by the participation of Chief Raoni in the presidential
-inauguration on January 1, it is repugnant to witness the scenes of
-vandalism and terrorism that took place on January 8, 2023, in
-Brasília/DF.[^30]
+> For over 500 years, Indigenous peoples have resisted the establishment
+> of a state that institutionally attacks, kills, and tears apart various
+> Indigenous communities throughout Brazilian territory. In a politically
+> significant moment, precisely when a democratically elected government
+> gives prominence to the protection of Indigenous peoples, symbolically
+> marked by the participation of Chief Raoni in the presidential
+> inauguration on January 1, it is repugnant to witness the scenes of
+> vandalism and terrorism that took place on January 8, 2023, in
+> Brasília/DF.[^30]
 
 In the aftermath of the failed coup attempt, the wounds inflicted on
 Brazilian democracy were not only physical but also symbolic. The
@@ -392,11 +392,11 @@ urging her to visit Aldeia Lagoa Quieta in the Araribóia Indigenous
 territory. There, her aunt bestowed upon her two gifts -- a necklace and
 a maracá, designating her as the spokesperson for their people:
 
-I want to give you these gifts, symbols of leadership. I pass on to you
-the power of words. You will have the gift of communication, and
-everyone will listen to you. You will grow, and your voice will be
-heard. This *maracá* will echo, and you will be the spokesperson for our
-people.[^36]
+> I want to give you these gifts, symbols of leadership. I pass on to you
+> the power of words. You will have the gift of communication, and
+> everyone will listen to you. You will grow, and your voice will be
+> heard. This *maracá* will echo, and you will be the spokesperson for our
+> people.[^36]
 
 Holding her sacred *maracá* (Figure 4), Minister Sônia Guajajara
 recognized that her appointment as minister was a testament to the

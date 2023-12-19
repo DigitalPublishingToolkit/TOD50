@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Caro Oscar Niemeyer
 
-### **Tatiana Letier Pinto**[^1]
+### Tatiana Letier Pinto
 
 Rio de Janeiro, 9 de Janeiro de 2023
 
@@ -373,11 +373,11 @@ Quem e o que circulava nos espaços de Brasília estava dando continuidade
 a um projeto de país moderno semeado na concepção da capital. Tem uma
 passagem do livro *A Peste* de Albert Camus que diz assim:
 
-'o bacilo da peste nunca morre ou desaparece de vez -- este pode
-permanecer adormecido por anos e anos em móveis e baús á espera em
-quartos, porões, móveis e estantes -- para que talvez chegue o dia em
-que, para desgraça e esclarecimento dos homens, seus ratos despertem
-novamente e os envie para morrer em uma cidade feliz'.[^12]
+> 'o bacilo da peste nunca morre ou desaparece de vez -- este pode
+> permanecer adormecido por anos e anos em móveis e baús á espera em
+> quartos, porões, móveis e estantes -- para que talvez chegue o dia em
+> que, para desgraça e esclarecimento dos homens, seus ratos despertem
+> novamente e os envie para morrer em uma cidade feliz'.[^12]
 
 Brasília consegue ao mesmo tempo ser sublime e fomentar ideias de
 opressão, destruição e segregação. É nesse dilema que me encontro. Será
@@ -461,6 +461,120 @@ Te abraço fortemente e com muito respeito.
 Atenciosamente,
 
 Tatiana Letier Pinto
+
+
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
+
+
+1.  Banheiro feminino construído no Senado Federal em Brasília somente
+     em 2015. (Foto: Tatiana Letier Pinto, Junho 2023)
+
+2.  Sua visita ao canteiro de obras em Brasília com o então presidente
+     Juscelino Kubitscheck, o diretor da NovaCap, Israel Pinheiro entre
+     outros, em 1958. (Fonte: Arquivo Público do Dsitrito Federal/APDF)
+
+3.  Os que chegavam para a construção de Brasília em 1957. (Fonte:
+     Arquivo Público do Dsitrito Federal/APDF)
+
+4.  Eixo monumental em construção em Brasília no ano de 1958. (Fonte:
+     Arquivo Público do Dsitrito Federal/APDF)
+
+5.  Cartaz do programa A Marcha para o Oeste de 1940 com o presidente
+     Getúlio Vargas.
+
+6.  Congresso Nacional em construção na vegetação do cerrado em 1958.
+     (Foto: Marcel Gautherot/Instituto Moreira Salles/IMS)
+
+7.  Os invasores na rampa do Palácio do Planalto, em Brasília, no
+     domingo 8 de Janeiro de 2023. (Foto: Evaristo Sá/AFP)
+
+8.  O povo brasileiro com o presidente Luís Inácio Lula da Silva subindo
+     a rampa do Palácio do Planalto, em Brasília, no 1 de Janeiro de
+     2023 (Foto: Tânia Rego/Agência Brasil)
+
+9.  A estátua “A Justiça” de Alfredo Ceschiatti e o Supremo Tribunal
+     Federal restaurados pós os a destruição dos invasores do dia 8 de
+     janeiro de 2023. (Foto: Tatiana Letier Pinto, Junho 2023)
+
+10. A escultura de bronze “A Justiça” de Alfredo Ceschiatti que adorna a
+     antiga porta do plenário do Supremo arremessada no exterior do
+     STF, na Praça dos Três Poderes. (Foto: Valter Campanato/Agência
+     Brasil)
+
+11. Os invasores nas rampa do Congresso Nacional (Foto: Marcelo
+     Camargo/Agência Brasil)
+
+12. Brasão da República arrancado do plenário do Supremo Tribunal
+     Federal junto com as cadeiras do desenhista Jorge Zalszupin e
+     colocados na Praça dos Três Poderes. (Fonte: Redes sociais)
+     
+
+\[English\]
+
+1\. Female restroom in the Brazilian Federal Senate in Brasilia, built in
+2015. (Photo: Tatiana Letier Pinto, June 2023)
+
+2\. Visit to the construction site in Brasilia with then-president
+Juscelino Kubitscheck, the director of NovaCap, Israel Pinheiro, among
+others, in 1958. (Source: Public Archive of the Federal District/APDF)
+
+3\. Migrant workers arriving for the construction of Brasilia in 1957.
+(Source: Public Archive of the Federal District/APDF)
+
+4\. The *Monumental Axis* under construction in Brasilia in the year
+1958. (Source: Public Archive of the Federal District/APDF)
+
+5\. Poster of the 1940 program *March to the West* with President Getúlio
+Vargas, 1940s.
+
+6\. The National Congress under construction in the cerrado vegetation in
+1958. (Photo: Marcel Gautherot/Moreira Salles Institute/IMS)
+
+7\. The invaders on the ramp of the Palácio do Planalto in Brasília on
+Sunday, 8 January,2023. (Photo: Evaristo Sá/AFP)
+
+8\. The Brazilian people with President Luís Inácio Lula da Silva
+ascending the ramp of the Palácio do Planalto in Brasília on 1
+January,2023. (Photo: Tânia Rego/Agência Brasil)
+
+9\. The statue "Justice" by Alfredo Ceschiatti and the Supreme Federal
+Court restored after the destruction by the invaders on 8 January, 2023.
+(Photo: Tatiana Letier Pinto, June 2023)
+
+10\. The bronze sculpture "Justice" by Alfredo Ceschiatti that adorns the
+former plenary door of the Supreme Court thrown outside the STF, in the
+Praça dos Três Poderes. (Photo: Valter Campanato; Source: Agência
+Brasil)
+
+11\. The invaders on the ramp of the National Congress (Photo: Marcelo
+Camargo/Agência Brasil)
+
+12\. The Coat of Arms of the Republic torn from the plenary of the
+Supreme Federal Court along with the chairs by designer Jorge Zalszupin
+and placed in the *Plaza of the Three Powers* (Praça dos Três Poderes).
+(Source: Social media)
+
+
+
+
 
 ## Bibliografia
 

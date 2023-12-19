@@ -17,7 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-### Enquanto Narciso Invade o Congresso Brasileiro, Yanomamis Desaparecem nas Águas  Ana Paula da Rosa[^1] 
+# Enquanto Narciso Invade o Congresso Brasileiro, Yanomamis Desaparecem nas Águas  
+
+###Ana Paula da Rosa 
 
 As eleições presidenciais do Brasil, realizadas em 2022, foram marcadas
 pelos conflitos e polarizações[^2] que resultaram na exaltação de

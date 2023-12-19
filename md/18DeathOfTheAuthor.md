@@ -16,9 +16,6 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-
-**[Note to designer: The 3 images accompanying this entry should be each placed as a double spread, 6 pages in total. The text in English and Portuguese can be placed on the same page.]**
-
 # Death of the Author
 
 ### Laercio Redondo
