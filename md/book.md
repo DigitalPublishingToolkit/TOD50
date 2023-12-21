@@ -11592,3 +11592,8 @@ analisou a relação entre arte e trabalho na arte construtiva brasileira
 e, mais recentemente, Svanelid investigou a noção de branquitude na
 *Arte Indígena Contemporânea*.
 
+
+#Acknowledgments
+
+We created this book out of a need to create a historical document about what we consider to be one of the ‘darkest episodes of an already dark period’ in Brazilian history, as Clementino Jesus Junior writes in his article. Given the urgency of this book, this book is the collective of the editors and contributors who we would like to thank for their time and dedication in writing their texts and for their belief in our proposal. We would also like to thank Geert Lovink and the INC team for receiving our idea enthusiastically and waiting patiently for the manuscript to materialize. We also thank the entire team at INC who keeps the Theory on Demand series going, especially [Name of everyone in the INC team]. We are proud to be part of this collection. 
+
