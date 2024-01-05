@@ -12,7 +12,7 @@ general:
 	
 
 file 06:
-	- images double spread
+	- images double spread (in che senso?)
 
 file 13:
 	- come formattare questo??
