@@ -13,7 +13,12 @@
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
-      </CharacterStyle> 
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link Underline" Name="Link Underline">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
       <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
@@ -68,7 +73,7 @@
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
-      </ParagraphStyle> 
+      </ParagraphStyle>
     </RootParagraphStyleGroup>
     <RootTableStyleGroup Self="pandoc_table_styles">
       <TableStyle Self="TableStyle/Table" Name="Table" />
@@ -86,36 +91,39 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#j" Name="Destination" DestinationUniqueKey="1" />
     <Content>8J </Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#clementino-jesus-junior" Name="Destination" DestinationUniqueKey="1" />
     <Content>Clementino Jesus Junior</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 150 -100">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-150 -100" LeftDirection="-150 -100" RightDirection="-150 -100" />
+              <PathPointType Anchor="-150 100" LeftDirection="-150 100" RightDirection="-150 100" />
+              <PathPointType Anchor="150 100" LeftDirection="150 100" RightDirection="150 100" />
+              <PathPointType Anchor="150 -100" LeftDirection="150 -100" RightDirection="150 -100" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1 0 0 1 -150 -100">
         <Properties>
           <Profile type="string">
             $ID/Embedded
           </Profile>
+          <GraphicBounds Left="0" Top="0" Right="300" Bottom="200" />
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/21_1.jpg" />
       </Image>
@@ -123,21 +131,25 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
-</ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#ataque-à-rainha" Name="Destination" DestinationUniqueKey="1" />
     <Content>Ataque à Rainha</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Janeiro é o mês da transição. Seu nome, na língua portuguesa, vem do deus romano Janus que é representado por uma figura com duas faces em oposição que representam a transição entre passado e futuro. Em português a palavra janela também difere de seu correspondente no espanhol, ventana, e deriva de januela, ou pequeno portal. As janelas do Palácio do Planalto, do Congresso Nacional e do Superior Tribunal Federal assistiram, no exato período de uma semana dois momentos de transição: a formalização de uma expectativa de retorno à democracia com a posse do novo presidente Luiz Inácio Lula da Silva, e a reação de um grupo de milhares de bolsonaristas militantes querendo mostrar, de maneira violenta, que as promessas de combate ao 'comunismo' desde o Impeachment de Dilma Rousseff em 2016 se materializariam naquele domingo, 8 de janeiro de 2023.</Content>
+    <Content>Janeiro é o mês da transição. Seu nome, na língua portuguesa, vem do deus romano Janus que é representado por uma figura com duas faces em oposição que representam a transição entre passado e futuro. Em português a palavra janela também difere de seu correspondente no espanhol, ventana, e deriva de januela, ou pequeno portal. As janelas do Palácio do Planalto, do Congresso Nacional e do Superior Tribunal Federal assistiram, no exato período de uma semana dois momentos de transição: a formalização de uma expectativa de retorno à democracia com a posse do novo presidente Luiz Inácio Lula da Silva, e a reação de um grupo de milhares de bolsonaristas militantes querendo mostrar, de maneira violenta, que as promessas de combate ao </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘comunismo’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> desde o Impeachment de Dilma Rousseff em 2016 se materializariam naquele domingo, 8 de janeiro de 2023.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -166,7 +178,7 @@
           <Content>Bowling for Columbine</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, (Dir. Michael Moore, 2002), Internet Movie Database, https://www.imdb.com/title/tt0310793/?ref_=ext_shr_lnk.</Content>
+          <Content>, (dir. Michael Moore, 2002), Internet Movie Database, https://www.imdb.com/title/tt0310793/?ref_=ext_shr_lnk.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -192,13 +204,19 @@
           <Content>Fahrenheit 9/11</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, (Dir. Michael Moore, 2004), Internet Novie Database, https://www.imdb.com/title/tt0361596/?ref_=ext_shr_lnk.</Content>
+          <Content>, (dir. Michael Moore, 2004), Internet Novie Database, https://www.imdb.com/title/tt0361596/?ref_=ext_shr_lnk.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> sendo que tanto os acontecimentos reais da violência nas escolas e da era Trump ocorreram 'dubladas em português'.</Content>
+    <Content> sendo que tanto os acontecimentos reais da violência nas escolas e da era Trump ocorreram </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘dubladas em português’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -209,22 +227,64 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	De janeiro a abril de 2023 ocorreram 6 ataques armados à escolas no Brasil, o total do ano anterior. </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>De janeiro à abril de 2023 ocorreram 6 ataques armados à escolas no Brasil, o total do ano anterior. 'Brasil teve 23 ataques a escolas, mais da metade dos últimos 4 anos', Agência Brasil, 22 May, 2023, https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/brasil-teve-23-ataques-escolas-mais-da-metade-nos-ultimos-4-anos.</Content>
+          <Content>‘Brasil teve 23 ataques a escolas, mais da metade dos últimos 4 anos’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Agência Brasil, 22 May 2023, https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/brasil-teve-23-ataques-escolas-mais-da-metade-nos-ultimos-4-anos.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> No caso de Brasília, com alguns cartazes e enormes faixas colocadas no teto do Congresso Nacional simulando legendas em inglês, com os habituais pedidos de 'intervenção militar'. O referencial da produção de imagem vinda de Hollywood ou das emissoras norte-americanas têm um papel fundamental nesta data que pode ser representada pela sigla '8J'. Mas como Janus tem duas faces e duas perspectivas, olhemos primeiro para trás e pensemos o que aconteceu naquela primeira semana de janeiro de 2023, e como se desenhou uma jogada de xadrez mal sucedida até o momento em que extrema direita ensaiou um xeque, mas não venceu a partida.</Content>
+    <Content> No caso de Brasília, com alguns cartazes e enormes faixas colocadas no teto do Congresso Nacional simulando legendas em inglês, com os habituais pedidos de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘intervenção militar’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. O referencial da produção de imagem vinda de Hollywood ou das emissoras norte-americanas tem um papel fundamental nesta data que pode ser representada pela sigla </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘8J’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Mas, como Janus, tem duas faces e duas perspectivas, olhemos primeiro para trás e pensemos o que aconteceu naquela primeira semana de janeiro de 2023, e como se desenhou uma jogada de xadrez mal sucedida até o momento em que a extrema-direita ensaiou um xeque, mas não venceu a partida.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Em um tabuleiro de xadrez, a posição 8J formalmente não existe. O código das posições prevê 8 números e 8 letras do alfabeto greco-romano, do 1 ao 8 e do 'a' ao 'h'. O 'j' de 'Janeiro' estaria duas casas fora do tabuleiro. Neste jogo estar fora do tabuleiro não significa estar fora do jogo, pois este foi planejado para se tornar um personagem importante, e fora do tabuleiro, tanto na invasão no Capitólio nos Estados Unidos em 6 de janeiro de 2022, como no Palácio do Planalto em 2023. Não tratarei aqui das peças escuras e claras como metáforas raciais, mas como símbolos da polaridade política que culminou com as duas massas populares que estiveram nas duas importantes datas daquela semana de janeiro: a onda vermelha da vitória vista na posse do presidente Lula no dia 1º de janeiro, e a onda 'canarinho'</Content>
+    <Content>Em um tabuleiro de xadrez, a posição 8J formalmente não existe. O código das posições prevê 8 números e 8 letras do alfabeto greco-romano, do 1 ao 8 e do </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘a’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ao </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘h’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. O </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘j’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Janeiro’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> estaria duas casas fora do tabuleiro. Neste jogo, estar fora do tabuleiro não significa estar fora do jogo, pois este foi planejado para se tornar um personagem importante, e fora do tabuleiro, tanto na invasão no Capitólio nos Estados Unidos em 6 de janeiro de 2021, como no Palácio do Planalto, em 2023. Não tratarei aqui das peças escuras e claras como metáforas raciais, mas como símbolos da polaridade política que culminou com as duas massas populares que estiveram nas duas importantes datas daquela semana de janeiro: a onda vermelha da vitória, vista na posse do presidente Lula no dia 1º de janeiro, e a onda </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘canarinho’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -235,28 +295,37 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Canarinho é o nome de uma pequena ave que apelida o uniforme da seleção brasileira de futebol, onde as cores amarelo e verde predominam, criada após a derrota na Copa do Mundo de Futebol no Brasil em 1950 e lançada para vestir o time a partir de 1954 pela superstição criada com o uniforme branco da derrota em casa para o Uruguai.</Content>
+          <Content>	Canarinho é o nome de uma pequena ave que apelida o uniforme da seleção brasileira de futebol, onde as cores amarelo e verde predominam, criada após a derrota na Copa do Mundo de Futebol no Brasil em 1950 e lançada para vestir o time a partir de 1954 pela superstição criada com o uniforme branco da derrota em casa para o Uruguai.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> da falta de fair play da tentativa de golpe no dia 8 de janeiro.</Content>
+    <Content> da falta de fair play, da tentativa de golpe no dia 8 de janeiro.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A rainha é uma peça estratégica no xadrez. A queda do rei é o objetivo do jogo e a rainha é a figura mais poderosa no tabuleiro, que acumula os poderes do bispo e da torre. Muitas vezes é priorizada pelos adversários que seja retirada, ou na linguagem do jogo em português 'comida', para vulnerabilizar o rei e encaminhar ao xeque-mate. No 8 de janeiro não necessariamente a rainha se materializou em uma mulher, como na estátua 'A Justiça' e, mas no próprio território do poder, em especial no Palácio da Justiça do Supremo Tribunal Federal (STF) e no Palácio do Planalto, alvos da invasão dos manifestantes bolsonaristas.</Content>
+    <Content>A rainha é uma peça estratégica no xadrez. A queda do rei é o objetivo do jogo, mas a rainha é a figura mais poderosa no tabuleiro, incorporando os poderes do bispo e da torre. Muitas vezes é visada pelos adversários que, na linguagem do jogo em português, buscam </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘comer’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ela, para vulnerabilizar o rei e encaminhar ao xeque-mate. No 8 de janeiro não necessariamente a rainha se materializou em uma mulher, como na estátua </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘A Justiça’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, mas no próprio território do poder, em especial no Palácio da Justiça do Supremo Tribunal Federal (STF) e no Palácio do Planalto, alvos da invasão dos manifestantes bolsonaristas.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Após o receio quanto a segurança no 1º de janeiro e o sucesso e felicidade expostas durante todo o evento da posse do presidente Lula, além do festival com artistas populares que são de alguma maneira engajados com as causas humanitárias (que foram de alguma maneira silenciados desde o golpe parlamentar de 2016</Content>
+    <Content>Em meio às preocupações quanto a segurança no 1º de janeiro, após o sucesso e felicidade expostas durante todo o evento da posse do presidente Lula, que contou com um festival de artistas populares de alguma maneira engajados às causas humanitárias (que foram de alguma maneira silenciados desde o golpe parlamentar de 2016),</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -267,22 +336,31 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>A Câmara dos Deputados abriu um processo de Impeachment contra a presidenta Dilma Roussef que foi aprovado em 2016, empossando Michel Temer naquele ano em 31 de agosto, após pouco mais de 3 meses como presidente interino. Em março de 2022 Dilma Roussef foi inocentada pelo Tribunal Regional Federal da 2ª Região de todas as acusações que a fizeram perder o mandato.</Content>
+          <Content>	A Câmara dos Deputados abriu um processo de Impeachment contra a presidenta Dilma Rousseff que foi aprovado em 2016, empossando Michel Temer naquele ano em 31 de agosto, após pouco mais de 3 meses como presidente interino. Em março de 2022 Dilma Rousseff foi inocentada pelo Tribunal Regional Federal da 2ª Região de todas as acusações que a fizeram perder o mandato.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>), o alívio referente a uma ameaça de golpe de estado tomou conta do novo governo. Vale lembrar que Lula havia decidido não substituir os cargos de confiança do Gabinete de Segurança Institucional da Presidência da República (GSI), órgão responsável pela segurança do Presidente e do Palácio do Planalto, e com isso permitiu por parte dos então servidores do ex-presidente Jair Bolsonaro uma conivência com os vândalos que invadiram as 3 casas do Poder.</Content>
+    <Content> o alívio referente a uma ameaça de golpe de estado tomou conta do novo governo. Vale lembrar que Lula havia decidido não substituir os cargos de confiança do Gabinete de Segurança Institucional da Presidência da República (GSI), responsável pela segurança do Presidente e do Palácio do Planalto, e, com isso, permitiu a conivência dos servidores do ex-presidente Jair Bolsonaro com os vândalos que invadiram as três casas do Poder.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Gill Scott Heron, cantor negro norte-americano lançou a canção 'The Revolution Will Not Be Televised' ('A Revolução Não Será Televisionada') em 1971,</Content>
+    <Content>Gill Scott Heron, cantor negro norte-americano, lançou a canção </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘The Revolution Will Not Be Televised’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘A Revolução Não Será Televisionada’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>) em 1971,</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -293,10 +371,13 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Gil Scott Heron, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Gil Scott Heron, 'The Revolution Will not be Televized (1971), Spotify, https://open.spotify.com/intl-pt/track/7EdXviPSV2ljO2qjcPtP1a?autoplay=true#_=_.</Content>
+          <Content>‘The Revolution Will not be Televized’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (1971), Spotify, https://open.spotify.com/intl-pt/track/7EdXviPSV2ljO2qjcPtP1a?autoplay=true#_=_.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -313,22 +394,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Kim Bartley and Donnacha O'Briain, </Content>
+          <Content>	Kim Bartley and Donnacha O'Briain, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Revolution Will Not Be Televised</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> (2003), Internet Movie Database, 'https://www.imdb.com/title/tt0363510/?ref_=ext_shr_lnk.</Content>
+          <Content> (2003), Internet Movie Database, ’https://www.imdb.com/title/tt0363510/?ref_=ext_shr_lnk.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> onde este chegou a ser removido do poder por dois dias. O que aconteceu no 8 de janeiro está distante de uma revolução e mais próxima de um golpe, comandado pela 'peça' que estava duas casas distantes do tabuleiro, mais especificamente, Jair Bolsonaro, que segundo os jornais naquele momento estava hospedado na residência de um ídolo do MMA</Content>
+    <Content> onde este chegou a ser removido do poder por dois dias. O que aconteceu no 8 de janeiro está distante de uma revolução e mais próxima de um golpe, comandado pela </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘peça’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> que estava duas casas distantes do tabuleiro, mais especificamente, Jair Bolsonaro, que segundo os jornais estava, naquele momento, hospedado na residência de um ídolo do MMA</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -345,31 +429,61 @@
           <Content>Mixed Martial Arts</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> -- Artes Marciais Mistas.</Content>
+          <Content> — Artes Marciais Mistas.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Brasileiro, em Orlando nos Estados Unidos. O golpe previa ser televisionado, mas em sua linguagem moderna onde cineastas amadores especialistas em selfies e em posse de seus smartphones e pacotes de dados de internet transmitiram em tempo real a ação terrorista planejada em grupos de aplicativos nestes aparelhos como Telegram, Whatsapp entre outros.</Content>
+    <Content> Brasileiro, em Orlando nos Estados Unidos. O golpe foi planejado para ser televisionado, mas em sua linguagem moderna, onde cineastas amadores, especialistas em selfies e em posse de seus smartphones e pacotes de dados de internet, transmitiram em tempo real a ação terrorista organizada em grupos de aplicativos nestes aparelhos como Telegram, WhatsApp entre outros.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Esses manifestantes bolsonaristas vêm criando há tempos uma outra narrativa cujo maior oponente é a história enquanto ciência humana. Os bolsonaristas da Praça dos Três Poderes, de forma mais explícita que nos 4 anos de governo de Bolsonaro (2019-2022), sabiam que estavam cometendo um crime e fizeram uma baderna expondo seus rostos em suas filmagens e transmitindo para quem quisesse assistir. Isto, para garantir em pouco mais de um milhar de câmeras e ângulos uma versão pessoal de uma tomada ilícita do poder em nome de um ideal fascista, onde se coloca 'nós' contra 'eles' e o trabalho duro contra a intelectualidade. Usa os meios de informação para desinformar e desunir, e plantam frases simbólicas para o lema desse grupo que escolhe uma imagem de líder para promover 'a onda' a partir de frases como 'Deus, pátria e família'.</Content>
+    <Content>Esses manifestantes bolsonaristas vêm criando há tempos uma outra narrativa cujo maior oponente é a história enquanto ciência humana. Os bolsonaristas da Praça dos Três Poderes, de forma mais explícita que nos quatro anos de governo de Bolsonaro (2019-2022), sabiam que estavam cometendo um crime e fizeram uma baderna expondo seus rostos em suas filmagens e transmitindo para quem quisesse assistir. Isto, para garantir em pouco mais de um milhar de câmeras e ângulos uma versão pessoal de uma tomada ilícita do poder em nome de um ideal fascista, onde se coloca </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘nós’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> contra </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘eles’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> e o trabalho duro contra a intelectualidade. Usando os meios de informação para desinformar e desunir, plantaram frases simbólicas, elegendo uma imagem de líder para promover </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘a onda’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> a partir de lemas como </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Deus, pátria e família’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Foram os peões deste tabuleiro atirados de forma suicida para atacar em simultâneo o rei e a rainha. Essa ação exemplifica bem o 'complexo da visualidade' que segundo a teoria de Nicholas Mirzoeff significa o ato de</Content>
+    <Content>Foram os peões deste tabuleiro atirados de forma suicida para atacar simultaneamente o rei e a rainha. Essa ação exemplifica bem o </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘complexo da visualidade’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> que segundo a teoria de Nicholas Mirzoeff significa o ato de</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>'classificar', separar e estetizar [que] formam, juntos, o que chamarei de um complexo de visualidade. Todo esse platonismo depende de uma classe servil, seja formalmente uma classe escrava ou não, cuja tarefa é fazer o trabalho que deve ser feito e nada mais.</Content>
+    <Content>’classificar', separar e estetizar [que] formam, juntos, o que chamarei de um complexo de visualidade. Todo esse platonismo depende de uma classe servil, seja formalmente uma classe escrava ou não, cuja tarefa é fazer o trabalho que deve ser feito e nada mais.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -380,16 +494,19 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Nicholas Mirzoeff. </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Nicholas Mirzoeff. 'O direito a olhar', </Content>
+          <Content>‘O direito a olhar’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Educação Temática Digital</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, v. 18.4 (November 2016): 745-768.</Content>
+          <Content>, v. 18.4 (Novembro 2016): 745-768.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -398,13 +515,14 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Para Mirzoeff o complexo da visualidade é um sistema onde o autor -- a autoridade -- é quem usa seu poder para estabelecer socialmente o que é visto como certo, bonito e justo. E, partindo desses pressupostos, definir uma imagem padrão para ser adotada e tornar-se uma meta a ser atingida --- mas não para todos -- em oposição a quem jamais se enquadrará nesse padrão.</Content>
+    <Content>Para Mirzoeff, o complexo da visualidade é um sistema onde o autor — a autoridade — é quem usa seu poder para estabelecer socialmente o que é visto como certo, belo e justo. E, partindo desses pressupostos, definir uma imagem padrão para ser adotada, tornando-se uma meta a ser atingida — mas não para todos —, em oposição àqueles que jamais se enquadrarão nesse formato.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Os dois lados do jogo</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#os-dois-lados-do-jogo" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Os Dois Lados do Jogo</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -416,30 +534,31 @@
     <Content>day after</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> da posse do presidente, e do ataque respectivamente. As imagens permitem ver a informação tal como foi publicada nessas capas, assim como as escolhas das imagens que as ilustrariam após o imediatismo virtual desses eventos nas plataformas de mídias sociais no momento dos ataques aos palácios dos 3 poderes.</Content>
+    <Content> da posse do presidente, e do ataque respectivamente. As imagens permitem ver a informação tal como foi publicada nessas capas, assim como as escolhas das imagens que as ilustraram após o imediatismo virtual desses eventos nas plataformas de mídias sociais no momento dos ataques aos palácios dos três poderes.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 150 -100">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-150 -100" LeftDirection="-150 -100" RightDirection="-150 -100" />
+              <PathPointType Anchor="-150 100" LeftDirection="-150 100" RightDirection="-150 100" />
+              <PathPointType Anchor="150 100" LeftDirection="150 100" RightDirection="150 100" />
+              <PathPointType Anchor="150 -100" LeftDirection="150 -100" RightDirection="150 -100" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1 0 0 1 -150 -100">
         <Properties>
           <Profile type="string">
             $ID/Embedded
           </Profile>
+          <GraphicBounds Left="0" Top="0" Right="300" Bottom="200" />
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/21_2.png" />
       </Image>
@@ -455,7 +574,7 @@
     <Content>The New York Times,</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 2 de janeiro de 2023. Fonte: </Content>
+    <Content> 2 January 2023. Fonte: </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>NYTimes.com.</Content>
@@ -469,16 +588,16 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	The New York Times, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>The New York Times, 'Today's Paper', 2 January, 2023, https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.</Content>
+          <Content>‘Today’s Paper’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 2 January, 2023, https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -487,24 +606,25 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 150 -100">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-150 -100" LeftDirection="-150 -100" RightDirection="-150 -100" />
+              <PathPointType Anchor="-150 100" LeftDirection="-150 100" RightDirection="-150 100" />
+              <PathPointType Anchor="150 100" LeftDirection="150 100" RightDirection="150 100" />
+              <PathPointType Anchor="150 -100" LeftDirection="150 -100" RightDirection="150 -100" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1 0 0 1 -150 -100">
         <Properties>
           <Profile type="string">
             $ID/Embedded
           </Profile>
+          <GraphicBounds Left="0" Top="0" Right="300" Bottom="200" />
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/21_3.png" />
       </Image>
@@ -514,7 +634,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Figura 2: Capa do The New York Times, 9 de janeiro de 2023. Fonte: </Content>
+    <Content>Figura 2: Capa do The New York Times, 9 January 2023. Fonte: </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>The New York Times.</Content>
@@ -528,10 +648,13 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	The New York Times, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>The New York Times, 'Today's Paper', 9 January, 2023, https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.</Content>
+          <Content>‘Today’s Paper’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 9 January, 2023, https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -543,7 +666,19 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A primeira jogada está na visão em 'plano geral' das massas populares presentes no que chamo de 'dois domingos de transição': da energia da posse no dia 1° (Figura 1) e da tentativa de golpe no dia 8 (Figura 2).</Content>
+    <Content>A primeira jogada está na visão em </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘plano geral’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> das massas populares presentes no que chamo de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘dois domingos de transição’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: da energia da posse no dia 1° (Figura 1) e da tentativa de golpe no dia 8 (Figura 2).</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -554,45 +689,55 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Plano geral é um enquadramento no audiovisual onde o cenário é visto a distância, criando a ambientação da cena sem destacar especificamente um personagem, principalmente quando se tem várias pessoas em cena.</Content>
+          <Content>	Plano geral é um enquadramento no audiovisual onde o cenário é visto a distância, criando a ambientação da cena sem destacar especificamente um personagem, principalmente quando se tem várias pessoas em cena.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> A posse de Lula foi tomada por uma 'onda vermelha', cor que caracteriza a multidão no fundo do quadro, impulsionada pela vitória do Partido dos Trabalhadores (PT), e por todo um trabalho de comunicação inclusiva, onde as discussões presentes e urgentes no campo progressista se materializam na imagem. Vemos Lula subindo a rampa do Palácio do Planalto com a cachorrinha chamada Resistência, com a Primeira Dama Janja Lula da Silva e representantes de grupos menos favorecidos, como pessoas negras, indígenas e com deficiência. Ao seu lado está o cacique Raoni Metuktire, liderança Caiapó e defensor histórico dos direitos dos povos originários e do meio ambiente, indicando um recado para as viagens agendadas para encontros internacionais para discutir recursos para a defesa da floresta amazônica. Já na manchete que noticia o ataque à democracia uma semana depois, os uniformes da seleção de futebol brasileira da Nike com as cores verde e amarela voltam a ser o dress code dos invasores bolsonaristas que subiram a mesma rampa para desrespeitar e vandalizar o patrimônio que pertence a todos os brasileiros. </Content>
+    <Content> A posse de Lula foi tomada por uma </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘onda vermelha’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, cor que caracteriza a multidão no fundo do quadro, impulsionada pela vitória do Partido dos Trabalhadores (PT), e por todo um trabalho de comunicação inclusiva, onde as discussões presentes e urgentes no campo progressista se materializam na imagem. Vemos Lula subindo a rampa do Palácio do Planalto com a cachorrinha chamada Resistência, com a Primeira Dama Janja, Lula da Silva e representantes de grupos menos favorecidos, como pessoas negras, indígenas e com deficiência. Ao seu lado está o cacique Raoni Metuktire, liderança Caiapó e defensor histórico dos direitos dos povos originários e do meio ambiente - antecipando a agenda dos encontros internacionais para discutir recursos para a defesa da floresta amazônica. Já na manchete que noticia o ataque à democracia uma semana depois, os uniformes da seleção de futebol brasileira da Nike com as cores verde e amarela voltam a ser o </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>dress code</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> dos invasores bolsonaristas que subiram a mesma rampa para desrespeitar e vandalizar o patrimônio que pertence a todos os brasileiros. </Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Muitos veículos jornalísticos no Brasil utilizaram essas mesmas duas imagens para ilustrar tanto a posse quanto o ataque, ou ao menos utilizaram imagens com os mesmos pontos de vista. Na posse de Lula, a câmera registra o presidente dentro do Palácio quando se aproxima da solenidade de transferência da faixa presidencial que oficializou o seu terceiro governo. Na imagem dos ataques uma semana depois, a imprensa observa as ações à distância, pois os registros próximos, em close-up, foram feitos de maneira mais detalhada, e em tempo real, pelos próprios vândalos e suas selfies.</Content>
+    <Content>Muitos veículos jornalísticos no Brasil utilizaram essas mesmas duas imagens para ilustrar tanto a posse quanto o ataque, ou, ao menos, utilizaram imagens com os mesmos pontos de vista. Na posse de Lula, a câmera registra o presidente dentro do Palácio quando se aproxima da solenidade de transferência da faixa presidencial que coroou o seu terceiro governo. Na imagem dos ataques, uma semana depois, a imprensa observa as ações à distância, pois os registros próximos, em close-up, foram feitos de maneira mais detalhada, e em tempo real, pelos próprios vândalos posando para suas selfies.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 150 -100">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-150 -100" LeftDirection="-150 -100" RightDirection="-150 -100" />
+              <PathPointType Anchor="-150 100" LeftDirection="-150 100" RightDirection="-150 100" />
+              <PathPointType Anchor="150 100" LeftDirection="150 100" RightDirection="150 100" />
+              <PathPointType Anchor="150 -100" LeftDirection="150 -100" RightDirection="150 -100" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1 0 0 1 -150 -100">
         <Properties>
           <Profile type="string">
             $ID/Embedded
           </Profile>
+          <GraphicBounds Left="0" Top="0" Right="300" Bottom="200" />
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/21_4.png" />
       </Image>
@@ -608,7 +753,7 @@
     <Content>O Globo,</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 9 de janeiro de 2023. Fonte: Acervo Digital/</Content>
+    <Content> 9 January 2023. Fonte: Acervo Digital/</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>O Globo.</Content>
@@ -622,10 +767,13 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Oglobo.oglobo.com, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Oglobo.oglobo.com, 'Acervo digital', O Globo, https://oglobo.globo.com/acervo/.</Content>
+          <Content>‘Acervo digital’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, O Globo, https://oglobo.globo.com/acervo/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -637,24 +785,25 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 150 -100">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-150 -100" LeftDirection="-150 -100" RightDirection="-150 -100" />
+              <PathPointType Anchor="-150 100" LeftDirection="-150 100" RightDirection="-150 100" />
+              <PathPointType Anchor="150 100" LeftDirection="150 100" RightDirection="150 100" />
+              <PathPointType Anchor="150 -100" LeftDirection="150 -100" RightDirection="150 -100" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1 0 0 1 -150 -100">
         <Properties>
           <Profile type="string">
             $ID/Embedded
           </Profile>
+          <GraphicBounds Left="0" Top="0" Right="300" Bottom="200" />
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/21_5.png" />
       </Image>
@@ -687,10 +836,13 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Folha de São Paulo, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Folha de São Paulo, 'Edição digital', 19 January 2023, https://www1.folha.uol.com.br/fsp/fac-simile/2023/01/19/.</Content>
+          <Content>‘Edição digital’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 19 January 2023, https://www1.folha.uol.com.br/fsp/fac-simile/2023/01/19/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -702,13 +854,25 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A segunda jogada no tabuleiro revela o ponto de vista das janelas do Palácio do Planalto mencionadas anteriormente, mas já sem uma visão ampla e nem panorâmica (Figura 3). Na capa do jornal O Globo do dia 9 de janeiro a palavra 'Terrorismo' ganha destaque enquanto os estilhaços da parede de vidro do palácio, como em um espelho quebrado, ilustram a massa dos chamados 'bolsonaristas radicais' na rampa de acesso ao palácio.</Content>
+    <Content>A segunda jogada no tabuleiro revela o ponto de vista das janelas do Palácio do Planalto mencionadas anteriormente, mas já sem uma visão ampla e nem panorâmica (Figura 3). Na capa do jornal O Globo em 9 de janeiro, a palavra </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘terrorismo’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ganha destaque, enquanto os estilhaços da parede de vidro do Palácio do Planalto, como em um espelho quebrado, ilustram a massa dos chamados </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘bolsonaristas radicais’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> na rampa de acesso ao edifício.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As vidraças quebradas pelos vândalos vestidos de verde e amarelo (que emulam, quase uma década depois, práticas de vandalismo que estes mesmos bolsonaristas condenavam como uma prática Black Bloc</Content>
+    <Content>As vidraças quebradas pelos vândalos vestidos de verde e amarelo (que emulam, quase uma década depois, práticas de vandalismo que estes mesmos bolsonaristas condenavam como uma prática Black Bloc),</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -719,22 +883,31 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Black bloc é como são denominados grupos, normalmente de ideologia anarquista, que se manifestam contra grandes corporações atacando e causando danos a seus símbolos como entradas de bancos e de sedes de grandes empresas.</Content>
+          <Content>	Black bloc é como são denominados grupos, normalmente de ideologia anarquista, que se manifestam contra grandes corporações atacando e causando danos a seus símbolos como entradas de bancos e de sedes de grandes empresas.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>) oferecem um forte contraste com a capa da Folha de São Paulo (Figura 4) dias depois, onde a fotógrafa Gabriela Biló em seu experimento fotográfico de 'múltipla exposição' encaixou a imagem de um estilhaço de uma das janelas quebradas com a foto de Lula ajeitando sua gravata com o corpo encolhido. Através desse artifício, a fotógrafa acabou criando uma sugestão de que um tiro tivesse atravessado a vidraça e atingido o presidente.</Content>
+    <Content> oferecem um forte contraste com a capa da Folha de São Paulo (Figura 4) dias depois, onde a fotógrafa Gabriela Biló, em seu experimento fotográfico de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘múltipla exposição’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, encaixou a imagem de um estilhaço de uma das janelas quebradas com a foto de Lula ajeitando sua gravata com o corpo encolhido. Através desse artifício, a fotógrafa acabou sugerindo visualmente que um tiro tivesse atravessado a vidraça e atingido o presidente.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Neste segundo caso, como se diz popularmente no Brasil 'o tiro saiu pela culatra', pois tanto apoiadores do presidente Lula quanto o público geral entenderam a imagem como um incentivo a potenciais tentativas de assassinato do presidente</Content>
+    <Content>Neste segundo caso, como se diz popularmente no Brasil, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘o tiro saiu pela culatra’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, pois tanto apoiadores do presidente Lula quanto o público geral entenderam a imagem como um incentivo a potenciais tentativas de assassinato do presidente.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -745,16 +918,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Para além de outras ameaças feitas antes da posse por um famoso jogador de vôlei da seleção brasileira que fez uma postagem armado e convocando os </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Para além de outras ameaças feitas antes da posse por um famoso jogador de vôlei da seleção brasileira que fez uma postagem armado e convocando os 'brasileiros' a tomar uma posição contra o resultado, o qual foi banido do esporte após a repercussão negativa da postagem.</Content>
+          <Content>‘brasileiros’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> a tomar uma posição contra o resultado, o qual foi banido do esporte após a repercussão negativa da postagem.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Para a foto do 'tiro em Lula' houve má repercussão para o jornal,</Content>
+    <Content> Houve uma repercussão negativa da foto do </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘tiro em Lula’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>,</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -765,16 +947,19 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Um exemplo das críticas que menciona a reação do público à imagem da fotógrafa. Simonetta Persichetti, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Um exemplo das críticas que menciona a reação do público à imagem da fotógrafa. Simonetta Persichetti, 'Não, não é fotojornalismo', Arte!Brasileiros, 20 January 2023, https://artebrasileiros.com.br/arte/fotografia/folha-lula-gabriela-bilo-fotojornalismo/.</Content>
+          <Content>‘Não, não é fotojornalismo’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Arte!Brasileiros, 20 January 2023, https://artebrasileiros.com.br/arte/fotografia/folha-lula-gabriela-bilo-fotojornalismo/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> mas que não o afetou comercialmente, e para a fotógrafa possibilitou inclusive à editora de seus livros sobre cobertura política voltar a divulgá-los e aproveitar para aumentar as vendas.</Content>
+    <Content> não obstante, a repercussão não atingiu comercialmente o jornal, tendo ainda beneficiado a fotógrafa, que ganhou um espaço de divulgação para seus livros anteriores sobre cobertura política e, consequentemente, ajudou sua editora a vendê-los ainda mais.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -785,10 +970,7 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>A historiadora Lilia Schwarz criticou em seu perfil na rede social Instagram as opções da Folha de São Paulo em publicar a notícia e o argumento da fotógrafa Gabriela Biló. @liliaschwarcz, Instagram post, 19 January, 2023, https://www.instagram.com/p/CnmWGUrOgey.</Content>
+          <Content>	A historiadora Lilia Schwarz criticou em seu perfil na rede social Instagram as opções da Folha de São Paulo em publicar a notícia e o argumento da fotógrafa Gabriela Biló. @liliaschwarcz, Instagram post, 19 January, 2023, https://www.instagram.com/p/CnmWGUrOgey.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -797,24 +979,25 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 150 -100">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-150 -100" LeftDirection="-150 -100" RightDirection="-150 -100" />
+              <PathPointType Anchor="-150 100" LeftDirection="-150 100" RightDirection="-150 100" />
+              <PathPointType Anchor="150 100" LeftDirection="150 100" RightDirection="150 100" />
+              <PathPointType Anchor="150 -100" LeftDirection="150 -100" RightDirection="150 -100" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1 0 0 1 -150 -100">
         <Properties>
           <Profile type="string">
             $ID/Embedded
           </Profile>
+          <GraphicBounds Left="0" Top="0" Right="300" Bottom="200" />
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/21_6.png" />
       </Image>
@@ -824,7 +1007,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Figura 5: Imagem da Câmera de Segurança do Palácio do Planalto com o vândalo que destruiu relógio histórico.</Content>
+    <Content>Figura 5: Imagem da Câmera de Segurança do Palácio do Planalto com o vândalo que destruiu o relógio histórico.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -835,10 +1018,7 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Quadro congelado de vídeo interno das câmeras de segurança do Palácio do Planalto compartilhada pelas emissoras de TV e pelas plataformas de internet. Fonte: TV Globo.</Content>
+          <Content>	Quadro congelado de vídeo interno das câmeras de segurança do Palácio do Planalto compartilhada pelas emissoras de TV e pelas plataformas de internet. Fonte: TV Globo.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -850,19 +1030,50 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A terceira jogada e último exemplo de imagem que usarei é marcante: registrada pela câmera de segurança do Palácio do Planalto do vândalo 'fardado' com uma T-shirt preta com a imagem e o nome de 'Bolsonaro' estampados, após derrubar e avariar o relógio trazido por Dom João VI em 1808 (Figura 5). O homem foi dos poucos terroristas bolsonaristas que não usavam as cores do uniforme da Seleção brasileira de futebol, e optou pelo tom escuro nas vestes. Duas metáforas ocorrem nesse momento. A primeira, o ato do vândalo tentando parar o marcador do tempo, em um momento de mudança de conjuntura política. O relógio há anos tinha apenas uma função histórica e decorativa, já que o ponteiro não rodava mais. A segunda metáfora é que, ao olhar para a câmera, o criminoso 'quebra a quarta parede'. No cinema, quebrar a quarta parede é quando o personagem da narrativa olha fundo no olho do espectador, diretamente para a câmera, como que assumindo a consciência de que se trata de um personagem em uma história e quer compartilhar isso com o público. Ao contrário da selfie do celular, onde o responsável pelo ato faz questão de assumir a autoria do que faz, neste ângulo o personagem se entende como terceira pessoa da narrativa. Nesse momento a auto narrativa não se concretiza na câmera de segurança a qual, neste ambiente panóptico, tem uma função bem definida. O bolsonarista tenta destruí-la a todo custo mesmo com a memória de seu crime já registrada sem o seu controle ou de seus pares. Dias depois foi identificado e preso. Um peão a menos no tabuleiro do golpe de estado.</Content>
+    <Content>A terceira jogada, e último exemplo de imagem que usarei, é marcante: o vândalo </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘fardado’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> com uma camiseta preta com a imagem e o nome de </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Bolsonaro’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> estampados, registrado pelas câmeras de segurança, após derrubar e avariar o relógio trazido por Dom João VI em 1808 (Figura 5). O homem foi um dos poucos terroristas bolsonaristas que não usavam as cores do uniforme verde – amarelo da seleção brasileira de futebol, tendo optado pelo tom escuro nas vestes. Duas metáforas ocorrem nesse momento. A primeira, o ato do vândalo tentando parar o marcador do tempo, em um momento de mudança de conjuntura política. Há anos, o relógio tinha apenas uma função decorativa, já que o ponteiro não rodava mais. A segunda metáfora: o olhar que o criminoso dirige à câmera, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘quebrando a quarta parede’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. No cinema, o termo </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘quebrar a quarta parede’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> refere-se ao momento no qual o personagem da narrativa olha fundo no olho do espectador, diretamente para a câmera, como que, em um só golpe, assumindo a consciência de sua natureza ficcional, e ao mesmo tempo compartilhando com o público sua verdade existencial. Ao contrário da </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>selfie</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> do celular, onde o responsável pelo ato faz questão de assumir a autoria dos seus atos, neste ângulo o personagem se entende como terceira pessoa da narrativa. Nesse momento a autonarrativa não se concretiza na câmera de segurança que, neste ambiente panóptico, tem uma função bem definida. Ao invés, o bolsonarista tenta destruí-la a todo custo, apesar do registro de seu crime já ter sido guardado em alguma nuvem de dados, tendo escapado ao seu controle ou ao controle de seus pares. Dias depois, foi identificado e preso. Um peão a menos no tabuleiro do golpe de estado.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#fora-do-tabuleiro" Name="Destination" DestinationUniqueKey="1" />
     <Content>Fora do Tabuleiro</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A revolução não foi televisionada, mas como visibilidade é tudo nesse jogo, esse xadrez digital para telas de celulares e computadores gerou fatos e provas que, uma vez utilizados pela justiça, podem tomar rumos diferentes. Até o momento deste texto 211 bolsonaristas permanecem detidos pelos atos terroristas e antidemocráticos do 8 de janeiro.</Content>
+    <Content>A revolução não foi televisionada, mas como visibilidade é tudo nesse jogo, esse xadrez digital para telas de celulares e computadores gerou fatos e provas que, uma vez utilizados pela justiça, podem mudar o rumo da partida. Até a conclusão deste texto 211 bolsonaristas permanecem detidos pelos atos terroristas e antidemocráticos do 8 de janeiro.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -876,7 +1087,10 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>'Influencer, caminhoneiro, faxineira, seis meses depois, 211 pessoas continuam presas por atos golpistas', O Globo, 8 July, 2023, https://oglobo.globo.com/politica/noticia/2023/07/08/influencer-caminhoneiro-faxineira-seis-meses-depois-211-pessoas-continuam-presas-por-atos-golpistas.ghtml.</Content>
+          <Content>‘Influencer, caminhoneiro, faxineira, seis meses depois, 211 pessoas continuam presas por atos golpistas’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, O Globo, 8 July 2023, https://oglobo.globo.com/politica/noticia/2023/07/08/influencer-caminhoneiro-faxineira-seis-meses-depois-211-pessoas-continuam-presas-por-atos-golpistas.ghtml.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -896,19 +1110,46 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>'Seis meses após ataques, STF somas mais de 1,2 mil réus por atos golpistas', G1, 8 July 2023, https://g1.globo.com/politica/noticia/2023/07/08/seis-meses-apos-ataques-stf-soma-mais-de-12-mil-reus-por-atos-golpistas.ghtml.</Content>
+          <Content>‘Seis meses após ataques, STF somas mais de 1,2 mil réus por atos golpistas’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, G1, 8 July 2023, https://g1.globo.com/politica/noticia/2023/07/08/seis-meses-apos-ataques-stf-soma-mais-de-12-mil-reus-por-atos-golpistas.ghtml.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> -- presentes em grande parte nas próprias imagens geradas por estes ou pelas 'sobreviventes' câmeras de segurança dos prédios na Praça dos Três Poderes -- representam uma pequena quantidade das peças do tabuleiro deste jogo de xadrez, onde os 8 peões são, hierarquicamente, os elementos mais vulneráveis que são enviados ao confronto com o 'reino' adversário.</Content>
+    <Content> — presentes em grande parte nas imagens geradas por eles mesmos, ou pelas câmeras de segurança </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘sobreviventes’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> nos prédios na Praça dos Três Poderes — representam uma pequena quantidade das peças do tabuleiro desse jogo de xadrez, onde os oito peões são, hierarquicamente, os elementos mais vulneráveis e descartáveis ao serem enviados como </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘buchas de canhão’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> em direção ao confronto direto com o </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘reino’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> adversário.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Neste jogo a ação do rei se vê como uma figura que deve ser protegida para evitar o xeque-mate, que nesse caso configura metaforicamente o golpe de estado. E o rei neste jogo, onde a rainha foi comida, não foi passivo em ficar na autodefesa e saiu em pouco tempo da posição de xeque, e conseguiu que seus peões como no jogo avançassem no flanco oposto e recuperasse a rainha</Content>
+    <Content>Nesse jogo o rei se vê como uma figura que deve ser protegida para evitar o </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>xeque-mate</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, que, neste caso, configura metaforicamente o golpe de estado. E o rei dessa partida, onde a rainha foi comida, não ficou passivo na autodefesa, saindo rapidamente da posição de xeque, conseguindo que seus peões avançassem em direção ao flanco oposto para se tornarem rainhas.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -919,28 +1160,49 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>No jogo de xadrez, quando um peão consegue atingir a última casa do tabuleiro, no c, ,aso do adversário a primeira casa, o jogador pode substituí-lo por alguma peça já retirada de seu exército. Se a Rainha estiver fora, normalmente ela é trazida de volta ao tabuleiro por ser considerada a peça mais poderosa.</Content>
+          <Content>	No jogo de xadrez, quando um peão consegue atingir a última casa do tabuleiro, o jogador pode substituí-lo por alguma outra peça. Se a Rainha estiver fora, normalmente ela é trazida de volta ao tabuleiro por ser considerada a peça mais poderosa.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. O 8J enquanto posição fora do tabuleiro permaneceu mais algumas semanas protegido como o rei das peças brancas que, diante da recuperação da rainha, se vê aflito com a eliminação paulatina de suas peças de ataque e se vê tendo que se movimentar de novo dentro do tabuleiro, retornando ao Brasil, e sem uma estratégia definida.</Content>
+    <Content> O </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘8J’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, enquanto posição fora do tabuleiro, permaneceu mais algumas semanas protegido, encastelado e escondido no exterior, mas, diante da recuperação da rainha, vê-se aflito com a eliminação paulatina de suas peças de ataque e é obrigado a retornar ao tabuleiro, voltando ao Brasil sem uma estratégia definida.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As janelas dos Três Poderes que no dia 1º de janeiro assistiram uma festa que pretendeu reunir 'os Brasis', sentiram no dia 8 de janeiro uma reação antidemocrática que nem pode ser chamada de popular pois indignou grande parte da população por sua total falta de sentido enquanto violência, mas que teve uma organização e comando prévios, de fora do tabuleiro.</Content>
+    <Content>As janelas dos Três Poderes que no dia 1º de janeiro assistiram uma festa que pretendeu reunir </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘os Brasis’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, sentiram no dia 8 de janeiro uma reação antidemocrática que nem pode ser chamada de popular, pois indignou grande parte da população por sua violência sem sentido, mas que teve uma organização e comando prévios vindos de fora do tabuleiro.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Durante os ataques roubaram a versão original da Constituição de 1988, porém ela retornou após o episódio e a justiça vem sendo feita da maneira possível. A primeira constituição após a ditadura militar ser tirada de seu lugar enquanto símbolo de legalidade por manifestantes de extrema-direita que pedem, dentre outras coisas, o que denominam 'intervenção militar' (que é inconstitucional) mostra, através das pequenas telas de smartphone, a fragilidade da confiança na segurança que atuou naquele evento. Mostra também a impunidade dependendo das 'peças que se movem no tabuleiro', uma vez que integrantes deste sistema de justiça tomaram decisões incorretas em tudo de desagradável que aconteceu desde o impeachment da presidenta Dilma Rousseff em 2016 e da prisão do então pré-candidato à presidência de Lula dois anos depois. O antipetismo foi uma opção arriscada de tomada de poder pela extrema-direita, que teve, na presença de agentes ativos desse movimento a partir da Operação Lava Jato (2014-2021), nomes como Sergio Moro e Deltan Dallagnol, seus protagonistas com performances a partir de câmeras de conferência, apresentações em Powerpoint e vazamentos de informações sigilosas para as grandes emissoras. O Superior Tribunal Federal (STF) precisou de um mandato de Jair Bolsonaro para assumir a parcialidade do então juiz do caso, o atual senador Sérgio Moro, e desfazer várias de suas ações no julgamento, dentre elas absorver Lula de todas as acusações no processo.</Content>
+    <Content>Durante os ataques, os vândalos roubaram a versão original da Constituição de 1988, que logo retornou ao seu devido lugar, e desde então a justiça vem sendo feita da maneira possível. A primeira constituição impressa após a ditadura militar, retirada de seu lugar simbólico e de legalidade do Estado de direito, foi roubada por manifestantes de extrema-direita que pedem, dentre outras coisas, uma </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘intervenção militar’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> inconstitucional. O acontecimento mostra, através das pequenas telas de smartphone, a fragilidade do esquema de segurança elaborado para o evento e a confiança dos criminosos na leniência daqueles que deveriam defender a constituição, os poderes públicos e suas três casas. Mostra também a impunidade arbitrária que dá guarda a certas </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘peças que se movem no tabuleiro’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, e condena injustamente outras, como aconteceu no impeachment da presidenta Dilma Rousseff, em 2016, e na prisão de Lula, pré-candidato à presidência em 2018. O antipetismo foi uma opção arriscada de tomada de poder pela extrema-direita. Seus principais representantes na Operação Lava Jato (2014-2021), como Sergio Moro e Deltan Dallagnol, foram protagonistas de performances realizadas através de câmeras de conferência, apresentações em Powerpoint e vazamentos de informações sigilosas para a grande mídia. O Superior Tribunal Federal (STF) precisou de um mandato de Jair Bolsonaro para investigar a parcialidade do então juiz do caso, o atual senador Sérgio Moro, anulando diversas decisões que ele havia tomado enquanto juiz, para absolver Lula de todas as acusações no processo.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -951,10 +1213,13 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Gabriela Coelho e Galton Sé, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Gabriela Coelho e Galton Sé, 'STF mantém decisão que declarou Sergio Moro parcial ao condenar Lula', CNN Brasil, 23 June 2021, https://www.cnnbrasil.com.br/politica/stf-mantem-decisao-que-declarou-sergio-moro-parcial-ao-condenar-lula/.</Content>
+          <Content>‘STF mantém decisão que declarou Sergio Moro parcial ao condenar Lula’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, CNN Brasil, 23 June 2021, https://www.cnnbrasil.com.br/politica/stf-mantem-decisao-que-declarou-sergio-moro-parcial-ao-condenar-lula/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -963,7 +1228,19 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As mudanças para a retomada dos tempos dos primeiros governos de Lula (2003-2011) que, mesmo que imperfeitos, dentre outras coisas reduziu a fome e trouxe a cultura ao protagonismo do processo, não serão interrompidas por um relógio de ouro destruído. O 'tempo não para' como cantava o poeta Cazuza, que também cantava sobre o 'museu de grandes novidades'.</Content>
+    <Content>O retorno aos primeiros governos de Lula (2003-2010), ainda que imperfeitos, remete, dentre outras coisas, à redução da fome e ao protagonismo da cultura no cenário político, políticas que não serão interrompidas por um relógio de ouro destruído. O </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘tempo não para’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> como cantava o poeta Cazuza, que também cantava sobre o </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘museu de grandes novidades’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -974,16 +1251,25 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>	Spotify, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Spotify, 'O tempo não para', Cazuza, https://open.spotify.com/intl-pt/track/10C3nAydzBvNfaY86NwUuA?si=85e3a8d84dfb43aa.</Content>
+          <Content>‘O tempo não para’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cazuza, https://open.spotify.com/intl-pt/track/10C3nAydzBvNfaY86NwUuA?si=85e3a8d84dfb43aa.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Para Leda Maria Martins, 'os sujeitos e suas formas artísticas que daí emergem são tecidos de memória, escrevem história'.</Content>
+    <Content> Para Leda Maria Martins, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘os sujeitos e suas formas artísticas que daí emergem são tecidos de memória, escrevem história’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -994,13 +1280,10 @@
       </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Leda, Martins, 'Performances do tempo espiralar</Content>
+          <Content>	Leda, Martins, ’Performances do tempo espiralar</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>',</Content>
+          <Content>’,</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content> In: RAVETTI, Gradeia; ARBEX, Márcia (org.). </Content>
@@ -1018,49 +1301,77 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Entre os corpos narcísicos em suas selfies e os que só carregam suas memórias e ancestralidades, cabem a estes transformar a referência do deus romano Janus e um movimento Sankofa, reconhecendo o passado, mas caminhando adiante. Cabe a cada um se expressar artisticamente ou não para fazer parte desta história, se posicionar no tabuleiro e através de sua voz, de suas narrativas e de suas estratégias de existência e resistência reescrever esta história. E se o adversário da harmonia do país está fora do tabuleiro, trabalharemos para que ali permaneça e desapareça da história.</Content>
+    <Content>Entre os corpos narcísicos em suas </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>selfies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> e os que só carregam suas memórias e ancestralidades, cabem a estes transformar a referência do deus romano Janus e um movimento Sankofa, reconhecendo o passado, mas caminhando adiante. Cabe a cada um se expressar artisticamente ou não para fazer parte desta história, posicionar-se no tabuleiro e, através de sua voz, de suas narrativas e de suas estratégias de existência e resistência, reescrever esta história. E se o adversário da harmonia do país está fora do tabuleiro, trabalharemos para que ali permaneça e da história, desapareça.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>O '8' é um número forte por ser em sua representação um traço contínuo, e sendo assim representar o infinito. Por abuso de poder durante as eleições, o Superior Tribunal Federal tornou Jair Bolsonaro inelegível por 8 anos a partir da data da eleição. Os seus aliados tentam manter a tática fascista de se manter no protagonismo do noticiário a partir de discursos preconceituosos e mentirosos, mas a peça principal do período mais tenebroso desde o golpe de 1964 está longe de estar no tabuleiro. É uma peça fantasma, mas por enquanto sua estratégia busca sobreviver com cada vez menos peças no tabuleiro para manter o jogo antes do xeque-mate. Nos dias que antecedem a conclusão deste texto algumas peças mudaram de cor, como normalmente acontece no sistema político brasileiro.</Content>
+    <Content>O </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘8’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> é um número forte por ser, em sua representação um traço contínuo, e, sendo assim, representar o infinito. Por abuso de poder durante as eleições, o Superior Tribunal Federal (STF) tornou Jair Bolsonaro inelegível por oito anos a partir da data da eleição geral em 2022. Os seus aliados tentam se manter no noticiário com seus discursos fascistas, preconceituosos e mentirosos, mas a peça principal do período mais tenebroso desde o golpe de 1964 por ora ausentou-se do tabuleiro. É uma peça fantasma, mas por enquanto sua estratégia é sobreviver com cada vez menos peças, mantendo-se no jogo até o inevitável xeque-mate. Nos dias que antecedem a conclusão deste texto algumas peças mudaram de cor, como normalmente acontece no sistema político brasileiro.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A, então, inelegibilidade do personagem 'de fora' o impedirá, no momento, de estar oito anos formalmente no poder, mesmo estando presente diariamente em todas as casas do tabuleiro como assunto que dinamiza o jogo. Pensando em peças estratégicas, e em ditos populares do período eleitoral, o Cavalo literalmente 'fez o L' e contribuiu para um futuro </Content>
+    <Content>A inelegibilidade do rei que se ausentou do tabuleiro durante os atos golpistas, impedirá seu retorno ao poder pelo menos nos próximos oito anos, mesmo que ainda continue, rondando o tablado diariamente como um fantasma que dinamiza o jogo. Pensando em peças estratégicas, e em ditos populares do período eleitoral, o Cavalo literalmente </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘fez o L’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> e contribuiu para um futuro </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>xeque-mate</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> que se desenha nas comissões parlamentares de inquéritos, na Polícia Federal, e no Superior Tribunal Federal.</Content>
+    <Content> que se desenha nas comissões parlamentares de inquéritos, na Polícia Federal e no Superior Tribunal Federal.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A melhor visão do tabuleiro é panorâmica e, usando o termo francês popularizado no audiovisual brasileiro, plongée, que significa 'mergulho'. Aprofundar o olhar sobre o tabuleiro e entender os próximos movimentos das peças não apenas ajuda a limpar o tabuleiro adversário, que no caso relatado tantos estragos fez, mas é ter estratégia para não abrir a guarda e deixar que jogadas do adversário se repitam. Como nas janelas do palácio, escolher se a perspectiva é melhor de dentro ou de fora, perto ou distante.</Content>
+    <Content>A melhor visão do tabuleiro é panorâmica e, usando o termo francês popularizado no audiovisual brasileiro, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>plongée</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, que significa </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘mergulho’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Aprofundar o olhar sobre o tabuleiro e entender os próximos movimentos das peças não significa apenas ajudar a limpar o tabuleiro devastado pelo adversário, que tantos estragos fez, mas significa também construir uma estratégia para não tomar um outro golpe-surpresa, e não permitir que as jogadas do adversário se repitam. Como nas janelas do palácio, trata-se de escolher se a perspectiva é melhor de dentro ou de fora, perto ou distante.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#bibliografia" Name="Destination" DestinationUniqueKey="1" />
     <Content>Bibliografia</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bartley, Bartley and O'Briain, Donnacha. The Revolution Will Not Be Televised (2003), Internet Movie Database, 'https://www.imdb.com/title/tt0363510/?ref_=ext_shr_lnk.</Content>
+    <Content>‘Brasil teve 23 ataques a escolas, mais da metade dos últimos 4 anos’</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>'Brasil teve 23 ataques a escolas, mais da metade dos últimos 4 anos', Agência Brasil, 22 May, 2023, https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/brasil-teve-23-ataques-escolas-mais-da-metade-nos-ultimos-4-anos.</Content>
+    <Content>, Agência Brasil, 22 May, 2023, https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/brasil-teve-23-ataques-escolas-mais-da-metade-nos-ultimos-4-anos.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1075,7 +1386,13 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Coelho, Gabriela and Sé, Galton. 'STF mantém decisão que declarou Sergio Moro parcial ao condenar Lula', CNN Brasil, 23 June 2021, https://www.cnnbrasil.com.br/politica/stf-mantem-decisao-que-declarou-sergio-moro-parcial-ao-condenar-lula/.</Content>
+    <Content>Coelho, Gabriela and Sé, Galton. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘STF mantém decisão que declarou Sergio Moro parcial ao condenar Lula’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, CNN Brasil, 23 June 2021, https://www.cnnbrasil.com.br/politica/stf-mantem-decisao-que-declarou-sergio-moro-parcial-ao-condenar-lula/.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>&#x2028;</Content>
@@ -1084,13 +1401,22 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>'Influencer, caminhoneiro, faxineira, seis meses depois, 211 pessoas continuam presas por atos golpistas', O Globo, 7 August, 2023, https://oglobo.globo.com/politica/noticia/2023/07/08/influencer-caminhoneiro-faxineira-seis-meses-depois-211-pessoas-continuam-presas-por-atos-golpistas.ghtml.</Content>
+    <Content>‘Influencer, caminhoneiro, faxineira, seis meses depois, 211 pessoas continuam presas por atos golpistas’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, O Globo, 7 August, 2023, https://oglobo.globo.com/politica/noticia/2023/07/08/influencer-caminhoneiro-faxineira-seis-meses-depois-211-pessoas-continuam-presas-por-atos-golpistas.ghtml.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Folha de São Paulo, 'Edição digital', 19 January 2023, https://www1.folha.uol.com.br/fsp/fac-simile/2023/01/19/.</Content>
+    <Content>Folha de São Paulo, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Edição digital’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 19 January 2023, https://www1.folha.uol.com.br/fsp/fac-simile/2023/01/19/.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1102,13 +1428,25 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Martins, Leda. 'Performances do tempo espiralar', In: RAVETTI, Gradeia; ARBEX, Márcia (org.). Performance, exílio, fronteiras: errândas territoriais e textuais. Departamento de Letras Românicas, UFMG. Belo Horizonte: Poslit, 2002.</Content>
+    <Content>Martins, Leda. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Performances do tempo espiralar’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, In: RAVETTI, Gradeia; ARBEX, Márcia (org.). Performance, exílio, fronteiras: errândas territoriais e textuais. Departamento de Letras Românicas, UFMG. Belo Horizonte: Poslit, 2002.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Mirzoeff, Nicholas. 'O direito a olhar'. Educação Temática Digital, 18.4 (Novembro 2018): 745-768.</Content>
+    <Content>Mirzoeff, Nicholas. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘O direito a olhar’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Educação Temática Digital, 18.4 (Novembro 2018): 745-768.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1123,13 +1461,25 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>O Globo, 'Acervo digital', https://oglobo.globo.com/acervo/.</Content>
+    <Content>O Globo, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Acervo digital’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, https://oglobo.globo.com/acervo/.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Persichetti, Simonetta. 'Não, não é fotojornalismo', Arte!Brasileiros, 20 January 2023,</Content>
+    <Content>Persichetti, Simonetta. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Não, não é fotojornalismo’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Arte!Brasileiros, 20 January 2023,</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1141,7 +1491,10 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>'Seis meses após ataques, STF somas mais de 1,2 mil réus por atos golpistas', G1, 8 July 2023, https://g1.globo.com/politica/noticia/2023/07/08/seis-meses-apos-ataques-stf-soma-mais-de-12-mil-reus-por-atos-golpistas.ghtml.</Content>
+    <Content>‘Seis meses após ataques, STF somas mais de 1,2 mil réus por atos golpistas’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, G1, 8 July 2023, https://g1.globo.com/politica/noticia/2023/07/08/seis-meses-apos-ataques-stf-soma-mais-de-12-mil-reus-por-atos-golpistas.ghtml.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>&#x2028;</Content>
@@ -1150,28 +1503,66 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Scott Heron, Gil. 'The Revolution Will not be Televized (1971), Spotify, https://open.spotify.com/intl-pt/track/7EdXviPSV2ljO2qjcPtP1a?autoplay=true#_=_.</Content>
+    <Content>Scott Heron, Gil. ’The Revolution Will not be Televized (1971), Spotify, https://open.spotify.com/intl-pt/track/7EdXviPSV2ljO2qjcPtP1a?autoplay=true#_=_.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Spotify, 'O tempo não para', Cazuza, https://open.spotify.com/intl-pt/track/10C3nAydzBvNfaY86NwUuA?si=85e3a8d84dfb43aa.</Content>
+    <Content>Spotify, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘O tempo não para’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cazuza, https://open.spotify.com/intl-pt/track/10C3nAydzBvNfaY86NwUuA?si=85e3a8d84dfb43aa.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The New York Times, 'Today's Paper', 1 January, 2023, https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.</Content>
+    <Content>The New York Times, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Today’s Paper’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 1 January, 2023, https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The New York Times, 'Today's Paper', 9 January, 2023, https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.</Content>
+    <Content>The New York Times, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Today’s Paper’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 9 January, 2023, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link Underline">
+      <Content>https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Revolution Will Not Be Televised (dir. Bartley, Bartley and O’Briain, Donnacha, 2003), Internet Movie Database, ’https://www.imdb.com/title/tt0363510/?ref_=ext_shr_lnk.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times" Name="link" DestinationURL="https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times" Source="htss-1" Visible="false" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>
