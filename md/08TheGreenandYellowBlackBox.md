@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# The Green-and-Yellow Black Box: Mobilization on Platforms for the Attempted Coup on January 8, 2023 
+# The Green-and-Yellow Black Box: Mobilization on Platforms toward the Attempted Coup on January 8, 2023 
 
 ### Aline Roes Dalmolin and Maria Eduarda Mathias
 
@@ -28,20 +28,20 @@ Rights: CC BY-NC 4.0
 This chapter aims to analyze how the mobilization for the
 anti-democratic act of January 8, 2023 took place through extreme-right
 Bolsonarist groups on social media platforms. The purpose is to
-illustrate how the groups were organized and their gradual
+illustrate how these groups were organized and their gradual
 radicalization. To understand the radicalization of Brazilian
 extreme-right groups on social media, which led some of their members to
 pose a threat to Brazilian democracy, it is necessary to link the
 invasion of the Planalto in Brasilia with a history of escalating
 hatred, disinformation, and lack of accountability during Jair
-Bolsonaro's government (2019-2022) -- and even before that.
+Bolsonaro's government (2019-2022) — and even before that.
 
 Radicalization has been a recurring theme for Bolsonaro and his
 followers long before his election as President of Brazil in 2018.
 During the presidential elections of 2018, Bolsonaro's speeches
 consistently incorporated elements of military authoritarianism and
 nationalism using phrases such as \'let\'s eliminate the
-petralhada\'[^f08_3] and \'our flag will never be red\'[^f08_4], which garnered
+petralhada\'[^f08_3] and \'our flag will never be red\',[^f08_4] which garnered
 significant resonance and was widely adopted among his followers.
 Throughout his government, there were constant attacks on various
 sectors of society and state institutions, such as the Supreme Federal
@@ -51,10 +51,10 @@ example, the Bolsonaro government\'s handling of the COVID-19 pandemic
 was marked by widely disseminated disinformation, often by the former
 president himself, his family members, and members of his government. In
 addition, delays in vaccine procurement, advocacy for unproven
-medications, and the absence of large-scale vaccination campaigns and
+medications, the absence of large-scale vaccination campaigns, and
 few public education efforts by the national government.
 
-During Bolsonaro's four-year mandate, disinformation networks were
+During Bolsonaro's four-year term, disinformation networks were
 strengthened and intensified during the 2022 electoral campaign that led
 to the terrorist acts on January 8, 2023. While polls indicated Luiz
 Inácio Lula da Silva as the favorite candidate in the race,
@@ -66,7 +66,7 @@ Brazilian electoral system without presenting evidence for his
 allegations. This meeting played a pivotal role as the Superior
 Electoral Court of the country would later condemn Bolsonaro for abuse
 of political power and the misuse of the media for electoral purposes
-while still in office. As a result, he has lost his political powers and
+while still in office. As a result, he has lost his political rights and
 was declared ineligible until 2030, preventing him from running for the
 next presidential election in 2026.[^f08_5]
 
@@ -77,7 +77,7 @@ elections, characterized by the emergence of the COVID-19 pandemic and
 the rise of the Black Lives Matter movement, Trump fueled public debate
 byquestioning the integrity of the American electoral system, amplified
 through disinformation campaigns and conspiracy theories across various
-social media platforms. On January 6, 2021, Trump supporters stormed the
+social media platforms. On January 6 2021, Trump supporters stormed the
 United States Capitol in Washington D.C. alleging election fraud, an
 episode marked by vandalism, aggression, and homicide.[^f08_6] The attack
 was an attempted coup which was promoted and organized online, with acts
@@ -88,12 +88,12 @@ but an organized act of terrorism. It was orchestrated over the past few
 years through speeches, videos, and organized mobilizations disseminated
 within Bolsonaro-supporting groups that culminated on the events of
 January 8, 2023, with over one thousand individuals detained in
-Brasília. Masked by patriotism, the purpose of these groups has
+Brasilia. Masked by patriotism, the purpose of these groups has
 authoritarian tendencies and aims to destabilize democracy,
 demonstrating, above all, how social media and messaging app platforms
 have become a disinformation machine for the far-right in Brazil.
 
-## Platformization and Far- Right Media Ecology 
+## Platformization and Far-Right Media Ecology 
 
 The interdisciplinary nature of the platformization of society makes it
 difficult to conceptualize concretely, mainly because it refers to an
@@ -114,7 +114,7 @@ systematic data collection, algorithmic processing, and data
 monetization.[^f08_9] The collective network of platforms constitutes a
 *platform ecosystem* defined by various mechanisms. Therefore, to
 understand platformization entails more than addressing techniques and
-tools -- it involves recognizing a process that encompasses the
+tools — it involves recognizing a process that encompasses the
 production, recognition, and circulation of meanings within an
 ecosystem. Despite the undeniable benefits of the digital age, the
 limitations stemming from users\' lack of understanding of the entirety
@@ -138,7 +138,7 @@ digital platforms operating through unprecedented asymmetries concerning
 the interplay of knowledge and power, by extracting monetary value from
 user-generated information production.[^f08_13]
 
-To fade, dissolve, blind, or unravel -- any synonym we use does not
+To fade, dissolve, blind, or unravel — any synonym we use does not
 convey the full extent of the obscurity in a platform's operational
 logics. Even though much attention is given to algorithmic performance
 and its influence on users, little is questioned about the consequences
@@ -154,7 +154,7 @@ we have chosen to unfold here. Politics, according to Castells, is
 driven by emotion, passion, and hope.[^f08_15] But the Brazilian political
 landscape in recent years has pushed these aspects to a limit that
 challenges the fundamental principles of democracy, surpassing the
-classical conception of politics as \'the competition or dialogue
+classical conception of politics as the competition or dialogue
 between groups or proposals. Instead, politics enters a realm of
 narrative conflicts whose purpose is to overshadow one another at any
 cost. The way in which the coordinated action across different platforms
@@ -259,7 +259,7 @@ disinformation by authorities, users adopted alternatives formats and
 codes for circulating messages to call members to the January 8 event.
 These messages were conveyed through photographs of handwritten notes on
 sheets of paper to dodge text-based tracking algorithms. The wide
-circulation of Intensive invitations to join bus caravans to Brasília
+circulation of Intensive invitations to join bus caravans to Brasilia
 from various states of Brazil, was especially intensive in the three
 days leading up to the atempted coup.
 
@@ -284,7 +284,7 @@ themselves.
 > they were going to do something. But now, I don\'t believe in Bolsonaro,
 > not even if he himself calls me back to the streets.
 > 
-> -- User 1, January 1, 2023 [^f08_31]
+> — User 1, January 1, 2023 [^f08_31]
 
 User 1's message refers to the mobilizations in front of Army barracks
 held by Bolsonarist groups for two months between the election results
@@ -305,7 +305,7 @@ dismissal notices published in the *Diário Oficial da União* (Federal
 Official Gazette), as mentioned by User 2 in his comment (Figure 1):
 
 ![Figure 1: User 2 sustains that General Heleno has assumed the
-provisory Brazilian government.[^f08_32] Source: Telegram, 2 January,
+provisional Brazilian government.[^f08_32] Source: Telegram, 2 January
 2023.](imgs/08_1.png)
 
 <br/>
@@ -315,7 +315,7 @@ provisory Brazilian government.[^f08_32] Source: Telegram, 2 January,
 > the armed forces, they will run Brazil within the boundaries. Let\'s
 > stay strong in front of the barracks.
 > 
-> -- User 3, January 2, 2023.[^f08_33]
+> — User 3, 2 January  2023.[^f08_33]
 
 Continuing the thread of this same conversation, one user went as far
 as to clarify the nature of the Federal Official Gazette publication,
@@ -331,15 +331,15 @@ signed during the final days of the Bolsonaro administration.
 > MARCO EDSON GONÇALVES DIAS, one of the decrees signed by the
 > \'LULA-THIEF\' yesterday. I\'ll leave here the list of appointees.
 > 
-> -- User 4, January 2, 2023.[^f08_35]
+> — User 4, 2 January  2023.[^f08_35]
 
 > The PT issues decrees without publishing them in the Federal Official
 > Gazette, which has no validity. They desperately want power, even the
 > inauguration was fake.
 > 
-> -- User 3, January 2, 2023.[^f08_36]
+> — User 3, 2 January  2023.[^f08_36]
 
-Starting on January 3, the narratives confirming the installed
+Starting on 3 January , the narratives confirming the installed
 military intervention are replaced by questioning the possibility of
 it materializing through the mobilization of radical Bolsonarists. The
 increasing presence of these narratives is observed within the group
@@ -348,33 +348,33 @@ strength in the media ecosystem of the radical right.
 
 > I notice this in the 14 Telegram groups I participate in as a
 > conservative patriot and contributor to the dissemination of videos,
-> audios, and written comments. Starting in the early hours of January 2,
+> audios, and written comments. Starting in the early hours of 2 January 
 > 2023, there is a significant increase in the average number of opinions.
 > Most of them post banners saying \'GENERAL STRIKE ON THE 9TH\' IN
 > BRAZIL, and others invite to urgently form a large gathering of
-> Brazilians in Brasília. They clarify that they do not desire a left-wing
+> Brazilians in Brasilia. They clarify that they do not desire a left-wing
 > government, which they see as a THREAT to Freedom and democracy.
 > 
-> -- User 2, January 3, 2023.[^f08_37]
+> — User 2, 3 January , 2023.[^f08_37]
 
-Between January 4 and 6, messages of convocation for the activities
+Between 4 January  and 6, messages of convocation for the activities
 circulated intensively, including detailed information about caravans
-with links to city-specific groups organizing caravans to Brasília. In
+with links to city-specific groups organizing caravans to Brasilia. In
 many messages, the use of the word \'selva\' signifies the coup
 mobilization taking shape, and the term \'patriota\' ('patriot')
 identifies the supporters of the cause, following an already established
 naming convention in Bolsonarist groups.
 
-> Patriots of God\... For those who cannot go to Brasília, fill the QGs
-> (military headquarters). But Brasília has to be huge. Many, many are
+> Patriots of God\... For those who cannot go to Brasilia, fill the QGs
+> (military headquarters). But Brasilia has to be huge. Many, many are
 > already heading there. Believe, Bolsonaro had already posted the map on
-> his Instagram a month ago, indicating Brasília as the center of the
+> his Instagram a month ago, indicating Brasilia as the center of the
 > protest. Jungle, jungle. SOS Armed Forces. We don\'t want Lula in power.
-> A general cleanup of institutions. Brasília must be surrounded, with
+> A general cleanup of institutions. Brasilia must be surrounded, with
 > coordinated and orderly crowds. No one enters or leaves (Congress and
 > Supreme Court). Go, Brazil! Our flag will never be red.
 > 
-> -- User 5, January 4, 2023.[^f08_38]
+> — User 5, 4 January , 2023.[^f08_38]
 
 > Calling all patriots! Folks, let\'s share this group and clarify its
 > true purpose. It\'s a call to patriots who want a new September 7^th^,
@@ -384,45 +384,45 @@ naming convention in Bolsonarist groups.
 > because God is the one who governs Brazil and our lives. Communism has
 > no place\... Order and progress now.
 > 
-> -- User 6, January 4, 2023.[^f08_39]
+> — User 6, 4 January , 2023.[^f08_39]
 
-> For those who need a bus to Brasília, just contact us on WhatsApp at
+> For those who need a bus to Brasilia, just contact us on WhatsApp at
 > \[hidden number\]. Ramiro Caminhoneiro is providing 3,000 buses.
 > Everyone, join Ramiro dos Camioneiros\' \[sic\] live on Instagram now.
-> There are 3,000 buses to take people to Brasília for free. Share
+> There are 3,000 buses to take people to Brasilia for free. Share
 > URGENTLY!!! It\'s a critical call, or it will be the slavery and misery
 > of all.
 > 
-> -- User 2, January 5, 2023[^f08_40]
+> — User 2, January 5 2023[^f08_40]
 
 > Good evening, everyone. We are recruiting individuals who have
-> availability to travel to Brasília by bus, departing on Sunday and
+> availability to travel to Brasilia by bus, departing on Sunday and
 > returning on Thursday. Everything is paid for, and you will be camping
 > in the Planalto area. Please help us spread the word and find more
 > people. We currently have 5 buses, and if we have more participants, we
 > can secure additional buses. Interested individuals can contact Carla at
 > \[hidden number\].
 > 
-> -- User 7, January 6, 2023.[^f08_41]
+> — User 7, January 6 2023.[^f08_41]
 
 It is worth noting that the organizer mentioned by User 7, Ramiro
 Caminhoneiro, is one of the protest leaders arrested on January 20,
 2023, by the Federal Police in a specific operation to apprehend
 financiers, participants, and instigators of the coup events.[^f08_42]
 
-![Figure 2: Post explaining where the locations for the attempted coup
+![Figure 2: Post showing where the locations for the attempted coup
 events would be held. The post reads: 'The party at Selma\'s house has
 begun, everyone is invited, let\'s enjoy it'. In the image, you can see
 the text 'Location of Selma\'s party' and 'cake table', circled in
-purple. Source: Telegram, 6 January, 2023.](imgs/08_2.jpg)
+purple. Source: Telegram, 6 January 2023.](imgs/08_2.jpg)
 
 <br/>
 
 
 Another important aspect is the informative messages about the event in
-Brasília, which circulated primarily between January 6 and 7, explaining
+Brasilia, which circulated primarily between January 6 and 7, explaining
 to group participants where they should position themselves on the
-Esplanade of Ministries -- the central plaza with government buildings
+Esplanade of Ministries — the central plaza with government buildings
 where the riots took place. In the image above, the term \'Mesa do
 Bolo\' ('cake table', referring to the table where cake is served at
 birthday parties) refers to the building of the National Congress,
@@ -442,7 +442,7 @@ Telegram group (Figure 3).
 messages for the coup events. In the posted photo, it says in
 Portuguese: 'Attention!!! The algorithm doesn\'t recognize handwritten
 messages. Take photos and post them! Share the information'.. Source:
-Telegram, 6 January, 2023.](imgs/08_3.png)
+Telegram, 6 January 2023.](imgs/08_3.png)
 
 <br/>
 
@@ -450,7 +450,7 @@ Telegram, 6 January, 2023.](imgs/08_3.png)
 Finally, the posts that circulated in the group between January 7 and 8
 continue to coordinate the previously mentioned aspects, emphasizing
 information about the concentration of protesters and their arrival in
-Brasília, as well as images of the events themselves. January 8 was the
+Brasilia, as well as images of the events themselves. January 8 was the
 peak in the circulation of videos and images in the group, highlighting
 the festive and celebratory tone which was followed by disillusionment
 in the face of the failed attempted coup movement. We also recognized
@@ -475,9 +475,9 @@ who participated in the attack have been issued prison warrants, with
 2,151 of them arrested on the spot during acts of vandalism.[^f08_46] The
 Supreme Federal Court (STF) has been dedicated to the trial of the
 financiers of the attacks, having sentenced six of them with 12 to 17
-years prison terms..[^f08_47] The alleged omission of the Institutional
+years prison terms.[^f08_47] The alleged omission of the Institutional
 Security Office (GSI) (the Brazilian government's intelligence unit, an
-agency directly subordinate to the President's Office) , is also under
+agency directly subordinate to the President's Office), is also under
 investigation, with new names being added to the ongoing investigations.
 Among those recently indicted is the name of the former president, Jair
 Messias Bolsonaro.
@@ -531,7 +531,7 @@ beyond monetization? Are we experiencing increased access to freedom, or
 is our security diminishing? These are open questions that raise future
 developments.
 
-## References
+## Bibliography
 
 Alcântara, Manoela, \'Cem dias após os atos de 8/1, Brasil tem 294
 presos, prejuízo milionário e um golpe a apurar\'Portal Metrópoles, 17
@@ -548,10 +548,10 @@ desde o 8 de janeiro\', *Exame,* 11 January 2023,
 https://exame.com/brasil/atos-terroristas-os-11-pontos-para-entender-tudo-desde-o-8-de-janeiro/.
 
 Afonso, Nathália e Soares, Gabriela, \'Vândalos falavam de \'Festa da
-Selma\' para convocar ataques em Brasília\', *UOL*, 8 January 2023,
+Selma\' para convocar ataques em Brasilia\', *UOL*, 8 January 2023,
 https://lupa.uol.com.br/jornalismo/2023/01/08/vandalos-festa-selma.
 
-Calheiros, Orlando, \'Terrorismo em Brasília é resultado de ação
+Calheiros, Orlando, \'Terrorismo em Brasilia é resultado de ação
 orquestrada há anos\', *The Intercept Brasil*, 10 January 2023,
 https://theintercept.com/2023/01/10/terrorismo-em-brasilia-e-resultado-de-acao-orquestrada-em-grupos-pro-ditadura/.
 
@@ -563,7 +563,7 @@ Cruz, Edgar Gómez e Harindranathand, Ramaswami. \'WhatsApp As
 (2020): 1-13. https://doi.org/10.5210/fm.v25i12.10405.
 
 Fonseca, Bruno e Scofield, Laura. \'Bolsonaristas usam código \'Festa da
-Selma\' para coordenar invasão em Brasília\', *Agência Pública*, 8
+Selma\' para coordenar invasão em Brasilia\', *Agência Pública*, 8
 January 2023,
 https://apublica.org/sentinela/2023/01/bolsonaristas-usam-codigo-festa-da-selma-para-coordenar-invasao-em-brasilia/.
 
@@ -621,7 +621,7 @@ ataque à democracia dos EUA\', *CNN*, 6 January 2022,
 https://www.cnnbrasil.com.br/internacional/invasao-ao-capitolio-completa-um-ano-relembre-o-ataque-a-democracia-dos-eua/.
 
 Uol, \'Deu polêmica: vamos fuzilar a petralhada, diz Bolsonaro\',
-Youtube 4 September 2018, https://youtu.be/TAtz7E-XuCw.
+Youtube, 4 September 2018, https://youtu.be/TAtz7E-XuCw.
 
 Van Dijck, José; Poell, Thomas; De Wall, Martijn, *The Platform Society:
 public values in a connective world,* Oxford: Oxford University Press,
@@ -648,7 +648,7 @@ Affairs, 2019.
 [^f08_3]: \'Petralhada\' is a derogatory term used to refer to the followers
     of the Partido dos Trabalhadores (PT), the party of President Lula.
     Uol, \'Deu polêmica: vamos fuzilar a petralhada, diz Bolsonaro\',
-    Youtube 4 September 2018, https://youtu.be/TAtz7E-XuCw.
+    Youtube, 4 September 2018, https://youtu.be/TAtz7E-XuCw.
 
 [^f08_4]: This sentence represents Bolsonaro\'s rejection of the red color,
     which is present in the flag of the Partido dos Trabalhadores
@@ -718,7 +718,7 @@ Affairs, 2019.
     Retórica do ódio e dissonância cognitiva coletiva.* Belo Horizonte:
     Autêntica, 2023.
 
-[^f08_20]: Orlando Calheiros, \'Terrorismo em Brasília é resultado de ação
+[^f08_20]: Orlando Calheiros, \'Terrorismo em Brasilia é resultado de ação
     orquestrada há anos\', *The Intercept Brasil*, 10 January 2023,
     https://theintercept.com/2023/01/10/terrorismo-em-brasilia-e-resultado-de-acao-orquestrada-em-grupos-pro-ditadura/.
 
@@ -746,7 +746,7 @@ Affairs, 2019.
     WhatsApp, created as an alternative to SMS, identifies itself as an
     instant messaging application.
 
-[^f08_26]: Sucessos dos Anos 1980, Telegram, 14 May, 2023,
+[^f08_26]: Sucessos dos Anos 1980, Telegram, 14 May 2023,
     https://t.me/andurinha.80.
 
 [^f08_27]: The change of group names and profile pictures is a constant
@@ -767,7 +767,7 @@ Affairs, 2019.
 [^f08_31]: Originally, in Portuguese: \'Eu lutei todo esse tempo no quartel,
     pois acreditei que iam fazer algo. Mas agora não acredito no
     Bolsonaro, nem se ele me chamar novamente para as ruas\'. User 1, 1
-    January, 2023.
+    January 2023.
 
 [^f08_32]: English translation of the figure 1 text: \'EXTRA! EXTRA! LISTEN
     UP! Informative and enlightening audio about the INTERVENING
@@ -781,7 +781,7 @@ Affairs, 2019.
 [^f08_33]: Originally, in Portuguese: \'Bah mas q barbaridade. Gente general
     heleno é interventor ele junto com as forças armadas irão
     administrar o Brasil dentro das 4 linhas. Vamos nos manter firmes na
-    frente dos quartéis.\' User 3, 2 January, 2023.
+    frente dos quartéis.\' User 3, 2 January 2023.
 
 [^f08_34]: Bolsonarist depreciative way of referring to Lula, alluding to
     the fact that he has just nine fingers.
@@ -792,13 +792,13 @@ Affairs, 2019.
     hj. Vamos parar de se iludir. O novo ministro do GSI foi nomeado
     ontem pelo nine e é o MARCO EDSON GONÇALVES DIAS um dos decretos
     assinados ontem pelo LULADRÃO. Vou deixar a lista de nomeados\'.
-    User 4, 2 January, 2023.
+    User 4, 2 January 2023.
 
 [^f08_36]: Originally, in Portuguese: \'O PT faz decretos sem publicar no
     dou, isso não tem validade, eles querem por q querem o poder, até a
     posse foi fek.\[Sic.\]\' \'Fek\' is the misspelled form writed by
     the user, which refers to the English word \'fake\'. User 3, 2
-    January, 2023.
+    January 2023.
 
 [^f08_37]: Originally, in Portuguese: \'Percebo que nos 14 grupos que
     participo no Telegram, como patriota conservador e colaborador para
@@ -806,19 +806,19 @@ Affairs, 2019.
     inicio da madrugada do dia 02Jan,2023 cresce significativamente o a
     média de opiniões ,na maioria publicam banner \' GREVE GERAL DIA
     09\' NO BRASIL E OUTROS CONVIDANDO PARA FORMAR URGENTEMENTE UMA
-    GRANDE CONCENTRAÇÃO DE BRASILEIROS em Brasília. Esclarecendo que não
+    GRANDE CONCENTRAÇÃO DE BRASILEIROS em Brasilia. Esclarecendo que não
     desejam um governo de esquerda,representa UMA AMEAÇA a Liberdade e à
-    democracia. \[sic\]\' User 2, 3 January, 2023.
+    democracia. \[sic\]\' User 2, 3 January 2023.
 
 [^f08_38]: Originally, in Portuguese: \'Patriotas de Deus\...Quem não puder
-    ir pra Brasília, lotem os Qgs. Mas Brasília tem que ser gigante.
+    ir pra Brasilia, lotem os Qgs. Mas Brasilia tem que ser gigante.
     Muitos, muitos já estão indo pra lá. Creiam, o Bolsonaro já havia
-    publicado o mapa em seu Instagram 1 mês atrás, apontando Brasília
+    publicado o mapa em seu Instagram 1 mês atrás, apontando Brasilia
     como o centro da manifestação. Selva, selva SOS FFAA não queremos
-    lula no poder. Limpeza geral nas instituições. Brasília tem que ser
+    lula no poder. Limpeza geral nas instituições. Brasilia tem que ser
     cercada, multidões coordenadas e ordeiras Ninguém entra e nem sai(
     congresso e STF) Avante Brasil Nossa bandeira jamais será
-    vermelha.\' User 5, 4 January, 2023.
+    vermelha.\' User 5, 4 January 2023.
 
 [^f08_39]: Originally, in Portuguese: \'Convocação de todos os patriotas
     Pessoal vamos partilhar esse grupo e especificar para o que ele
@@ -827,23 +827,23 @@ Affairs, 2019.
     sair na maior massa de pessoas que o Brasil nunca viu, a esquerda
     essa que se acha a maioria cairá por Terra humilhados porque Deus é
     quem Governa o Brasil e nossas Vidas. Comunismo não tem vez..Ordem e
-    progresso já\'.\[sic\] User 6, 4 January ^h^, 2023.
+    progresso já\'.\[sic\] User 6, 4 January 2023.
 
 [^f08_40]: Originally, in Portuguese: \'Quem precisar de ônibus para
-    Brasília, só chamar no WhatsApp (número ocultado) Ramiro
+    Brasilia, só chamar no WhatsApp (número ocultado) Ramiro
     Caminhoneiro está disponibilizando 3.000 Onibus Pessoal, entrem na
     live agora do Ramiro dos Camioneiros \[sic\], Instagram. São 3.000
-    ônibus para levar o povo para Brasília, de graça. Compartilha
+    ônibus para levar o povo para Brasilia, de graça. Compartilha
     URGENTE!!! É um chamado crucial ou será a escravidão e miséria de
-    todos\'. User 2, 5 January, 2023.
+    todos\'. User 2, 5 January 2023.
 
 [^f08_41]: Originally, in Portuguese: \'Boa noite pessoal Estamos recrutando
-    pessoas que tenham Disponibilidade para ir a Brasília de ônibus que
+    pessoas que tenham Disponibilidade para ir a Brasilia de ônibus que
     sairá no domingo e volta na quinta feira. Tudo pago La ficará
     acampado . No planalto Por favor me ajudem A divulgar e conseguir
     pessoas .. são 5 ônibus e se tiver mais pessoas conseguiremos mais
     ônibus Interessados procurar Carla - \[número ocultado\].\'User 7, 6
-    January, 2023.
+    January 2023.
 
 [^f08_42]: Davi Medeiros, \'Quem é Ramiro dos Caminhoneiros, preso pela
     Polícia Federal em operação contra suspeitos de ataques\', Estadão,
@@ -851,12 +851,12 @@ Affairs, 2019.
     https://www.estadao.com.br/politica/quem-e-ramiro-caminhoneiros-preso-policia-federal-operacao-revolucao-manes/
 
 [^f08_43]: Nathália Afonso e Gabriela Soares, \'Vândalos falavam de \'Festa
-    da Selma\' para convocar ataques em Brasília\', UOL, 8 January 2023,
+    da Selma\' para convocar ataques em Brasilia\', UOL, 8 January 2023,
     https://lupa.uol.com.br/jornalismo/2023/01/08/vandalos-festa-selma.
 
 [^f08_44]: Bruno Fonseca e Laura Scofield, \'Bolsonaristas usam código
-    \'Festa da Selma\' para coordenar invasão em Brasília\', Agência
-    Pública, 8 de January de 2023,
+    \'Festa da Selma\' para coordenar invasão em Brasilia\', Agência
+    Pública, 8 January 2023,
     https://apublica.org/sentinela/2023/01/bolsonaristas-usam-codigo-festa-da-selma-para-coordenar-invasao-em-brasilia/
 
 [^f08_45]: Agência O Globo, \'Atos terroristas: os 11 pontos para entender

@@ -120,7 +120,7 @@ military dictatorship in the mid-1980s to live among the ruins of a
 military past they glorify. On the other hand, they could also destroy
 this monument, which is still under construction, to rebuild the one
 they evoke. However, as I write this text, another scenario seems more
-appropriate: they tried to take advantage of their kairos, the opportune
+appropriate: they tried to take advantage of their *kairos*, the opportune
 moment.
 
 When I think about the rioters, I imagine them as subjects of an

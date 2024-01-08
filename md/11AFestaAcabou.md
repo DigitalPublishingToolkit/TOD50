@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Brasília, 8 de Janeiro de 2023: a Festa Acabou! A Guerra (Ainda) Não.
+# Brasília, 8 de Janeiro de 2023: a Festa Acabou! A Guerra (Ainda) Não
 
 ### Ada C. Machado da Silveira, Gabriela Schneider, Camila Hartmann
 
@@ -229,10 +229,10 @@ a Presidência. Neste caso, a cerimônia de assinatura de posse foi breve
 e não houve rito de passagem de faixa presidencial. Itamar Franco
 seguiria o rito simbólico de passagem de faixa presidencial na cerimônia
 de posse de Fernando Henrique Cardoso, que governou por dois mandatos
-seguidos (1995-2003) e, em janeiro de 2001, reconheceu a vitória do
+seguidos (1995-2002) e, em janeiro de 2003, reconheceu a vitória do
 adversário, Luiz Inácio Lula da Silva, cumprindo o gesto simbólico de
 passagem de poder. Da mesma forma, Lula governou por dois mandatos
-(2003-2011) e em janeiro de 2011 entregou a faixa presidencial para
+(2003-2010) e em janeiro de 2011 entregou a faixa presidencial para
 Dilma Rousseff, a primeira mulher eleita e reeleita presidente do Brasil
 (2011-2016). Dilma teve seu segundo mandato interrompido em agosto de
 2016 por meio de um *impeachment* de origem do Poder Legislativo. Em 22
@@ -343,7 +343,7 @@ denominada 'guerra híbrida'. E, por outro lado, seu uso no âmbito
 jornalístico acaba por sancioná-la socialmente como categoria analítica,
 o que é fortemente criticado pelos defensores dos direitos humanos.[^14]
 
-Isso se deve a que as distintas denominações que apelam ao termo
+Isso se deve ao fato de que as distintas denominações que apelam ao termo
 'guerra' buscam dar atenção ao panorama conflitivo que catalisa o centro
 social da realidade brasileira. De uma maneira geral, entendem seus
 críticos que o recurso à denominação 'guerra' corrobora a manutenção de
@@ -424,8 +424,8 @@ consequências ameaçadoras para a democracia. 
 
 Faz-se necessário remeter às mudanças ocorridas no uso social das
 imagens, mais que no seu uso pelo jornalismo profissional. A ampla
-disseminação de práticas de desinformação por bolhas de redes de mídia
-social, especialmente WhatsApp e Telegram, mas também por Instagram e
+disseminação de práticas de desinformação nas bolhas de redes de mídia
+social, especialmente WhatsApp e Telegram, mas também no Instagram e
 Facebook, incentivou a produção de *lives* que transmitiram e obtiveram
 ampla circulação em tempo real dos acontecimentos em curso na Praça dos
 Três Poderes. Com tais práticas foi possível constatar que a dialética
@@ -437,7 +437,7 @@ A produção e circulação de *hashtags* orientativas das mobilizações
 físicas e virtuais, propiciando a disseminação de tópicos em posts e
 lives por elas apoiados foram amplificados pelas redes de televisão
 corporativas. Conforme se observou nos EUA em 2021, as redes de
-televisão converteram-se em retransmissores cruciais que rodeavam
+televisão converteram-se em retransmissores cruciais que ressoavam
 *tweets* presidenciais de Donald Trump, o que também ocorreu no Brasil
 com Jair Bolsonaro. O uso de uma *hashtag* replicava em mensagens de
 influenciados de extrema-direita da Internet e de mídias sociais,
@@ -597,7 +597,7 @@ atividade do teatro de guerra encenado na Praça dos Três Poderes
 constituiu-se como expressão que buscou dar concretude e realeza a um
 imaginário bélico, evidenciando seu potencial disruptivo, de
 estranhamento absoluto com o Brasil ali configurado por seus três
-poderes republicanos. Uma instabilidade que somente a *manu militari* se
+poderes republicanos. Uma instabilidade que somente a *manu militari*
 poderia conter. Em 8 de janeiro de 2023 o país do carnaval ganhou
 notoriedade por seu simbolismo inverso, a polarização, resultando em
 imagens de um apocalipse político narrado por via midiatizada.
@@ -605,8 +605,8 @@ imagens de um apocalipse político narrado por via midiatizada.
 ## Bibliografia
 
 Adorno, Sergio, Almeida, Maria Herminia T., Ribeiro, Renato J., Nobre,
-Marcos S., Lima, Roberto K., Monteiro and Joana da Costa M. Violência e
-radicalização. In ACIESP. *Fapesp 60 Anos: a ciência no desenvolvimento
+Marcos S., Lima, Roberto K., Monteiro and Joana da Costa M. 'Violência e
+radicalização'. In ACIESP. *Fapesp 60 Anos: a ciência no desenvolvimento
 nacional*. São Paulo: ACIESP-Fapesp, 2022, pp.190-221.
 https://doi.org/10.4322/978-65-86819-27-4.1000007.
 
@@ -634,7 +634,7 @@ Silva* 2.2(2018): 17-32,
 http://www.ebrevistas.eb.mil.br/silva/article/view/11109.
 
 Cruz, Isabela. 'Entrevista de Julio C. Rodrigues: Confiança nas
-instituições gerou erro na percepção de risco', *Nexo Jornal*, 9 janeiro
+instituições gerou erro na percepção de risco', *Nexo Jornal*, 9 January
 2023, https://encurtador.com.br/wyCPT.
 
 Dayan, Daniel and Katz, Elihou. *Media Events. The live broadcasting of
@@ -666,8 +666,8 @@ Liang, Qiao and Xiangsui, Wang. *A guerra além dos limites: conjecturas
 sobre a guerra e a tática na era da globalização,* Beijing: Pla
 Literature and Arts Publishing House, 1999.
 
-liu, michelle c. et al. 'Riot Platforms: Protest, Police, Planet',
-*Antipode* 54.6 (2022): 1901--1922, https://doi.org/10.1111/anti.12861.
+Liu, Michelle C. et al. 'Riot Platforms: Protest, Police, Planet',
+*Antipode* 54.6 (2022): 1901-1922, https://doi.org/10.1111/anti.12861.
 
 Neto, Lira. *Getúlio: dos anos de formação à conquista do poder
 (1982-1930)*, São Paulo: Companhia das Letras, 2012.
@@ -681,9 +681,7 @@ crimen organizado*. Lima/Madrid: Ejército del Perú/Real Instituto
 Elcano, 2019, pp. 207-226.
 
 Ramos, Silvia (Coord.). *A dor e a luta: números do feminicídio,* Rio de
-Janeiro:
-
-Rede de Observatórios da Segurança - CESeC, 2021.
+Janeiro: Rede de Observatórios da Segurança - CESeC, 2021.
 
 Rocha, Glauber. *La revolución es una Eztetyka*. Caja Negra: Buenos
 Aires, 2011.
@@ -713,7 +711,7 @@ https://flacso.org.br/files/2016/08/Mapa2016_armas_web-1.pdf.
 Flacso/Brasil.
 
 
-[^4]: michelle c. liu et al., 'Riot Platforms: Protest, Police, Planet',
+[^4]: Michelle C. Liu et al., 'Riot Platforms: Protest, Police, Planet',
     *Antipode* 54.6 (2022): 1901--1922.
     https://doi.org/10.1111/anti.12861.
 
@@ -723,10 +721,10 @@ Flacso/Brasil.
 
 [^6]: Boris Fausto, *História do Brasil,* São Paulo: USP, 2009.
 
-    José M. de Carvalho, *Cidadania no Brasil: o longo caminho*, Rio de
+    José M. de Carvalho. *Cidadania no Brasil: o longo caminho*, Rio de
     Janeiro: Civilização Brasileira, 2008.
 
-    José M. de Carvalho. 'Fundamentos da política e da sociedade
+    José M. de Carvalho, 'Fundamentos da política e da sociedade
     brasileiras', in Lúcia Avelar and Antônio O. Cintra, *Sistema
     político brasileiro: uma introdução*, São Paulo: Unesp, 2007,
     pp.19-34.
@@ -742,7 +740,7 @@ Flacso/Brasil.
     cargos e funções comissionados do executivo federal*, Brasília:
     Instituto de Pesquisa Econômica Aplicada, 2022.
 
-[^10]: Ada C. M. Silveira. \'A cavalaria como imagem de mundo: *manu
+[^10]: Ada C. M. Silveira, \'A cavalaria como imagem de mundo: *manu
     militari* e ambivalências ético-políticas\'. *Galáxia* 47 (2022):
     1-24, https://doi.org/10.1590/1982-2553202256876.
 
@@ -760,7 +758,7 @@ Flacso/Brasil.
     Rússia', *Esc. Guerra Nav.* 26.1 (2020): 39--64,
     10.21544/1809-3191.v26n1.p39-64.
 
-[^14]: Frederico de Almeida. \'"Vândalos", "Trabalhadores" e "Cidadãos":
+[^14]: Frederico de Almeida, \'"Vândalos", "Trabalhadores" e "Cidadãos":
     sujeição criminal e legitimidade política na criminalização dos
     protestos de junho de 2013\', *Dados rev. ciênc. sociais* 63.4
     (2020). https://doi.org/10.1590/dados.2020.63.4.218
@@ -780,13 +778,13 @@ Flacso/Brasil.
 [^18]: Silvia Ramos (Coord.). *A dor e a luta: números do feminicídio,*
     Rio de Janeiro: Rede de Observatórios da Segurança - CESeC, 2021.
 
-[^19]: Anaís Medeiros Passos. \'¿Guerra al crimen organizado? Favelas e
+[^19]: Anaís Medeiros Passos, \'¿Guerra al crimen organizado? Favelas e
     intervención militar en Brasil, in Carolina Sampó and Sonia Alda,
     *La transformación de las Fuerzas Armadas en América Latina ante el
     crimen organizado*. Lima/Madrid: Ejército del Perú/Real Instituto
     Elcano, 2019, pp. 207--226.
 
-[^20]: Sergio Adorno et al. \'Violência e radicalização\', in ACIESP.
+[^20]: Sergio Adorno et al., \'Violência e radicalização\', in ACIESP.
     *Fapesp 60 Anos: a ciência no desenvolvimento nacional*. São Paulo:
     ACIESP-Fapesp, 2022, pp.190-221.
     https://doi.org/10.4322/978-65-86819-27-4.1000007.

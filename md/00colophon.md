@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 #The Planalto Riots
-## Making and Unmaking a Failed Coup in Brazil
+## Making and Unmaking A Failed Coup in Brazil
 
 <div style="page-break-after: always"></div>
 
@@ -25,29 +25,29 @@ Rights: CC BY-NC 4.0
 # Colophon 
 
 **INC Theory on Demand #51** <br/>
-The Planalto Riots. Making and Unmaking a Failed Coup in Brazil's
+The Planalto Riots Making and Unmaking of A Failed Coup in Brazil
 
-**Edited by:** Lou Caffagni, Isabel Löfgren, Paola Sartoretto, and
-Gizele Martins
+**Edited by:** Lou Caffagni, Isabel Löfgren,
+Gizele Martins and Paola Sartoretto
 
 **Contributors:** Viviane Borelli, Lou Caffagni, Apoena Canuto Cosenza,
 Bartira S. Fortes, Camila Hartmann, Clementino Junior, Tatiana Letier
 Pinto, Isabel Löfgren, Ada C. Machado Silveira, Alecsandra Matias de
 Oliveira, Maria Eduarda Mathias, Gizele Martins, Ana Paula da Rosa,
 Aline Roes Dalmolin, Eduardo Ruedell, Gabriela Schneider, and Oscar
-Svanelid.
+Svanelid
 
 **Artistic contributions by:** Tatiana Letier Pinto, Isabel Löfgren,
-Laercio Redondo, and Gustavo Speridião & Leandro Barboza/Faixa Protesta.
+Laercio Redondo, and Gustavo Speridião & Leandro Barboza/Faixa Protesta
 
 **Cover design:** Katja van Stiphout <br/>
-**Design and EPUB development:** Giulia Timis and Erica Gargaglione
+
+**Design and EPUB development:** Tommaso Campagna, Erica Gargaglione, Carolina Valente Pinto and Giulia Timis 
 
 <br/>
-
 Published by the Institute of Network Cultures, Amsterdam 2024.
 
-ISBN: xxxx
+ISBN: 9789083328270
 
 **Contact:** Institute of Network Cultures <br/>
 Amsterdam University of Applied Sciences (HvA)

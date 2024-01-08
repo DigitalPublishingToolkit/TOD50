@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 
 > ​​*Laughter is a philosophy. Often, laughter is salvation. And in constitutional politics, at least, laughter is an opinion.* 
 > 
-> -- Eça de Queiroz, As Farpas[^f06_3]
+> — Eça de Queiroz, As Farpas[^f06_3]
 
 ## Prelude to a meme
 
@@ -36,9 +36,8 @@ silence, and left the public scene for two days. In the meantime,
 moments after the election results were announced, Bolsonaro's
 disgruntled supporters mobilized for anti-democratic and coup-related
 actions across the country resulting in the almost immediate blockage of
-highways by truck drivers and occupations in front of army barracks by
-fanatic militants. In addition, rumors about a military intervention to
-step in within 72 hours to keep Bolsonaro in power and annul election
+highways by truck drivers, and occupations in front of army barracks by
+fanatic militants. In addition, rumors that a military intervention would occur within 72 hours to keep Bolsonaro in power and annul election
 results spread very quickly.[^f06_4] This type of networked social and
 political mobilization aided by a symbolic apparatus financed by
 businessmen, politicians, and other social groups,[^f06_5] would culminate
@@ -49,7 +48,7 @@ silence. In a much-awaited press conference, he assuaged his supporters'
 dissatisfaction with his defeat by alluding to electoral misconduct by
 authorities, vaguely encouraging peaceful demonstrations, and deflecting
 any potential accusations of violence incitement by attacking the left.
-In a speech, he declared that
+In a speech, he declared that:
 
 > (\...) The current popular \[Bolsonarist\] movements are the result of
 > indignation and a sense of injustice regarding how the electoral process
@@ -98,6 +97,9 @@ Bolsonarist groups in the aftermath of the election.[^f06_11]
 
 ## The Road Blockades and the Emergence of the \'Truck Patriot\' meme
 
+<br/>
+
+
 ![Figure 1: Truckers' blockade on Presidente Dutra highway outside the
 city of São Paulo,Brazil. Credit: Lucas Lacaz Ruiz/Estadão Conteúdo](imgs/06_1.png)
 
@@ -145,7 +147,7 @@ This phenomenon helped wrest media dominance from the Bolsonarists in
 the unstable period that followed but also widened the abyss between
 Lula's and Bolsonaro's supporters in the coming months.
 
-## A Ready-made Meme
+## A Readymade Meme
 
 The story of how the meme started is as one-of-a-kind as the buzz it
 created, making it one of the top and most widely discussed memes in the
@@ -169,7 +171,7 @@ truck, filmed by the driver. Source: *UOL*, Youtube.[^f06_19]](imgs/06_2.png)
 
 ![Figure 3: 'Bolsonarist stuck to the windshield of a truck that broke
 through coup-related road blockade'. Video still. Source: *DCM TV*,
-Youtube 3 November, 2022.[^f06_20]](imgs/06_3.png)
+Youtube, 3 November 2022.[^f06_20]](imgs/06_3.png)
 
 <br/>
 
@@ -264,7 +266,7 @@ mashups and remixes (sampling and re-editing techniques using found
 materials) that became highly exploitable through continuous emulations,
 ultimately becoming a *catchphrase*, a popularly recognized expression
 through repeated iterations of its original enunciation. As such, the
-Truck Patriot entered the everyday life of Brazilians and injected a new
+'Truck Patriot' entered the everyday life of Brazilians and injected a new
 dimension of laughter, ridicule, irony, and mockery that became deeply
 embedded in the Brazilian post-election media frenzy. Moreover, the
 speed and scale at which 'Truck Patriot' memes were produced and
@@ -451,7 +453,7 @@ political transformation, and as a strategy for resistance.
 #### The 'Truck Patriot' meme as a Symbol of Democracy 
 
 ![Figura 10: A political cartoon in which the \'truck\' of democracy drives
-Bolsonarism off the road. Unknown source.](imgs/06_10.png)
+Bolsonarism off the road. Source: unknown.](imgs/06_10.png)
 
 <br/>
 
@@ -654,7 +656,7 @@ democratic government with Lula's victory.
 \@AndreJanonesAdv, Twitter profile.
 
 \@annaguirro, 'Mano!!! Esse meme só melhora!!! #ZambelliNaCadeia
-\#PatriotaDoCaminhao', Twitter post, 5 November, 2022, 3:11 AM,
+\#PatriotaDoCaminhao', Twitter post, 5 November 2022, 3:11 AM,
 <https://twitter.com/annaguirro/status/1588715480969535489>.
 
 'Bolsonaristas se reuniram em atos antidemocráticos em 24 estados e no
@@ -733,7 +735,7 @@ Patriota do Caminhão\... Compartilhe.', Twitter post, 4 November 2022,
 G1, 'Bolsonaristas se reuniram em atos antidemocráticos em 24 estados e
 no DF', *G1*,
 
-2 November, 2022,
+2 November 2022,
 https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/atos-bolsonaristas-quarteis-brasil.ghtml.
 
 'Governo Bolsonaro liberou em média 619 novas armas por dia para CACs:
@@ -751,7 +753,7 @@ Journal of the Aesthetics of Kitsch, Camp and Mass Culture* 8 (2021).
 
 \@joaorzc, 'Desculpa chegar atrasado pro meme do patriota, gente. É que
 eu vim de trem. \"L\'Arrivée d\'un patriote en gare de La Ciotat\".
-Irmãos Lumière, 1985.', Twitter post, 9 November, 2022, 9:22 AM,
+Irmãos Lumière, 1985.', Twitter post, 9 November 2022, 9:22 AM,
 https://twitter.com/joaorzc/status/1590394436814413824.
 
 Lacombe, Milly. 'O patriota do caminhão é a estética de um golpe
@@ -835,7 +837,7 @@ https://revistaforum.com.br/cultura/2022/11/6/video-bolsonarista-do-caminho-vira
 
 Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
 https://pt.wikipedia.org/wiki/Patriota_do_caminh%C3%A3o, accessed 10
-October, 2023.
+October 2023.
 
 
 
@@ -845,7 +847,7 @@ October, 2023.
 
 [^f06_4]: These 72 hours were repeatedly postponed in the following months,
     keeping the expectations of the protesters alive until the attempted
-    coup on January 8, 2023.
+    coup on 8 January, 2023.
 
 [^f06_5]: In late May 2023, the parliamentary investigation commission of
     coup-related acts (CPI dos atos golpistas) released documents that
@@ -915,7 +917,7 @@ October, 2023.
     Federal District. The protests on November 2, 2022, occurred in
     hundreds of Brazilian cities that have military bases.G1,
     'Bolsonaristas se reuniram em atos antidemocráticos em 24 estados e
-    no DF', *G1*, 2 November, 2022,
+    no DF', *G1*, 2 November 2022,
     https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/atos-bolsonaristas-quarteis-brasil.ghtml.
 
 [^f06_17]: These actions included religious expressions (with symbols from
@@ -966,8 +968,7 @@ October, 2023.
     https://knowyourmeme.com/memes/patriota-do-caminhao-trucks-patriot.
 
 [^f06_23]: \@felipeneto, 'Edição urgente do BIP! Conseguimos atualizações
-    sobre o Patriota do Caminhão\... Compartilhe.', Twitter post, 4 de
-    novembro de 2022, 11:20 AM,
+    sobre o Patriota do Caminhão\... Compartilhe.', Twitter post, 4 November 2022, 11:20 AM,
     https://twitter.com/i/status/1588657456137355266.
 
 [^f06_24]: The \'Truck Patriot\' meme has its own entryin the
@@ -980,7 +981,7 @@ October, 2023.
 
 [^f06_25]: Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
     https://pt.wikipedia.org/wiki/Patriota_do_caminh%C3%A3o, accessed 10
-    October, 2023.
+    October 2023.
 
 [^f06_26]: Eliseo Verón, *La semiosis social. Fragmentos de una teoría de la
     discursividad*. Barcelona: Gedisa, 1996.
@@ -1017,7 +1018,7 @@ October, 2023.
 
 [^f06_32]: \@joaorzc, 'Desculpa chegar atrasado pro meme do patriota, gente.
     É que eu vim de trem. \"L\'Arrivée d\'un patriote en gare de La
-    Ciotat\". Irmãos Lumière, 1985.', Twitter post, 9 November, 2022,
+    Ciotat\". Irmãos Lumière, 1985.', Twitter post, 9 November 2022,
     9:22 AM, https://twitter.com/joaorzc/status/1590394436814413824.
 
 [^f06_33]: \@NetflixBrasil, 'Pensando muito nessa cena.'.
@@ -1035,7 +1036,7 @@ October, 2023.
     https://twitter.com/Mayhem_AQ3D/status/1590404137707270144.
 
 [^f06_37]: Plinio Teodoro, 'Vídeo bolsonarista do caminhão vira cenário para
-    Primavera Sound'. *Revista Fórum*, 6 November, 2022,
+    Primavera Sound'. *Revista Fórum*, 6 November 2022,
     https://revistaforum.com.br/cultura/2022/11/6/video-bolsonarista-do-caminho-vira-cenario-para-primavera-sound-126045.html.
 
 [^f06_38]: José Luiz Braga, 'Dispositivos interacionais; Circuitos de
@@ -1067,9 +1068,7 @@ October, 2023.
     Prymashenko, 'Fake News as Meta-mimesis:
 
     Imitative Genres and Storytelling in the Philippines, Brazil, Russia
-    and Ukraine', Popular Inquiry: t*he*
-
-    *Journal of the Aesthetics of Kitsch, Camp and Mass Culture* 8.1
+    and Ukraine', *Popular Inquiry: the Journal of the Aesthetics of Kitsch, Camp and Mass Culture* 8.1
     (2021): 30-54.
 
 [^f06_45]: Fernando Brito, 'Desova de Bolsonaro começa e já vai ao

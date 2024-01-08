@@ -1,6 +1,6 @@
 
 #The Planalto Riots
-## Making and Unmaking a Failed Coup in Brazil
+## Making and Unmaking A Failed Coup in Brazil
 
 <div style="page-break-after: always"></div>
 
@@ -8,29 +8,29 @@
 # Colophon 
 
 **INC Theory on Demand #51** <br/>
-The Planalto Riots. Making and Unmaking a Failed Coup in Brazil's
+The Planalto Riots Making and Unmaking of A Failed Coup in Brazil
 
-**Edited by:** Lou Caffagni, Isabel Löfgren, Paola Sartoretto, and
-Gizele Martins
+**Edited by:** Lou Caffagni, Isabel Löfgren,
+Gizele Martins and Paola Sartoretto
 
 **Contributors:** Viviane Borelli, Lou Caffagni, Apoena Canuto Cosenza,
 Bartira S. Fortes, Camila Hartmann, Clementino Junior, Tatiana Letier
 Pinto, Isabel Löfgren, Ada C. Machado Silveira, Alecsandra Matias de
 Oliveira, Maria Eduarda Mathias, Gizele Martins, Ana Paula da Rosa,
 Aline Roes Dalmolin, Eduardo Ruedell, Gabriela Schneider, and Oscar
-Svanelid.
+Svanelid
 
 **Artistic contributions by:** Tatiana Letier Pinto, Isabel Löfgren,
-Laercio Redondo, and Gustavo Speridião & Leandro Barboza/Faixa Protesta.
+Laercio Redondo, and Gustavo Speridião & Leandro Barboza/Faixa Protesta
 
 **Cover design:** Katja van Stiphout <br/>
-**Design and EPUB development:** Giulia Timis and Erica Gargaglione
+
+**Design and EPUB development:** Tommaso Campagna, Erica Gargaglione, Carolina Valente Pinto and Giulia Timis 
 
 <br/>
-
 Published by the Institute of Network Cultures, Amsterdam 2024.
 
-ISBN: xxxx
+ISBN: 9789083328270
 
 **Contact:** Institute of Network Cultures <br/>
 Amsterdam University of Applied Sciences (HvA)
@@ -54,10 +54,11 @@ NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this 
 
 # TABLE OF CONTENTS
 
+<a href='ch032.xhtml'>Acknowledgements</a>
 
-<a href='ch004.xhtml'> Introduction, *Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins*</a>
+<a href='ch004.xhtml'> Introduction, *Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins*</a>
 
-<a href='ch005.xhtml'>Introdução, *Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins*</a>
+<a href='ch005.xhtml'>Introdução, *Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins*</a>
 
 ## Media Practices Before the Storm / Práticas midiáticas antes da tempestade
 
@@ -130,13 +131,12 @@ NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this 
 
 <a href='ch031.xhtml'>Biografias dos autores</a>
 
-<a href='ch032.xhtml'>Acknowledgements</a>
 
 
 
 # Introduction
 
-### Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins 
+### Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins 
 
 Unlike many books written about historical events, the idea for this
 book arose in June 2022, months before the event we discuss in this
@@ -319,7 +319,7 @@ economic, historical, communicational, and aesthetic contexts relate to
 the phenomenon we are experiencing.
 
 Our goal in *The Planalto Riots: The Making and Unmaking of a Failed
-Coup in Brazil* is not journalistic -- there are better sources for this
+Coup in Brazil* is not journalistic - there are better sources for this
 type of approach. Also, the guiding thread of this book is not to report
 what happened before, during, and after 8 January 2023, but to cast a
 critical eye on symbolic and communicational practices surrounding the
@@ -368,7 +368,7 @@ Janeiro's *favelas* that could serve as a blueprint for potential
 military interventions, such as the one desired by 8 January protesters.
 An artistic contribution by Gustavo Speridião and Leandro Barboza's
 collective *Faixa Protesta* shows how their 'painting-manifesto' voiced
-out people's demands for justice for the antidemocratic acts the day
+out people's demands for justice for the anti-democratic acts the day
 after the coup.
 
 The chapters in the third part *Art and Architecture: Brasilia* explore
@@ -392,7 +392,7 @@ address a traumatic aspect of Brazilian identity concerning our
 (self-)image, our complicated and problematic relationship with
 Indigenous peoples, and how this relationship came to the forefront
 during and after the attempted coup. Clementino Jesus Junior analyzes
-the polarization of narratives about the events of 8 January 8th in an
+the polarization of narratives about the events of January 8th in an
 analogy with the game of chess and how front page images in newspapers
 frame different narratives connected to the failed coup. Bartira S.
 Fortes highlights the paradox between Indigenous visibility at Lula da
@@ -420,11 +420,11 @@ David, and McKee, Miranda. *The Capitol Riots: Digital Media,
 Disinformation, and Democracy Under Attack*, Routledge, 2022.
 
 Peruzzo, Cecilia M. Krohling. 'Comunicação Comunitária E Educação Para
-a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
+a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651-68,
 <https://doi.org/10.17231/comsoc.2(2000).1427>.
 
 Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.' *openDemocracy*, 10 October, 2023,
+Brasil.' *openDemocracy*, 10 October 2023,
 <https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
@@ -451,7 +451,7 @@ Break America*, New York: Random House, 2019.
 
 [^introEng_4]: Cecilia M. Krohling Peruzzo, 'Comunicação Comunitária E Educação
     Para a Cidadania,' *Comunicação e Sociedade* 2 (August 29, 2000):
-    651--68.
+    651-68.
 
 [^introEng_5]: Sandra Jeppesen Michael Hoechsmann, Miranda McKee, iowyth hezel
     ulthiin and David Van Dyke, *The Capitol Riots: Digital Media,
@@ -473,10 +473,10 @@ Break America*, New York: Random House, 2019.
 
 # Introdução
 
-### Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins 
+### Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins 
 
 Diferente de muitos livros escritos sobre eventos históricos, a ideia
-geradora desse livro surgiu em junho de 2022, meses antes de o evento de
+geradora deste livro surgiu em junho de 2022, meses antes de o evento de
 que tratamos aqui se materializasse. O violento e nefasto ataque ao
 Capitólio nos Estados Unidos em Janeiro de 2021 e as semelhanças e
 relações entre a articulação da extrema direita nos Estados Unidos e no
@@ -714,7 +714,7 @@ posse do presidente Lula da Silva e a negação da diversidade nos atos de
 contemporâneo: a onipresença narcisista das imagens dos golpistas de 8
 de janeiro em paralelo à invisibilidade da tragédia que ameaça a vida e
 existência do povo Yanomami no Brasil, no contexto da crise humanitária
-deflagrada contra esse povo após a tentativa de golpe no dia 8 de
+deflagrada contra esse povo originário após a tentativa de golpe no dia 8 de
 janeiro, causando uma comoção nacional e internacional.
 
 ## Bibliografia
@@ -736,7 +736,7 @@ a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
 <https://doi.org/10.17231/comsoc.2(2000).1427>.
 
 Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.' *openDemocracy*, 10 October, 2023,
+Brasil.' *openDemocracy*, 10 October 2023,
 <https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
@@ -781,11 +781,11 @@ Break America*, New York: Random House, 2019.
 > driven by a common desire to stupefy themselves and each other. Whether
 > the desire is conscious, or unconscious is not important.'* <br/>
 > 
-> -- Olavo de Carvalho[^f05_2]
+> - Olavo de Carvalho[^f05_2]
 > 
 > *'Olavo is right'* <br/>
 > 
-> -- Bolsonarist catchphrase
+> - Bolsonarist catchphrase
 
 
 Jair Bolsonaro was elected in 2018 and since then, he has been spreading
@@ -802,12 +802,12 @@ since Bolsonaro took power. With the support of the Federal Highway
 Police and Military Police, truck drivers occupied roads and highways,
 halting the circulation of people and goods and choking the main cities
 of the country. The blockades were only lifted weeks later thanks to the
-action of football supporters who when the Brazilian national football
-championship resumed were eager to attend the matches and support their
+action of football supporters who, when the Brazilian national football
+championship resumed, were eager to attend the matches and support their
 teams. To access the stadiums, they had to clear the way from the
 Bolsonarist barricades. Even the most fanatical supporters of Bolsonaro
 could not stand in the way of the Gaviões da Fiel, or, the Faithful
-Hawks, the organized fan union of Corinthians.[^f05_5]) Someone could say,
+Hawks, the organized fan union of Corinthians.[^f05_5] Someone could say,
 perhaps, that God sent the 'faithful Corinthians' to spread His wisdom
 and will: 'Love does not delight in evil but rejoices with the truth. It
 always protects, always trusts, always hopes, always perseveres.'[^f05_6]
@@ -835,8 +835,8 @@ and conspiracy theories.
 
 The kernel of alt-right conspiracy theories became known in alt-right
 circles as 'cultural Marxism'. But what the hell is that? Conservative
-scholars like Paul Gottfried (founder of paleo conservatism), Michael
-Minnicino (infamous creator of cultural Marxism), and James Davison
+scholars like Paul Gottfried (founder of paleoconservatism), Michael
+Minnicino (infamous creator of the term cultural Marxism), and James Davison
 Hunter (who theorizes the cultural war),[^f05_7] alt-right influencers like
 Bolsonaro's political advisor Olavo de Carvalho[^f05_8], and specialists in
 international relations, such as Brazilian diplomat and former Foreign
@@ -1226,8 +1226,8 @@ coup? Because they really believe in these conspiracies, and because
 this discourse has been constructed since the end of the military
 dictatorship. Documents like the *Orvil Project,*[^f05_37] a classified file
 that recounts a delusional version of Brazil's history through a war
-between communists and patriots, and whose last chapter is the cultural
-war, was written in the 1970s and has been unearthed by the far-right.
+between communists and patriots, and whose last chapter focuses on cultural
+war, were written in the 1970s and have been unearthed by the far-right.
 
 Unconscious beliefs do not act alone in this war. Today, there is a
 pragmatic, systematic, and international organization of alt-right
@@ -1376,13 +1376,10 @@ violent uprising. Speeches enact concrete events, and they can express
 themselves in acts because the unconscious is made of discursive acts,
 and politics are always filled with desires.
 
-## Bibliography
-
-*'Projeto Orvil',* (n.d.),
-https://www.averdadesufocada.com/images/orvil/orvil_completo.pdf.
+## References
 
 Araújo, Ernesto. 'Trump e o ocidente', *Cadernos de Política Exterior*
-III.6 (Winter 2017): 323--358.
+III.6 (Winter 2017): 323-358.
 
 Aristotele. *Retórica e Poética*, Torino: Unione Tipografico-Editrice
 Torinese, 2004.
@@ -1408,7 +1405,7 @@ Columbia Press, 1995.
 Schizophrenia,* Minneapolis: University of Minnesota Press, 1983.
 
 Freud, Sigmund. *Negation*, *International Journal of Psycho-Analysis*
-6.4(1925):367--371.
+6.4(1925):367-371.
 
 \_\_\_\_\_. *Totem and Taboo*, London: Rutledge, 2001.
 
@@ -1425,13 +1422,13 @@ Gottfried, Paul Edward. *Multiculturalism and the Politics of Guilt,
 Toward a Secular Theocracy*, Columbia: University of Missouri Press,
 2002.
 
-Gramsci, Antonio. *Selection from Political Writings 1921--1926*,
+Gramsci, Antonio. *Selection from Political Writings 1921-1926*,
 Minneapolis: University of Minnesota Press, 1990.
 
 Horbyk, Roman, Löfgren, Isabel, Soriano, Cheryll and Prymachenko, Yana.
 'Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
-Philippines, Brazil, Russia and Ukraine', *Public Inquiry: The Journal
-of Kitsch, Camp and Mass Culture* 8.1 (2021): 30--54.
+Philippines, Brazil, Russia and Ukraine', *Popular Inquiry: The Journal
+of Kitsch, Camp and Mass Culture* 8.1 (2021): 30-54.
 
 Hunter, James D. *Cultural Wars: The struggle to define America - Making
 Sense of the Battle over Family, Art, Education, Law, and Politics*. New
@@ -1454,7 +1451,7 @@ Mello, Patrícia C. *A máquina do ódio: Notas de uma repórter sobre Fake
 news e violência digital*, São Paulo: Companhia das Letras, 2020.
 
 Minnicino, Michael J. 'The Frankfurt School and 'political correctness'.
-*Fidelio*, 1 (Winter 1992): 4--27.
+*Fidelio*, 1 (Winter 1992): 4-27.
 
 Plato. *Gorgias*. Oxford: Clarendon Press, 1979.
 
@@ -1464,6 +1461,9 @@ the Rue Morgue and The Purloined Letter*. Genoa: Black Cat Publishing,
 
 Prado, Michele. *Tempestade Ideológica: Bolsonarismo, a Alt-right e o
 Populismo Liberal no Brasil*, São Paulo: Lux Editora, 2021.
+
+*'Projeto Orvil',* (n.d.),
+https://www.averdadesufocada.com/images/orvil/orvil_completo.pdf.
 
 Rocha, João C. C. *Guerra Cultural e retórica do Ódio: Crônicas de um
 Brasil pós-político,* Goiânia: Caminhos, 2021.
@@ -1499,7 +1499,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 [^f05_7]: See Paul Edward Gottfried, *Multiculturalism and the Politics of
     Guilt, Toward a Secular theocracy.* Columbia: University of Missouri
     Press, 2002.; Michael J. Minnicino, *The Frankfurt School and
-    'political correctness'*. *Fidelio* 1 (Winter 1992): 4--27; and
+    'political correctness'*. *Fidelio* 1 (Winter 1992): 4-27; and
     James D. Hunter, *Cultural Wars: The struggle to define America -
     Making sense of the battle over family, art, education, law, and
     politics.* New York: BasicBooks, 1992.
@@ -1510,7 +1510,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
     such as Trump and Putin. He influenced the emergence of Bolsonarism.
 
 [^f05_9]: Ernesto H. F. Araújo, 'Trump e o ocidente*'*, *Cadernos de
-    Política Exterior* III.6 (Winter2017): 323--358.
+    Política Exterior* III.6 (Winter2017): 323-358.
 
 [^f05_10]: Edgar A. Poe, 'The Purloined Letter', In Edgar A. Poe, *The
     Murder in the Rue Morgue and The Purloined Letter*. Genoa: Black cat
@@ -1529,7 +1529,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 
 [^f05_15]: Roman Horbyk, Isabel Löfgren, Yana Prymachenko, Cheryll Soriano.
     'Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
-    Philippines, Brazil, Russia and Ukraine'. *Public Inquiry: The
+    Philippines, Brazil, Russia and Ukraine'. *Popular Inquiry: The
     Journal of Kitsch, Camp and Mass Culture* 8.1 (Autumn 2021).
 
 [^f05_16]: Cicerón, *De l\'oratoire. Livre III, 5, 19*. Paris: Les Belles
@@ -11595,5 +11595,5 @@ e, mais recentemente, Svanelid investigou a noção de branquitude na
 
 #Acknowledgments
 
-We created this book out of a need to create a historical document about what we consider to be one of the ‘darkest episodes of an already dark period’ in Brazilian history, as Clementino Jesus Junior writes in his article. Given the urgency of this book, this book is the collective of the editors and contributors who we would like to thank for their time and dedication in writing their texts and for their belief in our proposal. We would also like to thank Geert Lovink and the INC team for receiving our idea enthusiastically and waiting patiently for the manuscript to materialize. We also thank the entire team at INC who keeps the Theory on Demand series going, especially [Name of everyone in the INC team]. We are proud to be part of this collection. 
+We created this book out of a need to create a historical document about what we consider to be one of the ‘darkest episodes of an already dark period’ in Brazilian history, as Clementino Jesus Junior writes in his article. Given the urgency of this book, this book is the collective of the editors and contributors who we would like to thank for their time and dedication in writing their texts and for their belief in our proposal. We would also like to thank Geert Lovink and the INC team for receiving our idea enthusiastically and waiting patiently for the manuscript to materialize. We also thank the entire team at INC who keeps the Theory on Demand series going, especially Tommaso Campagna, Erica Gargaglione, Carolina Valente Pinto and Giulia Timis. We are proud to be part of this collection. 
 

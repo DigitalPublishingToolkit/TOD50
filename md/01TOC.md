@@ -19,10 +19,11 @@ Rights: CC BY-NC 4.0
 
 # TABLE OF CONTENTS
 
+<a href='ch032.xhtml'>Acknowledgements</a>
 
-<a href='ch004.xhtml'> Introduction, *Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins*</a>
+<a href='ch004.xhtml'> Introduction, *Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins*</a>
 
-<a href='ch005.xhtml'>Introdução, *Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins*</a>
+<a href='ch005.xhtml'>Introdução, *Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins*</a>
 
 ## Media Practices Before the Storm / Práticas midiáticas antes da tempestade
 
@@ -95,4 +96,3 @@ Rights: CC BY-NC 4.0
 
 <a href='ch031.xhtml'>Biografias dos autores</a>
 
-<a href='ch032.xhtml'>Acknowledgements</a>

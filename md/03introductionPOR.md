@@ -19,10 +19,10 @@ Rights: CC BY-NC 4.0
 
 # Introdução
 
-### Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins 
+### Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins 
 
 Diferente de muitos livros escritos sobre eventos históricos, a ideia
-geradora desse livro surgiu em junho de 2022, meses antes de o evento de
+geradora deste livro surgiu em junho de 2022, meses antes de o evento de
 que tratamos aqui se materializasse. O violento e nefasto ataque ao
 Capitólio nos Estados Unidos em Janeiro de 2021 e as semelhanças e
 relações entre a articulação da extrema direita nos Estados Unidos e no
@@ -260,7 +260,7 @@ posse do presidente Lula da Silva e a negação da diversidade nos atos de
 contemporâneo: a onipresença narcisista das imagens dos golpistas de 8
 de janeiro em paralelo à invisibilidade da tragédia que ameaça a vida e
 existência do povo Yanomami no Brasil, no contexto da crise humanitária
-deflagrada contra esse povo após a tentativa de golpe no dia 8 de
+deflagrada contra esse povo originário após a tentativa de golpe no dia 8 de
 janeiro, causando uma comoção nacional e internacional.
 
 ## Bibliografia
@@ -282,7 +282,7 @@ a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
 <https://doi.org/10.17231/comsoc.2(2000).1427>.
 
 Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.' *openDemocracy*, 10 October, 2023,
+Brasil.' *openDemocracy*, 10 October 2023,
 <https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
