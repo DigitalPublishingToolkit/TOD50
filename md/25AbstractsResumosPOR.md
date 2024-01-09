@@ -41,12 +41,12 @@ O capítulo mostra como a circulação do meme que ficou conhecido como
 política e ativismo no periodo pós-eleitoral no pleito presidencial no
 Brasil em 2022. Assim que os resultados da eleição foram divulgados e a
 vitória do pleito dada a Luiz Inácio Lula da Silva, militantes
-bolsonaristas auto-denominados 'patriotas' organizaram bloqueios nas
+bolsonaristas autodenominados 'patriotas' organizaram bloqueios nas
 estradas com apoio de grupos de caminhoneiros e de trabalhadores
 autônomos, e conivência de Polícia Rodoviária Federal. O meme surgiu do
 fato inusitado de um militante bolsonarista tentar impedir que um
 caminhão furasse os bloqueios nas estradas, sendo levado pelo caminhão
-agarrado ao pára-brisas por um percurso de 10km em alta velocidade. Esta
+agarrado ao para-brisas por um percurso de 10km em alta velocidade. Esta
 ação frustrada do bolsonarista foi registrada em diversos vídeos tanto
 de dentro do caminhão quanto por transeuntes das estradas. Tão logo
 foram veiculadas essas primeiras imagens pelas redes sociais, elas foram
@@ -61,7 +61,7 @@ golpes e atos antidemocráticos por parte dos bolsonaristas. Refletimos
 que a apropriação da imagem do \'Patriota do Caminhão\' por múltiplas
 angulações, enquadramentos e reconfigurações denotam um fenômeno ímpar
 -- a circulação do riso em rede por meio do memetivismo -- que
-articulou, por um lado, a unificação de públicos anti-bolsonaristas e
+articulou, por um lado, a unificação de públicos antibolsonaristas e
 por outro, contribuiu para alimentar o ódio e ressentimento dos
 bolsonaristas, que culminaria meses depois na tentativa de golpe do 8 de
 janeiro de 2023.
@@ -166,8 +166,7 @@ O artigo inicia o debate falando sobre o atual momento político do
 Brasil, onde há uma extrema-direita expressiva que tentou tomar o poder
 com uma invasão aos prédios dos Três Poderes, em Brasília, capital do
 Brasil. No entanto, os atos da extrema-direita ocorridos no dia 8 de
-janeiro de 2023 parecem ser mais uma continuidade das manifestações das
-décadas anteriores. Pois, em um passado recente, há dez anos, desde as
+janeiro de 2023 parecem ser mais uma continuidade das manifestações da década anterior. Pois, em um passado recente, há dez anos, desde as
 'Jornadas de Junho' de 2013, movimentos conservadores e de
 extrema-direita já aproveitavam o enfraquecimento e subsequente
 criminalização de protestos da esquerda que se faziam presentes nas
@@ -205,8 +204,8 @@ os eventos diários, a temporalidade que une as obras aqui evocadas é a
 da resistência às mentalidades (colonial e autoritária) que ainda
 norteiam as decisões políticas nacionais. Paralelamente à longa duração,
 as proposições da arte aparecem em tempo diverso às reflexões
-históricas; tornam-se reações imediatas; algumas obras nascem no "calor
-da hora" -- surgem da espontaneidade proibida aos outros saberes que
+históricas; tornam-se reações imediatas; algumas obras nascem no 'calor
+da hora' -- surgem da espontaneidade proibida aos outros saberes que
 demandam maturação e que necessitam do julgamento do decurso. Acima de
 tudo, a preocupação deste texto está em observar como os artistas
 conseguem captar o instante político presente no cotidiano -- livres de
@@ -249,7 +248,7 @@ Escrever uma carta para alguém é um ato de afeto, é um convite para o
 diálogo abrindo um canal de comunicação direto entre duas pessoas. Nesse
 contexto, o artigo adota esse formato para, de forma provocatória e
 cordial, especular uma conversa com o arquiteto Oscar Niemeyer
-(in-memoriam) sobre a relação da concepção e construção da capital
+(*in memoriam*) sobre a relação da concepção e construção da capital
 Brasília como um espaço segregativo na sua essência, com os fatos
 ocorridos no dia 8 de Janeiro de 2023 em Brasília, quando os três
 principais edifícios das esferas de poder do Brasil foram invadidos e
@@ -275,7 +274,7 @@ maneira inequívoca nas telas e nas redes sociais a negação de uma
 democracia que até 2018, antes esteve ao lado de uma parcela pequena,
 porém ativa da população brasileira. O presente texto pretende refletir
 sobre o impacto das imagens das invasões de vândalos no Congresso
-Nacional, no Supremo Tribunal Federal e no palácio do planalto, e de
+Nacional, no Supremo Tribunal Federal e no Palácio do Planalto, e de
 algumas manchetes de jornal do período em veículos oficiais, e como os
 fatos podem atender mais às narrativas ficcionais do que às factuais e
 memoriais. A data de 8 de janeiro oficializa, uma semana após a posse do
@@ -301,7 +300,7 @@ paralelo aos eventos da posse. Posteriormente, é avaliado o impacto dos
 ataques ao Planalto em 8 de janeiro de 2023 para os povos indígenas. Em
 seguida, aborda-se a cerimônia de posse da deputada federal eleita e
 líder indígena Sônia Guajajara como a primeira Ministra dos Povos
-Indígenas, na semana seguinte aos atos anti-democráticos. Por fim,
+Indígenas, na semana seguinte aos atos anti democráticos. Por fim,
 explora as mobilizações durante a *19ª Edição do Acampamento Terra Livre
 2023* sob o tema 'O Futuro Indígena é Hoje: Sem Demarcação, não há
 Democracia!'. O objetivo deste artigo é elucidar a importância da

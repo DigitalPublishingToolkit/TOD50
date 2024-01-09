@@ -51,18 +51,6 @@ published *Satellite Lifelines: Art, Media, Migration and the Crisis of
 Hospitality in Divided Cities* with the INC. Website:
 www.isabellofgren.se.
 
-**Paola Madrid Sartoretto** is an Associate Professor in Media and
-Communication at the School of Education and Communication, Jönköping
-University, Sweden where she coordinates the international MSSc in
-Sustainable Communication. Her research interests are in the
-intersection between communication, political participation, and social
-change, with a focus on communication among marginalized groups.
-Sartoretto has also conducted research in collaboration with social
-movements in Brazil and co-edited with Sandra Jeppesen the anthology
-*Media Activist Research Ethics* (2020) published by Palgrave in the
-IAMCR series *Global Transformations in Media and Communication
-Research*.
-
 **Gizele de Oliveira Martins** is a journalist and a PhD candidate in
 Communication at the Federal University of Rio de Janeiro (UFRJ). She
 graduated in journalism from PUC-Rio and holds a master\'s degree in
@@ -79,6 +67,18 @@ and Communicators in Brazil. Today, she works with community
 organizations such as the *Coalizão de Mídias Periféricas*; *Faveladas,
 Quilombolas e Indígenas*; *Coletivo Maré 0800*; and *Frente de
 Mobilização da Maré*.
+
+**Paola Sartoretto** is an Associate Professor in Media and
+Communication at the School of Education and Communication, Jönköping
+University, Sweden where she coordinates the international MSSc in
+Sustainable Communication. Her research interests are in the
+intersection between communication, political participation, and social
+change, with a focus on communication among marginalized groups.
+Sartoretto has also conducted research in collaboration with social
+movements in Brazil and co-edited with Sandra Jeppesen the anthology
+*Media Activist Research Ethics* (2020) published by Palgrave in the
+IAMCR series *Global Transformations in Media and Communication
+Research*.
 
 ## Contributors: 
 
@@ -99,19 +99,18 @@ independent publication fairs, workshops, meetings, and even a doctoral
 defense. Since 2018, he has been working with Gustavo Speridião on the
 FAIXA PROTESTA project, which involves bringing banners with paintings
 and rebellious poetry to protests. He has participated in various group
-exhibitions, including \"O que há de música em você\" at Athena Galeria
-de Arte in October 2023, \"Sol a Sol\" at Galeria Arte Fasam in August
-2020, \"A Casa Carioca\" at MAR-Rio in 2020, \"Atelier Sanitário +
-Bastardo\" at Centro Cultural Phábrika in 2018, \"Entre #4\" at Portas
-Vilaseca Galeria in 2017, and \"Tudo fora de ordem\" at Espaço Saracura
+exhibitions, including *O que há de música em você* at Athena Galeria
+de Arte in October 2023, *Sol a Sol* at Galeria Arte Fasam in August
+2020, *A Casa Carioca* at MAR-Rio in 2020, *Atelier Sanitário +
+Bastardo* at Centro Cultural Phábrika in 2018, *Entre #4* at Portas
+Vilaseca Galeria in 2017, and *Tudo fora de ordem* at Espaço Saracura
 in 2017. You can find him on Instagram: \@leandro_barboza.
 
 **Viviane Borelli** is an associate professor in the Graduate Program in
 Communication and the undergraduate programs of Social Communication -
 Journalism, Editorial Production, Public Relations, and Advertising at
-the Federal University of Santa Maria (UFSM), located in Santa Maria,
-RS, Brazil. She holds a PhD in Communication Sciences from Unisinos, São
-Leopoldo, RS. She coordinates the Media Communication and Communication
+the Federal University of Santa Maria (UFSM), in Santa Maria, Brazil. She holds a PhD in Communication Sciences from Unisinos, São
+Leopoldo, Brazil. She coordinates the Media Communication and Communication
 Strategies Research Group (Cimid) and the research project 'Societies in
 Mediatization: Circulation, Discourses and Platforms'. Her research
 interests lie in the areas of mediatization, communication theories,

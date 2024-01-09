@@ -126,7 +126,7 @@ em sua morte, afogando-se na própria imagem. A analogia aqui feita com o
 mito é que na invasão aos Três Poderes, no Brasil, os próprios invasores
 produziram um sem-número de imagens de suas ações. Admirados de sua
 coragem, admiraram-se na produção imagética para as mídias sociais. Não
-bastava ocupar e destruir -- era preciso mostrar a si mesmo, registrar a
+bastava ocupar e destruir — era preciso mostrar a si mesmo, registrar a
 'beleza' do ato. Assim, vídeos, narrativas de minuto a minuto, e trocas
 de mensagens em aplicativos passaram a ser não apenas um complemento,
 mas parte constituinte da invasão que se deu no território físico, mas
@@ -181,7 +181,7 @@ mídias. Considerando que a invasão dos centros de poder do Estado
 significa uma ação contra o Estado Democrático de Direito, nota-se nos
 dois casos (EUA e Brasil) um modus operandi centrado na violência física
 e material ao patrimônio público, mas especialmente uma violência
-simbólicaexpressa pela destruição de objetos (de obras de arte à
+simbólica expressa pela destruição de objetos (de obras de arte à
 infraestrutura) e pela exposição midiática contínua na tentativa de
 erigir um outro símbolo, sobreposto, à imagem de um país, um símbolo
 deturpado por uma camada ideológica.[^13] Para promover um assassinato
@@ -333,7 +333,7 @@ movimento performático oposto, o de morte e desaparecimento.
 ## *Imagem-denúncia*: Quando as Imagens Revelam o Desaparecimento
 
 O segundo acontecimento abordado neste texto trata de um crime não
-performado -- ao contrário, sua essência é exatamente a invisibilidade e
+performado — ao contrário, sua essência é exatamente a invisibilidade e
 o silenciamento. Menos de 20 dias depois da ação em Brasília, uma
 denúncia tornou pública a crise humanitária envolvendo os povos
 indígenas no Brasil.[^22] Na reserva Yanomami, localizada entre os
@@ -413,7 +413,7 @@ retira o crime das sombras, ela denuncia e, ao mesmo tempo, convoca a
 todos os que a contemplam a um *mea culpa*, visto que invisibilidade não
 significa a inexistência ou a ausência de vidas. De certa forma, a não
 adesão ao discurso expositivo coloca os Yanomami em suspensão. Estão lá,
-mas não os vemos. Se não os vemos,infelizmente, o potencial de
+mas não os vemos. Se não os vemos, infelizmente, o potencial de
 engajamento também se reduz. Certamente, diversas iniciativas
 (documentários, reportagens, atuações de ativistas) vêm sendo feitas
 para expor ao mundo as atrocidades sofridas pelos indígenas, porém
@@ -442,7 +442,7 @@ palavras, 'vive da vida das pessoas, porém não sem algum voluntarismo
 dos envolvidos. Afinal o poder do imaginário provém do imaginário do
 poder'.[^29] Voltamos ao ponto. 
 
-## Entre Sedutoras, Sedentas, Sedantes:[^30] a imagem e sua força 
+## Entre Sedutoras, Sedentas, Sedantes:[^30] A Imagem e Sua Força 
 
 O papel da imagem, nos dois casos que observamos neste trabalho, é o que
 faz a tessitura entre duas situações tão díspares e tão complexas, mas
@@ -505,7 +505,7 @@ instituições'[^34] e a todos os conflitos que emergem destas relações.
 Quando se mencionam 'conflitos midiatizados' não se trata apenas de um
 qualificador, mas sim de evidenciar uma especificidade fenomenológica.
 Tanto a invasão em Brasília quanto a crise Yanomami são frutos de uma
-lógica que é anterior à própria instalação do conflito -- está na sua
+lógica que é anterior à própria instalação do conflito — está na sua
 base. Se expor é o objeto da ocupação, evitar qualquer rastro de imagem
 é a tônica do genocídio. Isto posto, cada vez mais se faz necessário
 refletir sobre as práticas sociais atuais envoltas e atravessadas pelas
@@ -597,7 +597,7 @@ Janotti Junior, Jeder (org.), *Territórios afetivos da imagem e do som*,
 Belo Horizonte: Fafich/Selo PPGCOM/UFMG, 2020: 294-309.
 
 \_\_\_\_\_\_. 'Circulação: das múltiplas perspectivas de valor à
-valorização do visível', in *Revista Intercom -- RBCC 42.2* (May/August
+valorização do visível', in *Revista Intercom — RBCC 42.2* (May/August
 2019): 21-33.
 
 \_\_\_\_\_\_. 'A imagem como referência: tensionamentos entre
@@ -606,7 +606,7 @@ CAPES-Stint*, São Leopoldo/Stockholm, 8 July 2021,
 https://www.youtube.com/watch?v=yV3_CFYLC9g&t=69s.\
 \
 'Radicais invadem e depredam o Planalto, Congresso e o Supremo', *CNN
-Brasil*, 8 January, 2023.
+Brasil*, 8 January 2023.
 https://www.cnnbrasil.com.br/politica/radicais-invadem-e-depredam-planalto-congresso-e-supremo-veja-imagens/.
 
 Silva, Vitor. 'Um olhar diferente do Brasil - Invasão do Congresso por
@@ -675,7 +675,7 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     Unisinos, 2014.
 
 [^9]: Ana Paula da Rosa, 'Circulação: das múltiplas perspectivas de
-    valor à valorização do visível', in *Revista Intercom -- RBCC*,
+    valor à valorização do visível', in *Revista Intercom — RBCC*,
     (May/August, 2019).
 
 [^10]: Embora neste texto esteja evidenciada a relação com as águas dos
@@ -729,16 +729,16 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     mas nada de novo sol*l, São Paulo: Paulus, 2016, p. 71.
 
 [^18]: 'Radicais invadem e depredam o Planalto, Congresso e o Supremo',
-    *CNN Brasil,* 8 January, 2023.
+    *CNN Brasil,* 8 January 2023.
     https://www.cnnbrasil.com.br/politica/radicais-invadem-e-depredam-planalto-congresso-e-supremo-veja-imagens/.
 
 [^19]: Vitor Silva, 'Um olhar diferente do Brasil - Invasão do Congresso
-    por populares', Youtube, Janeiro 8, 2023,
+    por populares', Youtube, 8 January 2023,
     https://www.youtube.com/watch?v=e4litzHI65Y.
 
 [^20]: Sandra Jeppesen, 'Performance Crime and Self-Surveillant Subjects
     in the Capitol Riots', in Sandra Jeppesen et al, '*The Capitol Riots
-    -- Digital Media, Disinformation, and Democracy Under Attack'*,
+    — Digital Media, Disinformation, and Democracy Under Attack'*,
     Routledge: New York, 2022, pp.127-135.
 
 [^21]: Jeppesen, 'Performance Crime', p. 135

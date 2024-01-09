@@ -1,5 +1,16 @@
 
+Cambiamenti MD da finire
 
+•⁠  ⁠TOC da ricontrollare i collegamenti ipertestuali alle varie sezioni (da rinumerare probabilmente) e i titoli dei capitoli (molti sono cambiati)
+
+•⁠  ⁠Md 06 – Visual Essay, aggiungere immagini e anche in TOC (?)
+
+•⁠  ⁠Md 10: titoli in italics perché quote?
+
+•⁠  ⁠Md 13 footnote remove, but then bio? Da rivedere, non ho capito la logica del commento
+
+
+---------------
 
 general:
 	- each chapter has notes about the authors in the first footnote, take that out? YES

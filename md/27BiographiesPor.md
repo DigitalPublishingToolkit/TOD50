@@ -39,8 +39,8 @@ Federal do Rio de Janeiro e Doutorado em Filosofia, Arte e Pensamento
 Crítico pela European Graduate School - EGS (Suíça). Suas áreas de
 pesquisa incluem política visual, arte contemporânea, filosofia das
 mídias e ativismo midiático. Tem uma prática artística desde 2003 com
-diversas exposições, prêmios e editais como IASPIS -- The Swedish Arts
-Grants Committee e FUNARTE -- Fundação Nacional de Artes, e colabora
+diversas exposições, prêmios e editais como IASPIS — The Swedish Arts
+Grants Committee e FUNARTE — Fundação Nacional de Artes, e colabora
 frequentemente com laboratórios e coletivos artísticos, instituições de
 arte e organizações da sociedade civil em sua prática de pesquisa
 artística. Ela escreveu extensamente sobre cultura popular digital,
@@ -52,18 +52,6 @@ conferência *Urgent Publishing* (INC, 2019), entre outros eventos. Em
 2020, publicou o livro *Satellite Lifelines: Art, Media, Migration and
 the Crisis of Hospitality in Divided Cities* na série *Theory on Demand*
 com o INC. Web: www.isabellofgren.se.
-
-**Paola Madrid Sartoretto** é Professora Associada em Comunicação e
-Mídia na Escola de Educação e Comunicação da Universidade de Jönköping,
-Suécia, onde coordena o programa internacional de Mestrado em
-Comunicação Sustentável (*International MSSc Sustainable
-Communication)*. Sua pesquisa combina comunicação, participação política
-e mudança social, com foco na comunicação entre grupos marginalizados.
-Sartoretto também realizou pesquisas em colaboração com movimentos
-sociais no Brasil e co-editou, juntamente com Sandra Jeppesen, a
-antologia *Media Activist Research Ethics*, publicada em 2020 pela
-Palgrave na série *Global Transformations in Media and Communication
-Research* editada pela IAMCR/AIECS.
 
 **Gizele Martins** é jornalista e doutoranda em Comunicação na
 Universidade Federal do Rio de Janeiro (UFRJ). Formou-se em jornalismo
@@ -83,10 +71,22 @@ Mídias Periféricas, Faveladas, Quilombolas e Indígenas, no Coletivo Maré
 Dicionário Marielle Franco e do Lab Reviravolta. E-mail:
 gizelemartins@ufrj.br.
 
+**Paola Sartoretto** é Professora Associada em Comunicação e
+Mídia na Escola de Educação e Comunicação da Universidade de Jönköping,
+Suécia, onde coordena o programa internacional de Mestrado em
+Comunicação Sustentável (*International MSSc Sustainable
+Communication)*. Sua pesquisa combina comunicação, participação política
+e mudança social, com foco na comunicação entre grupos marginalizados.
+Sartoretto também realizou pesquisas em colaboração com movimentos
+sociais no Brasil e co-editou, juntamente com Sandra Jeppesen, a
+antologia *Media Activist Research Ethics*, publicada em 2020 pela
+Palgrave na série *Global Transformations in Media and Communication
+Research* editada pela IAMCR/AIECS.
+
 ## Contribuidores: 
 
 **Leandro Barboza** é artista visual e restaurador, vive e trabalha no
-Rio de Janeiro.. É Bacharel em Pintura pela Escola de Belas,
+Rio de Janeiro. É Bacharel em Pintura pela Escola de Belas,
 Universidade Federal do Rio de Janeiro - UFRJ, em 2004. Participa com
 Gustavo Speridião no coletivo Faixa Protesta. Além de inúmeras obras de
 restaurações em locais históricos no Rio de Janeiro, em 2016, inaugura o
@@ -154,7 +154,7 @@ Aperfeiçoamento de Pessoal do Ensino Superior - CAPES, no Programa de
 Pós-Graduação em Comunicação da Universidade Federal de Santa Maria -
 UFSM, na linha de pesquisa Mídias e Identidades Contemporâneas.
 Doutoranda sanduíche, bolsista CAPES-STINT no Departamento de Estudos de
-Mídia e Comunicação da Sodertorn University (Estocolmo, Suécia). É
+Mídia e Comunicação da Södertörn University (Estocolmo, Suécia). É
 mestra em Comunicação (2019) e Bacharela em Comunicação Social -
 Jornalismo (2017) pela UFSM. Integrante do Grupo de Pesquisa
 Comunicação, Identidades e Fronteiras - CIFront (UFSM/CNPq) desde 2014 e
@@ -201,7 +201,7 @@ Estocolmo, Suécia.
 **Ada C. Machado Silveira** é professora titular da Universidade Federal
 de Santa Maria - UFSM e pesquisadora do Conselho Nacional de
 Desenvolvimento Científico e Tecnológico - CNPq, Brasil. Atuou como
-Pesquisadora Visitante Sênior na Sodertorn University, Estocolmo, Suécia
+Pesquisadora Visitante Sênior na Södertörn University, Estocolmo, Suécia
 (2022-2023), Acordo CAPES-STINT. Desempenha como pesquisadora nos
 programas de pós-graduação em Comunicação da UFSM e da Universidade
 Federal do Pampa - Unipampa, Brasil. Atuou como professora visitante em
@@ -340,7 +340,7 @@ Chateaubriand (Museu de Arte Moderna, Rio de Janeiro), a do Museu de
 Arte Contemporânea de Niterói e a do Museu de Arte do Rio de Janeiro
 Website: www.speridiao.com.
 
-**Oscar Svanelid** é e pesquisador de pós-doutorado em História da Arte
+**Oscar Svanelid** é pesquisador de pós-doutorado em História da Arte
 no Instituto de Cultura e Educação da Universidade de Södertörn, na
 Suécia. Ele está atualmente trabalhando em um projeto de pós-doutorado
 (financiado pelo Conselho de Pesquisa Sueco) sobre arte e democracia na

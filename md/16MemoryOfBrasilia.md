@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Memory from Brasilia
+# Memory from Brasilia / Memória de Brasília
 
 ### Laercio Redondo
 
@@ -27,29 +27,22 @@ of creating panels and tiles by Brazilian artist Athos Bulcão
 construction workers actively participated in the process of aesthetic
 and technical assembly of the murals. This is the starting point for the
 project that examines aspects of modernism in the construction of
-Brasília in the late 1950s. Bulcao's works are poetic insertions in the
-construction of Brasília. It is this relationship between artist and
+Brasilia in the late 1950s. Bulcão's works are poetic insertions in the
+construction of Brasilia. It is this relationship between artist and
 worker, city and landscape that builds the common thread linking all the
 research that resulted in a series of silkscreens on plywood, two videos
 and a wall painting.
 
-*Memory from Brasília* contextualizes these aspects of Bulcão's
-historical work in relation to the city today. It reflects upon an
-important artist in the recent history of Brazil and discusses modernist
-architecture and its utopias as a means of transforming Brazilian
-society.
+<br/>
+Next page:
 
-*Memory from Brasilia*
+Memory from Brasilia, 2012/2022
 
-Fragment of the work during the exhibition *Lugar Comum*
+Installation view with works on plywood and mural painting featuring visitor's interferences, part of the exhibition *Lugar-comum*, Museum of Contemporary of Art of the University of São Paulo (MAC–USP), March–December, 2022.
 
-Museum of Contemporary Art of the University of São Paulo
-São Paulo, Brazil, 2022
-Photo credit: Laercio Redondo
-
-# Memória de Brasília
-
-### Laercio Redondo
+<br/>
+***
+<br/>
 
 A conjunção entre arte, vida e arquitetura é analisada a partir do
 processo de criação dos painéis e azulejos do artista Athos Bulcão
@@ -66,7 +59,12 @@ coloniais. O conjunto de obras é assim uma reflexão sobre um artista
 essencial na discussão da aproximação entre arte, vida e arquitetura na
 historia recente do Brasil.
 
-*Lembrança de Brasília*
+<br/>
+"Próxima página: 
+
+Lembrança de Brasília, 2012/2022
+
+Vista da instalação com obras em madeira e mural com interferências de visitantes, parte da exposição *Lugar-comum*, Museu de Arte Contemporânea da Universidade de São Paulo (MAC–USP), março-dezembro de 2022."
 
 Detalhe do trabalho durante a exposição *Lugar Comum*
 

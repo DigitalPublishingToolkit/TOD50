@@ -22,9 +22,9 @@ Rights: CC BY-NC 4.0
 ### Oscar Svanelid
 
 > 'The old world is dying. The new world is emerging slowly. And in this
-> chiaroscuro, monsters are born.' 
+> *chiaroscuro*, monsters are born.' 
 > 
-> -- Antonio Gramsci[^2]
+> — Antonio Gramsci[^2]
 
 The political ideology of Bolsonarismo revealed its true monstrous face
 at the attempted coup of January 8^th^ in 2023, known as the Planalto
@@ -358,7 +358,7 @@ Press, 2005.
 Calirman, Claudia. Brazilian art under dictatorship: Antonio Manuel,
 Artur Barrio, and Cildo Meireles, Durham: Duke University Press, 2012.
 
-Chamon, Andréa Marques. As "mulatas\" de Di Cavalcanti -- um estudo em
+Chamon, Andréa Marques. As "mulatas\" de Di Cavalcanti — um estudo em
 Psicologia Social, Master thesis, Faculdade de Filosofia e Ciências
 Humanas da Universidade Federal de Minas Gerais, Belo Horizonte, 2017.
 
@@ -369,7 +369,7 @@ Giani MonteiroI, Mario Francisco; Ferreira RomioII, Jackeline Aparecida
 and Drezett, Jefferson. 'Is There Race/Color Differential on Femicide in
 Brazil? The Inequality of Mortality Rates for Violent Causes Among White
 and Black Women´, Journal of Human Growth and Development 31 \[Online\],
-no.2 (May/August 2021): 359--366.
+no.2 (May/August 2021): 359-366.
 
 Holston, James. The Modernist City: An Anthropological Critique of
 Brasília, Chicago: University of Chicago Press, 1989.
@@ -380,10 +380,10 @@ https://www.metropoles.com/entretenimento/politica-cultural/moreira-franco-usa-m
 
 Lazzarotto Simioni, Rafael. 'Arte e direito: A Justiça, de Alfredo
 Ceschiatti, no STF', *Suprema: revista de estudos constitucionais* 1
-(July/December 2021): 221--255.
+(July/December 2021): 221-255.
 
 Nunes, Rodrigo. 'Of what is Bolsonaro the name?', *Radical Philosophy*
-209 (Winter 2020): 3--14.
+209 (Winter 2020): 3-14.
 
 Masters, Edgar Lee. *Spoon River Anthology,* New York: Collier Books,
 1967.
@@ -438,7 +438,7 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
     University of Chicago Press, 1986.
 
 [^6]: Dario Gamboni, *The Destruction of Art: Iconoclasm & Vandalism
-    Since the French Revolution*, London: Reaktion, 1997, pp.17--20.
+    Since the French Revolution*, London: Reaktion, 1997, pp.17-20.
 
 [^7]: In 1957, Lúcio Costa submitted his Plano Piloto as his proposal
     for the construction of Brazil's new capital Brasilia. His proposal
@@ -447,9 +447,9 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
 
 [^8]: See James Holston, *The Modernist City: An Anthropological
     Critique of Brasília*, Chicago: University of Chicago Press, 1989,
-    p. 60--74.
+    p. 60-74.
 
-[^9]: Holston, *The Modernist City*, p. 211--217.
+[^9]: Holston, *The Modernist City*, p. 211-217.
 
 [^10]: Gustavo Uribe, 'Mesa de JK no Planalto deve passar por
     restauração e ser aposentada', *CNN Brasil*, 5 January 2023,
@@ -480,7 +480,7 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
 
 [^15]: Rafael Lazzarotto Simioni, 'Arte e direito: A Justiça, de Alfredo
     Ceschiatti, no STF', *Suprema: revista de estudos constitucionais* 1
-    (July/December 2021), p. 248--250.
+    (July/December 2021), p. 248-250.
 
 [^16]: Giorgio Agamben, *State of Exception*, trans. Kevin Attell.
     Chicago: University of Chicago Press, 2005.
@@ -511,7 +511,7 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
     https://neofeed.com.br/blog/home/de-sala-de-jantar-de-navio-ao-salao-nobre-a-viagem-de-as-mulatas-ate-a-depredacao/.
 
 [^23]: For an engaged reading, see Andréa Marques Chamon, *As 'mulatas'
-    de Di Cavalcanti -- um estudo em Psicologia Social*, Master thesis,
+    de Di Cavalcanti — um estudo em Psicologia Social*, Master thesis,
     Faculdade de Filosofia e Ciências Humanas da Universidade Federal de
     Minas Gerais, Belo Horizonte, 2017.
 
