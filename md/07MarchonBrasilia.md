@@ -24,7 +24,7 @@ Rights: CC BY-NC 4.0
 ## Introduction
 
 On January 8, 2023, demonstrators attacked and occupied government
-buildings in Brasília. The event was described by analysts and
+buildings in Brasilia. The event was described by analysts and
 commentators as a coup act. Since the 2022 presidential elections, won
 by Luís Inácio Lula da Silva, supporters of former President Jair
 Bolsonaro have refused to recognize election results, claiming that
@@ -67,7 +67,7 @@ political gangsterism.[^f07_4] Using the concept of *class fraction*,[^f07_5] it
 is possible to say that Bolsonarism brings together sectors of the
 commercial bourgeoisie, the financial bourgeoisie, the agrarian
 oligarchy, and war- and crime lords (the so-called Brazilian
-*militias*[^f07_6]). Thus, it expresses the alliance between radical sectors
+*militias*)[^f07_6]. Thus, it expresses the alliance between radical sectors
 of the financial bourgeoisie, the old land oligarchy, and political
 gangsterism.[^f07_7]
 
@@ -632,8 +632,8 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
     organizational leaders of a given subgroup or given specific
     political action of a larger political movement.
 
-[^f07_16]: MUSSOLINI, "Speech at the Parlament, 3, January, 1925", in
-    MUSSOLINI, My Autobiography. New York: Charles Scribner's Sons,
+[^f07_16]: Benito Mussolini, "Speech at the Parlament, 3, January, 1925", in
+    Benito Mussolini, My Autobiography. New York: Charles Scribner's Sons,
     1928. P. 23
 
 [^f07_17]: Benito Mussolini and E. Cope, *The doctrine of fascism*.

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Governos Autoritários na Democracia Brasileira: Como o Ataque Golpista de 8 de Janeiro Começou em 2013
+# Governos Autoritários na Democracia Brasileira: A Origem Política do 8 de Janeiro
 
 ### Gizele Martins
 
@@ -79,7 +79,7 @@ de extrema-direita, não poderíamos esperar uma atitude diferente diante
 da derrota nas eleições para o governo PT, que foi alvo de diversas fake
 news.
 
-## Histórico: Manifestações de rua, criminalização de grupos da esquerda e avanço da direita nas ruas em 2013
+## Histórico: A Criminalização da Esquerda e a Ascensão da Direita
 
 No entanto, a mobilização golpista da direita não começou hoje. A
 análise que aqui empreendo parte da minha identidade e posição social.
@@ -115,7 +115,7 @@ que em março'.[^9]
 Assim, lá em 2015, a mídia já reforçava insistentemente que a Presidenta
 Dilma era corrupta, mesmo sem quaisquer provas. Depois de muitos ataques
 à então Presidenta, a própria mídia brasileira ajudou a convocar a
-população para as manifestações que culminaram no golpe contra o governo
+população para as manifestações que culminaram no golpe parlamentar contra o governo
 petista. Um dos grandes exemplos desse esforço foram os 'panelaços'
 realizados todos os dias durante o noticiário do Jornal Nacional: a cada
 vez que se falava contra a Presidente Dilma no jornal de maior destaque
@@ -138,7 +138,7 @@ necessário reconquistar e reconstruir espaços de diálogo com esta
 população, que nos últimos anos desencantou-se com a política
 estatal-partidária.
 
-## Contexto: os impactos históricos dos governos petistas nas favelas do Rio de Janeiro
+## Contexto: O Impacto dos Governos Petistas nas Favelas Cariocas
 
 Em 2023 a 'Jornadas de Junho' completam dez anos. Na época, inúmeros
 movimentos sociais tomaram as ruas das grandes capitais do Brasil.[^10]
@@ -214,7 +214,7 @@ periferias do Brasil, os termos 'pacificação', 'polícia', 'exército',
 e criminalização da pobreza. Para o filósofo camaronês Achille Mbembe,
 esta é uma forma de controle que tem suas raízes na colonização:
 
-> (\...) 'política neste caso, não o avanço de um movimento dialético da
+> (\...) política neste caso, não o avanço de um movimento dialético da
 > razão. A política só pode ser traçada como uma transgressão em espiral,
 > como aquela diferença que desorienta a própria ideia do limite. Mais
 > especificamente a política é a diferença colocada em jogo pela violação
@@ -271,7 +271,7 @@ do PT durante o processo de golpe contra o governo da Presidenta Dilma
 Rousseff, em 2016, e a subsequente eleição de Jair Bolsonaro em 2018,
 que contou com expressiva votação popular.
 
-## Conclusão: Governos autoritários na democracia de ontem e hoje podem ter influenciado no Brasil atual e como evitar um novo 8 de janeiro?
+## Conclusão: Como Evitar Que a Barbárie Se Repita
 
 A efervescência das ruas em 2013 catalisou diversas outras
 manifestações, ações comunitárias, debates públicos, trabalhos
@@ -349,7 +349,7 @@ ainda nos resta de democracia!
 ## Bibliografia 
 
 Bergamini, Guilherme. 'Mídia brasileira é controlada por apenas 11
-famílias', *FNDC*, 17 setembro 2015,
+famílias', *FNDC*, 17 September 2015,
 http://www.fndc.org.br/noticias/midia-brasileira-e-controlada-por-apenas-11-familias-924625/.
 
 Brasil, Casa Civil. *Lei nº 12.035, Adotada em 1º de Outubro de 2009,*
@@ -357,11 +357,11 @@ Brasil, Casa Civil. *Lei nº 12.035, Adotada em 1º de Outubro de 2009,*
 http://www.planalto.gov.br/ccivil_03/\_ato2007-2010/2009/lei/l12035.htm.
 
 G1. 'Todos os estados e o DF têm protestos contra o governo Dilma',
-*Portal G1*, 16 agosto 2015,
+*Portal G1*, 16 August 2015,
 https://g1.globo.com/politica/noticia/2015/08/manifestantes-protestam-contra-o-governo-dilma-em-cidades-do-brasil.html.
 
 G1. 'Ataques em Brasília: quem quebrou, quem bancou, quem incitou e como
-agiram as forças de segurança', *Portal G1*, 13 janeiro 2023,
+agiram as forças de segurança', *Portal G1*, 13 January 2023,
 https://g1.globo.com/df/distrito-federal/noticia/2023/01/13/ataques-em-brasilia-quem-quebrou-quem-bancou-quem-incitou-e-como-agiram-as-forcas-de-seguranca.ghtml#.
 
 Instituto Pacs. *Militarização do Cotidiano: Um legado olímpico,* Rio de
@@ -426,7 +426,7 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     http://www.fndc.org.br/noticias/midia-brasileira-e-controlada-por-apenas-11-familias-924625/
 
 [^9]: G1, 'Todos os estados e o DF têm protestos contra o governo
-    Dilma', Portal G1, 16 de Agosto de 2015,
+    Dilma', Portal G1, 16 August 2015,
     https://g1.globo.com/politica/noticia/2015/08/manifestantes-protestam-contra-o-governo-dilma-em-cidades-do-brasil.html
 
 [^10]: As manifestações de 2013 reuniram movimentos de favelas que
@@ -469,15 +469,12 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     penitenciário'. Gizele Martins, 'A favela, os megaeventos e as
     manifestações no Rio de Janeiro'.
 
-[^15]: Copa das Confederações FIFA ou Taça das Confederações FIFA, foi
+[^15]: Copa das Confederações FIFA ou Taça das Confederações FIFA, é
     um torneio de futebol organizado pela Federação Internacional de
     Futebol entre seleções a cada quatro anos. Em 2013 e 2014 foi
     realizada no Rio de Janeiro, no Brasil.
 
-[^16]: Maré, um conjunto de 16 favelas, oficialmente conhecido como
-    Conjunto de Favelas da Maré, está localizado na Zona Norte do Rio de
-    Janeiro. São mais de 132 mil moradores espalhados pelas 16 favelas
-    segundo o Censo Maré 2000. As favelas que formam todo o conjunto
+[^16]: As favelas que formam todo o conjunto
     são: Baixa do Sapateiro, Morro do Timbau, Parque Maré, Nova Maré,
     Nova Holanda, Rubens Vaz, Parque União, Conjunto Esperança, Conjunto
     Pinheiros, Vila do Pinheiro, Vila do João, 'Salsa e Merengue',
@@ -518,7 +515,7 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     empregados na Força de Pacificação da Maré 1.900 militares do
     Exército (Brigada de Infantaria Paraquedista), 400 da Marinha (Corpo
     de Fuzileiros Navais) e 200 da PM\'. Martins, *Militarização e
-    Censura: A luta por liberdade de expressão na Favela da Maré.*
+    Censura, 2018*
 
 [^24]: No que diz respeito à propriedade industrial e intelectual,
     atribuiu ao governo federal a obrigatoriedade de controlar,

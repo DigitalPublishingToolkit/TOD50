@@ -27,11 +27,11 @@ Rights: CC BY-NC 4.0
 > driven by a common desire to stupefy themselves and each other. Whether
 > the desire is conscious, or unconscious is not important.'* <br/>
 > 
-> -- Olavo de Carvalho[^f05_2]
+> — Olavo de Carvalho[^f05_2]
 > 
 > *'Olavo is right'* <br/>
 > 
-> -- Bolsonarist catchphrase
+> — Bolsonarist catchphrase
 
 
 Jair Bolsonaro was elected in 2018 and since then, he has been spreading
@@ -48,12 +48,12 @@ since Bolsonaro took power. With the support of the Federal Highway
 Police and Military Police, truck drivers occupied roads and highways,
 halting the circulation of people and goods and choking the main cities
 of the country. The blockades were only lifted weeks later thanks to the
-action of football supporters who when the Brazilian national football
-championship resumed were eager to attend the matches and support their
+action of football supporters who, when the Brazilian national football
+championship resumed, were eager to attend the matches and support their
 teams. To access the stadiums, they had to clear the way from the
 Bolsonarist barricades. Even the most fanatical supporters of Bolsonaro
 could not stand in the way of the Gaviões da Fiel, or, the Faithful
-Hawks, the organized fan union of Corinthians.[^f05_5]) Someone could say,
+Hawks, the organized fan union of Corinthians.[^f05_5] Someone could say,
 perhaps, that God sent the 'faithful Corinthians' to spread His wisdom
 and will: 'Love does not delight in evil but rejoices with the truth. It
 always protects, always trusts, always hopes, always perseveres.'[^f05_6]
@@ -81,8 +81,8 @@ and conspiracy theories.
 
 The kernel of alt-right conspiracy theories became known in alt-right
 circles as 'cultural Marxism'. But what the hell is that? Conservative
-scholars like Paul Gottfried (founder of paleo conservatism), Michael
-Minnicino (infamous creator of cultural Marxism), and James Davison
+scholars like Paul Gottfried (founder of paleoconservatism), Michael
+Minnicino (infamous creator of the term cultural Marxism), and James Davison
 Hunter (who theorizes the cultural war),[^f05_7] alt-right influencers like
 Bolsonaro's political advisor Olavo de Carvalho[^f05_8], and specialists in
 international relations, such as Brazilian diplomat and former Foreign
@@ -472,8 +472,8 @@ coup? Because they really believe in these conspiracies, and because
 this discourse has been constructed since the end of the military
 dictatorship. Documents like the *Orvil Project,*[^f05_37] a classified file
 that recounts a delusional version of Brazil's history through a war
-between communists and patriots, and whose last chapter is the cultural
-war, was written in the 1970s and has been unearthed by the far-right.
+between communists and patriots, and whose last chapter focuses on cultural
+war, were written in the 1970s and have been unearthed by the far-right.
 
 Unconscious beliefs do not act alone in this war. Today, there is a
 pragmatic, systematic, and international organization of alt-right
@@ -622,13 +622,10 @@ violent uprising. Speeches enact concrete events, and they can express
 themselves in acts because the unconscious is made of discursive acts,
 and politics are always filled with desires.
 
-## Bibliography
-
-*'Projeto Orvil',* (n.d.),
-https://www.averdadesufocada.com/images/orvil/orvil_completo.pdf.
+## References
 
 Araújo, Ernesto. 'Trump e o ocidente', *Cadernos de Política Exterior*
-III.6 (Winter 2017): 323--358.
+III.6 (Winter 2017): 323-358.
 
 Aristotele. *Retórica e Poética*, Torino: Unione Tipografico-Editrice
 Torinese, 2004.
@@ -654,7 +651,7 @@ Columbia Press, 1995.
 Schizophrenia,* Minneapolis: University of Minnesota Press, 1983.
 
 Freud, Sigmund. *Negation*, *International Journal of Psycho-Analysis*
-6.4(1925):367--371.
+6.4(1925):367-371.
 
 \_\_\_\_\_. *Totem and Taboo*, London: Rutledge, 2001.
 
@@ -671,13 +668,13 @@ Gottfried, Paul Edward. *Multiculturalism and the Politics of Guilt,
 Toward a Secular Theocracy*, Columbia: University of Missouri Press,
 2002.
 
-Gramsci, Antonio. *Selection from Political Writings 1921--1926*,
+Gramsci, Antonio. *Selection from Political Writings 1921-1926*,
 Minneapolis: University of Minnesota Press, 1990.
 
 Horbyk, Roman, Löfgren, Isabel, Soriano, Cheryll and Prymachenko, Yana.
 'Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
-Philippines, Brazil, Russia and Ukraine', *Public Inquiry: The Journal
-of Kitsch, Camp and Mass Culture* 8.1 (2021): 30--54.
+Philippines, Brazil, Russia and Ukraine', *Popular Inquiry: The Journal
+of Kitsch, Camp and Mass Culture* 8.1 (2021): 30-54.
 
 Hunter, James D. *Cultural Wars: The struggle to define America - Making
 Sense of the Battle over Family, Art, Education, Law, and Politics*. New
@@ -700,7 +697,7 @@ Mello, Patrícia C. *A máquina do ódio: Notas de uma repórter sobre Fake
 news e violência digital*, São Paulo: Companhia das Letras, 2020.
 
 Minnicino, Michael J. 'The Frankfurt School and 'political correctness'.
-*Fidelio*, 1 (Winter 1992): 4--27.
+*Fidelio*, 1 (Winter 1992): 4-27.
 
 Plato. *Gorgias*. Oxford: Clarendon Press, 1979.
 
@@ -710,6 +707,9 @@ the Rue Morgue and The Purloined Letter*. Genoa: Black Cat Publishing,
 
 Prado, Michele. *Tempestade Ideológica: Bolsonarismo, a Alt-right e o
 Populismo Liberal no Brasil*, São Paulo: Lux Editora, 2021.
+
+*'Projeto Orvil',* (n.d.),
+https://www.averdadesufocada.com/images/orvil/orvil_completo.pdf.
 
 Rocha, João C. C. *Guerra Cultural e retórica do Ódio: Crônicas de um
 Brasil pós-político,* Goiânia: Caminhos, 2021.
@@ -745,7 +745,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 [^f05_7]: See Paul Edward Gottfried, *Multiculturalism and the Politics of
     Guilt, Toward a Secular theocracy.* Columbia: University of Missouri
     Press, 2002.; Michael J. Minnicino, *The Frankfurt School and
-    'political correctness'*. *Fidelio* 1 (Winter 1992): 4--27; and
+    'political correctness'*. *Fidelio* 1 (Winter 1992): 4-27; and
     James D. Hunter, *Cultural Wars: The struggle to define America -
     Making sense of the battle over family, art, education, law, and
     politics.* New York: BasicBooks, 1992.
@@ -756,7 +756,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
     such as Trump and Putin. He influenced the emergence of Bolsonarism.
 
 [^f05_9]: Ernesto H. F. Araújo, 'Trump e o ocidente*'*, *Cadernos de
-    Política Exterior* III.6 (Winter2017): 323--358.
+    Política Exterior* III.6 (Winter2017): 323-358.
 
 [^f05_10]: Edgar A. Poe, 'The Purloined Letter', In Edgar A. Poe, *The
     Murder in the Rue Morgue and The Purloined Letter*. Genoa: Black cat
@@ -775,7 +775,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 
 [^f05_15]: Roman Horbyk, Isabel Löfgren, Yana Prymachenko, Cheryll Soriano.
     'Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
-    Philippines, Brazil, Russia and Ukraine'. *Public Inquiry: The
+    Philippines, Brazil, Russia and Ukraine'. *Popular Inquiry: The
     Journal of Kitsch, Camp and Mass Culture* 8.1 (Autumn 2021).
 
 [^f05_16]: Cicerón, *De l\'oratoire. Livre III, 5, 19*. Paris: Les Belles

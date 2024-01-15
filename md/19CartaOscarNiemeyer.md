@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Caro Oscar Niemeyer
+# Carta ao Arquiteto
 
 ### Tatiana Letier Pinto
 
@@ -206,9 +206,7 @@ fim do seu relato, Pero Vaz Caminha conclama ao Rei de vir para essas
 terras para civiliza-las e 'salvar esta gente'.
 
 Eu gosto muito de cartas: escrever cartas, receber cartas, ler cartas
-alheias, esse
-
-formato de comunicação direta entre duas pessoas gera uma intimidade que
+alheias, esse formato de comunicação direta entre duas pessoas gera uma intimidade que
 propicia a sinceridade, inclusive esse é um dos motivos que me levaram a
 lhe escrever uma carta, pois também acredito ser um ato de afeto. As
 cartas podem findar num fundo de baú esquecidas ou tornar-se até um
@@ -259,7 +257,7 @@ foi instaurada.
 
 A Missão Cruls não foi a única excursão de interiorização no Brasil, o
 então presidente em 1943, Getúlio Vargas persistiu com o intuito de
-explorar o entro-terra e crescer o país nessa direção, iniciando o
+explorar o entroterra e crescer o país nessa direção, iniciando o
 projeto \'A Marcha para o Oeste\'[^8]. Detalhes da primeira expedição da
 Marcha está no relato compartilhado pelos irmãos Villas Bôas, que
 lideraram parte dessa expedição. Eles relatam no diário que foi
@@ -373,9 +371,9 @@ Quem e o que circulava nos espaços de Brasília estava dando continuidade
 a um projeto de país moderno semeado na concepção da capital. Tem uma
 passagem do livro *A Peste* de Albert Camus que diz assim:
 
-> 'o bacilo da peste nunca morre ou desaparece de vez -- este pode
-> permanecer adormecido por anos e anos em móveis e baús á espera em
-> quartos, porões, móveis e estantes -- para que talvez chegue o dia em
+> 'o bacilo da peste nunca morre ou desaparece de vez - este pode
+> permanecer adormecido por anos e anos em móveis e baús à espera em
+> quartos, porões, móveis e estantes - para que talvez chegue o dia em
 > que, para desgraça e esclarecimento dos homens, seus ratos despertem
 > novamente e os envie para morrer em uma cidade feliz'.[^12]
 
@@ -417,7 +415,7 @@ que não foi considerado por você?
 
 \*\*\*
 
-Há pouco mais de uma semana atrás, no dia 1o. de janeiro, o presidente
+Há pouco mais de uma semana atrás, no dia no dia 1º. de janeiro, o presidente
 eleito Lula da Silva fez exatamente isso: ofereceu Brasília para todas e
 todos. Neste dia da posse, ele subiu a rampa de mãos dadas com todos
 aqueles que Brasília sempre exclui, dizimou, ignorou e silenciou. Os
@@ -461,6 +459,14 @@ Te abraço fortemente e com muito respeito.
 Atenciosamente,
 
 Tatiana Letier Pinto
+
+<br/>
+
+Próxima página: 
+<br/>
+Tatiana Letier Pinto, *Carta ao arquiteto*, digital collage and photography, 2023. Courtesy of the artist.
+
+<br/>
 
 ![](imgs/19_1.tif)
 
@@ -515,7 +521,7 @@ Tatiana Letier Pinto
      colocados na Praça dos Três Poderes. (Fonte: Redes sociais)
      
 
-####English
+####Captions
 
 1\. Female restroom in the Brazilian Federal Senate in Brasilia, built in
 2015. (Photo: Tatiana Letier Pinto, June 2023)
@@ -637,11 +643,11 @@ Companhia das Letras, 2012.
     brasileira. Era patrocinado pela companhia estadunidense Esso e as
     notícias eram sob controle dos Estados Unidos.
 
-[^10]: UFRJ -- Universidade Federal do Rio de Janeiro.
+[^10]: UFRJ - Universidade Federal do Rio de Janeiro.
 
 [^11]: \'Quem somos\', Quilombo Kalunga, acessado 13 de Outubro de 2023, https://quilombokalunga.org/press/quem-somos/
 
 [^12]: Albert Camus, *A Peste,* Rio de Janeiro: Record, 2017, p. 288.
 
 [^13]: Aforismo conhecido do cartunista, escritor e jornalista Millôr
-    Fernandes que faleceu em 2012.
+    Fernandes (1923–2012).

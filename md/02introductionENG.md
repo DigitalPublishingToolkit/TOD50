@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Introduction
 
-### Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins 
+### Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins 
 
 Unlike many books written about historical events, the idea for this
 book arose in June 2022, months before the event we discuss in this
@@ -202,7 +202,7 @@ economic, historical, communicational, and aesthetic contexts relate to
 the phenomenon we are experiencing.
 
 Our goal in *The Planalto Riots: The Making and Unmaking of a Failed
-Coup in Brazil* is not journalistic -- there are better sources for this
+Coup in Brazil* is not journalistic - there are better sources for this
 type of approach. Also, the guiding thread of this book is not to report
 what happened before, during, and after 8 January 2023, but to cast a
 critical eye on symbolic and communicational practices surrounding the
@@ -251,7 +251,7 @@ Janeiro's *favelas* that could serve as a blueprint for potential
 military interventions, such as the one desired by 8 January protesters.
 An artistic contribution by Gustavo Speridião and Leandro Barboza's
 collective *Faixa Protesta* shows how their 'painting-manifesto' voiced
-out people's demands for justice for the antidemocratic acts the day
+out people's demands for justice for the anti-democratic acts the day
 after the coup.
 
 The chapters in the third part *Art and Architecture: Brasilia* explore
@@ -275,7 +275,7 @@ address a traumatic aspect of Brazilian identity concerning our
 (self-)image, our complicated and problematic relationship with
 Indigenous peoples, and how this relationship came to the forefront
 during and after the attempted coup. Clementino Jesus Junior analyzes
-the polarization of narratives about the events of 8 January 8th in an
+the polarization of narratives about the events of January 8th in an
 analogy with the game of chess and how front page images in newspapers
 frame different narratives connected to the failed coup. Bartira S.
 Fortes highlights the paradox between Indigenous visibility at Lula da
@@ -303,11 +303,11 @@ David, and McKee, Miranda. *The Capitol Riots: Digital Media,
 Disinformation, and Democracy Under Attack*, Routledge, 2022.
 
 Peruzzo, Cecilia M. Krohling. 'Comunicação Comunitária E Educação Para
-a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
+a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651-68,
 <https://doi.org/10.17231/comsoc.2(2000).1427>.
 
 Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.' *openDemocracy*, 10 October, 2023,
+Brasil.' *openDemocracy*, 10 October 2023,
 <https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
@@ -334,7 +334,7 @@ Break America*, New York: Random House, 2019.
 
 [^introEng_4]: Cecilia M. Krohling Peruzzo, 'Comunicação Comunitária E Educação
     Para a Cidadania,' *Comunicação e Sociedade* 2 (August 29, 2000):
-    651--68.
+    651-68.
 
 [^introEng_5]: Sandra Jeppesen Michael Hoechsmann, Miranda McKee, iowyth hezel
     ulthiin and David Van Dyke, *The Capitol Riots: Digital Media,

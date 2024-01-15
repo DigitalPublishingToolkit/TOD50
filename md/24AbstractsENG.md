@@ -48,19 +48,11 @@ protester, a so-called 'Patriot', tried to prevent a dissident truck
 from breaking through a road blockade and clung to the truck's
 windshield on a 10km high-speed journey. Images of the man hanging on
 the outside of the truck were captured on video and soon went viral on
-the internet. As soon as these initial images were shared on social
-media, they were immediately appropriated by various social actors who
-produced numerous memes that circulated widely across different
-platforms, becoming the most prominent meme of 2022 on the Brazilian
-internet. This collective action provided an opportunity for the left to
-gain superiority on social media in the post-election period, where
-laughter became a tool for celebrating Lula's victory and signaling the
-demise of Bolsonaro. However, as the meme circulated, Bolsonarist
-protests and threats of coups and anti-democratic acts escalated. We
+the internet. We
 analyze the appropriation of the image of the \'Truck Patriot\' from
 multiple angles, framings, and reconfigurations as a unique
-interdiscursive internet phenomenon - the circulation of laughter
-through memetics - which helped to, on the one hand, unify
+interdiscursive internet phenomenon — the circulation of laughter
+through memetics — which helped to, on the one hand, unify
 anti-Bolsonarist audiences in the post-electoral period and on the other
 hand, fuel the hatred and resentment of Bolsonarists, which would
 culminate months later in the attempted coup on January 8, 2023.
@@ -71,7 +63,7 @@ culminate months later in the attempted coup on January 8, 2023.
 
 The demonstrations of January 8, 2023, in Brazil, can be read as an
 ultra-right insurrection similar to Mussolini\'s March on Rome, in 1922.
-Here we will seek to draw parallels between Bolsonarism and fascism. The
+Here I will seek to draw parallels between Bolsonarism and fascism. The
 paper points out elements that indicate that the events on January 8 had
 a similar objective to that of the March on Rome: to create a climate
 that would lead the authorities to hand over power to the leader of the
@@ -81,7 +73,7 @@ movement.
 
 ### Aline Roes Dalmolin and Maria Eduarda Mathias
 
-The chapter aims to analyze how the mobilization for the anti-democratic
+The chapter analyzes how the mobilization for the anti-democratic
 act of January 8th, 2023 took place through extreme-right Bolsonarist
 groups on social media platforms in Brazil. We bring here the reality of
 platformization, which encompasses new technologies and their impacts on
@@ -136,7 +128,7 @@ narrative in understanding the unfolding of the Planalto Riots.
 Our chapter highlights aspects of communication-media dynamics that
 affect Brazilian democratic life today. We do so notably through the
 discussion of the violent insurrection on 8 January 2023, that took
-place in Brasília, the federal capital of Brazil, after a week of the
+place in Brasilia, the federal capital of Brazil, after a week of the
 emblematic inauguration of Luiz Inácio Lula da Silva to the presidency
 of the Republic. The inauguration, which did not include the solemn act
 of handing over the position by his predecessor, Jair Messias Bolsonaro,
@@ -163,7 +155,7 @@ war that has (mis)information as its main input.
 The article begins the discussion by addressing the current political
 situation in Brazil, where there is a significant far-right presence
 that attempted to seize power by invading the buildings of the Three
-Powers in Brasília, the capital of Brazil. However, the actions of the
+Powers in Brasilia, the capital of Brazil. However, the actions of the
 far-right on January 8, 2023, appear to be more of a continuation of the
 protests from previous decades. In a recent past, about ten years ago,
 since the \'June Protests\' of 2013, conservative and far-right
@@ -293,7 +285,7 @@ democracy and confronting patriarchal and colonial legacies.
 
 We resort to the myth of Narcissus to problematize images and their
 power both in the invasion of the Três Poderes Square (Palácio do
-Planalto, Supreme Court, and the National Congress) in Brasília, on
+Planalto, Supreme Court, and the National Congress) in Brasilia, on
 January 8th, 2023 where images of the event are considered an expression
 of vanity, and the humanitarian crisis involving the Yanomami
 Reservation in Roraima revealed only days later, where images act as
@@ -302,7 +294,7 @@ amplitude in media circuits, we are interested in thinking about the
 role of the image as an agent of meaning in these mediatized conflicts.
 In particular, such images allow us to understand the social practices
 and the communicative dynamics that reveal both the cult of exposure in
-the case of the PLanalto Riots and the disappearance of subjects through
+the case of the Planalto Riots and the disappearance of subjects through
 invisibility through the Yanomami humanitarian crisis -- happening only
 days between each other. In this sense, the gaze falls on the notion of
 \'performative crime\' in digital media as a narcissistic movement of

@@ -1,6 +1,6 @@
 
 #The Planalto Riots
-## Making and Unmaking a Failed Coup in Brazil
+## Making and Unmaking: A Failed Coup in Brazil
 
 <div style="page-break-after: always"></div>
 
@@ -8,29 +8,29 @@
 # Colophon 
 
 **INC Theory on Demand #51** <br/>
-The Planalto Riots. Making and Unmaking a Failed Coup in Brazil's
+The Planalto Riots Making and Unmaking of A Failed Coup in Brazil
 
-**Edited by:** Lou Caffagni, Isabel Löfgren, Paola Sartoretto, and
-Gizele Martins
+**Edited by:** Lou Caffagni, Isabel Löfgren,
+Gizele Martins and Paola Sartoretto
 
 **Contributors:** Viviane Borelli, Lou Caffagni, Apoena Canuto Cosenza,
 Bartira S. Fortes, Camila Hartmann, Clementino Junior, Tatiana Letier
 Pinto, Isabel Löfgren, Ada C. Machado Silveira, Alecsandra Matias de
 Oliveira, Maria Eduarda Mathias, Gizele Martins, Ana Paula da Rosa,
 Aline Roes Dalmolin, Eduardo Ruedell, Gabriela Schneider, and Oscar
-Svanelid.
+Svanelid
 
 **Artistic contributions by:** Tatiana Letier Pinto, Isabel Löfgren,
-Laercio Redondo, and Gustavo Speridião & Leandro Barboza/Faixa Protesta.
+Laercio Redondo, and Gustavo Speridião & Leandro Barboza/Faixa Protesta
 
 **Cover design:** Katja van Stiphout <br/>
-**Design and EPUB development:** Giulia Timis and Erica Gargaglione
+
+**Design and EPUB development:** Tommaso Campagna, Erica Gargaglione, Carolina Valente Pinto and Giulia Timis 
 
 <br/>
-
 Published by the Institute of Network Cultures, Amsterdam 2024.
 
-ISBN: xxxx
+ISBN: 9789083328270
 
 **Contact:** Institute of Network Cultures <br/>
 Amsterdam University of Applied Sciences (HvA)
@@ -54,89 +54,90 @@ NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this 
 
 # TABLE OF CONTENTS
 
+<a href='ch004.xhtml'>Acknowledgements</a>
 
-<a href='ch004.xhtml'> Introduction, *Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins*</a>
+<a href='ch004.xhtml'> Introduction, *Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins*</a>
 
-<a href='ch005.xhtml'>Introdução, *Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins*</a>
+<a href='ch006.xhtml'>Introdução, *Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins*</a>
 
 ## Media Practices Before the Storm / Práticas midiáticas antes da tempestade
 
-<a href='ch007.xhtml'>Fake News, Memes, and the Unconscious Production of Paranoid
+<a href='ch008.xhtml'>Fake News, Memes, and the Unconscious Production of Paranoid
      Utterances, Lou Caffagni</a>
 
-<a href='ch008.xhtml'>Around the World with the Truck Patriot: Memetization and the
+<a href='ch009.xhtml'>Around the World with the Truck Patriot: Memetization and the
      Circulation of Laughter in the 2022 Post-Election Period in
      Brazil, Viviane Borelli and Isabel Löfgren, and visual essay by Isabel
      Löfgren</a>
 
-<a href='ch009.xhtml'>The March on Brasilia: An Interpretation of Bolsonarist Actions in
+<a href='ch010.xhtml'>The March on Brasilia: An Interpretation of Bolsonarist Actions in
      Preparation for the January 8, 2023 Insurrection,
      Apoena Cosenza</a>
 
-<a href='ch010.xhtml'>The Green-and-Yellow Black Box: Mobilization on Platforms for the
-     Anti-Democratic Event on January 8, 2023,
+<a href='ch011.xhtml'>The Green-and-Yellow Black Box: Mobilization on Platforms Toward the Attempted Coup on January 8, 2023,
      Aline Roes Dalmolin e Maria Eduarda Mathias</a>
 
 ## The Attempted Coup/A tentativa de golpe
 
-<a href='ch012.xhtml'>Experience and Barbarism in Brasilia: a Savage Journey to
+<a href='ch013.xhtml'>Experience and Barbarism in Brasilia: a Savage Journey to
      Understand the Heart of Brazilian Conservative Rioters,
      Eduardo Ruedell</a>
 
-<a href='ch013.xhtml'>Brasília, 8 de janeiro de 2023: a festa acabou! A guerra (ainda)
+<a href='ch014.xhtml'>Brasília, 8 de janeiro de 2023: a festa acabou! A guerra (ainda)
      não,
      Camila Hartmann, Ada C. Machado Silveira e Gabriela Schneider</a>
 
-<a href='ch014.xhtml'>Governos autoritários na democracia brasileira: atos golpistas da
-     extrema-direita não começaram hoje,
+<a href='ch015.xhtml'>Governos autoritários na democracia brasileira: A Origem Política do 8 de Janeiro,
      Gizele Martins</a>
 
-<a href='ch015.xhtml'>Against the Ultra-Right Coup-Mongers, Organize Self-Defense/Contra
+<a href='ch016.xhtml'>Against the Ultra-Right Coup-Mongers, Organize Self-Defense/Contra
      a direita golpista, organizar a auto-defesa,
-     Gustavo Speridião and Leandro Barboza/Faixa Protesta</a>
+    Gustavo Speridião & Leandro Barboza/Faixa Protesta</a>
 
 ## Art and architecture: Brasília / Arte e arquitetura: Brasília
 
-<a href='ch017.xhtml'>A arte e o instante político,
+<a href='ch018.xhtml'>A arte e o Instante Político,
      Alecsandra Matias de Oliveira</a>
-
-<a href='ch018.xhtml'>The Stories of the Victims: The Planalto Riots from the
-     Perspective of Terrorized Art,
-     Oscar Svanelid</a>
 
 <a href='ch019.xhtml'>Memory from Brasilia / Lembrança de Brasília, Laercio Redondo</a>
 
+<a href='ch020.xhtml'>The Stories of the Victims: The Planalto Riots from the
+     Perspective of Terrorized Art,
+     Oscar Svanelid</a>
+
 <a href='ch021.xhtml'>Death of the Author / Morte do Autor, Laercio Redondo</a>
 
-<a href='ch023.xhtml'>Carta a Oscar Niemeyer,
+<a href='ch022.xhtml'>Carta ao Arquiteto,
      Tatiana Letier Pinto</a>
 
 ## The Image and the Other/A imagem e o outro
 
-<a href='ch025.xhtml'>8J, Clementino Jesus Junior</a>
+<a href='ch024.xhtml'>8J, Clementino Jesus Junior</a>
 
-<a href='ch026.xhtml'>Indigenizing Democracy: Never Again a Brazil Without Us, Bartira Fortes</a>
+<a href='ch025.xhtml'>Indigenizing Democracy: Never Again a Brazil Without Us, Bartira Fortes</a>
 
 
-<a href='ch027.xhtml'>Enquanto Narciso Invade o Congresso brasileiro, Yanomamis desaparecem nas águas, Ana Paula da Rosa</a>
+<a href='ch026.xhtml'>Enquanto Narciso Invade o Congresso brasileiro, Yanomamis desaparecem nas águas, Ana Paula da Rosa</a>
 
 ## Appendix
 
-<a href='ch028.xhtml'>Abstracts</a>
+<a href='ch027.xhtml'>Abstracts / Resumos</a>
 
-<a href='ch029.xhtml'>Resumos</a>
 
-<a href='ch030.xhtml'>Contributor Biographies</a>
+<a href='ch029.xhtml'>Biographies / Biografias</a>
 
-<a href='ch031.xhtml'>Biografias dos autores</a>
 
-<a href='ch032.xhtml'>Acknowledgements</a>
+<div style="page-break-after: always"></div>
 
+
+#Acknowledgments
+
+We created this book out of a need to create a historical document about what we consider to be one of the ‘darkest episodes of an already dark period’ in Brazilian history, as Clementino Jesus Junior writes in his chapter in this collection. Given the urgency of this book, this book is the collective of the editors and contributors who we would like to thank for their time and dedication in writing their texts and for their belief in our proposal. We would also like to thank Geert Lovink and the INC team for receiving our idea enthusiastically and waiting patiently for the manuscript to materialize. A special thanks to the entire team at INC who keeps the Theory on Demand series going, especially Tommaso Campagna, Erica Gargaglione, Carolina Valente Pinto and Giulia Timis. We are proud to be part of this collection. 
 
 
 # Introduction
 
-### Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins 
+### Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins 
 
 Unlike many books written about historical events, the idea for this
 book arose in June 2022, months before the event we discuss in this
@@ -319,7 +320,7 @@ economic, historical, communicational, and aesthetic contexts relate to
 the phenomenon we are experiencing.
 
 Our goal in *The Planalto Riots: The Making and Unmaking of a Failed
-Coup in Brazil* is not journalistic -- there are better sources for this
+Coup in Brazil* is not journalistic - there are better sources for this
 type of approach. Also, the guiding thread of this book is not to report
 what happened before, during, and after 8 January 2023, but to cast a
 critical eye on symbolic and communicational practices surrounding the
@@ -368,7 +369,7 @@ Janeiro's *favelas* that could serve as a blueprint for potential
 military interventions, such as the one desired by 8 January protesters.
 An artistic contribution by Gustavo Speridião and Leandro Barboza's
 collective *Faixa Protesta* shows how their 'painting-manifesto' voiced
-out people's demands for justice for the antidemocratic acts the day
+out people's demands for justice for the anti-democratic acts the day
 after the coup.
 
 The chapters in the third part *Art and Architecture: Brasilia* explore
@@ -392,7 +393,7 @@ address a traumatic aspect of Brazilian identity concerning our
 (self-)image, our complicated and problematic relationship with
 Indigenous peoples, and how this relationship came to the forefront
 during and after the attempted coup. Clementino Jesus Junior analyzes
-the polarization of narratives about the events of 8 January 8th in an
+the polarization of narratives about the events of January 8th in an
 analogy with the game of chess and how front page images in newspapers
 frame different narratives connected to the failed coup. Bartira S.
 Fortes highlights the paradox between Indigenous visibility at Lula da
@@ -420,11 +421,11 @@ David, and McKee, Miranda. *The Capitol Riots: Digital Media,
 Disinformation, and Democracy Under Attack*, Routledge, 2022.
 
 Peruzzo, Cecilia M. Krohling. 'Comunicação Comunitária E Educação Para
-a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
+a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651-68,
 <https://doi.org/10.17231/comsoc.2(2000).1427>.
 
 Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.' *openDemocracy*, 10 October, 2023,
+Brasil.' *openDemocracy*, 10 October 2023,
 <https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
@@ -451,7 +452,7 @@ Break America*, New York: Random House, 2019.
 
 [^introEng_4]: Cecilia M. Krohling Peruzzo, 'Comunicação Comunitária E Educação
     Para a Cidadania,' *Comunicação e Sociedade* 2 (August 29, 2000):
-    651--68.
+    651-68.
 
 [^introEng_5]: Sandra Jeppesen Michael Hoechsmann, Miranda McKee, iowyth hezel
     ulthiin and David Van Dyke, *The Capitol Riots: Digital Media,
@@ -473,10 +474,10 @@ Break America*, New York: Random House, 2019.
 
 # Introdução
 
-### Lou Caffagni, Isabel Löfgren, Paola Madrid Sartoretto, Gizele Martins 
+### Lou Caffagni, Isabel Löfgren, Paola Sartoretto, Gizele Martins 
 
 Diferente de muitos livros escritos sobre eventos históricos, a ideia
-geradora desse livro surgiu em junho de 2022, meses antes de o evento de
+geradora deste livro surgiu em junho de 2022, meses antes de o evento de
 que tratamos aqui se materializasse. O violento e nefasto ataque ao
 Capitólio nos Estados Unidos em Janeiro de 2021 e as semelhanças e
 relações entre a articulação da extrema direita nos Estados Unidos e no
@@ -714,7 +715,7 @@ posse do presidente Lula da Silva e a negação da diversidade nos atos de
 contemporâneo: a onipresença narcisista das imagens dos golpistas de 8
 de janeiro em paralelo à invisibilidade da tragédia que ameaça a vida e
 existência do povo Yanomami no Brasil, no contexto da crise humanitária
-deflagrada contra esse povo após a tentativa de golpe no dia 8 de
+deflagrada contra esse povo originário após a tentativa de golpe no dia 8 de
 janeiro, causando uma comoção nacional e internacional.
 
 ## Bibliografia
@@ -736,7 +737,7 @@ a Cidadania', *Comunicação e Sociedade* 2 (August 29, 2000): 651--68,
 <https://doi.org/10.17231/comsoc.2(2000).1427>.
 
 Ricardo, Carolina. 'A Democracia Não Pode Ser Considerada Garantida No
-Brasil.' *openDemocracy*, 10 October, 2023,
+Brasil.' *openDemocracy*, 10 October 2023,
 <https://www.opendemocracy.net/pt/democracia-nao-pode-ser-considerada-garantida-brasil-policialismo/>.
 
 Wylie, Christopher. *Mindf\*ck : Cambridge Analytica and the Plot to
@@ -781,11 +782,11 @@ Break America*, New York: Random House, 2019.
 > driven by a common desire to stupefy themselves and each other. Whether
 > the desire is conscious, or unconscious is not important.'* <br/>
 > 
-> -- Olavo de Carvalho[^f05_2]
+> — Olavo de Carvalho[^f05_2]
 > 
 > *'Olavo is right'* <br/>
 > 
-> -- Bolsonarist catchphrase
+> — Bolsonarist catchphrase
 
 
 Jair Bolsonaro was elected in 2018 and since then, he has been spreading
@@ -802,12 +803,12 @@ since Bolsonaro took power. With the support of the Federal Highway
 Police and Military Police, truck drivers occupied roads and highways,
 halting the circulation of people and goods and choking the main cities
 of the country. The blockades were only lifted weeks later thanks to the
-action of football supporters who when the Brazilian national football
-championship resumed were eager to attend the matches and support their
+action of football supporters who, when the Brazilian national football
+championship resumed, were eager to attend the matches and support their
 teams. To access the stadiums, they had to clear the way from the
 Bolsonarist barricades. Even the most fanatical supporters of Bolsonaro
 could not stand in the way of the Gaviões da Fiel, or, the Faithful
-Hawks, the organized fan union of Corinthians.[^f05_5]) Someone could say,
+Hawks, the organized fan union of Corinthians.[^f05_5] Someone could say,
 perhaps, that God sent the 'faithful Corinthians' to spread His wisdom
 and will: 'Love does not delight in evil but rejoices with the truth. It
 always protects, always trusts, always hopes, always perseveres.'[^f05_6]
@@ -835,8 +836,8 @@ and conspiracy theories.
 
 The kernel of alt-right conspiracy theories became known in alt-right
 circles as 'cultural Marxism'. But what the hell is that? Conservative
-scholars like Paul Gottfried (founder of paleo conservatism), Michael
-Minnicino (infamous creator of cultural Marxism), and James Davison
+scholars like Paul Gottfried (founder of paleoconservatism), Michael
+Minnicino (infamous creator of the term cultural Marxism), and James Davison
 Hunter (who theorizes the cultural war),[^f05_7] alt-right influencers like
 Bolsonaro's political advisor Olavo de Carvalho[^f05_8], and specialists in
 international relations, such as Brazilian diplomat and former Foreign
@@ -1226,8 +1227,8 @@ coup? Because they really believe in these conspiracies, and because
 this discourse has been constructed since the end of the military
 dictatorship. Documents like the *Orvil Project,*[^f05_37] a classified file
 that recounts a delusional version of Brazil's history through a war
-between communists and patriots, and whose last chapter is the cultural
-war, was written in the 1970s and has been unearthed by the far-right.
+between communists and patriots, and whose last chapter focuses on cultural
+war, were written in the 1970s and have been unearthed by the far-right.
 
 Unconscious beliefs do not act alone in this war. Today, there is a
 pragmatic, systematic, and international organization of alt-right
@@ -1376,13 +1377,10 @@ violent uprising. Speeches enact concrete events, and they can express
 themselves in acts because the unconscious is made of discursive acts,
 and politics are always filled with desires.
 
-## Bibliography
-
-*'Projeto Orvil',* (n.d.),
-https://www.averdadesufocada.com/images/orvil/orvil_completo.pdf.
+## References
 
 Araújo, Ernesto. 'Trump e o ocidente', *Cadernos de Política Exterior*
-III.6 (Winter 2017): 323--358.
+III.6 (Winter 2017): 323-358.
 
 Aristotele. *Retórica e Poética*, Torino: Unione Tipografico-Editrice
 Torinese, 2004.
@@ -1408,7 +1406,7 @@ Columbia Press, 1995.
 Schizophrenia,* Minneapolis: University of Minnesota Press, 1983.
 
 Freud, Sigmund. *Negation*, *International Journal of Psycho-Analysis*
-6.4(1925):367--371.
+6.4(1925):367-371.
 
 \_\_\_\_\_. *Totem and Taboo*, London: Rutledge, 2001.
 
@@ -1425,13 +1423,13 @@ Gottfried, Paul Edward. *Multiculturalism and the Politics of Guilt,
 Toward a Secular Theocracy*, Columbia: University of Missouri Press,
 2002.
 
-Gramsci, Antonio. *Selection from Political Writings 1921--1926*,
+Gramsci, Antonio. *Selection from Political Writings 1921-1926*,
 Minneapolis: University of Minnesota Press, 1990.
 
 Horbyk, Roman, Löfgren, Isabel, Soriano, Cheryll and Prymachenko, Yana.
 'Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
-Philippines, Brazil, Russia and Ukraine', *Public Inquiry: The Journal
-of Kitsch, Camp and Mass Culture* 8.1 (2021): 30--54.
+Philippines, Brazil, Russia and Ukraine', *Popular Inquiry: The Journal
+of Kitsch, Camp and Mass Culture* 8.1 (2021): 30-54.
 
 Hunter, James D. *Cultural Wars: The struggle to define America - Making
 Sense of the Battle over Family, Art, Education, Law, and Politics*. New
@@ -1454,7 +1452,7 @@ Mello, Patrícia C. *A máquina do ódio: Notas de uma repórter sobre Fake
 news e violência digital*, São Paulo: Companhia das Letras, 2020.
 
 Minnicino, Michael J. 'The Frankfurt School and 'political correctness'.
-*Fidelio*, 1 (Winter 1992): 4--27.
+*Fidelio*, 1 (Winter 1992): 4-27.
 
 Plato. *Gorgias*. Oxford: Clarendon Press, 1979.
 
@@ -1464,6 +1462,9 @@ the Rue Morgue and The Purloined Letter*. Genoa: Black Cat Publishing,
 
 Prado, Michele. *Tempestade Ideológica: Bolsonarismo, a Alt-right e o
 Populismo Liberal no Brasil*, São Paulo: Lux Editora, 2021.
+
+*'Projeto Orvil',* (n.d.),
+https://www.averdadesufocada.com/images/orvil/orvil_completo.pdf.
 
 Rocha, João C. C. *Guerra Cultural e retórica do Ódio: Crônicas de um
 Brasil pós-político,* Goiânia: Caminhos, 2021.
@@ -1499,7 +1500,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 [^f05_7]: See Paul Edward Gottfried, *Multiculturalism and the Politics of
     Guilt, Toward a Secular theocracy.* Columbia: University of Missouri
     Press, 2002.; Michael J. Minnicino, *The Frankfurt School and
-    'political correctness'*. *Fidelio* 1 (Winter 1992): 4--27; and
+    'political correctness'*. *Fidelio* 1 (Winter 1992): 4-27; and
     James D. Hunter, *Cultural Wars: The struggle to define America -
     Making sense of the battle over family, art, education, law, and
     politics.* New York: BasicBooks, 1992.
@@ -1510,7 +1511,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
     such as Trump and Putin. He influenced the emergence of Bolsonarism.
 
 [^f05_9]: Ernesto H. F. Araújo, 'Trump e o ocidente*'*, *Cadernos de
-    Política Exterior* III.6 (Winter2017): 323--358.
+    Política Exterior* III.6 (Winter2017): 323-358.
 
 [^f05_10]: Edgar A. Poe, 'The Purloined Letter', In Edgar A. Poe, *The
     Murder in the Rue Morgue and The Purloined Letter*. Genoa: Black cat
@@ -1529,7 +1530,7 @@ Thucydides. *The Peloponnesian War.* New York: Oxford University Press,
 
 [^f05_15]: Roman Horbyk, Isabel Löfgren, Yana Prymachenko, Cheryll Soriano.
     'Fake News as Meta-Mimesis: Imitative Genres and Storytelling in the
-    Philippines, Brazil, Russia and Ukraine'. *Public Inquiry: The
+    Philippines, Brazil, Russia and Ukraine'. *Popular Inquiry: The
     Journal of Kitsch, Camp and Mass Culture* 8.1 (Autumn 2021).
 
 [^f05_16]: Cicerón, *De l\'oratoire. Livre III, 5, 19*. Paris: Les Belles
@@ -1674,7 +1675,7 @@ Rights: CC BY-NC 4.0
 
 > ​​*Laughter is a philosophy. Often, laughter is salvation. And in constitutional politics, at least, laughter is an opinion.* 
 > 
-> -- Eça de Queiroz, As Farpas[^f06_3]
+> — Eça de Queiroz, As Farpas[^f06_3]
 
 ## Prelude to a meme
 
@@ -1687,9 +1688,8 @@ silence, and left the public scene for two days. In the meantime,
 moments after the election results were announced, Bolsonaro's
 disgruntled supporters mobilized for anti-democratic and coup-related
 actions across the country resulting in the almost immediate blockage of
-highways by truck drivers and occupations in front of army barracks by
-fanatic militants. In addition, rumors about a military intervention to
-step in within 72 hours to keep Bolsonaro in power and annul election
+highways by truck drivers, and occupations in front of army barracks by
+fanatic militants. In addition, rumors that a military intervention would occur within 72 hours to keep Bolsonaro in power and annul election
 results spread very quickly.[^f06_4] This type of networked social and
 political mobilization aided by a symbolic apparatus financed by
 businessmen, politicians, and other social groups,[^f06_5] would culminate
@@ -1700,7 +1700,7 @@ silence. In a much-awaited press conference, he assuaged his supporters'
 dissatisfaction with his defeat by alluding to electoral misconduct by
 authorities, vaguely encouraging peaceful demonstrations, and deflecting
 any potential accusations of violence incitement by attacking the left.
-In a speech, he declared that
+In a speech, he declared that:
 
 > (\...) The current popular \[Bolsonarist\] movements are the result of
 > indignation and a sense of injustice regarding how the electoral process
@@ -1749,6 +1749,9 @@ Bolsonarist groups in the aftermath of the election.[^f06_11]
 
 ## The Road Blockades and the Emergence of the \'Truck Patriot\' meme
 
+<br/>
+
+
 ![Figure 1: Truckers' blockade on Presidente Dutra highway outside the
 city of São Paulo,Brazil. Credit: Lucas Lacaz Ruiz/Estadão Conteúdo](imgs/06_1.png)
 
@@ -1796,7 +1799,7 @@ This phenomenon helped wrest media dominance from the Bolsonarists in
 the unstable period that followed but also widened the abyss between
 Lula's and Bolsonaro's supporters in the coming months.
 
-## A Ready-made Meme
+## A Readymade Meme
 
 The story of how the meme started is as one-of-a-kind as the buzz it
 created, making it one of the top and most widely discussed memes in the
@@ -1820,7 +1823,7 @@ truck, filmed by the driver. Source: *UOL*, Youtube.[^f06_19]](imgs/06_2.png)
 
 ![Figure 3: 'Bolsonarist stuck to the windshield of a truck that broke
 through coup-related road blockade'. Video still. Source: *DCM TV*,
-Youtube 3 November, 2022.[^f06_20]](imgs/06_3.png)
+Youtube, 3 November 2022.[^f06_20]](imgs/06_3.png)
 
 <br/>
 
@@ -1915,7 +1918,7 @@ mashups and remixes (sampling and re-editing techniques using found
 materials) that became highly exploitable through continuous emulations,
 ultimately becoming a *catchphrase*, a popularly recognized expression
 through repeated iterations of its original enunciation. As such, the
-Truck Patriot entered the everyday life of Brazilians and injected a new
+'Truck Patriot' entered the everyday life of Brazilians and injected a new
 dimension of laughter, ridicule, irony, and mockery that became deeply
 embedded in the Brazilian post-election media frenzy. Moreover, the
 speed and scale at which 'Truck Patriot' memes were produced and
@@ -2102,7 +2105,7 @@ political transformation, and as a strategy for resistance.
 #### The 'Truck Patriot' meme as a Symbol of Democracy 
 
 ![Figura 10: A political cartoon in which the \'truck\' of democracy drives
-Bolsonarism off the road. Unknown source.](imgs/06_10.png)
+Bolsonarism off the road. Source: unknown.](imgs/06_10.png)
 
 <br/>
 
@@ -2305,7 +2308,7 @@ democratic government with Lula's victory.
 \@AndreJanonesAdv, Twitter profile.
 
 \@annaguirro, 'Mano!!! Esse meme só melhora!!! #ZambelliNaCadeia
-\#PatriotaDoCaminhao', Twitter post, 5 November, 2022, 3:11 AM,
+\#PatriotaDoCaminhao', Twitter post, 5 November 2022, 3:11 AM,
 <https://twitter.com/annaguirro/status/1588715480969535489>.
 
 'Bolsonaristas se reuniram em atos antidemocráticos em 24 estados e no
@@ -2384,7 +2387,7 @@ Patriota do Caminhão\... Compartilhe.', Twitter post, 4 November 2022,
 G1, 'Bolsonaristas se reuniram em atos antidemocráticos em 24 estados e
 no DF', *G1*,
 
-2 November, 2022,
+2 November 2022,
 https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/atos-bolsonaristas-quarteis-brasil.ghtml.
 
 'Governo Bolsonaro liberou em média 619 novas armas por dia para CACs:
@@ -2402,7 +2405,7 @@ Journal of the Aesthetics of Kitsch, Camp and Mass Culture* 8 (2021).
 
 \@joaorzc, 'Desculpa chegar atrasado pro meme do patriota, gente. É que
 eu vim de trem. \"L\'Arrivée d\'un patriote en gare de La Ciotat\".
-Irmãos Lumière, 1985.', Twitter post, 9 November, 2022, 9:22 AM,
+Irmãos Lumière, 1985.', Twitter post, 9 November 2022, 9:22 AM,
 https://twitter.com/joaorzc/status/1590394436814413824.
 
 Lacombe, Milly. 'O patriota do caminhão é a estética de um golpe
@@ -2486,9 +2489,12 @@ https://revistaforum.com.br/cultura/2022/11/6/video-bolsonarista-do-caminho-vira
 
 Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
 https://pt.wikipedia.org/wiki/Patriota_do_caminh%C3%A3o, accessed 10
-October, 2023.
-
-
+October 2023.
+***
+![](imgs/06_16.tif)
+![](imgs/06_17.tif)
+![](imgs/06_15.tif)
+![](imgs/06_18.tif)
 
 [^f06_3]: Eça de Queiroz, *AS FARPAS: crônica mensal da politica, das letras
     e dos costume*s. Lisboa: Tipografia Universal, fevereiro de 1872,
@@ -2496,7 +2502,7 @@ October, 2023.
 
 [^f06_4]: These 72 hours were repeatedly postponed in the following months,
     keeping the expectations of the protesters alive until the attempted
-    coup on January 8, 2023.
+    coup on 8 January, 2023.
 
 [^f06_5]: In late May 2023, the parliamentary investigation commission of
     coup-related acts (CPI dos atos golpistas) released documents that
@@ -2566,7 +2572,7 @@ October, 2023.
     Federal District. The protests on November 2, 2022, occurred in
     hundreds of Brazilian cities that have military bases.G1,
     'Bolsonaristas se reuniram em atos antidemocráticos em 24 estados e
-    no DF', *G1*, 2 November, 2022,
+    no DF', *G1*, 2 November 2022,
     https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/atos-bolsonaristas-quarteis-brasil.ghtml.
 
 [^f06_17]: These actions included religious expressions (with symbols from
@@ -2617,8 +2623,7 @@ October, 2023.
     https://knowyourmeme.com/memes/patriota-do-caminhao-trucks-patriot.
 
 [^f06_23]: \@felipeneto, 'Edição urgente do BIP! Conseguimos atualizações
-    sobre o Patriota do Caminhão\... Compartilhe.', Twitter post, 4 de
-    novembro de 2022, 11:20 AM,
+    sobre o Patriota do Caminhão\... Compartilhe.', Twitter post, 4 November 2022, 11:20 AM,
     https://twitter.com/i/status/1588657456137355266.
 
 [^f06_24]: The \'Truck Patriot\' meme has its own entryin the
@@ -2631,7 +2636,7 @@ October, 2023.
 
 [^f06_25]: Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
     https://pt.wikipedia.org/wiki/Patriota_do_caminh%C3%A3o, accessed 10
-    October, 2023.
+    October 2023.
 
 [^f06_26]: Eliseo Verón, *La semiosis social. Fragmentos de una teoría de la
     discursividad*. Barcelona: Gedisa, 1996.
@@ -2668,7 +2673,7 @@ October, 2023.
 
 [^f06_32]: \@joaorzc, 'Desculpa chegar atrasado pro meme do patriota, gente.
     É que eu vim de trem. \"L\'Arrivée d\'un patriote en gare de La
-    Ciotat\". Irmãos Lumière, 1985.', Twitter post, 9 November, 2022,
+    Ciotat\". Irmãos Lumière, 1985.', Twitter post, 9 November 2022,
     9:22 AM, https://twitter.com/joaorzc/status/1590394436814413824.
 
 [^f06_33]: \@NetflixBrasil, 'Pensando muito nessa cena.'.
@@ -2686,7 +2691,7 @@ October, 2023.
     https://twitter.com/Mayhem_AQ3D/status/1590404137707270144.
 
 [^f06_37]: Plinio Teodoro, 'Vídeo bolsonarista do caminhão vira cenário para
-    Primavera Sound'. *Revista Fórum*, 6 November, 2022,
+    Primavera Sound'. *Revista Fórum*, 6 November 2022,
     https://revistaforum.com.br/cultura/2022/11/6/video-bolsonarista-do-caminho-vira-cenario-para-primavera-sound-126045.html.
 
 [^f06_38]: José Luiz Braga, 'Dispositivos interacionais; Circuitos de
@@ -2718,9 +2723,7 @@ October, 2023.
     Prymashenko, 'Fake News as Meta-mimesis:
 
     Imitative Genres and Storytelling in the Philippines, Brazil, Russia
-    and Ukraine', Popular Inquiry: t*he*
-
-    *Journal of the Aesthetics of Kitsch, Camp and Mass Culture* 8.1
+    and Ukraine', *Popular Inquiry: the Journal of the Aesthetics of Kitsch, Camp and Mass Culture* 8.1
     (2021): 30-54.
 
 [^f06_45]: Fernando Brito, 'Desova de Bolsonaro começa e já vai ao
@@ -2761,7 +2764,7 @@ October, 2023.
 
 [^f06_52]: Viviane Borelli, Aline Dalmolin, M.Z. Feliciani, Herivelto
     Regiani, 'O Riso como Resistência: Memes contra Bolsonaro no
-    Contexto da Pandemia', A*nais do 44º Congresso brasileiro de
+    Contexto da Pandemia', *Anais do 44º Congresso brasileiro de
     ciências da comunicação - INTERCOM*, Recife, Brasil, October 2021,
     https://www.portalintercom.org.br/anais/nacional2021/resumos/dt8-ci/herivelton-regiani.pdf.
 
@@ -2774,7 +2777,7 @@ October, 2023.
 ## Introduction
 
 On January 8, 2023, demonstrators attacked and occupied government
-buildings in Brasília. The event was described by analysts and
+buildings in Brasilia. The event was described by analysts and
 commentators as a coup act. Since the 2022 presidential elections, won
 by Luís Inácio Lula da Silva, supporters of former President Jair
 Bolsonaro have refused to recognize election results, claiming that
@@ -2817,7 +2820,7 @@ political gangsterism.[^f07_4] Using the concept of *class fraction*,[^f07_5] it
 is possible to say that Bolsonarism brings together sectors of the
 commercial bourgeoisie, the financial bourgeoisie, the agrarian
 oligarchy, and war- and crime lords (the so-called Brazilian
-*militias*[^f07_6]). Thus, it expresses the alliance between radical sectors
+*militias*)[^f07_6]. Thus, it expresses the alliance between radical sectors
 of the financial bourgeoisie, the old land oligarchy, and political
 gangsterism.[^f07_7]
 
@@ -3382,8 +3385,8 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
     organizational leaders of a given subgroup or given specific
     political action of a larger political movement.
 
-[^f07_16]: MUSSOLINI, "Speech at the Parlament, 3, January, 1925", in
-    MUSSOLINI, My Autobiography. New York: Charles Scribner's Sons,
+[^f07_16]: Benito Mussolini, "Speech at the Parlament, 3, January, 1925", in
+    Benito Mussolini, My Autobiography. New York: Charles Scribner's Sons,
     1928. P. 23
 
 [^f07_17]: Benito Mussolini and E. Cope, *The doctrine of fascism*.
@@ -3460,7 +3463,7 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
 
 
 
-# The Green-and-Yellow Black Box: Mobilization on Platforms for the Attempted Coup on January 8, 2023 
+# The Green-and-Yellow Black Box: Mobilization on Platforms toward the Attempted Coup on January 8, 2023 
 
 ### Aline Roes Dalmolin and Maria Eduarda Mathias
 
@@ -3471,20 +3474,20 @@ https://g1.globo.com/df/distrito-federal/noticia/2023/01/19/bolsonarista-preso-p
 This chapter aims to analyze how the mobilization for the
 anti-democratic act of January 8, 2023 took place through extreme-right
 Bolsonarist groups on social media platforms. The purpose is to
-illustrate how the groups were organized and their gradual
+illustrate how these groups were organized and their gradual
 radicalization. To understand the radicalization of Brazilian
 extreme-right groups on social media, which led some of their members to
 pose a threat to Brazilian democracy, it is necessary to link the
 invasion of the Planalto in Brasilia with a history of escalating
 hatred, disinformation, and lack of accountability during Jair
-Bolsonaro's government (2019-2022) -- and even before that.
+Bolsonaro's government (2019-2022) — and even before that.
 
 Radicalization has been a recurring theme for Bolsonaro and his
 followers long before his election as President of Brazil in 2018.
 During the presidential elections of 2018, Bolsonaro's speeches
 consistently incorporated elements of military authoritarianism and
 nationalism using phrases such as \'let\'s eliminate the
-petralhada\'[^f08_3] and \'our flag will never be red\'[^f08_4], which garnered
+petralhada\'[^f08_3] and \'our flag will never be red\',[^f08_4] which garnered
 significant resonance and was widely adopted among his followers.
 Throughout his government, there were constant attacks on various
 sectors of society and state institutions, such as the Supreme Federal
@@ -3494,10 +3497,10 @@ example, the Bolsonaro government\'s handling of the COVID-19 pandemic
 was marked by widely disseminated disinformation, often by the former
 president himself, his family members, and members of his government. In
 addition, delays in vaccine procurement, advocacy for unproven
-medications, and the absence of large-scale vaccination campaigns and
+medications, the absence of large-scale vaccination campaigns, and
 few public education efforts by the national government.
 
-During Bolsonaro's four-year mandate, disinformation networks were
+During Bolsonaro's four-year term, disinformation networks were
 strengthened and intensified during the 2022 electoral campaign that led
 to the terrorist acts on January 8, 2023. While polls indicated Luiz
 Inácio Lula da Silva as the favorite candidate in the race,
@@ -3509,7 +3512,7 @@ Brazilian electoral system without presenting evidence for his
 allegations. This meeting played a pivotal role as the Superior
 Electoral Court of the country would later condemn Bolsonaro for abuse
 of political power and the misuse of the media for electoral purposes
-while still in office. As a result, he has lost his political powers and
+while still in office. As a result, he has lost his political rights and
 was declared ineligible until 2030, preventing him from running for the
 next presidential election in 2026.[^f08_5]
 
@@ -3520,7 +3523,7 @@ elections, characterized by the emergence of the COVID-19 pandemic and
 the rise of the Black Lives Matter movement, Trump fueled public debate
 byquestioning the integrity of the American electoral system, amplified
 through disinformation campaigns and conspiracy theories across various
-social media platforms. On January 6, 2021, Trump supporters stormed the
+social media platforms. On January 6 2021, Trump supporters stormed the
 United States Capitol in Washington D.C. alleging election fraud, an
 episode marked by vandalism, aggression, and homicide.[^f08_6] The attack
 was an attempted coup which was promoted and organized online, with acts
@@ -3531,12 +3534,12 @@ but an organized act of terrorism. It was orchestrated over the past few
 years through speeches, videos, and organized mobilizations disseminated
 within Bolsonaro-supporting groups that culminated on the events of
 January 8, 2023, with over one thousand individuals detained in
-Brasília. Masked by patriotism, the purpose of these groups has
+Brasilia. Masked by patriotism, the purpose of these groups has
 authoritarian tendencies and aims to destabilize democracy,
 demonstrating, above all, how social media and messaging app platforms
 have become a disinformation machine for the far-right in Brazil.
 
-## Platformization and Far- Right Media Ecology 
+## Platformization and Far-Right Media Ecology 
 
 The interdisciplinary nature of the platformization of society makes it
 difficult to conceptualize concretely, mainly because it refers to an
@@ -3557,7 +3560,7 @@ systematic data collection, algorithmic processing, and data
 monetization.[^f08_9] The collective network of platforms constitutes a
 *platform ecosystem* defined by various mechanisms. Therefore, to
 understand platformization entails more than addressing techniques and
-tools -- it involves recognizing a process that encompasses the
+tools — it involves recognizing a process that encompasses the
 production, recognition, and circulation of meanings within an
 ecosystem. Despite the undeniable benefits of the digital age, the
 limitations stemming from users\' lack of understanding of the entirety
@@ -3581,7 +3584,7 @@ digital platforms operating through unprecedented asymmetries concerning
 the interplay of knowledge and power, by extracting monetary value from
 user-generated information production.[^f08_13]
 
-To fade, dissolve, blind, or unravel -- any synonym we use does not
+To fade, dissolve, blind, or unravel — any synonym we use does not
 convey the full extent of the obscurity in a platform's operational
 logics. Even though much attention is given to algorithmic performance
 and its influence on users, little is questioned about the consequences
@@ -3597,7 +3600,7 @@ we have chosen to unfold here. Politics, according to Castells, is
 driven by emotion, passion, and hope.[^f08_15] But the Brazilian political
 landscape in recent years has pushed these aspects to a limit that
 challenges the fundamental principles of democracy, surpassing the
-classical conception of politics as \'the competition or dialogue
+classical conception of politics as the competition or dialogue
 between groups or proposals. Instead, politics enters a realm of
 narrative conflicts whose purpose is to overshadow one another at any
 cost. The way in which the coordinated action across different platforms
@@ -3702,7 +3705,7 @@ disinformation by authorities, users adopted alternatives formats and
 codes for circulating messages to call members to the January 8 event.
 These messages were conveyed through photographs of handwritten notes on
 sheets of paper to dodge text-based tracking algorithms. The wide
-circulation of Intensive invitations to join bus caravans to Brasília
+circulation of Intensive invitations to join bus caravans to Brasilia
 from various states of Brazil, was especially intensive in the three
 days leading up to the atempted coup.
 
@@ -3727,7 +3730,7 @@ themselves.
 > they were going to do something. But now, I don\'t believe in Bolsonaro,
 > not even if he himself calls me back to the streets.
 > 
-> -- User 1, January 1, 2023 [^f08_31]
+> — User 1, January 1, 2023 [^f08_31]
 
 User 1's message refers to the mobilizations in front of Army barracks
 held by Bolsonarist groups for two months between the election results
@@ -3748,7 +3751,7 @@ dismissal notices published in the *Diário Oficial da União* (Federal
 Official Gazette), as mentioned by User 2 in his comment (Figure 1):
 
 ![Figure 1: User 2 sustains that General Heleno has assumed the
-provisory Brazilian government.[^f08_32] Source: Telegram, 2 January,
+provisional Brazilian government.[^f08_32] Source: Telegram, 2 January
 2023.](imgs/08_1.png)
 
 <br/>
@@ -3758,7 +3761,7 @@ provisory Brazilian government.[^f08_32] Source: Telegram, 2 January,
 > the armed forces, they will run Brazil within the boundaries. Let\'s
 > stay strong in front of the barracks.
 > 
-> -- User 3, January 2, 2023.[^f08_33]
+> — User 3, 2 January  2023.[^f08_33]
 
 Continuing the thread of this same conversation, one user went as far
 as to clarify the nature of the Federal Official Gazette publication,
@@ -3774,15 +3777,15 @@ signed during the final days of the Bolsonaro administration.
 > MARCO EDSON GONÇALVES DIAS, one of the decrees signed by the
 > \'LULA-THIEF\' yesterday. I\'ll leave here the list of appointees.
 > 
-> -- User 4, January 2, 2023.[^f08_35]
+> — User 4, 2 January  2023.[^f08_35]
 
 > The PT issues decrees without publishing them in the Federal Official
 > Gazette, which has no validity. They desperately want power, even the
 > inauguration was fake.
 > 
-> -- User 3, January 2, 2023.[^f08_36]
+> — User 3, 2 January  2023.[^f08_36]
 
-Starting on January 3, the narratives confirming the installed
+Starting on 3 January , the narratives confirming the installed
 military intervention are replaced by questioning the possibility of
 it materializing through the mobilization of radical Bolsonarists. The
 increasing presence of these narratives is observed within the group
@@ -3791,33 +3794,33 @@ strength in the media ecosystem of the radical right.
 
 > I notice this in the 14 Telegram groups I participate in as a
 > conservative patriot and contributor to the dissemination of videos,
-> audios, and written comments. Starting in the early hours of January 2,
+> audios, and written comments. Starting in the early hours of 2 January 
 > 2023, there is a significant increase in the average number of opinions.
 > Most of them post banners saying \'GENERAL STRIKE ON THE 9TH\' IN
 > BRAZIL, and others invite to urgently form a large gathering of
-> Brazilians in Brasília. They clarify that they do not desire a left-wing
+> Brazilians in Brasilia. They clarify that they do not desire a left-wing
 > government, which they see as a THREAT to Freedom and democracy.
 > 
-> -- User 2, January 3, 2023.[^f08_37]
+> — User 2, 3 January , 2023.[^f08_37]
 
-Between January 4 and 6, messages of convocation for the activities
+Between 4 January  and 6, messages of convocation for the activities
 circulated intensively, including detailed information about caravans
-with links to city-specific groups organizing caravans to Brasília. In
+with links to city-specific groups organizing caravans to Brasilia. In
 many messages, the use of the word \'selva\' signifies the coup
 mobilization taking shape, and the term \'patriota\' ('patriot')
 identifies the supporters of the cause, following an already established
 naming convention in Bolsonarist groups.
 
-> Patriots of God\... For those who cannot go to Brasília, fill the QGs
-> (military headquarters). But Brasília has to be huge. Many, many are
+> Patriots of God\... For those who cannot go to Brasilia, fill the QGs
+> (military headquarters). But Brasilia has to be huge. Many, many are
 > already heading there. Believe, Bolsonaro had already posted the map on
-> his Instagram a month ago, indicating Brasília as the center of the
+> his Instagram a month ago, indicating Brasilia as the center of the
 > protest. Jungle, jungle. SOS Armed Forces. We don\'t want Lula in power.
-> A general cleanup of institutions. Brasília must be surrounded, with
+> A general cleanup of institutions. Brasilia must be surrounded, with
 > coordinated and orderly crowds. No one enters or leaves (Congress and
 > Supreme Court). Go, Brazil! Our flag will never be red.
 > 
-> -- User 5, January 4, 2023.[^f08_38]
+> — User 5, 4 January , 2023.[^f08_38]
 
 > Calling all patriots! Folks, let\'s share this group and clarify its
 > true purpose. It\'s a call to patriots who want a new September 7^th^,
@@ -3827,45 +3830,45 @@ naming convention in Bolsonarist groups.
 > because God is the one who governs Brazil and our lives. Communism has
 > no place\... Order and progress now.
 > 
-> -- User 6, January 4, 2023.[^f08_39]
+> — User 6, 4 January , 2023.[^f08_39]
 
-> For those who need a bus to Brasília, just contact us on WhatsApp at
+> For those who need a bus to Brasilia, just contact us on WhatsApp at
 > \[hidden number\]. Ramiro Caminhoneiro is providing 3,000 buses.
 > Everyone, join Ramiro dos Camioneiros\' \[sic\] live on Instagram now.
-> There are 3,000 buses to take people to Brasília for free. Share
+> There are 3,000 buses to take people to Brasilia for free. Share
 > URGENTLY!!! It\'s a critical call, or it will be the slavery and misery
 > of all.
 > 
-> -- User 2, January 5, 2023[^f08_40]
+> — User 2, January 5 2023[^f08_40]
 
 > Good evening, everyone. We are recruiting individuals who have
-> availability to travel to Brasília by bus, departing on Sunday and
+> availability to travel to Brasilia by bus, departing on Sunday and
 > returning on Thursday. Everything is paid for, and you will be camping
 > in the Planalto area. Please help us spread the word and find more
 > people. We currently have 5 buses, and if we have more participants, we
 > can secure additional buses. Interested individuals can contact Carla at
 > \[hidden number\].
 > 
-> -- User 7, January 6, 2023.[^f08_41]
+> — User 7, January 6 2023.[^f08_41]
 
 It is worth noting that the organizer mentioned by User 7, Ramiro
 Caminhoneiro, is one of the protest leaders arrested on January 20,
 2023, by the Federal Police in a specific operation to apprehend
 financiers, participants, and instigators of the coup events.[^f08_42]
 
-![Figure 2: Post explaining where the locations for the attempted coup
+![Figure 2: Post showing where the locations for the attempted coup
 events would be held. The post reads: 'The party at Selma\'s house has
 begun, everyone is invited, let\'s enjoy it'. In the image, you can see
 the text 'Location of Selma\'s party' and 'cake table', circled in
-purple. Source: Telegram, 6 January, 2023.](imgs/08_2.jpg)
+purple. Source: Telegram, 6 January 2023.](imgs/08_2.jpg)
 
 <br/>
 
 
 Another important aspect is the informative messages about the event in
-Brasília, which circulated primarily between January 6 and 7, explaining
+Brasilia, which circulated primarily between January 6 and 7, explaining
 to group participants where they should position themselves on the
-Esplanade of Ministries -- the central plaza with government buildings
+Esplanade of Ministries — the central plaza with government buildings
 where the riots took place. In the image above, the term \'Mesa do
 Bolo\' ('cake table', referring to the table where cake is served at
 birthday parties) refers to the building of the National Congress,
@@ -3885,7 +3888,7 @@ Telegram group (Figure 3).
 messages for the coup events. In the posted photo, it says in
 Portuguese: 'Attention!!! The algorithm doesn\'t recognize handwritten
 messages. Take photos and post them! Share the information'.. Source:
-Telegram, 6 January, 2023.](imgs/08_3.png)
+Telegram, 6 January 2023.](imgs/08_3.png)
 
 <br/>
 
@@ -3893,7 +3896,7 @@ Telegram, 6 January, 2023.](imgs/08_3.png)
 Finally, the posts that circulated in the group between January 7 and 8
 continue to coordinate the previously mentioned aspects, emphasizing
 information about the concentration of protesters and their arrival in
-Brasília, as well as images of the events themselves. January 8 was the
+Brasilia, as well as images of the events themselves. January 8 was the
 peak in the circulation of videos and images in the group, highlighting
 the festive and celebratory tone which was followed by disillusionment
 in the face of the failed attempted coup movement. We also recognized
@@ -3918,9 +3921,9 @@ who participated in the attack have been issued prison warrants, with
 2,151 of them arrested on the spot during acts of vandalism.[^f08_46] The
 Supreme Federal Court (STF) has been dedicated to the trial of the
 financiers of the attacks, having sentenced six of them with 12 to 17
-years prison terms..[^f08_47] The alleged omission of the Institutional
+years prison terms.[^f08_47] The alleged omission of the Institutional
 Security Office (GSI) (the Brazilian government's intelligence unit, an
-agency directly subordinate to the President's Office) , is also under
+agency directly subordinate to the President's Office), is also under
 investigation, with new names being added to the ongoing investigations.
 Among those recently indicted is the name of the former president, Jair
 Messias Bolsonaro.
@@ -3974,7 +3977,7 @@ beyond monetization? Are we experiencing increased access to freedom, or
 is our security diminishing? These are open questions that raise future
 developments.
 
-## References
+## Bibliography
 
 Alcântara, Manoela, \'Cem dias após os atos de 8/1, Brasil tem 294
 presos, prejuízo milionário e um golpe a apurar\'Portal Metrópoles, 17
@@ -3991,10 +3994,10 @@ desde o 8 de janeiro\', *Exame,* 11 January 2023,
 https://exame.com/brasil/atos-terroristas-os-11-pontos-para-entender-tudo-desde-o-8-de-janeiro/.
 
 Afonso, Nathália e Soares, Gabriela, \'Vândalos falavam de \'Festa da
-Selma\' para convocar ataques em Brasília\', *UOL*, 8 January 2023,
+Selma\' para convocar ataques em Brasilia\', *UOL*, 8 January 2023,
 https://lupa.uol.com.br/jornalismo/2023/01/08/vandalos-festa-selma.
 
-Calheiros, Orlando, \'Terrorismo em Brasília é resultado de ação
+Calheiros, Orlando, \'Terrorismo em Brasilia é resultado de ação
 orquestrada há anos\', *The Intercept Brasil*, 10 January 2023,
 https://theintercept.com/2023/01/10/terrorismo-em-brasilia-e-resultado-de-acao-orquestrada-em-grupos-pro-ditadura/.
 
@@ -4006,7 +4009,7 @@ Cruz, Edgar Gómez e Harindranathand, Ramaswami. \'WhatsApp As
 (2020): 1-13. https://doi.org/10.5210/fm.v25i12.10405.
 
 Fonseca, Bruno e Scofield, Laura. \'Bolsonaristas usam código \'Festa da
-Selma\' para coordenar invasão em Brasília\', *Agência Pública*, 8
+Selma\' para coordenar invasão em Brasilia\', *Agência Pública*, 8
 January 2023,
 https://apublica.org/sentinela/2023/01/bolsonaristas-usam-codigo-festa-da-selma-para-coordenar-invasao-em-brasilia/.
 
@@ -4064,7 +4067,7 @@ ataque à democracia dos EUA\', *CNN*, 6 January 2022,
 https://www.cnnbrasil.com.br/internacional/invasao-ao-capitolio-completa-um-ano-relembre-o-ataque-a-democracia-dos-eua/.
 
 Uol, \'Deu polêmica: vamos fuzilar a petralhada, diz Bolsonaro\',
-Youtube 4 September 2018, https://youtu.be/TAtz7E-XuCw.
+Youtube, 4 September 2018, https://youtu.be/TAtz7E-XuCw.
 
 Van Dijck, José; Poell, Thomas; De Wall, Martijn, *The Platform Society:
 public values in a connective world,* Oxford: Oxford University Press,
@@ -4091,7 +4094,7 @@ Affairs, 2019.
 [^f08_3]: \'Petralhada\' is a derogatory term used to refer to the followers
     of the Partido dos Trabalhadores (PT), the party of President Lula.
     Uol, \'Deu polêmica: vamos fuzilar a petralhada, diz Bolsonaro\',
-    Youtube 4 September 2018, https://youtu.be/TAtz7E-XuCw.
+    Youtube, 4 September 2018, https://youtu.be/TAtz7E-XuCw.
 
 [^f08_4]: This sentence represents Bolsonaro\'s rejection of the red color,
     which is present in the flag of the Partido dos Trabalhadores
@@ -4161,7 +4164,7 @@ Affairs, 2019.
     Retórica do ódio e dissonância cognitiva coletiva.* Belo Horizonte:
     Autêntica, 2023.
 
-[^f08_20]: Orlando Calheiros, \'Terrorismo em Brasília é resultado de ação
+[^f08_20]: Orlando Calheiros, \'Terrorismo em Brasilia é resultado de ação
     orquestrada há anos\', *The Intercept Brasil*, 10 January 2023,
     https://theintercept.com/2023/01/10/terrorismo-em-brasilia-e-resultado-de-acao-orquestrada-em-grupos-pro-ditadura/.
 
@@ -4189,7 +4192,7 @@ Affairs, 2019.
     WhatsApp, created as an alternative to SMS, identifies itself as an
     instant messaging application.
 
-[^f08_26]: Sucessos dos Anos 1980, Telegram, 14 May, 2023,
+[^f08_26]: Sucessos dos Anos 1980, Telegram, 14 May 2023,
     https://t.me/andurinha.80.
 
 [^f08_27]: The change of group names and profile pictures is a constant
@@ -4210,7 +4213,7 @@ Affairs, 2019.
 [^f08_31]: Originally, in Portuguese: \'Eu lutei todo esse tempo no quartel,
     pois acreditei que iam fazer algo. Mas agora não acredito no
     Bolsonaro, nem se ele me chamar novamente para as ruas\'. User 1, 1
-    January, 2023.
+    January 2023.
 
 [^f08_32]: English translation of the figure 1 text: \'EXTRA! EXTRA! LISTEN
     UP! Informative and enlightening audio about the INTERVENING
@@ -4224,7 +4227,7 @@ Affairs, 2019.
 [^f08_33]: Originally, in Portuguese: \'Bah mas q barbaridade. Gente general
     heleno é interventor ele junto com as forças armadas irão
     administrar o Brasil dentro das 4 linhas. Vamos nos manter firmes na
-    frente dos quartéis.\' User 3, 2 January, 2023.
+    frente dos quartéis.\' User 3, 2 January 2023.
 
 [^f08_34]: Bolsonarist depreciative way of referring to Lula, alluding to
     the fact that he has just nine fingers.
@@ -4235,13 +4238,13 @@ Affairs, 2019.
     hj. Vamos parar de se iludir. O novo ministro do GSI foi nomeado
     ontem pelo nine e é o MARCO EDSON GONÇALVES DIAS um dos decretos
     assinados ontem pelo LULADRÃO. Vou deixar a lista de nomeados\'.
-    User 4, 2 January, 2023.
+    User 4, 2 January 2023.
 
 [^f08_36]: Originally, in Portuguese: \'O PT faz decretos sem publicar no
     dou, isso não tem validade, eles querem por q querem o poder, até a
     posse foi fek.\[Sic.\]\' \'Fek\' is the misspelled form writed by
     the user, which refers to the English word \'fake\'. User 3, 2
-    January, 2023.
+    January 2023.
 
 [^f08_37]: Originally, in Portuguese: \'Percebo que nos 14 grupos que
     participo no Telegram, como patriota conservador e colaborador para
@@ -4249,19 +4252,19 @@ Affairs, 2019.
     inicio da madrugada do dia 02Jan,2023 cresce significativamente o a
     média de opiniões ,na maioria publicam banner \' GREVE GERAL DIA
     09\' NO BRASIL E OUTROS CONVIDANDO PARA FORMAR URGENTEMENTE UMA
-    GRANDE CONCENTRAÇÃO DE BRASILEIROS em Brasília. Esclarecendo que não
+    GRANDE CONCENTRAÇÃO DE BRASILEIROS em Brasilia. Esclarecendo que não
     desejam um governo de esquerda,representa UMA AMEAÇA a Liberdade e à
-    democracia. \[sic\]\' User 2, 3 January, 2023.
+    democracia. \[sic\]\' User 2, 3 January 2023.
 
 [^f08_38]: Originally, in Portuguese: \'Patriotas de Deus\...Quem não puder
-    ir pra Brasília, lotem os Qgs. Mas Brasília tem que ser gigante.
+    ir pra Brasilia, lotem os Qgs. Mas Brasilia tem que ser gigante.
     Muitos, muitos já estão indo pra lá. Creiam, o Bolsonaro já havia
-    publicado o mapa em seu Instagram 1 mês atrás, apontando Brasília
+    publicado o mapa em seu Instagram 1 mês atrás, apontando Brasilia
     como o centro da manifestação. Selva, selva SOS FFAA não queremos
-    lula no poder. Limpeza geral nas instituições. Brasília tem que ser
+    lula no poder. Limpeza geral nas instituições. Brasilia tem que ser
     cercada, multidões coordenadas e ordeiras Ninguém entra e nem sai(
     congresso e STF) Avante Brasil Nossa bandeira jamais será
-    vermelha.\' User 5, 4 January, 2023.
+    vermelha.\' User 5, 4 January 2023.
 
 [^f08_39]: Originally, in Portuguese: \'Convocação de todos os patriotas
     Pessoal vamos partilhar esse grupo e especificar para o que ele
@@ -4270,23 +4273,23 @@ Affairs, 2019.
     sair na maior massa de pessoas que o Brasil nunca viu, a esquerda
     essa que se acha a maioria cairá por Terra humilhados porque Deus é
     quem Governa o Brasil e nossas Vidas. Comunismo não tem vez..Ordem e
-    progresso já\'.\[sic\] User 6, 4 January ^h^, 2023.
+    progresso já\'.\[sic\] User 6, 4 January 2023.
 
 [^f08_40]: Originally, in Portuguese: \'Quem precisar de ônibus para
-    Brasília, só chamar no WhatsApp (número ocultado) Ramiro
+    Brasilia, só chamar no WhatsApp (número ocultado) Ramiro
     Caminhoneiro está disponibilizando 3.000 Onibus Pessoal, entrem na
     live agora do Ramiro dos Camioneiros \[sic\], Instagram. São 3.000
-    ônibus para levar o povo para Brasília, de graça. Compartilha
+    ônibus para levar o povo para Brasilia, de graça. Compartilha
     URGENTE!!! É um chamado crucial ou será a escravidão e miséria de
-    todos\'. User 2, 5 January, 2023.
+    todos\'. User 2, 5 January 2023.
 
 [^f08_41]: Originally, in Portuguese: \'Boa noite pessoal Estamos recrutando
-    pessoas que tenham Disponibilidade para ir a Brasília de ônibus que
+    pessoas que tenham Disponibilidade para ir a Brasilia de ônibus que
     sairá no domingo e volta na quinta feira. Tudo pago La ficará
     acampado . No planalto Por favor me ajudem A divulgar e conseguir
     pessoas .. são 5 ônibus e se tiver mais pessoas conseguiremos mais
     ônibus Interessados procurar Carla - \[número ocultado\].\'User 7, 6
-    January, 2023.
+    January 2023.
 
 [^f08_42]: Davi Medeiros, \'Quem é Ramiro dos Caminhoneiros, preso pela
     Polícia Federal em operação contra suspeitos de ataques\', Estadão,
@@ -4294,12 +4297,12 @@ Affairs, 2019.
     https://www.estadao.com.br/politica/quem-e-ramiro-caminhoneiros-preso-policia-federal-operacao-revolucao-manes/
 
 [^f08_43]: Nathália Afonso e Gabriela Soares, \'Vândalos falavam de \'Festa
-    da Selma\' para convocar ataques em Brasília\', UOL, 8 January 2023,
+    da Selma\' para convocar ataques em Brasilia\', UOL, 8 January 2023,
     https://lupa.uol.com.br/jornalismo/2023/01/08/vandalos-festa-selma.
 
 [^f08_44]: Bruno Fonseca e Laura Scofield, \'Bolsonaristas usam código
-    \'Festa da Selma\' para coordenar invasão em Brasília\', Agência
-    Pública, 8 de January de 2023,
+    \'Festa da Selma\' para coordenar invasão em Brasilia\', Agência
+    Pública, 8 January 2023,
     https://apublica.org/sentinela/2023/01/bolsonaristas-usam-codigo-festa-da-selma-para-coordenar-invasao-em-brasilia/
 
 [^f08_45]: Agência O Globo, \'Atos terroristas: os 11 pontos para entender
@@ -4424,7 +4427,7 @@ military dictatorship in the mid-1980s to live among the ruins of a
 military past they glorify. On the other hand, they could also destroy
 this monument, which is still under construction, to rebuild the one
 they evoke. However, as I write this text, another scenario seems more
-appropriate: they tried to take advantage of their kairos, the opportune
+appropriate: they tried to take advantage of their *kairos*, the opportune
 moment.
 
 When I think about the rioters, I imagine them as subjects of an
@@ -4753,7 +4756,7 @@ the Heart of the American Dream*, New York: Vintage, 1998.
 
 
 
-# Brasília, 8 de Janeiro de 2023: a Festa Acabou! A Guerra (Ainda) Não.
+# Brasília, 8 de Janeiro de 2023: a Festa Acabou! A Guerra (Ainda) Não
 
 ### Ada C. Machado da Silveira, Gabriela Schneider, Camila Hartmann
 
@@ -4965,10 +4968,10 @@ a Presidência. Neste caso, a cerimônia de assinatura de posse foi breve
 e não houve rito de passagem de faixa presidencial. Itamar Franco
 seguiria o rito simbólico de passagem de faixa presidencial na cerimônia
 de posse de Fernando Henrique Cardoso, que governou por dois mandatos
-seguidos (1995-2003) e, em janeiro de 2001, reconheceu a vitória do
+seguidos (1995-2002) e, em janeiro de 2003, reconheceu a vitória do
 adversário, Luiz Inácio Lula da Silva, cumprindo o gesto simbólico de
 passagem de poder. Da mesma forma, Lula governou por dois mandatos
-(2003-2011) e em janeiro de 2011 entregou a faixa presidencial para
+(2003-2010) e em janeiro de 2011 entregou a faixa presidencial para
 Dilma Rousseff, a primeira mulher eleita e reeleita presidente do Brasil
 (2011-2016). Dilma teve seu segundo mandato interrompido em agosto de
 2016 por meio de um *impeachment* de origem do Poder Legislativo. Em 22
@@ -5079,7 +5082,7 @@ denominada 'guerra híbrida'. E, por outro lado, seu uso no âmbito
 jornalístico acaba por sancioná-la socialmente como categoria analítica,
 o que é fortemente criticado pelos defensores dos direitos humanos.[^14]
 
-Isso se deve a que as distintas denominações que apelam ao termo
+Isso se deve ao fato de que as distintas denominações que apelam ao termo
 'guerra' buscam dar atenção ao panorama conflitivo que catalisa o centro
 social da realidade brasileira. De uma maneira geral, entendem seus
 críticos que o recurso à denominação 'guerra' corrobora a manutenção de
@@ -5160,8 +5163,8 @@ consequências ameaçadoras para a democracia. 
 
 Faz-se necessário remeter às mudanças ocorridas no uso social das
 imagens, mais que no seu uso pelo jornalismo profissional. A ampla
-disseminação de práticas de desinformação por bolhas de redes de mídia
-social, especialmente WhatsApp e Telegram, mas também por Instagram e
+disseminação de práticas de desinformação nas bolhas de redes de mídia
+social, especialmente WhatsApp e Telegram, mas também no Instagram e
 Facebook, incentivou a produção de *lives* que transmitiram e obtiveram
 ampla circulação em tempo real dos acontecimentos em curso na Praça dos
 Três Poderes. Com tais práticas foi possível constatar que a dialética
@@ -5173,7 +5176,7 @@ A produção e circulação de *hashtags* orientativas das mobilizações
 físicas e virtuais, propiciando a disseminação de tópicos em posts e
 lives por elas apoiados foram amplificados pelas redes de televisão
 corporativas. Conforme se observou nos EUA em 2021, as redes de
-televisão converteram-se em retransmissores cruciais que rodeavam
+televisão converteram-se em retransmissores cruciais que ressoavam
 *tweets* presidenciais de Donald Trump, o que também ocorreu no Brasil
 com Jair Bolsonaro. O uso de uma *hashtag* replicava em mensagens de
 influenciados de extrema-direita da Internet e de mídias sociais,
@@ -5333,7 +5336,7 @@ atividade do teatro de guerra encenado na Praça dos Três Poderes
 constituiu-se como expressão que buscou dar concretude e realeza a um
 imaginário bélico, evidenciando seu potencial disruptivo, de
 estranhamento absoluto com o Brasil ali configurado por seus três
-poderes republicanos. Uma instabilidade que somente a *manu militari* se
+poderes republicanos. Uma instabilidade que somente a *manu militari*
 poderia conter. Em 8 de janeiro de 2023 o país do carnaval ganhou
 notoriedade por seu simbolismo inverso, a polarização, resultando em
 imagens de um apocalipse político narrado por via midiatizada.
@@ -5341,8 +5344,8 @@ imagens de um apocalipse político narrado por via midiatizada.
 ## Bibliografia
 
 Adorno, Sergio, Almeida, Maria Herminia T., Ribeiro, Renato J., Nobre,
-Marcos S., Lima, Roberto K., Monteiro and Joana da Costa M. Violência e
-radicalização. In ACIESP. *Fapesp 60 Anos: a ciência no desenvolvimento
+Marcos S., Lima, Roberto K., Monteiro and Joana da Costa M. 'Violência e
+radicalização'. In ACIESP. *Fapesp 60 Anos: a ciência no desenvolvimento
 nacional*. São Paulo: ACIESP-Fapesp, 2022, pp.190-221.
 https://doi.org/10.4322/978-65-86819-27-4.1000007.
 
@@ -5370,7 +5373,7 @@ Silva* 2.2(2018): 17-32,
 http://www.ebrevistas.eb.mil.br/silva/article/view/11109.
 
 Cruz, Isabela. 'Entrevista de Julio C. Rodrigues: Confiança nas
-instituições gerou erro na percepção de risco', *Nexo Jornal*, 9 janeiro
+instituições gerou erro na percepção de risco', *Nexo Jornal*, 9 January
 2023, https://encurtador.com.br/wyCPT.
 
 Dayan, Daniel and Katz, Elihou. *Media Events. The live broadcasting of
@@ -5402,8 +5405,8 @@ Liang, Qiao and Xiangsui, Wang. *A guerra além dos limites: conjecturas
 sobre a guerra e a tática na era da globalização,* Beijing: Pla
 Literature and Arts Publishing House, 1999.
 
-liu, michelle c. et al. 'Riot Platforms: Protest, Police, Planet',
-*Antipode* 54.6 (2022): 1901--1922, https://doi.org/10.1111/anti.12861.
+Liu, Michelle C. et al. 'Riot Platforms: Protest, Police, Planet',
+*Antipode* 54.6 (2022): 1901-1922, https://doi.org/10.1111/anti.12861.
 
 Neto, Lira. *Getúlio: dos anos de formação à conquista do poder
 (1982-1930)*, São Paulo: Companhia das Letras, 2012.
@@ -5417,9 +5420,7 @@ crimen organizado*. Lima/Madrid: Ejército del Perú/Real Instituto
 Elcano, 2019, pp. 207-226.
 
 Ramos, Silvia (Coord.). *A dor e a luta: números do feminicídio,* Rio de
-Janeiro:
-
-Rede de Observatórios da Segurança - CESeC, 2021.
+Janeiro: Rede de Observatórios da Segurança - CESeC, 2021.
 
 Rocha, Glauber. *La revolución es una Eztetyka*. Caja Negra: Buenos
 Aires, 2011.
@@ -5449,7 +5450,7 @@ https://flacso.org.br/files/2016/08/Mapa2016_armas_web-1.pdf.
 Flacso/Brasil.
 
 
-[^4]: michelle c. liu et al., 'Riot Platforms: Protest, Police, Planet',
+[^4]: Michelle C. Liu et al., 'Riot Platforms: Protest, Police, Planet',
     *Antipode* 54.6 (2022): 1901--1922.
     https://doi.org/10.1111/anti.12861.
 
@@ -5459,10 +5460,10 @@ Flacso/Brasil.
 
 [^6]: Boris Fausto, *História do Brasil,* São Paulo: USP, 2009.
 
-    José M. de Carvalho, *Cidadania no Brasil: o longo caminho*, Rio de
+    José M. de Carvalho. *Cidadania no Brasil: o longo caminho*, Rio de
     Janeiro: Civilização Brasileira, 2008.
 
-    José M. de Carvalho. 'Fundamentos da política e da sociedade
+    José M. de Carvalho, 'Fundamentos da política e da sociedade
     brasileiras', in Lúcia Avelar and Antônio O. Cintra, *Sistema
     político brasileiro: uma introdução*, São Paulo: Unesp, 2007,
     pp.19-34.
@@ -5478,7 +5479,7 @@ Flacso/Brasil.
     cargos e funções comissionados do executivo federal*, Brasília:
     Instituto de Pesquisa Econômica Aplicada, 2022.
 
-[^10]: Ada C. M. Silveira. \'A cavalaria como imagem de mundo: *manu
+[^10]: Ada C. M. Silveira, \'A cavalaria como imagem de mundo: *manu
     militari* e ambivalências ético-políticas\'. *Galáxia* 47 (2022):
     1-24, https://doi.org/10.1590/1982-2553202256876.
 
@@ -5496,7 +5497,7 @@ Flacso/Brasil.
     Rússia', *Esc. Guerra Nav.* 26.1 (2020): 39--64,
     10.21544/1809-3191.v26n1.p39-64.
 
-[^14]: Frederico de Almeida. \'"Vândalos", "Trabalhadores" e "Cidadãos":
+[^14]: Frederico de Almeida, \'"Vândalos", "Trabalhadores" e "Cidadãos":
     sujeição criminal e legitimidade política na criminalização dos
     protestos de junho de 2013\', *Dados rev. ciênc. sociais* 63.4
     (2020). https://doi.org/10.1590/dados.2020.63.4.218
@@ -5516,13 +5517,13 @@ Flacso/Brasil.
 [^18]: Silvia Ramos (Coord.). *A dor e a luta: números do feminicídio,*
     Rio de Janeiro: Rede de Observatórios da Segurança - CESeC, 2021.
 
-[^19]: Anaís Medeiros Passos. \'¿Guerra al crimen organizado? Favelas e
+[^19]: Anaís Medeiros Passos, \'¿Guerra al crimen organizado? Favelas e
     intervención militar en Brasil, in Carolina Sampó and Sonia Alda,
     *La transformación de las Fuerzas Armadas en América Latina ante el
     crimen organizado*. Lima/Madrid: Ejército del Perú/Real Instituto
     Elcano, 2019, pp. 207--226.
 
-[^20]: Sergio Adorno et al. \'Violência e radicalização\', in ACIESP.
+[^20]: Sergio Adorno et al., \'Violência e radicalização\', in ACIESP.
     *Fapesp 60 Anos: a ciência no desenvolvimento nacional*. São Paulo:
     ACIESP-Fapesp, 2022, pp.190-221.
     https://doi.org/10.4322/978-65-86819-27-4.1000007.
@@ -5565,7 +5566,7 @@ Flacso/Brasil.
 
 
 
-# Governos Autoritários na Democracia Brasileira: Como o Ataque Golpista de 8 de Janeiro Começou em 2013
+# Governos Autoritários na Democracia Brasileira: A Origem Política do 8 de Janeiro
 
 ### Gizele Martins
 
@@ -5627,7 +5628,7 @@ de extrema-direita, não poderíamos esperar uma atitude diferente diante
 da derrota nas eleições para o governo PT, que foi alvo de diversas fake
 news.
 
-## Histórico: Manifestações de rua, criminalização de grupos da esquerda e avanço da direita nas ruas em 2013
+## Histórico: A Criminalização da Esquerda e a Ascensão da Direita
 
 No entanto, a mobilização golpista da direita não começou hoje. A
 análise que aqui empreendo parte da minha identidade e posição social.
@@ -5663,7 +5664,7 @@ que em março'.[^9]
 Assim, lá em 2015, a mídia já reforçava insistentemente que a Presidenta
 Dilma era corrupta, mesmo sem quaisquer provas. Depois de muitos ataques
 à então Presidenta, a própria mídia brasileira ajudou a convocar a
-população para as manifestações que culminaram no golpe contra o governo
+população para as manifestações que culminaram no golpe parlamentar contra o governo
 petista. Um dos grandes exemplos desse esforço foram os 'panelaços'
 realizados todos os dias durante o noticiário do Jornal Nacional: a cada
 vez que se falava contra a Presidente Dilma no jornal de maior destaque
@@ -5686,7 +5687,7 @@ necessário reconquistar e reconstruir espaços de diálogo com esta
 população, que nos últimos anos desencantou-se com a política
 estatal-partidária.
 
-## Contexto: os impactos históricos dos governos petistas nas favelas do Rio de Janeiro
+## Contexto: O Impacto dos Governos Petistas nas Favelas Cariocas
 
 Em 2023 a 'Jornadas de Junho' completam dez anos. Na época, inúmeros
 movimentos sociais tomaram as ruas das grandes capitais do Brasil.[^10]
@@ -5762,7 +5763,7 @@ periferias do Brasil, os termos 'pacificação', 'polícia', 'exército',
 e criminalização da pobreza. Para o filósofo camaronês Achille Mbembe,
 esta é uma forma de controle que tem suas raízes na colonização:
 
-> (\...) 'política neste caso, não o avanço de um movimento dialético da
+> (\...) política neste caso, não o avanço de um movimento dialético da
 > razão. A política só pode ser traçada como uma transgressão em espiral,
 > como aquela diferença que desorienta a própria ideia do limite. Mais
 > especificamente a política é a diferença colocada em jogo pela violação
@@ -5819,7 +5820,7 @@ do PT durante o processo de golpe contra o governo da Presidenta Dilma
 Rousseff, em 2016, e a subsequente eleição de Jair Bolsonaro em 2018,
 que contou com expressiva votação popular.
 
-## Conclusão: Governos autoritários na democracia de ontem e hoje podem ter influenciado no Brasil atual e como evitar um novo 8 de janeiro?
+## Conclusão: Como Evitar Que a Barbárie Se Repita
 
 A efervescência das ruas em 2013 catalisou diversas outras
 manifestações, ações comunitárias, debates públicos, trabalhos
@@ -5897,7 +5898,7 @@ ainda nos resta de democracia!
 ## Bibliografia 
 
 Bergamini, Guilherme. 'Mídia brasileira é controlada por apenas 11
-famílias', *FNDC*, 17 setembro 2015,
+famílias', *FNDC*, 17 September 2015,
 http://www.fndc.org.br/noticias/midia-brasileira-e-controlada-por-apenas-11-familias-924625/.
 
 Brasil, Casa Civil. *Lei nº 12.035, Adotada em 1º de Outubro de 2009,*
@@ -5905,11 +5906,11 @@ Brasil, Casa Civil. *Lei nº 12.035, Adotada em 1º de Outubro de 2009,*
 http://www.planalto.gov.br/ccivil_03/\_ato2007-2010/2009/lei/l12035.htm.
 
 G1. 'Todos os estados e o DF têm protestos contra o governo Dilma',
-*Portal G1*, 16 agosto 2015,
+*Portal G1*, 16 August 2015,
 https://g1.globo.com/politica/noticia/2015/08/manifestantes-protestam-contra-o-governo-dilma-em-cidades-do-brasil.html.
 
 G1. 'Ataques em Brasília: quem quebrou, quem bancou, quem incitou e como
-agiram as forças de segurança', *Portal G1*, 13 janeiro 2023,
+agiram as forças de segurança', *Portal G1*, 13 January 2023,
 https://g1.globo.com/df/distrito-federal/noticia/2023/01/13/ataques-em-brasilia-quem-quebrou-quem-bancou-quem-incitou-e-como-agiram-as-forcas-de-seguranca.ghtml#.
 
 Instituto Pacs. *Militarização do Cotidiano: Um legado olímpico,* Rio de
@@ -5974,7 +5975,7 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     http://www.fndc.org.br/noticias/midia-brasileira-e-controlada-por-apenas-11-familias-924625/
 
 [^9]: G1, 'Todos os estados e o DF têm protestos contra o governo
-    Dilma', Portal G1, 16 de Agosto de 2015,
+    Dilma', Portal G1, 16 August 2015,
     https://g1.globo.com/politica/noticia/2015/08/manifestantes-protestam-contra-o-governo-dilma-em-cidades-do-brasil.html
 
 [^10]: As manifestações de 2013 reuniram movimentos de favelas que
@@ -6017,15 +6018,12 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     penitenciário'. Gizele Martins, 'A favela, os megaeventos e as
     manifestações no Rio de Janeiro'.
 
-[^15]: Copa das Confederações FIFA ou Taça das Confederações FIFA, foi
+[^15]: Copa das Confederações FIFA ou Taça das Confederações FIFA, é
     um torneio de futebol organizado pela Federação Internacional de
     Futebol entre seleções a cada quatro anos. Em 2013 e 2014 foi
     realizada no Rio de Janeiro, no Brasil.
 
-[^16]: Maré, um conjunto de 16 favelas, oficialmente conhecido como
-    Conjunto de Favelas da Maré, está localizado na Zona Norte do Rio de
-    Janeiro. São mais de 132 mil moradores espalhados pelas 16 favelas
-    segundo o Censo Maré 2000. As favelas que formam todo o conjunto
+[^16]: As favelas que formam todo o conjunto
     são: Baixa do Sapateiro, Morro do Timbau, Parque Maré, Nova Maré,
     Nova Holanda, Rubens Vaz, Parque União, Conjunto Esperança, Conjunto
     Pinheiros, Vila do Pinheiro, Vila do João, 'Salsa e Merengue',
@@ -6066,7 +6064,7 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     empregados na Força de Pacificação da Maré 1.900 militares do
     Exército (Brigada de Infantaria Paraquedista), 400 da Marinha (Corpo
     de Fuzileiros Navais) e 200 da PM\'. Martins, *Militarização e
-    Censura: A luta por liberdade de expressão na Favela da Maré.*
+    Censura, 2018*
 
 [^24]: No que diz respeito à propriedade industrial e intelectual,
     atribuiu ao governo federal a obrigatoriedade de controlar,
@@ -6098,17 +6096,29 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
 
 # Against the Ultra-Right Coup-Mongers, Organize Self-Defense / Contra a ultra-direita golpista, organizar a auto-defesa
 
-### Gustavo Speridião, Leandro Barboza and Faixa Protesta 
+### Gustavo Speridião and Leandro Barboza / Faixa Protesta
+<br/>
+Next pages: 
 
-Tinta sobre pano de algodão, 9 de janeiro de 2023.
+Against the Ultra–Right, Self–Defense, 2023
+Paint on cotton canvas
 
-Cinelândia, Rio de Janeiro, Brasil.
+Images taken during protests on January 9, 2023 in Cinelândia, Rio de Janeiro, Brazil.
+***
+Próximas páginas: 
 
+Contra a ultra–direita a auto–defesa, 2023
+Tinta sobre pano de algodão
+
+Imagens tiradas durante manifestação no dia 9 de janeiro de 2023 na Cinelândia, Rio de Janeiro, Brasil.
+
+Photo credit: Faixa Protesta
+
+<br/>
 
 ![](imgs/13_1.tif)
 
 <br/>
-
 
 
 
@@ -6123,7 +6133,7 @@ Cinelândia, Rio de Janeiro, Brasil.
 > 'A história é objeto de uma construção cujo lugar não é o tempo
 > homogêneo e o vazio, mas o tempo saturado de \'agoras\'.'\
 > 
-> -- Walter Benjamin[^2]
+> — Walter Benjamin[^2]
 
 Toda arte é política? Essa definitivamente é uma questão perturbadora. A
 crítica dos modernistas, o realismo social dos clubes de gravura, a
@@ -6131,7 +6141,7 @@ irreverência pop das bananas de Antônio Henrique Amaral, a acidez de
 Antônio Dias e a denúncia de João Câmara Filho, no fundo, tornaram-se
 exemplos de como os artistas brasileiros são tocados pelo instante que
 vivem. Aos historiadores e especialistas parecem mais seguras
-referências datadas entre 1930 e 1980 -- quando as fronteiras entre arte
+referências datadas entre 1930 e 1980 — quando as fronteiras entre arte
 e política, aparentemente, deixavam margens mais confortáveis para
 digressões e debates. Por que algumas produções atuais remetem aos
 \'anos de chumbo\', ou seja, entendem que necessitam discutir o período
@@ -6139,11 +6149,11 @@ mais tenebroso da ditadura civil-militar? Nesse exercício reflexivo, não
 se pode contar com certezas, a opção mais coesa é observar episódios que
 convergem política e arte na história recente do Brasil. O desafio dos
 intelectuais, então, se resume em entender como lidar com obras que
-tratam sobre o contexto político desses dois decênios do século 21 -- um
+tratam sobre o contexto político desses dois decênios do século 21 — um
 período de reviravoltas.
 
 \'Contra a foice e o martelo, a família marcha com Deus pela liberdade\'
--- o slogan da \'revolução gloriosa\' de 1964[^3] ainda ressoava nas
+— o slogan da \'revolução gloriosa\' de 1964[^3] ainda ressoava nas
 ruas, quando em 1968, o mundo passou por insurreições estudantis: além
 das barricadas francesas, eclodiram os movimentos de contracultura nos
 EUA, a Primavera de Praga na República Tcheca, o Massacre de Tlatelolco
@@ -6164,7 +6174,7 @@ ou ainda ter \'a Gioconda no metrô\'. 
 Fomentados pelo espírito de revolta contra as hierarquias, obrigações e
 regras, os estudantes brasileiros entoavam: \'Abaixo a ditadura!\'. Como
 golpe final à liberdade de expressão, o governo militar apoiado por
-grupos de direita instituiu o Ato Institucional de no. 5 (o AI-5),
+grupos de direita instituiu o Ato Institucional de nº5 (o AI-5),
 decretando o recesso do Congresso e cassando dezenas de mandatos de
 parlamentares. A medida permitiu ainda a intervenção nos estados e
 municípios, a suspensão da garantia de habeas-corpus em casos de crimes
@@ -6190,7 +6200,7 @@ acontecimentos de 1968.
 Um pouco antes do AI-5, a *IX Bienal de São Paulo*, também conhecida
 como a \'Bienal do Pop\', trouxe as obras de artistas norte-americanos,
 como Jasper Johns, Andy Warhol, Roy Lichtenstein, Robert Rauschenberg e
-Edward Hopper -- a crítica à sociedade de consumo era o mote desses
+Edward Hopper — a crítica à sociedade de consumo era o mote desses
 trabalhos. A pop americana admitia a crise da arte que se estendia desde
 o início do século 20 e expôs a massificação da cultura popular
 capitalista. Buscando a estética das massas, essas obras aproximaram-se
@@ -6198,7 +6208,7 @@ do *kitsch*. Porém, a grande polêmica nesta edição da bienal ficou por
 conta da retirada pela polícia federal, antes da abertura da mostra, das
 obras *O presente*, de Cybèle Varela e *Meditação sobre a bandeira
 nacional*, de Quissak Jr., consideradas ofensivas e anti-nacionalistas
--- fato que nos coloca a diferente leitura entre a nossa pop e a
+— fato que nos coloca a diferente leitura entre a nossa pop e a
 americana. Qual seria a tônica que provocou a censura das duas obras
 brasileiras no certame? 
 
@@ -6223,7 +6233,7 @@ tornando-se uma das peças principais de sua produção).
 
 Nos três episódios envolvendo a *Bienal* e o *Salão de Arte Moderna do
 Distrito Federal* já se identificava a crítica travestida de ironia à
-ditadura militar e ao velho sistema de legitimação da arte -- marca
+ditadura militar e ao velho sistema de legitimação da arte — marca
 profunda dessa produção brasileira. Percebe-se também a sombra da
 censura militar cercando as exposições. Nesse sentido, o embate entre
 arte e ditadura estava definitivamente posto às claras. Aqui, as
@@ -6240,15 +6250,15 @@ conservadora movida pela cultura de massa.
 
 Na série temática das bananas, Antônio Henrique Amaral nos convoca à
 imersão numa ironia amarga, referindo-se à situação política do país em
-fins da década de 1960 -- comparável as \'republiquetas de bananas\',
+fins da década de 1960 — comparável as \'republiquetas de bananas\',
 termo pejorativo dedicado aos países latino-americanos militarizados e
-sob a influência dos EUA -- lembremos que o golpe militar de 1964 foi
+sob a influência dos EUA — lembremos que o golpe militar de 1964 foi
 apoiado e estimulado por agências governamentais norte-americanas e
 empresas multinacionais. Marcello Nitsche, no trabalho *Aliança para o
 progresso* (1965) também expôs a situação de submissão do Brasil para
 com os EUA, porém, em 1968, ele apresentou na \'Bienal do Pop\', as
 bolhas, grandes esculturas infláveis que permitiam a interação com o
-público -- outro modo de subverter o estado de apreciação da obra (não
+público — outro modo de subverter o estado de apreciação da obra (não
 mais a contemplação e sim a participação).
 
 Na décima edição da bienal, a intervenção militar nas artes visuais
@@ -6260,7 +6270,7 @@ selecionadas para representar o país na Bienal de Jovens em Paris foram
 impedidas de participar da mostra francesa. Em fins de 1968, a Bienal da
 Bahia e mostras em Ouro Preto e Belo Horizonte tinham sido censuradas
 com semelhante violência. Iniciou-se, então, um movimento nacional e
-internacional de questionamento à Bienal de São Paulo -- isto porque ela
+internacional de questionamento à Bienal de São Paulo — isto porque ela
 empregava recursos estatais em sua organização e mantinha-se calada
 frente à repressão em outras instituições artísticas. 
 
@@ -6268,7 +6278,7 @@ A adesão de Pierre Restany, crítico de arte, profundamente envolvido com
 o novo realismo (movimento que levantou questões semelhantes à pop
 inglesa e norte-americana) e encarregado da exposição de arte e
 tecnologia, foi o estopim para o movimento \'Non à la Biennale\'. A
-polêmica foi intensa, mas, ao fim, a Bienal abriu suas portas -- não com
+polêmica foi intensa, mas, ao fim, a Bienal abriu suas portas — não com
 a potencialidade que parecia ter antes do boicote, mas com o esforço de
 artistas e críticos que viram sua realização como um ato de resistência
 frente ao regime.
@@ -6299,7 +6309,7 @@ política produzem ficções, construídas entre a aparência e a realidade,
 entre o visível e o seu significado, entre o singular e o comum.[^6]
 Então, os artistas trazem indagações envolvidas pelo \'calor da hora\' e
 continuam criando obras motivadas pelas circunstâncias políticas de sua
-época -- algo que os teóricos não conseguem de modo tão tenaz,
+época — algo que os teóricos não conseguem de modo tão tenaz,
 justamente, porque precisam do distanciamento do tempo.
 
 Nesse sentido, historiadores e demais intelectuais ficaram atônitos com
@@ -6314,7 +6324,7 @@ ainda articular historicamente esse processo político em curso.
 Já os trabalhos artísticos que emergem dessas circunstâncias não se
 conservam apenas no lugar de comentário da vida ou se colocam meramente
 como panfletos de militância partidária. As obras espelham demandas e
-sentimentos da coletividade -- são declarações políticas que, em sua
+sentimentos da coletividade — são declarações políticas que, em sua
 maioria, evocam o potencial transformador da arte. Lembremos que, em
 meio às táticas de protesto, surgem manifestações artísticas, tais como,
 fotografias, performances, grafites, música e dança que acabam por
@@ -6343,7 +6353,7 @@ historiográficas trazem preocupações e atividades que requerem o
 tratamento de questões sociais, de gênero, do corpo, da sexualidade e
 das instituições que detém algum tipo de poder (família, escola, igreja,
 entre outras) e todo e qualquer domínio dos saberes. O atual contexto
-político exige ainda a prática das micropolíticas -- as pequenas
+político exige ainda a prática das micropolíticas — as pequenas
 revoluções que provam que a existência é, fundamentalmente, um movimento
 de resistência. A inerente transgressão da arte permite sair do nível do
 discurso para a prática diária.
@@ -6356,8 +6366,8 @@ seja a sua própria ou a da coletividade. Artistas, coletivos e
 movimentos artísticos têm papel crucial na construção de seu tempo
 através de múltiplas linguagens estéticas. Alguns atingem um
 significativo grau de especificidade no modo de construção e se tornam,
-de certo modo, cronistas do cotidiano -- uma expressão que somente pode
-ser compreendida através da reconstituição dos diversos \'agoras\' -- um
+de certo modo, cronistas do cotidiano — uma expressão que somente pode
+ser compreendida através da reconstituição dos diversos \'agoras\' — um
 tempo fraturado diante da profusão de imagens, sons e sentidos imersos
 na sociedade contemporânea. As práticas poéticas e políticas podem
 responder às atuais indagações e/ou podem implicar novas reflexões.
@@ -6366,7 +6376,7 @@ Em março de 2014, na exposição *Pintura como meio - 30 anos*, realizada
 no Museu de Arte Contemporânea da Universidade de São Paulo, Ciro
 Cozzolino apresentou a tela *SP Jun 2013* (Figura 1). Produzida no
 instante das manifestações populares, que tomaram as principais cidades
-brasileiras, a obra traz a multidão: nela, personagens diversos em
+brasileiras, a obra traz a multidão nela, personagens diversos em
 posição de protesto (de punhos cerrados) e de combate. Um pouco
 deslocado do centro, à esquerda, o mascarado Anonymous, mais ao canto o
 Black Bloc e o símbolo anarquista e, ao fundo, os arranha-céus de São
@@ -6375,67 +6385,64 @@ artista retratou a juventude da primeira semana das jornadas liderada
 pelo MPL (Movimento Passe Livre) que tinha como demanda o não aumento
 das tarifas de ônibus e metrô da capital paulista.
 
-![Figure 1: Ciro Cozzolino, *SP JUN 2013* , 2013, acrílica sobre tela,
+![Figura 1: Ciro Cozzolino, *SP JUN 2013* , 2013, acrílica sobre tela,
 147,2 cm x 185,1 cm x 5 cm, Museu de Arte Contemporânea da Universidade
-de São Paulo -- MAC USP.](imgs/15_1.jpg)
+de São Paulo — MAC USP.](imgs/15_1.jpg)
 
 <br/>
 
 A agitação nas ruas do país tornou-se intensa. No Rio de Janeiro e em
-outras cidades semelhantes, instituições financeiras foram atacadas --
+outras cidades semelhantes, instituições financeiras foram atacadas —
 parecia que as movimentações de Seattle, em 2000 - seriam o modelo para
 as mobilizações de 2013. Os protestos contra o FMI e o Banco Mundial
 surgiram como protótipo para a postura política daqueles jovens. Entre
 2000 e 2004, André Ryoki fotografou as movimentações anticapitalistas no
 Brasil. Nesses registros, O \'instante aprisionado\' é a vertente mais
-acentuada. O fotógrafo leva o observador para o centro da cena -- o
+acentuada. O fotógrafo leva o observador para o centro da cena — o
 coloca frente à movimentação e ao embate entre polícia e ativistas.
 Esbarrando entre o fotojornalismo e o uso da estética para a evocação
 política, Ryoki enfatiza a materialização da experiência lúdica,
 criativa e reivindicatória das manifestações. Em algumas imagens, as
-máscaras e os rostos dos jovens referem-se à resistência eternizada --
+máscaras e os rostos dos jovens referem-se à resistência eternizada —
 algo como a crônica do sonho e da utopia presente nos olhares de cada
 ativista retratado (Figuras 2 a 6).
 
-![Figure 2: André Ryoki, *Sem título* *(Manifestação \"N9\")*, 09 de
-novembro de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção
-do artista.](imgs/15_2.tif)
+![Figura 2: André Ryoki, *Sem título* *(Manifestação \"N9\")*, 09 de
+novembro de 2001, filme 35mm p&b, sobre papel Ilford resinado. Coleção do artista.](imgs/15_2.tif)
 
 <br/>
 
-![Figure 3: André Ryoki, *Sem título (Manifestação \"A20\")*, 20 de abril
-de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
-artista.](imgs/15_3.tif)
+![Figura 3: André Ryoki, *Sem título (Manifestação \"A20\")*, 20 de abril
+de 2001, filme 35mm p&b, sobre papel Ilford resinado. Coleção do artista.](imgs/15_3.tif)
 
 <br/>
 
-![Figure 4: André Ryoki, *Sem título* *(Manifestação \"S26\")*, 26 de
-setembro de 2000, filme 35mm p&b, sobre papel Ilford resinado, coleção
-do artista.](imgs/15_4.tif)
+![Figura 4: André Ryoki, *Sem título* *(Manifestação \"S26\")*, 26 de
+setembro de 2000, filme 35mm p&b, sobre papel Ilford resinado. Coleção do artista.](imgs/15_4.tif)
 
 <br/>
 
-![Figure 5: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
-abril de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
+![Figura 5: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
+abril de 2001, filme 35mm p&b, sobre papel Ilford resinado. Coleção do
 artista.](imgs/15_5.tif)
 
 <br/>
 
-![Figure 6: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
-abril de 2001, filme 35mm p&b, sobre papel Ilford resinado, coleção do
+![Figura 6: André Ryoki, *Sem título* *(Manifestação \"A20\")*, 20 de
+abril de 2001, filme 35mm p&b, sobre papel Ilford resinado. Coleção do
 artista.](imgs/15_6.tif)
 
 <br/>
 
 Voltando ao ano de 2013 e ao Rio de Janeiro, Josely Carvalho recolheu os
-vidros blindados atacados pela multidão e concebeu *Memorial às
+vidros blindados atacados pela multidão; e concebeu *Memorial às
 resistências* (2013). Naquele instante, o modo de ocupação das ruas
 persistiu como revolta contra o sistema capitalista. Carvalho conservou
 o ato que irrompeu dos manifestantes; emoldurou a memória do vidro
 estilhaçado. Em 2018, após o assassinato de Marielle Franco, a artista
 resolveu atribuir seu nome à obra. Talvez, por compreender que o
 processo que se iniciou nas manifestações de 2013 tenha relações com a
-morte da vereadora carioca -- e, de fato, Marielle foi morta por ser
+morte da vereadora carioca — e, de fato, Marielle foi morta por ser
 mulher, negra, lésbica e incômoda às forças do aparelho estatal, cercado
 de colonialidade e patriarcalismo (Figura 7).
 
@@ -6458,7 +6465,7 @@ Collor, em 1992. Nessa movimentação, encontravam-se artistas militantes
 
 Dos grandes aos pequenos acontecimentos, \'nada do que um dia acontecer
 pode ser considerado perdido para a história\', como diria Walter
-Benjamin...[^7]e tampouco à arte. A revolução diária dos artistas
+Benjamin...[^7] e tampouco à arte. A revolução diária dos artistas
 mostra-se profundamente comprometida com o combate à exclusão social.
 Beth Moysés está envolvida com universo feminino, trazendo para suas
 obras embates sobre gênero, identidade, abusos, violência doméstica,
@@ -6478,18 +6485,17 @@ momento político nos quais estamos imersos. O medo para alguns e o
 desejo para outros de uma intervenção militar vive presente entre nós.
 As referências ao regime militar, à repressão e à tortura são sombras
 que ameaçam a frágil democracia brasileira (mais do que nunca, a
-democracia estava sob ataque -- sabemos agora) (Figura 8).
+democracia estava sob ataque — sabemos agora) (Figura 8).
 
-![Figura 8.1: Bianca Turner, *Filosofia dos gabinetes*, 2018, série de 15
-lambe-lambes, coleção da artista.](imgs/15_8.jpg)
-
-<br/>
-
-![Figura 8.2](imgs/15_9.jpg)
+![Figura 8: Bianca Turner, Filosofia dos gabinetes, 2018, série de 15 lambe-lambes. Detalhes da montagem (próxima página). Coleção da artista.](imgs/15_8.jpg)
 
 <br/>
 
-![Figura 8.3](imgs/15_10.jpg)
+![](imgs/15_9.jpg)
+
+<br/>
+
+![](imgs/15_10.jpg)
 
 <br/>
 
@@ -6505,28 +6511,27 @@ artista; ele é delicado na manufatura e pelos diversos significados que
 lhe podem ser atribuídos, mas ele discute, sobretudo, a situação social,
 econômica, política e racial que cerca nossa realidade (Figura 9).
 
-![Figura 9.1: Marcela Tiboni, *Resistência Uniforme*, 2017-2018, bordado
-sobre camisa, coleção da artista.](imgs/15_11.png)
+![](imgs/15_11.png)
 
 <br/>
 
-![Figura 9.2](imgs/15_12.png)
+![Figura 9: (Acima) Marcela Tiboni, Resistência Uniforme, 2017-2018, bordado sobre camisa,(abaixo) detalhes das obras. Coleção da artista.](imgs/15_12.png)
 
 <br/>
 
-![Figura 9.3](imgs/15_13.png)
+![](imgs/15_13.png)
 
 <br/>
 
-![Figura 9.4](imgs/15_14.png)
+![](imgs/15_14.png)
 
 <br/>
 
 *Rebote*, 2020-2021 (série de retratos formada por 10 desenhos), de
 Rodrigo Linhares, subverte a lógica ensimesmada do corpo do artista que
-já não é mais protagonista solitário -- algo comum na sua produção
+já não é mais protagonista solitário — algo comum na sua produção
 anterior. Nesses retratos atuais, os modelos estão de costas para o
-espectador e rechaçam seu olhar -- o que dá mais armas para a
+espectador e rechaçam seu olhar — o que dá mais armas para a
 inquirição: quem são eles? O que observam? Por que protestam? Sim, seria
 repulsa? De fato, a imagem anterior de um corvo enforcado (presente em
 *Rebote*, 2019), segundo o artista, refere-se a Vladimir Herzog, morto,
@@ -6537,12 +6542,12 @@ pulsão de morte e simultânea resistência ao retorno desse difícil
 período histórico (Figuras 10 e 11).
 
 ![Figura 10: Rodrigo Linhares, *Rebote*, 2021, desenho lavado, nanquim
-sobre papel algodão, 180 x 130 cm, coleção do artista.](imgs/15_15.jpg)
+sobre papel algodão, 180 x 130 cm. **Coleção** do artista.](imgs/15_15.jpg)
 
 <br/>
 
 ![Figura 11: Rodrigo Linhares, Vista da exposição *Rebote*, Temporada de
-projetos, 2021, Paço das Artes, São Paulo, SP.](imgs/15_16.jpg)
+projetos, 2021, Paço das Artes, São Paulo, SP. Cortesia do artista.](imgs/15_16.jpg)
 
 <br/>
 
@@ -6554,7 +6559,7 @@ sobre a multidão e, em especial a transmissão da faixa presidencial
 feita por oito representantes da diversidade brasileira. Para além dos
 trabalhos individuais, vale a menção à exposição *Brasil Futuro: as
 formas da democracia*, com curadoria de Rogério Carvalho e Lilia
-Schwarcz, no Museu Nacional de Brasília -- que integrou os festejos da
+Schwarcz, no Museu Nacional de Brasília — que integrou os festejos da
 posse do terceiro mandato de Lula. Com 180 obras, a mostra deu o tom de
 celebração da democracia, do resgate dos símbolos nacionais e de atenção
 às pautas do feminismo, da negritude, dos povos originários, do
@@ -6564,7 +6569,7 @@ Sob a ocupação da cidade e as cerimônias de posse, colocamos, entre as
 proposições contemporâneas, a série fotográfica chamada *Empossamento*,
 2003, de Mauro Restiffe. Nesses registros, o evento histórico da posse
 do primeiro presidente vindo da classe trabalhadora, Lula. Naquele
-instante, Brasília recebia em suas vias a multidão -- os trabalhadores
+instante, Brasília recebia em suas vias a multidão — os trabalhadores
 ganharam protagonismo nessas imagens. Alguns críticos, classificaram
 essas fotografias como a \'desestabilização da arquitetura\', uma vez
 que a arquitetura da cidade foi subjugada pela multidão. A propósito,
@@ -6578,7 +6583,7 @@ esteticamente.
 Porém, sete dias após a posse de 2023, seguiram-se notícias
 estarrecedoras: gritos de intervenção, invasão dos espaços
 institucionais dos três poderes, roubo e destruição de patrimônio
-público -- algo muito diferente do espaço da cidade tomado de modo
+público — algo muito diferente do espaço da cidade tomado de modo
 cidadão: os prédios públicos e símbolos democráticos foram invadidos.
 Acostumada a ser o centro nervoso da política do país, Brasília
 tornou-se, literalmente, campo de batalha. E nessa disputa, seu capital
@@ -6620,7 +6625,7 @@ in Tânia Regina Zimmermann (org.) *Ensaios Sobre Literatura e História
 da Cultura*. São Paulo: Brasiliense, 1987, pp. 222-232.
 
 Benjamin, Walter. 'Teses sobre o conceito da história'. In *O Anjo da
-História*. Belo Horizonte: Autêntica Editora, 2012,. pp. 7-20
+História*. Belo Horizonte: Autêntica Editora, 2012, pp. 7-20.
 
 Cayses, Julia Buenaventura Valencia. 'Isto não é uma obra: arte e
 ditadura', *50 Anos do Golpe de 64*, *Estudos avançados*, 28.80 (April
@@ -6634,7 +6639,7 @@ Danto, Arthur. *Após o Fim da Arte. A Arte Contemporânea e os Limites da
 História.* São Paulo: Odysseus Editora, 2006.
 
 Oliveira, Alecsandra Matias. \'Contexto sociocultural da década de 70\',
-In: Elza Ajzenberg, *Schenberg -- Arte e Ciência*. São Paulo: ECA USP,
+In: Elza Ajzenberg, *Schenberg — Arte e Ciência*. São Paulo: ECA USP,
 1995, pp. 129-142.\
 \_\_\_\_\_\_. 'A arte pop brasileira\...que gostava de política em
 1968'. *Jornal da USP*, 24 October 2014,
@@ -6649,7 +6654,7 @@ https://jornal.usp.br/articulistas/alecsandra-matias-de-oliveira/brasilia-traco-
 Otellado, Pablo e Ryoki, André. Estamos Vencendo! Resistência Global no
 Brasil. São Paulo: Conrad Editora do Brasil, 2004 (Coleção Baderna).
 
-Ranciére, Jacques. 'Política da arte', in *São Paulo S.A. -- práticas
+Ranciére, Jacques. 'Política da arte', in *São Paulo S.A. —  práticas
 estéticas, sociais e políticas em debate*. São Paulo: SESC, 2005.
 
 [^1]: Alecsandra Matias de Oliveira, doutora em Artes Visuais - ECA USP,
@@ -6657,7 +6662,7 @@ estéticas, sociais e políticas em debate*. São Paulo: SESC, 2005.
     alecsandramatias@gmail.com.
 
 [^2]: Walter Benjamin, 'Teses sobre o conceito da história'. In *O Anjo
-    da História*. Belo Horizonte: Autêntica Editora, 2012,. pp. 7-20
+    da História*. Belo Horizonte: Autêntica Editora, 2012, pp. 7-20.
 
 [^3]: O golpe militar surge na historiografia revisionista como
     \'revolução gloriosa\'. Na verdade, trata-se da ditadura
@@ -6665,7 +6670,7 @@ estéticas, sociais e políticas em debate*. São Paulo: SESC, 2005.
     no texto, o termo é irônico.
 
 [^4]: Alecsandra Matias de Oliveira. \'Contexto sociocultural da década
-    de 70\', in Elza Ajzenberg *Schenberg -- Arte e Ciência*, 1995, p.
+    de 70\', in Elza Ajzenberg *Schenberg — Arte e Ciência*, 1995, p.
     129-142.
 
 [^5]: Julia Buenaventura Valencia Cayses, 'Isto não é uma obra: arte e
@@ -6673,15 +6678,77 @@ estéticas, sociais e políticas em debate*. São Paulo: SESC, 2005.
     2014),
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142014000100011.
 
-[^6]: Jacques Rancière, 'Política da arte', in *São Paulo S.A. --
+[^6]: Jacques Rancière, 'Política da arte', in *São Paulo S.A. —
     práticas estéticas, sociais e políticas em debate*. São Paulo: SESC,
     2005.
 
 [^7]: Walter Benjamin, 'Teses sobre o conceito da história'. In *O Anjo
-    da História*. Belo Horizonte: Autêntica Editora, 2012,. pp. 7-20
+    da História*. Belo Horizonte: Autêntica Editora, 2012, pp. 7-20.
 
 [^8]: Ver Alecsandra Matias de Oliveira, 'Rebote', *aínas magazine,*
     2023, pp. 59-62
+
+
+
+# Memory from Brasilia / Memória de Brasília
+
+### Laercio Redondo
+
+The union of art, life and architecture is analyzed within the process
+of creating panels and tiles by Brazilian artist Athos Bulcão
+(1918-2008). Bulcão's work is distinguished by a method whereby
+construction workers actively participated in the process of aesthetic
+and technical assembly of the murals. This is the starting point for the
+project that examines aspects of modernism in the construction of
+Brasilia in the late 1950s. Bulcão's works are poetic insertions in the
+construction of Brasilia. It is this relationship between artist and
+worker, city and landscape that builds the common thread linking all the
+research that resulted in a series of silkscreens on plywood, two videos
+and a wall painting.
+
+<br/>
+Next page:
+
+Memory from Brasilia, 2012/2022
+
+Installation view with works on plywood and mural painting featuring visitor's interferences, part of the exhibition *Lugar-comum*, Museum of Contemporary of Art of the University of São Paulo (MAC–USP), March–December, 2022.
+
+<br/>
+***
+<br/>
+
+A conjunção entre arte, vida e arquitetura é analisada a partir do
+processo de criação dos painéis e azulejos do artista Athos Bulcão
+(1918-2008). A obra de Bulcão é marcada por um processo no qual, por
+vezes, incluía a participação ativa dos operários na montagem dos
+murais. Este singular é, enquanto relevo do aspecto social e da inclusão
+poética dos trabalhadores no resultado dos grandes painéis de azulejos
+presentes na arquitetura e na paisagem de Brasília, o fio condutor de
+toda a pesquisa.
+
+*Lembrança de Brasília* contextualiza esse processo, reencena e
+resignifica o ofício do azulejador, que no Brasil tem início nos tempos
+coloniais. O conjunto de obras é assim uma reflexão sobre um artista
+essencial na discussão da aproximação entre arte, vida e arquitetura na
+historia recente do Brasil.
+
+<br/>
+"Próxima página: 
+
+Lembrança de Brasília, 2012/2022
+
+Vista da instalação com obras em madeira e mural com interferências de visitantes, parte da exposição *Lugar-comum*, Museu de Arte Contemporânea da Universidade de São Paulo (MAC–USP), março-dezembro de 2022."
+
+Detalhe do trabalho durante a exposição *Lugar Comum*
+
+Museu de Arte Contemporânea da Universidade de São Paulo. 
+São Paulo, Brasil, 2022, Photo: Laercio Redondo
+
+![](imgs/17_1.jpg)
+
+<br/>
+
+
 
 
 
@@ -6690,9 +6757,9 @@ estéticas, sociais e políticas em debate*. São Paulo: SESC, 2005.
 ### Oscar Svanelid
 
 > 'The old world is dying. The new world is emerging slowly. And in this
-> chiaroscuro, monsters are born.' 
+> *chiaroscuro*, monsters are born.' 
 > 
-> -- Antonio Gramsci[^2]
+> — Antonio Gramsci[^2]
 
 The political ideology of Bolsonarismo revealed its true monstrous face
 at the attempted coup of January 8^th^ in 2023, known as the Planalto
@@ -7026,7 +7093,7 @@ Press, 2005.
 Calirman, Claudia. Brazilian art under dictatorship: Antonio Manuel,
 Artur Barrio, and Cildo Meireles, Durham: Duke University Press, 2012.
 
-Chamon, Andréa Marques. As "mulatas\" de Di Cavalcanti -- um estudo em
+Chamon, Andréa Marques. As "mulatas\" de Di Cavalcanti — um estudo em
 Psicologia Social, Master thesis, Faculdade de Filosofia e Ciências
 Humanas da Universidade Federal de Minas Gerais, Belo Horizonte, 2017.
 
@@ -7037,7 +7104,7 @@ Giani MonteiroI, Mario Francisco; Ferreira RomioII, Jackeline Aparecida
 and Drezett, Jefferson. 'Is There Race/Color Differential on Femicide in
 Brazil? The Inequality of Mortality Rates for Violent Causes Among White
 and Black Women´, Journal of Human Growth and Development 31 \[Online\],
-no.2 (May/August 2021): 359--366.
+no.2 (May/August 2021): 359-366.
 
 Holston, James. The Modernist City: An Anthropological Critique of
 Brasília, Chicago: University of Chicago Press, 1989.
@@ -7048,10 +7115,10 @@ https://www.metropoles.com/entretenimento/politica-cultural/moreira-franco-usa-m
 
 Lazzarotto Simioni, Rafael. 'Arte e direito: A Justiça, de Alfredo
 Ceschiatti, no STF', *Suprema: revista de estudos constitucionais* 1
-(July/December 2021): 221--255.
+(July/December 2021): 221-255.
 
 Nunes, Rodrigo. 'Of what is Bolsonaro the name?', *Radical Philosophy*
-209 (Winter 2020): 3--14.
+209 (Winter 2020): 3-14.
 
 Masters, Edgar Lee. *Spoon River Anthology,* New York: Collier Books,
 1967.
@@ -7106,7 +7173,7 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
     University of Chicago Press, 1986.
 
 [^6]: Dario Gamboni, *The Destruction of Art: Iconoclasm & Vandalism
-    Since the French Revolution*, London: Reaktion, 1997, pp.17--20.
+    Since the French Revolution*, London: Reaktion, 1997, pp.17-20.
 
 [^7]: In 1957, Lúcio Costa submitted his Plano Piloto as his proposal
     for the construction of Brazil's new capital Brasilia. His proposal
@@ -7115,9 +7182,9 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
 
 [^8]: See James Holston, *The Modernist City: An Anthropological
     Critique of Brasília*, Chicago: University of Chicago Press, 1989,
-    p. 60--74.
+    p. 60-74.
 
-[^9]: Holston, *The Modernist City*, p. 211--217.
+[^9]: Holston, *The Modernist City*, p. 211-217.
 
 [^10]: Gustavo Uribe, 'Mesa de JK no Planalto deve passar por
     restauração e ser aposentada', *CNN Brasil*, 5 January 2023,
@@ -7148,7 +7215,7 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
 
 [^15]: Rafael Lazzarotto Simioni, 'Arte e direito: A Justiça, de Alfredo
     Ceschiatti, no STF', *Suprema: revista de estudos constitucionais* 1
-    (July/December 2021), p. 248--250.
+    (July/December 2021), p. 248-250.
 
 [^16]: Giorgio Agamben, *State of Exception*, trans. Kevin Attell.
     Chicago: University of Chicago Press, 2005.
@@ -7179,7 +7246,7 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
     https://neofeed.com.br/blog/home/de-sala-de-jantar-de-navio-ao-salao-nobre-a-viagem-de-as-mulatas-ate-a-depredacao/.
 
 [^23]: For an engaged reading, see Andréa Marques Chamon, *As 'mulatas'
-    de Di Cavalcanti -- um estudo em Psicologia Social*, Master thesis,
+    de Di Cavalcanti — um estudo em Psicologia Social*, Master thesis,
     Faculdade de Filosofia e Ciências Humanas da Universidade Federal de
     Minas Gerais, Belo Horizonte, 2017.
 
@@ -7193,92 +7260,34 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
     https://kunstkritikk.com/the-sao-paulo-biennial-ventures-deep-into-the-brazilian-darkness/.
 
 
-
-# Memory from Brasilia
-
-### Laercio Redondo
-
-The union of art, life and architecture is analyzed within the process
-of creating panels and tiles by Brazilian artist Athos Bulcão
-(1918-2008). Bulcão's work is distinguished by a method whereby
-construction workers actively participated in the process of aesthetic
-and technical assembly of the murals. This is the starting point for the
-project that examines aspects of modernism in the construction of
-Brasília in the late 1950s. Bulcao's works are poetic insertions in the
-construction of Brasília. It is this relationship between artist and
-worker, city and landscape that builds the common thread linking all the
-research that resulted in a series of silkscreens on plywood, two videos
-and a wall painting.
-
-*Memory from Brasília* contextualizes these aspects of Bulcão's
-historical work in relation to the city today. It reflects upon an
-important artist in the recent history of Brazil and discusses modernist
-architecture and its utopias as a means of transforming Brazilian
-society.
-
-*Memory from Brasilia*
-
-Fragment of the work during the exhibition *Lugar Comum*
-
-Museum of Contemporary Art of the University of São Paulo
-São Paulo, Brazil, 2022
-Photo credit: Laercio Redondo
-
-# Memória de Brasília
-
-### Laercio Redondo
-
-A conjunção entre arte, vida e arquitetura é analisada a partir do
-processo de criação dos painéis e azulejos do artista Athos Bulcão
-(1918-2008). A obra de Bulcão é marcada por um processo no qual, por
-vezes, incluía a participação ativa dos operários na montagem dos
-murais. Este singular é, enquanto relevo do aspecto social e da inclusão
-poética dos trabalhadores no resultado dos grandes painéis de azulejos
-presentes na arquitetura e na paisagem de Brasília, o fio condutor de
-toda a pesquisa.
-
-*Lembrança de Brasília* contextualiza esse processo, reencena e
-resignifica o ofício do azulejador, que no Brasil tem início nos tempos
-coloniais. O conjunto de obras é assim uma reflexão sobre um artista
-essencial na discussão da aproximação entre arte, vida e arquitetura na
-historia recente do Brasil.
-
-*Lembrança de Brasília*
-
-Detalhe do trabalho durante a exposição *Lugar Comum*
-
-Museu de Arte Contemporânea da Universidade de São Paulo. 
-São Paulo, Brasil, 2022, Photo: Laercio Redondo
-
-![](imgs/17_1.jpg)
-
-<br/>
-
-
-
-
-# Death of the Author
+# Death of the Author / Morte do Autor
 
 ### Laercio Redondo
 
 This work was based on an article in the magazine L’Architecture d’Aujourd’hui from 1957, which featured the project of the Alvorada Palace, richly illustrated with drawings and models of architect Oscar Niemeyer (1907-2012). The building was destined to become the official residence of the Brazilian President in Brasilia, the new capital of the country.
 
-In the series of screen-printed plywood panels, all images from the article have been redacted, thus focusing on the remaining text. The title of the work is meant to dissolve the importance of the author and instead suggests the observer as the main articulator of the multiple readings and meanings of the building; the impact and consequences of ideologies related to the construction of the new capital.
+In the series of screen-printed plywood panels, all images from the article have been redacted, thus focusing on the remaining text. The title of the work is meant to dissolve the importance of the author and instead suggests the observer as the main articulator of the multiple readings and meanings of the building, the impact, and consequences of ideologies related to the construction of the new capital.
 
-*Death of the author*
+<br/>
+"Next pages:
+
+Death of the Author [in italics]
 Silkscreen on plywood
 Polyptych, 47x36cm (each)
-2014
+2014"
 
-
-# Morte do Autor
-### Laercio Redondo
+<br/>
+***
+<br/>
 
 Este trabalho foi baseado em um artigo da revista L’Architecture d’Aujourd’hui de 1957, ilustrado com desenhos e maquetes que mostrava o Palácio da Alvorada, projeto do arquiteto Oscar Niemeyer (1907-2012). O prédio estava destinado a se tornar a residência oficial do Presidente da República em Brasília, a nova capital do país.
 
 Na série de serigrafias impressas em painéis de compensado naval, todas as imagens do artigo foram retiradas, focando-se no assim no texto. O título da obra dissolve a importância do autor e sugere o observador como o principal articulador das múltiplas leituras e significados do edifício; o impacto e as consequências das ideologias relacionadas à construção da nova capital.
 
-*Morte do autor*
+<br/>
+Próximas páginas: 
+
+Morte do autor [in italics]
 Serigrafia em plywood
 Políptico, 47×36 cm (cada)
 2014
@@ -7296,7 +7305,7 @@ Políptico, 47×36 cm (cada)
 <br/>
 
 
-# Caro Oscar Niemeyer
+# Carta ao Arquiteto
 
 ### Tatiana Letier Pinto
 
@@ -7485,9 +7494,7 @@ fim do seu relato, Pero Vaz Caminha conclama ao Rei de vir para essas
 terras para civiliza-las e 'salvar esta gente'.
 
 Eu gosto muito de cartas: escrever cartas, receber cartas, ler cartas
-alheias, esse
-
-formato de comunicação direta entre duas pessoas gera uma intimidade que
+alheias, esse formato de comunicação direta entre duas pessoas gera uma intimidade que
 propicia a sinceridade, inclusive esse é um dos motivos que me levaram a
 lhe escrever uma carta, pois também acredito ser um ato de afeto. As
 cartas podem findar num fundo de baú esquecidas ou tornar-se até um
@@ -7538,7 +7545,7 @@ foi instaurada.
 
 A Missão Cruls não foi a única excursão de interiorização no Brasil, o
 então presidente em 1943, Getúlio Vargas persistiu com o intuito de
-explorar o entro-terra e crescer o país nessa direção, iniciando o
+explorar o entroterra e crescer o país nessa direção, iniciando o
 projeto \'A Marcha para o Oeste\'[^8]. Detalhes da primeira expedição da
 Marcha está no relato compartilhado pelos irmãos Villas Bôas, que
 lideraram parte dessa expedição. Eles relatam no diário que foi
@@ -7652,9 +7659,9 @@ Quem e o que circulava nos espaços de Brasília estava dando continuidade
 a um projeto de país moderno semeado na concepção da capital. Tem uma
 passagem do livro *A Peste* de Albert Camus que diz assim:
 
-> 'o bacilo da peste nunca morre ou desaparece de vez -- este pode
-> permanecer adormecido por anos e anos em móveis e baús á espera em
-> quartos, porões, móveis e estantes -- para que talvez chegue o dia em
+> 'o bacilo da peste nunca morre ou desaparece de vez - este pode
+> permanecer adormecido por anos e anos em móveis e baús à espera em
+> quartos, porões, móveis e estantes - para que talvez chegue o dia em
 > que, para desgraça e esclarecimento dos homens, seus ratos despertem
 > novamente e os envie para morrer em uma cidade feliz'.[^12]
 
@@ -7696,7 +7703,7 @@ que não foi considerado por você?
 
 \*\*\*
 
-Há pouco mais de uma semana atrás, no dia 1o. de janeiro, o presidente
+Há pouco mais de uma semana atrás, no dia no dia 1º. de janeiro, o presidente
 eleito Lula da Silva fez exatamente isso: ofereceu Brasília para todas e
 todos. Neste dia da posse, ele subiu a rampa de mãos dadas com todos
 aqueles que Brasília sempre exclui, dizimou, ignorou e silenciou. Os
@@ -7740,6 +7747,14 @@ Te abraço fortemente e com muito respeito.
 Atenciosamente,
 
 Tatiana Letier Pinto
+
+<br/>
+
+Próxima página: 
+<br/>
+Tatiana Letier Pinto, *Carta ao arquiteto*, digital collage and photography, 2023. Courtesy of the artist.
+
+<br/>
 
 ![](imgs/19_1.tif)
 
@@ -7794,7 +7809,7 @@ Tatiana Letier Pinto
      colocados na Praça dos Três Poderes. (Fonte: Redes sociais)
      
 
-####English
+####Captions
 
 1\. Female restroom in the Brazilian Federal Senate in Brasilia, built in
 2015. (Photo: Tatiana Letier Pinto, June 2023)
@@ -7916,14 +7931,14 @@ Companhia das Letras, 2012.
     brasileira. Era patrocinado pela companhia estadunidense Esso e as
     notícias eram sob controle dos Estados Unidos.
 
-[^10]: UFRJ -- Universidade Federal do Rio de Janeiro.
+[^10]: UFRJ - Universidade Federal do Rio de Janeiro.
 
 [^11]: \'Quem somos\', Quilombo Kalunga, acessado 13 de Outubro de 2023, https://quilombokalunga.org/press/quem-somos/
 
 [^12]: Albert Camus, *A Peste,* Rio de Janeiro: Record, 2017, p. 288.
 
 [^13]: Aforismo conhecido do cartunista, escritor e jornalista Millôr
-    Fernandes que faleceu em 2012.
+    Fernandes (1923–2012).
 
 
 
@@ -7957,102 +7972,102 @@ domingo, 8 de janeiro de 2023.
 
 O início de 2023 se configurou em metáfora da filmografia norte
 americana do cineasta Michael Moore, em especial filmes como *Tiros em
-Columbine*,[^2] e *Fahrenheit 9/11,*[^3] sendo que tanto os
+Columbine*,[^f21_2] e *Fahrenheit 9/11,*[^f21_3] sendo que tanto os
 acontecimentos reais da violência nas escolas e da era Trump ocorreram
-'dubladas em português'.[^4] No caso de Brasília, com alguns cartazes e
+'dubladas em português'.[^f21_4] No caso de Brasília, com alguns cartazes e
 enormes faixas colocadas no teto do Congresso Nacional simulando
 legendas em inglês, com os habituais pedidos de 'intervenção militar'. O
 referencial da produção de imagem vinda de Hollywood ou das emissoras
-norte-americanas têm um papel fundamental nesta data que pode ser
-representada pela sigla '8J'. Mas como Janus tem duas faces e duas
+norte-americanas tem um papel fundamental nesta data que pode ser
+representada pela sigla '8J'. Mas, como Janus, tem duas faces e duas
 perspectivas, olhemos primeiro para trás e pensemos o que aconteceu
 naquela primeira semana de janeiro de 2023, e como se desenhou uma
-jogada de xadrez mal sucedida até o momento em que extrema direita
+jogada de xadrez mal sucedida até o momento em que a extrema-direita
 ensaiou um xeque, mas não venceu a partida.
 
 Em um tabuleiro de xadrez, a posição 8J formalmente não existe. O código
 das posições prevê 8 números e 8 letras do alfabeto greco-romano, do 1
 ao 8 e do 'a' ao 'h'. O 'j' de 'Janeiro' estaria duas casas fora do
-tabuleiro. Neste jogo estar fora do tabuleiro não significa estar fora
+tabuleiro. Neste jogo, estar fora do tabuleiro não significa estar fora
 do jogo, pois este foi planejado para se tornar um personagem
 importante, e fora do tabuleiro, tanto na invasão no Capitólio nos
-Estados Unidos em 6 de janeiro de 2022, como no Palácio do Planalto em
-2023. Não tratarei aqui das peças escuras e claras como metáforas
+Estados Unidos em 6 de janeiro de 2021, como no Palácio do Planalto, em 2023. Não tratarei aqui das peças escuras e claras como metáforas
 raciais, mas como símbolos da polaridade política que culminou com as
 duas massas populares que estiveram nas duas importantes datas daquela
-semana de janeiro: a onda vermelha da vitória vista na posse do
-presidente Lula no dia 1º de janeiro, e a onda 'canarinho'[^5] da falta
-de fair play da tentativa de golpe no dia 8 de janeiro.
+semana de janeiro: a onda vermelha da vitória, vista na posse do
+presidente Lula no dia 1º de janeiro, e a onda 'canarinho'[^f21_5] da falta
+de fair play, da tentativa de golpe no dia 8 de janeiro.
 
 A rainha é uma peça estratégica no xadrez. A queda do rei é o objetivo
-do jogo e a rainha é a figura mais poderosa no tabuleiro, que acumula os
-poderes do bispo e da torre. Muitas vezes é priorizada pelos adversários
-que seja retirada, ou na linguagem do jogo em português 'comida', para
-vulnerabilizar o rei e encaminhar ao xeque-mate. No 8 de janeiro não
-necessariamente a rainha se materializou em uma mulher, como na estátua
-'A Justiça' e, mas no próprio território do poder, em especial no
+do jogo, mas a rainha é a figura mais poderosa no tabuleiro,
+incorporando os poderes do bispo e da torre. Muitas vezes é visada pelos
+adversários que, na linguagem do jogo em português, buscam 'comer' ela,
+para vulnerabilizar o rei e encaminhar ao xeque-mate. No 8 de janeiro
+não necessariamente a rainha se materializou em uma mulher, como na
+estátua 'A Justiça', mas no próprio território do poder, em especial no
 Palácio da Justiça do Supremo Tribunal Federal (STF) e no Palácio do
 Planalto, alvos da invasão dos manifestantes bolsonaristas.
 
-Após o receio quanto a segurança no 1º de janeiro e o sucesso e
-felicidade expostas durante todo o evento da posse do presidente Lula,
-além do festival com artistas populares que são de alguma maneira
-engajados com as causas humanitárias (que foram de alguma maneira
-silenciados desde o golpe parlamentar de 2016[^6]), o alívio referente a
-uma ameaça de golpe de estado tomou conta do novo governo. Vale lembrar
-que Lula havia decidido não substituir os cargos de confiança do
-Gabinete de Segurança Institucional da Presidência da República (GSI),
-órgão responsável pela segurança do Presidente e do Palácio do Planalto,
-e com isso permitiu por parte dos então servidores do ex-presidente Jair
-Bolsonaro uma conivência com os vândalos que invadiram as 3 casas do
-Poder.
+Em meio às preocupações quanto a segurança no 1º de janeiro, após o
+sucesso e felicidade expostas durante todo o evento da posse do
+presidente Lula, que contou com um festival de artistas populares de
+alguma maneira engajados às causas humanitárias (que foram de alguma
+maneira silenciados desde o golpe parlamentar de 2016),[^f21_6] o alívio
+referente a uma ameaça de golpe de estado tomou conta do novo governo.
+Vale lembrar que Lula havia decidido não substituir os cargos de
+confiança do Gabinete de Segurança Institucional da Presidência da
+República (GSI), responsável pela segurança do Presidente e do Palácio
+do Planalto, e, com isso, permitiu a conivência dos servidores do
+ex-presidente Jair Bolsonaro com os vândalos que invadiram as três casas
+do Poder.
 
-Gill Scott Heron, cantor negro norte-americano lançou a canção 'The
+Gill Scott Heron, cantor negro norte-americano, lançou a canção 'The
 Revolution Will Not Be Televised' ('A Revolução Não Será Televisionada')
-em 1971,[^7] frase que virou título de um documentário irlandês sobre a
-tentativa de golpe na Venezuela à Hugo Chávez em 2002,[^8] onde este
+em 1971,[^f21_7] frase que virou título de um documentário irlandês sobre a
+tentativa de golpe na Venezuela à Hugo Chávez em 2002,[^f21_8] onde este
 chegou a ser removido do poder por dois dias. O que aconteceu no 8 de
 janeiro está distante de uma revolução e mais próxima de um golpe,
 comandado pela 'peça' que estava duas casas distantes do tabuleiro, mais
-especificamente, Jair Bolsonaro, que segundo os jornais naquele momento
-estava hospedado na residência de um ídolo do MMA[^9] Brasileiro, em
-Orlando nos Estados Unidos. O golpe previa ser televisionado, mas em sua
-linguagem moderna onde cineastas amadores especialistas em selfies e em
-posse de seus smartphones e pacotes de dados de internet transmitiram em
-tempo real a ação terrorista planejada em grupos de aplicativos nestes
-aparelhos como Telegram, Whatsapp entre outros.
+especificamente, Jair Bolsonaro, que segundo os jornais estava, naquele
+momento, hospedado na residência de um ídolo do MMA[^f21_9] Brasileiro, em
+Orlando nos Estados Unidos. O golpe foi planejado para ser
+televisionado, mas em sua linguagem moderna, onde cineastas amadores,
+especialistas em selfies e em posse de seus smartphones e pacotes de
+dados de internet, transmitiram em tempo real a ação terrorista
+organizada em grupos de aplicativos nestes aparelhos como Telegram,
+WhatsApp entre outros.
 
 Esses manifestantes bolsonaristas vêm criando há tempos uma outra
 narrativa cujo maior oponente é a história enquanto ciência humana. Os
 bolsonaristas da Praça dos Três Poderes, de forma mais explícita que nos
-4 anos de governo de Bolsonaro (2019-2022), sabiam que estavam cometendo
-um crime e fizeram uma baderna expondo seus rostos em suas filmagens e
-transmitindo para quem quisesse assistir. Isto, para garantir em pouco
-mais de um milhar de câmeras e ângulos uma versão pessoal de uma tomada
-ilícita do poder em nome de um ideal fascista, onde se coloca 'nós'
-contra 'eles' e o trabalho duro contra a intelectualidade. Usa os meios
-de informação para desinformar e desunir, e plantam frases simbólicas
-para o lema desse grupo que escolhe uma imagem de líder para promover 'a
-onda' a partir de frases como 'Deus, pátria e família'.
+quatro anos de governo de Bolsonaro (2019-2022), sabiam que estavam
+cometendo um crime e fizeram uma baderna expondo seus rostos em suas
+filmagens e transmitindo para quem quisesse assistir. Isto, para
+garantir em pouco mais de um milhar de câmeras e ângulos uma versão
+pessoal de uma tomada ilícita do poder em nome de um ideal fascista,
+onde se coloca 'nós' contra 'eles' e o trabalho duro contra a
+intelectualidade. Usando os meios de informação para desinformar e
+desunir, plantaram frases simbólicas, elegendo uma imagem de líder para
+promover 'a onda' a partir de lemas como 'Deus, pátria e família'.
 
-Foram os peões deste tabuleiro atirados de forma suicida para atacar em
-simultâneo o rei e a rainha. Essa ação exemplifica bem o 'complexo da
-visualidade' que segundo a teoria de Nicholas Mirzoeff significa o ato
-de
+Foram os peões deste tabuleiro atirados de forma suicida para atacar
+simultaneamente o rei e a rainha. Essa ação exemplifica bem o 'complexo
+da visualidade' que segundo a teoria de Nicholas Mirzoeff significa o
+ato de
 
 > 'classificar\', separar e estetizar \[que\] formam, juntos, o que
-> chamarei de um complexo de visualidade. Todo esse platonismo depende de
-> uma classe servil, seja formalmente uma classe escrava ou não, cuja
-> tarefa é fazer o trabalho que deve ser feito e nada mais.[^10]
+> chamarei de um complexo de visualidade. Todo esse platonismo depende
+> de uma classe servil, seja formalmente uma classe escrava ou não, cuja
+> tarefa é fazer o trabalho que deve ser feito e nada mais.[^f21_10]
 
-Para Mirzoeff o complexo da visualidade é um sistema onde o autor -- a
-autoridade -- é quem usa seu poder para estabelecer socialmente o que é
-visto como certo, bonito e justo. E, partindo desses pressupostos,
-definir uma imagem padrão para ser adotada e tornar-se uma meta a ser
-atingida --- mas não para todos -- em oposição a quem jamais se
-enquadrará nesse padrão.
+Para Mirzoeff, o complexo da visualidade é um sistema onde o autor — a
+autoridade — é quem usa seu poder para estabelecer socialmente o que é
+visto como certo, belo e justo. E, partindo desses pressupostos, definir
+uma imagem padrão para ser adotada, tornando-se uma meta a ser atingida
+— mas não para todos —, em oposição àqueles que jamais se enquadrarão
+nesse formato.
 
-## Os dois lados do jogo
+## Os Dois Lados do Jogo
 
 Os prints de imagens das capas de jornais impressos nacionais e
 internacionais, a seguir, ilustram alguns episódios marcantes após o
@@ -8060,228 +8075,227 @@ ataque à democracia no 8J principalmente, mas não exclusivamente: dos
 dias 2 e 9 de janeiro, do *day after* da posse do presidente, e do
 ataque respectivamente. As imagens permitem ver a informação tal como
 foi publicada nessas capas, assim como as escolhas das imagens que as
-ilustrariam após o imediatismo virtual desses eventos nas plataformas de
-mídias sociais no momento dos ataques aos palácios dos 3 poderes.
+ilustraram após o imediatismo virtual desses eventos nas plataformas de
+mídias sociais no momento dos ataques aos palácios dos três poderes.
 
-![Figura 1: Capa do *The New York Times,* 2 de janeiro de 2023. Fonte:
-*NYTimes.com.*[^11])](imgs/21_2.png)
+![Figura 1: Capa do *The New York Times,* 2 January 2023. Fonte:
+*NYTimes.com.*[^f21_11]](imgs/21_2.png)
 
 <br/>
 
-![Figura 2: Capa do The New York Times, 9 de janeiro de 2023. Fonte: *The
-New York Times.*[^12]](imgs/21_3.png)
+![Figura 2: Capa do The New York Times, 9 January 2023. Fonte: *The New
+York Times.*[^f21_12]](imgs/21_3.png)
 
 <br/>
 
 A primeira jogada está na visão em 'plano geral' das massas populares
 presentes no que chamo de 'dois domingos de transição': da energia da
 posse no dia 1° (Figura 1) e da tentativa de golpe no dia 8 (Figura
-2).[^13] A posse de Lula foi tomada por uma 'onda vermelha', cor que
+2).[^f21_13] A posse de Lula foi tomada por uma 'onda vermelha', cor que
 caracteriza a multidão no fundo do quadro, impulsionada pela vitória do
 Partido dos Trabalhadores (PT), e por todo um trabalho de comunicação
 inclusiva, onde as discussões presentes e urgentes no campo progressista
 se materializam na imagem. Vemos Lula subindo a rampa do Palácio do
 Planalto com a cachorrinha chamada Resistência, com a Primeira Dama
-Janja Lula da Silva e representantes de grupos menos favorecidos, como
+Janja, Lula da Silva e representantes de grupos menos favorecidos, como
 pessoas negras, indígenas e com deficiência. Ao seu lado está o cacique
 Raoni Metuktire, liderança Caiapó e defensor histórico dos direitos dos
-povos originários e do meio ambiente, indicando um recado para as
-viagens agendadas para encontros internacionais para discutir recursos
-para a defesa da floresta amazônica. Já na manchete que noticia o ataque
-à democracia uma semana depois, os uniformes da seleção de futebol
-brasileira da Nike com as cores verde e amarela voltam a ser o dress
-code dos invasores bolsonaristas que subiram a mesma rampa para
-desrespeitar e vandalizar o patrimônio que pertence a todos os
-brasileiros. 
+povos originários e do meio ambiente - antecipando a agenda dos
+encontros internacionais para discutir recursos para a defesa da
+floresta amazônica. Já na manchete que noticia o ataque à democracia uma
+semana depois, os uniformes da seleção de futebol brasileira da Nike com
+as cores verde e amarela voltam a ser o *dress code* dos invasores
+bolsonaristas que subiram a mesma rampa para desrespeitar e vandalizar o
+patrimônio que pertence a todos os brasileiros. 
 
 Muitos veículos jornalísticos no Brasil utilizaram essas mesmas duas
-imagens para ilustrar tanto a posse quanto o ataque, ou ao menos
+imagens para ilustrar tanto a posse quanto o ataque, ou, ao menos,
 utilizaram imagens com os mesmos pontos de vista. Na posse de Lula, a
 câmera registra o presidente dentro do Palácio quando se aproxima da
-solenidade de transferência da faixa presidencial que oficializou o seu
-terceiro governo. Na imagem dos ataques uma semana depois, a imprensa
+solenidade de transferência da faixa presidencial que coroou o seu
+terceiro governo. Na imagem dos ataques, uma semana depois, a imprensa
 observa as ações à distância, pois os registros próximos, em close-up,
 foram feitos de maneira mais detalhada, e em tempo real, pelos próprios
-vândalos e suas selfies.
+vândalos posando para suas selfies.
 
-![Figura 3: Capa do jornal *O Globo,* 9 de janeiro de 2023. Fonte: Acervo
-Digital/*O Globo.*[^14]](imgs/21_4.png)
+![Figura 3: Capa do jornal *O Globo,* 9 January 2023. Fonte: Acervo
+Digital/*O Globo.*[^f21_14]](imgs/21_4.png)
 
 <br/>
 
 ![Figura 4: Capa da *Folha de S. Paulo* de 19 de janeiro de 2023. Fonte:
-*Folha de S. Paulo*.[^15]](imgs/21_5.png)
+*Folha de S. Paulo*.[^f21_15]](imgs/21_5.png)
 
 <br/>
 
 A segunda jogada no tabuleiro revela o ponto de vista das janelas do
 Palácio do Planalto mencionadas anteriormente, mas já sem uma visão
-ampla e nem panorâmica (Figura 3). Na capa do jornal O Globo do dia 9 de
-janeiro a palavra 'Terrorismo' ganha destaque enquanto os estilhaços da
-parede de vidro do palácio, como em um espelho quebrado, ilustram a
-massa dos chamados 'bolsonaristas radicais' na rampa de acesso ao
-palácio.
+ampla e nem panorâmica (Figura 3). Na capa do jornal O Globo em 9 de
+janeiro, a palavra 'terrorismo' ganha destaque, enquanto os estilhaços
+da parede de vidro do Palácio do Planalto, como em um espelho quebrado,
+ilustram a massa dos chamados 'bolsonaristas radicais' na rampa de
+acesso ao edifício.
 
 As vidraças quebradas pelos vândalos vestidos de verde e amarelo (que
 emulam, quase uma década depois, práticas de vandalismo que estes mesmos
-bolsonaristas condenavam como uma prática Black Bloc[^16]) oferecem um
+bolsonaristas condenavam como uma prática Black Bloc),[^f21_16] oferecem um
 forte contraste com a capa da Folha de São Paulo (Figura 4) dias depois,
-onde a fotógrafa Gabriela Biló em seu experimento fotográfico de
-'múltipla exposição' encaixou a imagem de um estilhaço de uma das
+onde a fotógrafa Gabriela Biló, em seu experimento fotográfico de
+'múltipla exposição', encaixou a imagem de um estilhaço de uma das
 janelas quebradas com a foto de Lula ajeitando sua gravata com o corpo
-encolhido. Através desse artifício, a fotógrafa acabou criando uma
-sugestão de que um tiro tivesse atravessado a vidraça e atingido o
+encolhido. Através desse artifício, a fotógrafa acabou sugerindo
+visualmente que um tiro tivesse atravessado a vidraça e atingido o
 presidente.
 
-Neste segundo caso, como se diz popularmente no Brasil 'o tiro saiu pela
-culatra', pois tanto apoiadores do presidente Lula quanto o público
+Neste segundo caso, como se diz popularmente no Brasil, 'o tiro saiu
+pela culatra', pois tanto apoiadores do presidente Lula quanto o público
 geral entenderam a imagem como um incentivo a potenciais tentativas de
-assassinato do presidente[^17]. Para a foto do 'tiro em Lula' houve má
-repercussão para o jornal,[^18] mas que não o afetou comercialmente, e
-para a fotógrafa possibilitou inclusive à editora de seus livros sobre
-cobertura política voltar a divulgá-los e aproveitar para aumentar as
-vendas.[^19]
+assassinato do presidente.[^f21_17] Houve uma repercussão negativa da foto
+do 'tiro em Lula',[^f21_18] não obstante, a repercussão não atingiu
+comercialmente o jornal, tendo ainda beneficiado a fotógrafa, que ganhou
+um espaço de divulgação para seus livros anteriores sobre cobertura
+política e, consequentemente, ajudou sua editora a vendê-los ainda
+mais.[^f21_19]
 
 ![Figura 5: Imagem da Câmera de Segurança do Palácio do Planalto com o
-vândalo que destruiu relógio histórico.[^20]](imgs/21_6.png)
+vândalo que destruiu o relógio histórico.[^f21_20]](imgs/21_6.png)
 
 <br/>
 
-A terceira jogada e último exemplo de imagem que usarei é marcante:
-registrada pela câmera de segurança do Palácio do Planalto do vândalo
-'fardado' com uma T-shirt preta com a imagem e o nome de 'Bolsonaro'
-estampados, após derrubar e avariar o relógio trazido por Dom João VI em
-1808 (Figura 5). O homem foi dos poucos terroristas bolsonaristas que
-não usavam as cores do uniforme da Seleção brasileira de futebol, e
-optou pelo tom escuro nas vestes. Duas metáforas ocorrem nesse momento.
+A terceira jogada, e último exemplo de imagem que usarei, é marcante: o
+vândalo 'fardado' com uma camiseta preta com a imagem e o nome de
+'Bolsonaro' estampados, registrado pelas câmeras de segurança, após
+derrubar e avariar o relógio trazido por Dom João VI em 1808 (Figura 5).
+O homem foi um dos poucos terroristas bolsonaristas que não usavam as
+cores do uniforme verde -- amarelo da seleção brasileira de futebol, tendo
+optado pelo tom escuro nas vestes. Duas metáforas ocorrem nesse momento.
 A primeira, o ato do vândalo tentando parar o marcador do tempo, em um
-momento de mudança de conjuntura política. O relógio há anos tinha
-apenas uma função histórica e decorativa, já que o ponteiro não rodava
-mais. A segunda metáfora é que, ao olhar para a câmera, o criminoso
-'quebra a quarta parede'. No cinema, quebrar a quarta parede é quando o
-personagem da narrativa olha fundo no olho do espectador, diretamente
-para a câmera, como que assumindo a consciência de que se trata de um
-personagem em uma história e quer compartilhar isso com o público. Ao
-contrário da selfie do celular, onde o responsável pelo ato faz questão
-de assumir a autoria do que faz, neste ângulo o personagem se entende
-como terceira pessoa da narrativa. Nesse momento a auto narrativa não se
-concretiza na câmera de segurança a qual, neste ambiente panóptico, tem
-uma função bem definida. O bolsonarista tenta destruí-la a todo custo
-mesmo com a memória de seu crime já registrada sem o seu controle ou de
-seus pares. Dias depois foi identificado e preso. Um peão a menos no
+momento de mudança de conjuntura política. Há anos, o relógio tinha
+apenas uma função decorativa, já que o ponteiro não rodava mais. A
+segunda metáfora: o olhar que o criminoso dirige à câmera, 'quebrando a
+quarta parede'. No cinema, o termo 'quebrar a quarta parede' refere-se
+ao momento no qual o personagem da narrativa olha fundo no olho do
+espectador, diretamente para a câmera, como que, em um só golpe,
+assumindo a consciência de sua natureza ficcional, e ao mesmo tempo
+compartilhando com o público sua verdade existencial. Ao contrário da
+*selfie* do celular, onde o responsável pelo ato faz questão de assumir
+a autoria dos seus atos, neste ângulo o personagem se entende como
+terceira pessoa da narrativa. Nesse momento a autonarrativa não se
+concretiza na câmera de segurança que, neste ambiente panóptico, tem uma
+função bem definida. Ao invés, o bolsonarista tenta destruí-la a todo
+custo, apesar do registro de seu crime já ter sido guardado em alguma
+nuvem de dados, tendo escapado ao seu controle ou ao controle de seus
+pares. Dias depois, foi identificado e preso. Um peão a menos no
 tabuleiro do golpe de estado.
 
 ## Fora do Tabuleiro
 
 A revolução não foi televisionada, mas como visibilidade é tudo nesse
 jogo, esse xadrez digital para telas de celulares e computadores gerou
-fatos e provas que, uma vez utilizados pela justiça, podem tomar rumos
-diferentes. Até o momento deste texto 211 bolsonaristas permanecem
-detidos pelos atos terroristas e antidemocráticos do 8 de janeiro.[^21]
+fatos e provas que, uma vez utilizados pela justiça, podem mudar o rumo
+da partida. Até a conclusão deste texto 211 bolsonaristas permanecem
+detidos pelos atos terroristas e antidemocráticos do 8 de janeiro.[^f21_21]
 Considerando dentre os mais de 1.200 réus respondendo por estes
-atos[^22] -- presentes em grande parte nas próprias imagens geradas por
-estes ou pelas 'sobreviventes' câmeras de segurança dos prédios na Praça
-dos Três Poderes -- representam uma pequena quantidade das peças do
-tabuleiro deste jogo de xadrez, onde os 8 peões são, hierarquicamente,
-os elementos mais vulneráveis que são enviados ao confronto com o
+atos[^f21_22] — presentes em grande parte nas imagens geradas por eles
+mesmos, ou pelas câmeras de segurança 'sobreviventes' nos prédios na
+Praça dos Três Poderes — representam uma pequena quantidade das peças
+do tabuleiro desse jogo de xadrez, onde os oito peões são,
+hierarquicamente, os elementos mais vulneráveis e descartáveis ao serem
+enviados como 'buchas de canhão' em direção ao confronto direto com o
 'reino' adversário.
 
-Neste jogo a ação do rei se vê como uma figura que deve ser protegida
-para evitar o xeque-mate, que nesse caso configura metaforicamente o
-golpe de estado. E o rei neste jogo, onde a rainha foi comida, não foi
-passivo em ficar na autodefesa e saiu em pouco tempo da posição de
-xeque, e conseguiu que seus peões como no jogo avançassem no flanco
-oposto e recuperasse a rainha[^23]. O 8J enquanto posição fora do
-tabuleiro permaneceu mais algumas semanas protegido como o rei das peças
-brancas que, diante da recuperação da rainha, se vê aflito com a
-eliminação paulatina de suas peças de ataque e se vê tendo que se
-movimentar de novo dentro do tabuleiro, retornando ao Brasil, e sem uma
-estratégia definida.
+Nesse jogo o rei se vê como uma figura que deve ser protegida para
+evitar o *xeque-mate*, que, neste caso, configura metaforicamente o
+golpe de estado. E o rei dessa partida, onde a rainha foi comida, não
+ficou passivo na autodefesa, saindo rapidamente da posição de xeque,
+conseguindo que seus peões avançassem em direção ao flanco oposto para
+se tornarem rainhas.[^f21_23] O '8J', enquanto posição fora do tabuleiro,
+permaneceu mais algumas semanas protegido, encastelado e escondido no
+exterior, mas, diante da recuperação da rainha, vê-se aflito com a
+eliminação paulatina de suas peças de ataque e é obrigado a retornar ao
+tabuleiro, voltando ao Brasil sem uma estratégia definida.
 
 As janelas dos Três Poderes que no dia 1º de janeiro assistiram uma
 festa que pretendeu reunir 'os Brasis', sentiram no dia 8 de janeiro uma
-reação antidemocrática que nem pode ser chamada de popular pois indignou
-grande parte da população por sua total falta de sentido enquanto
-violência, mas que teve uma organização e comando prévios, de fora do
-tabuleiro.
+reação antidemocrática que nem pode ser chamada de popular, pois
+indignou grande parte da população por sua violência sem sentido, mas
+que teve uma organização e comando prévios vindos de fora do tabuleiro.
 
-Durante os ataques roubaram a versão original da Constituição de 1988,
-porém ela retornou após o episódio e a justiça vem sendo feita da
-maneira possível. A primeira constituição após a ditadura militar ser
-tirada de seu lugar enquanto símbolo de legalidade por manifestantes de
-extrema-direita que pedem, dentre outras coisas, o que denominam
-'intervenção militar' (que é inconstitucional) mostra, através das
-pequenas telas de smartphone, a fragilidade da confiança na segurança
-que atuou naquele evento. Mostra também a impunidade dependendo das
-'peças que se movem no tabuleiro', uma vez que integrantes deste sistema
-de justiça tomaram decisões incorretas em tudo de desagradável que
-aconteceu desde o impeachment da presidenta Dilma Rousseff em 2016 e da
-prisão do então pré-candidato à presidência de Lula dois anos depois. O
-antipetismo foi uma opção arriscada de tomada de poder pela
-extrema-direita, que teve, na presença de agentes ativos desse movimento
-a partir da Operação Lava Jato (2014-2021), nomes como Sergio Moro e
-Deltan Dallagnol, seus protagonistas com performances a partir de
-câmeras de conferência, apresentações em Powerpoint e vazamentos de
-informações sigilosas para as grandes emissoras. O Superior Tribunal
-Federal (STF) precisou de um mandato de Jair Bolsonaro para assumir a
-parcialidade do então juiz do caso, o atual senador Sérgio Moro, e
-desfazer várias de suas ações no julgamento, dentre elas absorver Lula
-de todas as acusações no processo.[^24]
+Durante os ataques, os vândalos roubaram a versão original da
+Constituição de 1988, que logo retornou ao seu devido lugar, e desde
+então a justiça vem sendo feita da maneira possível. A primeira
+constituição impressa após a ditadura militar, retirada de seu lugar
+simbólico e de legalidade do Estado de direito, foi roubada por
+manifestantes de extrema-direita que pedem, dentre outras coisas, uma
+'intervenção militar' inconstitucional. O acontecimento mostra, através
+das pequenas telas de smartphone, a fragilidade do esquema de segurança
+elaborado para o evento e a confiança dos criminosos na leniência
+daqueles que deveriam defender a constituição, os poderes públicos e
+suas três casas. Mostra também a impunidade arbitrária que dá guarda a
+certas 'peças que se movem no tabuleiro', e condena injustamente outras,
+como aconteceu no impeachment da presidenta Dilma Rousseff, em 2016, e
+na prisão de Lula, pré-candidato à presidência em 2018. O antipetismo
+foi uma opção arriscada de tomada de poder pela extrema-direita. Seus
+principais representantes na Operação Lava Jato (2014-2021), como Sergio
+Moro e Deltan Dallagnol, foram protagonistas de performances realizadas
+através de câmeras de conferência, apresentações em Powerpoint e
+vazamentos de informações sigilosas para a grande mídia. O Superior
+Tribunal Federal (STF) precisou de um mandato de Jair Bolsonaro para
+investigar a parcialidade do então juiz do caso, o atual senador Sérgio
+Moro, anulando diversas decisões que ele havia tomado enquanto juiz,
+para absolver Lula de todas as acusações no processo.[^f21_24]
 
-As mudanças para a retomada dos tempos dos primeiros governos de Lula
-(2003-2011) que, mesmo que imperfeitos, dentre outras coisas reduziu a
-fome e trouxe a cultura ao protagonismo do processo, não serão
+O retorno aos primeiros governos de Lula (2003-2010), ainda que
+imperfeitos, remete, dentre outras coisas, à redução da fome e ao
+protagonismo da cultura no cenário político, políticas que não serão
 interrompidas por um relógio de ouro destruído. O 'tempo não para' como
 cantava o poeta Cazuza, que também cantava sobre o 'museu de grandes
-novidades'.[^25] Para Leda Maria Martins, 'os sujeitos e suas formas
+novidades'.[^f21_25] Para Leda Maria Martins, 'os sujeitos e suas formas
 artísticas que daí emergem são tecidos de memória, escrevem
-história'.[^26]
+história'.[^f21_26]
 
-Entre os corpos narcísicos em suas selfies e os que só carregam suas
+Entre os corpos narcísicos em suas *selfies* e os que só carregam suas
 memórias e ancestralidades, cabem a estes transformar a referência do
 deus romano Janus e um movimento Sankofa, reconhecendo o passado, mas
 caminhando adiante. Cabe a cada um se expressar artisticamente ou não
-para fazer parte desta história, se posicionar no tabuleiro e através de
-sua voz, de suas narrativas e de suas estratégias de existência e
-resistência reescrever esta história. E se o adversário da harmonia do
-país está fora do tabuleiro, trabalharemos para que ali permaneça e
-desapareça da história.
+para fazer parte desta história, posicionar-se no tabuleiro e, através
+de sua voz, de suas narrativas e de suas estratégias de existência e
+resistência, reescrever esta história. E se o adversário da harmonia do
+país está fora do tabuleiro, trabalharemos para que ali permaneça e da
+história, desapareça.
 
-O '8' é um número forte por ser em sua representação um traço contínuo,
-e sendo assim representar o infinito. Por abuso de poder durante as
-eleições, o Superior Tribunal Federal tornou Jair Bolsonaro inelegível
-por 8 anos a partir da data da eleição. Os seus aliados tentam manter a
-tática fascista de se manter no protagonismo do noticiário a partir de
-discursos preconceituosos e mentirosos, mas a peça principal do período
-mais tenebroso desde o golpe de 1964 está longe de estar no tabuleiro. É
-uma peça fantasma, mas por enquanto sua estratégia busca sobreviver com
-cada vez menos peças no tabuleiro para manter o jogo antes do
-xeque-mate. Nos dias que antecedem a conclusão deste texto algumas peças
-mudaram de cor, como normalmente acontece no sistema político
-brasileiro.
+O '8' é um número forte por ser, em sua representação um traço contínuo,
+e, sendo assim, representar o infinito. Por abuso de poder durante as
+eleições, o Superior Tribunal Federal (STF) tornou Jair Bolsonaro
+inelegível por oito anos a partir da data da eleição geral em 2022. Os
+seus aliados tentam se manter no noticiário com seus discursos
+fascistas, preconceituosos e mentirosos, mas a peça principal do período
+mais tenebroso desde o golpe de 1964 por ora ausentou-se do tabuleiro. É
+uma peça fantasma, mas por enquanto sua estratégia é sobreviver com cada
+vez menos peças, mantendo-se no jogo até o inevitável xeque-mate. Nos
+dias que antecedem a conclusão deste texto algumas peças mudaram de cor,
+como normalmente acontece no sistema político brasileiro.
 
-A, então, inelegibilidade do personagem 'de fora' o impedirá, no
-momento, de estar oito anos formalmente no poder, mesmo estando presente
-diariamente em todas as casas do tabuleiro como assunto que dinamiza o
-jogo. Pensando em peças estratégicas, e em ditos populares do período
-eleitoral, o Cavalo literalmente 'fez o L' e contribuiu para um futuro
-*xeque-mate* que se desenha nas comissões parlamentares de inquéritos,
-na Polícia Federal, e no Superior Tribunal Federal.
+A inelegibilidade do rei que se ausentou do tabuleiro durante os atos
+golpistas, impedirá seu retorno ao poder pelo menos nos próximos oito
+anos, mesmo que ainda continue, rondando o tablado diariamente como um
+fantasma que dinamiza o jogo. Pensando em peças estratégicas, e em ditos
+populares do período eleitoral, o Cavalo literalmente 'fez o L' e
+contribuiu para um futuro *xeque-mate* que se desenha nas comissões
+parlamentares de inquéritos, na Polícia Federal e no Superior Tribunal
+Federal.
 
 A melhor visão do tabuleiro é panorâmica e, usando o termo francês
-popularizado no audiovisual brasileiro, plongée, que significa
+popularizado no audiovisual brasileiro, *plongée*, que significa
 'mergulho'. Aprofundar o olhar sobre o tabuleiro e entender os próximos
-movimentos das peças não apenas ajuda a limpar o tabuleiro adversário,
-que no caso relatado tantos estragos fez, mas é ter estratégia para não
-abrir a guarda e deixar que jogadas do adversário se repitam. Como nas
-janelas do palácio, escolher se a perspectiva é melhor de dentro ou de
+movimentos das peças não significa apenas ajudar a limpar o tabuleiro
+devastado pelo adversário, que tantos estragos fez, mas significa também
+construir uma estratégia para não tomar um outro golpe-surpresa, e não
+permitir que as jogadas do adversário se repitam. Como nas janelas do
+palácio, trata-se de escolher se a perspectiva é melhor de dentro ou de
 fora, perto ou distante.
 
 ## Bibliografia
-
-Bartley, Bartley and O'Briain, Donnacha. The Revolution Will Not Be
-Televised (2003), Internet Movie Database,
-'https://www.imdb.com/title/tt0363510/?ref\_=ext_shr_lnk.
 
 'Brasil teve 23 ataques a escolas, mais da metade dos últimos 4 anos',
 Agência Brasil, 22 May, 2023,
@@ -8336,116 +8350,117 @@ The New York Times, 'Today's Paper', 1 January, 2023,
 https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.
 
 The New York Times, 'Today's Paper', 9 January, 2023,
-https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.
+[[https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times]{.underline}](https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times).
 
-[^1]: Doutor em Educação, Cineasta e Cineclubista. E-mail:
-    clementino.jr1@gmail.com.
+The Revolution Will Not Be Televised (dir. Bartley, Bartley and
+O'Briain, Donnacha, 2003), Internet Movie Database,
+'https://www.imdb.com/title/tt0363510/?ref\_=ext_shr_lnk.
 
-[^2]: *Bowling for Columbine*, (Dir. Michael Moore, 2002), Internet
+
+[^f21_2]: *Bowling for Columbine*, (dir. Michael Moore, 2002), Internet
     Movie Database,
     https://www.imdb.com/title/tt0310793/?ref\_=ext_shr_lnk.
 
-[^3]: *Fahrenheit 9/11*, (Dir. Michael Moore, 2004), Internet Novie
+[^f21_3]: *Fahrenheit 9/11*, (dir. Michael Moore, 2004), Internet Novie
     Database, https://www.imdb.com/title/tt0361596/?ref\_=ext_shr_lnk.
 
-[^4]: De janeiro à abril de 2023 ocorreram 6 ataques armados à escolas
+[^f21_4]: De janeiro a abril de 2023 ocorreram 6 ataques armados à escolas
     no Brasil, o total do ano anterior. 'Brasil teve 23 ataques a
-    escolas, mais da metade dos últimos 4 anos', Agência Brasil, 22 May,
+    escolas, mais da metade dos últimos 4 anos', Agência Brasil, 22 May
     2023,
     https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/brasil-teve-23-ataques-escolas-mais-da-metade-nos-ultimos-4-anos.
 
-[^5]: Canarinho é o nome de uma pequena ave que apelida o uniforme da
+[^f21_5]: Canarinho é o nome de uma pequena ave que apelida o uniforme da
     seleção brasileira de futebol, onde as cores amarelo e verde
     predominam, criada após a derrota na Copa do Mundo de Futebol no
     Brasil em 1950 e lançada para vestir o time a partir de 1954 pela
     superstição criada com o uniforme branco da derrota em casa para o
     Uruguai.
 
-[^6]: A Câmara dos Deputados abriu um processo de Impeachment contra a
-    presidenta Dilma Roussef que foi aprovado em 2016, empossando Michel
-    Temer naquele ano em 31 de agosto, após pouco mais de 3 meses como
-    presidente interino. Em março de 2022 Dilma Roussef foi inocentada
-    pelo Tribunal Regional Federal da 2ª Região de todas as acusações
-    que a fizeram perder o mandato.
+[^f21_6]: A Câmara dos Deputados abriu um processo de Impeachment contra a
+    presidenta Dilma Rousseff que foi aprovado em 2016, empossando
+    Michel Temer naquele ano em 31 de agosto, após pouco mais de 3 meses
+    como presidente interino. Em março de 2022 Dilma Rousseff foi
+    inocentada pelo Tribunal Regional Federal da 2ª Região de todas as
+    acusações que a fizeram perder o mandato.
 
-[^7]: Gil Scott Heron, 'The Revolution Will not be Televized (1971),
+[^f21_7]: Gil Scott Heron, 'The Revolution Will not be Televized' (1971),
     Spotify,
     https://open.spotify.com/intl-pt/track/7EdXviPSV2ljO2qjcPtP1a?autoplay=true#\_=\_.
 
-[^8]: Kim Bartley and Donnacha O\'Briain, *The Revolution Will Not Be
+[^f21_8]: Kim Bartley and Donnacha O\'Briain, *The Revolution Will Not Be
     Televised* (2003), Internet Movie Database,
     'https://www.imdb.com/title/tt0363510/?ref\_=ext_shr_lnk.
 
-[^9]: *Mixed Martial Arts* -- Artes Marciais Mistas.
+[^f21_9]: *Mixed Martial Arts* — Artes Marciais Mistas.
 
-[^10]: Nicholas Mirzoeff. 'O direito a olhar', *Educação Temática
-    Digital*, v. 18.4 (November 2016): 745-768.
+[^f21_10]: Nicholas Mirzoeff. 'O direito a olhar', *Educação Temática
+    Digital*, v. 18.4 (Novembro 2016): 745-768.
 
-[^11]: The New York Times, 'Today's Paper', 2 January, 2023,
+[^f21_11]: The New York Times, 'Today's Paper', 2 January, 2023,
     https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.
 
-[^12]: The New York Times, 'Today's Paper', 9 January, 2023,
+[^f21_12]: The New York Times, 'Today's Paper', 9 January, 2023,
     https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.
 
-[^13]: Plano geral é um enquadramento no audiovisual onde o cenário é
+[^f21_13]: Plano geral é um enquadramento no audiovisual onde o cenário é
     visto a distância, criando a ambientação da cena sem destacar
     especificamente um personagem, principalmente quando se tem várias
     pessoas em cena.
 
-[^14]: Oglobo.oglobo.com, 'Acervo digital', O Globo,
+[^f21_14]: Oglobo.oglobo.com, 'Acervo digital', O Globo,
     https://oglobo.globo.com/acervo/.
 
-[^15]: Folha de São Paulo, 'Edição digital', 19 January 2023,
+[^f21_15]: Folha de São Paulo, 'Edição digital', 19 January 2023,
     https://www1.folha.uol.com.br/fsp/fac-simile/2023/01/19/.
 
-[^16]: Black bloc é como são denominados grupos, normalmente de
+[^f21_16]: Black bloc é como são denominados grupos, normalmente de
     ideologia anarquista, que se manifestam contra grandes corporações
     atacando e causando danos a seus símbolos como entradas de bancos e
     de sedes de grandes empresas.
 
-[^17]: Para além de outras ameaças feitas antes da posse por um famoso
+[^f21_17]: Para além de outras ameaças feitas antes da posse por um famoso
     jogador de vôlei da seleção brasileira que fez uma postagem armado e
     convocando os 'brasileiros' a tomar uma posição contra o resultado,
     o qual foi banido do esporte após a repercussão negativa da
     postagem.
 
-[^18]: Um exemplo das críticas que menciona a reação do público à imagem
+[^f21_18]: Um exemplo das críticas que menciona a reação do público à imagem
     da fotógrafa. Simonetta Persichetti, 'Não, não é fotojornalismo',
     Arte!Brasileiros, 20 January 2023,
     https://artebrasileiros.com.br/arte/fotografia/folha-lula-gabriela-bilo-fotojornalismo/.
 
-[^19]: A historiadora Lilia Schwarz criticou em seu perfil na rede
+[^f21_19]: A historiadora Lilia Schwarz criticou em seu perfil na rede
     social Instagram as opções da Folha de São Paulo em publicar a
     notícia e o argumento da fotógrafa Gabriela Biló. \@liliaschwarcz,
     Instagram post, 19 January, 2023,
     https://www.instagram.com/p/CnmWGUrOgey.
 
-[^20]: Quadro congelado de vídeo interno das câmeras de segurança do
+[^f21_20]: Quadro congelado de vídeo interno das câmeras de segurança do
     Palácio do Planalto compartilhada pelas emissoras de TV e pelas
     plataformas de internet. Fonte: TV Globo.
 
-[^21]: 'Influencer, caminhoneiro, faxineira, seis meses depois, 211
-    pessoas continuam presas por atos golpistas', O Globo, 8 July, 2023,
+[^f21_21]: 'Influencer, caminhoneiro, faxineira, seis meses depois, 211
+    pessoas continuam presas por atos golpistas', O Globo, 8 July 2023,
     https://oglobo.globo.com/politica/noticia/2023/07/08/influencer-caminhoneiro-faxineira-seis-meses-depois-211-pessoas-continuam-presas-por-atos-golpistas.ghtml.
 
-[^22]: 'Seis meses após ataques, STF somas mais de 1,2 mil réus por atos
+[^f21_22]: 'Seis meses após ataques, STF somas mais de 1,2 mil réus por atos
     golpistas', G1, 8 July 2023,
     https://g1.globo.com/politica/noticia/2023/07/08/seis-meses-apos-ataques-stf-soma-mais-de-12-mil-reus-por-atos-golpistas.ghtml.
 
-[^23]: No jogo de xadrez, quando um peão consegue atingir a última casa
-    do tabuleiro, no c, ,aso do adversário a primeira casa, o jogador
-    pode substituí-lo por alguma peça já retirada de seu exército. Se a
-    Rainha estiver fora, normalmente ela é trazida de volta ao tabuleiro
-    por ser considerada a peça mais poderosa.
+[^f21_23]: No jogo de xadrez, quando um peão consegue atingir a última casa
+    do tabuleiro, o jogador pode substituí-lo por alguma outra peça. Se
+    a Rainha estiver fora, normalmente ela é trazida de volta ao
+    tabuleiro por ser considerada a peça mais poderosa.
 
-[^24]: Gabriela Coelho e Galton Sé, 'STF mantém decisão que declarou
+[^f21_24]: Gabriela Coelho e Galton Sé, 'STF mantém decisão que declarou
     Sergio Moro parcial ao condenar Lula', CNN Brasil, 23 June 2021,
     https://www.cnnbrasil.com.br/politica/stf-mantem-decisao-que-declarou-sergio-moro-parcial-ao-condenar-lula/.
 
-[^25]: Spotify, 'O tempo não para', Cazuza,
+[^f21_25]: Spotify, 'O tempo não para', Cazuza,
     https://open.spotify.com/intl-pt/track/10C3nAydzBvNfaY86NwUuA?si=85e3a8d84dfb43aa.
 
-[^26]: Leda, Martins, 'Performances do tempo espiralar*',* In: RAVETTI,
+[^f21_26]: Leda, Martins, 'Performances do tempo espiralar*',* In: RAVETTI,
     Gradeia; ARBEX, Márcia (org.). *Performance, exílio, fronteiras:
     errândas territoriais e textuais*. Departamento de Letras Românicas,
     UFMG. Belo Horizonte: Poslit, 2002.
@@ -8457,7 +8472,7 @@ https://www.nytimes.com/issue/todayspaper/2023/01/09/todays-new-york-times.
 ### Bartira S. Fortes
 
 
-## PROLOGUE - The Cocar[^2] and the Sash: Indigenous Participation in the Presidential Handover
+## PROLOGUE — The Cocar[^2] and the Sash: Indigenous Participation in the Presidential Handover
 
 ![Figure 1: President Lula alongside representatives of the Brazilian
 civil society ascending the Planalto ramp for the presidential sash
@@ -8507,7 +8522,7 @@ Glued to my computer screen, I watched Lula's inauguration speech,
 wherein he summoned the spirit of unity in a divided nation. During his
 address, he made a resolute commitment to tackle the pressing political,
 social, and economic challenges that had plagued the country,
-particularly in the past seven years[^4]. Lula vowed to strengthen
+particularly in the past seven years.[^4] Lula vowed to strengthen
 democratic institutions, champion social equality, and combat the perils
 of climate change, framing Brazil's environmental commitments and
 Indigenous rights as the wellspring from which the country would regain
@@ -8516,7 +8531,7 @@ its standing on the global stage and restore its democratic ideals:
 > Indigenous peoples need to have their lands demarcated and free from the
 > threats of illegal and predatory economic activities. Their culture must
 > be preserved, their dignity respected, and sustainability ensured. They
-> are not hindrances to development -- they are guardians of our rivers
+> are not hindrances to development — they are guardians of our rivers
 > and forests and an essential part of our greatness as a nation.
 > Therefore, we are creating the Ministry of Indigenous Peoples to combat
 > 500 years of inequality.[^5]
@@ -8534,7 +8549,7 @@ country's policies.
 
 In the wake of this unprecedented event, speculations reverberated
 across news outlets and social media platforms about who would take on
-the symbolic duty of handing over the presidential sash to Lula -- a
+the symbolic duty of handing over the presidential sash to Lula — a
 tradition that represents the peaceful transfer of power. The refusal of
 former president Jair Bolsonaro to partake in the sashing ceremony
 sparked debates on the profound divisions that had plagued the country
@@ -8580,7 +8595,7 @@ added a crucial dimension to Brazil's democracy. In this pivotal moment,
 Indigenous peoples, who have long endured marginalization under
 persistent colonial power structures, stood at the forefront of the
 country's future. The act of bestowing the sash, traditionally a symbol
-of power and authority, now held a deeper meaning -- it became a conduit
+of power and authority, now held a deeper meaning — it became a conduit
 for the recognition of the plurality of cultures, languages, and
 ontologies at the core of our societies. The prologue to the
 presidential inauguration had set the stage for a new chapter in
@@ -8589,7 +8604,7 @@ democracy can only thrive through the acknowledgment and political
 participation of Indigenous peoples.
 
 As the vibrant festivities subside, an underlying concern resurfaces,
-casting a shadow over the horizon: Will the newly elected government be
+casting a shadow over the horizon. Will the newly elected government be
 able to uphold its commitments to demarcate Indigenous lands and
 confront the pervasive exploitative economic activities within these
 territories? This question encapsulates the complexity of the task at
@@ -8604,7 +8619,7 @@ exploitation and the disregard for the fundamental rights of Indigenous
 peoples. Navigating the path forward will undoubtedly present formidable
 challenges.
 
-## ACT 1 -- Future Brazil: Reclaiming Democracy through Indigenous Art
+## ACT 1 — *Future Brazil*: Reclaiming Democracy through Indigenous Art
 
 ![Figure 2: Daiara Tukano, *A queda do céu e a mãe de todas as lutas* (The
 Falling Sky and the Mother of All Struggles), 2023. Part of the
@@ -8614,8 +8629,8 @@ Forms of Democracy*).[^11] Photo: Marina Gadelha / ASCOM SECEC DF.](imgs/22_2.jp
 <br/>
 
 In conjunction with the presidential inauguration, the National Museum
-of the Republic in Brazil unveiled the exhibition Brasil Futuro: as
-Formas da Democracia (Future Brazil: The Forms of Democracy). Driven by
+of the Republic in Brazil unveiled the exhibition *Brasil Futuro: as
+Formas da Democracia* (*Future Brazil: The Forms of Democracy*). Driven by
 a sense of curiosity, I navigated through online platforms, embarking on
 a quest to explore the exhibition's visual compositions and messages.
 The exhibition featured a diverse collection of Brazilian artworks, with
@@ -8629,7 +8644,7 @@ perspectives into the exhibition's multifaceted portrayal of the
 country's path forward.
 
 Amongst the artworks on display was the painting A queda do céu e a mãe
-de todas as lutas (The falling sky and the mother of all struggles)
+de todas as lutas ('The falling sky and the mother of all struggles')
 (Figure 2) by Daiara Tukano, an artist, activist, educator, and
 communicator from the Eremiri Húusiro Parameri clan of the Yepá Mahsã
 people, also known as Tukano, from the Upper Rio Negro in the Brazilian
@@ -8735,7 +8750,7 @@ dimensions of Indigenous perspectives but also posed a challenge to
 dominant narratives and power structures deeply ingrained in Brazilian
 politics.
 
-## ACT 2 -- Unmasking Colonial Violence: 'What if it were us?'
+## ACT 2 — Unmasking Colonial Violence: 'What if it were us?'
 
 ![Figure 3: The photo depicts Valda Ferreira de Souza, an Indigenous
 Sateré-Mawé woman, holding her baby while resisting a military operation
@@ -8795,7 +8810,7 @@ aspirations for the indigenization of democracy, revealing the systemic
 repression and enduring presence of colonial power structures that
 continue to shape Brazil.
 
-## ACT 3 - The Sacred Echo of the *Maracá*[^32]: 'It is Time to Indigenize Politics and Reforest Minds'
+## ACT 3 — The Sacred Echo of the *Maracá*[^32]: 'It is Time to Indigenize Politics and Reforest Minds'
 
 ![Figure 4: Sônia Guajajara is lifted by Indigenous people at the end of
 her inauguration ceremony as Minister of Indigenous Peoples on January
@@ -8830,7 +8845,7 @@ Guajajara was the first to be sworn in. Her impactful swearing-in speech
 took us back to a significant moment in her life. At the age of 17, she
 got called in by her aunt Maria Santana, a spiritual leader and midwife,
 urging her to visit Aldeia Lagoa Quieta in the Araribóia Indigenous
-territory. There, her aunt bestowed upon her two gifts -- a necklace and
+territory. There, her aunt bestowed upon her two gifts — a necklace and
 a maracá, designating her as the spokesperson for their people:
 
 > I want to give you these gifts, symbols of leadership. I pass on to you
@@ -8907,7 +8922,7 @@ underscored in her closing statements: 'Never again a Brazil without
 us!'[^46], leaving a resounding message on the importance of Indigenous
 political participation in shaping Brazil's future.
 
-## EPILOGUE -- 'Indigenous Future is Today: Without demarcation, there is no democracy!'
+## EPILOGUE — 'Indigenous Future is Today: Without demarcation, there is no democracy!'
 
 ![Figure 5: Mobilization at the 19th Edition of Camp Terra Livre 2023
 organized by APIB (Articulation of Indigenous Peoples of Brazil) between
@@ -9044,7 +9059,7 @@ https://www.instagram.com/p/CnLAxMZPU1v/?igshid=NTc4MTIwNjQ2YQ%3D%3D.
 Charny, Israel W. (ed.) *Encyclopedia of genocide*, Volume II, Santa
 Barbara, Calif.: ABC-CLIO, 1999.
 
-\@daiaratukano. 'Brasil Futuro: As formas da Democracia -- Parte 2', 3
+\@daiaratukano. 'Brasil Futuro: As formas da Democracia — Parte 2', 3
 January 2023,
 https://www.instagram.com/tv/Cm9r8h_he09/?igshid=NTc4MTIwNjQ2YQ==.
 
@@ -9117,7 +9132,7 @@ https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saud
 
 Mondardo, Marcos and Zane do Nascimento. 'Povos indígenas, comunidades
 quilombolas e migrações', *Revista Tocantinense de Geografia*, 12.26
-(2023): 01--21, p. 5, DOI: 10.20873/rtg.v12i26.15747.
+(2023): 01-21, p. 5, DOI: 10.20873/rtg.v12i26.15747.
 
 Paiva, Alessandra Simões. *A virada decolonial na arte brasileira*,
 Bauru, SP: Editora Mireveja Ltda, 2022.
@@ -9244,7 +9259,7 @@ https://www.worldpressphoto.org/collection/photo-contest/2009/luiz-vasconcelos/1
 
 [^12]: *Arte Indígena Contemporânea* (Contemporary Indigenous Art),
     largely established and consolidated in Brazil by the Indigenous
-    artist Jaider Esbell (1979--2021), is characterized by the
+    artist Jaider Esbell (1979-2021), is characterized by the
     protagonism of Indigenous artists. This artistic movement aims to
     rectify historical injustices from within the art realm itself,
     remaining deeply rooted in Indigenous cosmologies while engaging
@@ -9326,7 +9341,7 @@ https://www.worldpressphoto.org/collection/photo-contest/2009/luiz-vasconcelos/1
     to Donate Rare Feather Cape to Brazil', *Via Ritzau*, 27 June 2023,
     https://via.ritzau.dk/pressemeddelelse/the-national-museum-of-denmark-to-donate-rare-feather-cape-to-brazil?publisherId=13560791&releaseId=13700505
 
-[^22]: \@daiaratukano 'Brasil Futuro: As formas da Democracia -- Parte
+[^22]: \@daiaratukano 'Brasil Futuro: As formas da Democracia - Parte
     2', Instagram post, 3 January 2023, *author's translation*,
     https://www.instagram.com/tv/Cm9r8h_he09/?igshid=NTc4MTIwNjQ2YQ==.
 
@@ -9491,7 +9506,7 @@ https://www.worldpressphoto.org/collection/photo-contest/2009/luiz-vasconcelos/1
 
 [^45]: Marcos Mondardo and Zane do Nascimento, 'Povos indígenas,
     comunidades quilombolas e migrações', *Revista Tocantinense de
-    Geografia*, 12.26 (2023): 01--21, p. 5, DOI:
+    Geografia*, 12.26 (2023): 01-21, p. 5, DOI:
     10.20873/rtg.v12i26.15747.
 
 [^46]: Sonia Guajajara speech, *UOL*, 11 January 2023.
@@ -9630,7 +9645,7 @@ em sua morte, afogando-se na própria imagem. A analogia aqui feita com o
 mito é que na invasão aos Três Poderes, no Brasil, os próprios invasores
 produziram um sem-número de imagens de suas ações. Admirados de sua
 coragem, admiraram-se na produção imagética para as mídias sociais. Não
-bastava ocupar e destruir -- era preciso mostrar a si mesmo, registrar a
+bastava ocupar e destruir — era preciso mostrar a si mesmo, registrar a
 'beleza' do ato. Assim, vídeos, narrativas de minuto a minuto, e trocas
 de mensagens em aplicativos passaram a ser não apenas um complemento,
 mas parte constituinte da invasão que se deu no território físico, mas
@@ -9685,7 +9700,7 @@ mídias. Considerando que a invasão dos centros de poder do Estado
 significa uma ação contra o Estado Democrático de Direito, nota-se nos
 dois casos (EUA e Brasil) um modus operandi centrado na violência física
 e material ao patrimônio público, mas especialmente uma violência
-simbólicaexpressa pela destruição de objetos (de obras de arte à
+simbólica expressa pela destruição de objetos (de obras de arte à
 infraestrutura) e pela exposição midiática contínua na tentativa de
 erigir um outro símbolo, sobreposto, à imagem de um país, um símbolo
 deturpado por uma camada ideológica.[^13] Para promover um assassinato
@@ -9837,7 +9852,7 @@ movimento performático oposto, o de morte e desaparecimento.
 ## *Imagem-denúncia*: Quando as Imagens Revelam o Desaparecimento
 
 O segundo acontecimento abordado neste texto trata de um crime não
-performado -- ao contrário, sua essência é exatamente a invisibilidade e
+performado — ao contrário, sua essência é exatamente a invisibilidade e
 o silenciamento. Menos de 20 dias depois da ação em Brasília, uma
 denúncia tornou pública a crise humanitária envolvendo os povos
 indígenas no Brasil.[^22] Na reserva Yanomami, localizada entre os
@@ -9917,7 +9932,7 @@ retira o crime das sombras, ela denuncia e, ao mesmo tempo, convoca a
 todos os que a contemplam a um *mea culpa*, visto que invisibilidade não
 significa a inexistência ou a ausência de vidas. De certa forma, a não
 adesão ao discurso expositivo coloca os Yanomami em suspensão. Estão lá,
-mas não os vemos. Se não os vemos,infelizmente, o potencial de
+mas não os vemos. Se não os vemos, infelizmente, o potencial de
 engajamento também se reduz. Certamente, diversas iniciativas
 (documentários, reportagens, atuações de ativistas) vêm sendo feitas
 para expor ao mundo as atrocidades sofridas pelos indígenas, porém
@@ -9946,7 +9961,7 @@ palavras, 'vive da vida das pessoas, porém não sem algum voluntarismo
 dos envolvidos. Afinal o poder do imaginário provém do imaginário do
 poder'.[^29] Voltamos ao ponto. 
 
-## Entre Sedutoras, Sedentas, Sedantes:[^30] a imagem e sua força 
+## Entre Sedutoras, Sedentas, Sedantes:[^30] A Imagem e Sua Força 
 
 O papel da imagem, nos dois casos que observamos neste trabalho, é o que
 faz a tessitura entre duas situações tão díspares e tão complexas, mas
@@ -10009,7 +10024,7 @@ instituições'[^34] e a todos os conflitos que emergem destas relações.
 Quando se mencionam 'conflitos midiatizados' não se trata apenas de um
 qualificador, mas sim de evidenciar uma especificidade fenomenológica.
 Tanto a invasão em Brasília quanto a crise Yanomami são frutos de uma
-lógica que é anterior à própria instalação do conflito -- está na sua
+lógica que é anterior à própria instalação do conflito — está na sua
 base. Se expor é o objeto da ocupação, evitar qualquer rastro de imagem
 é a tônica do genocídio. Isto posto, cada vez mais se faz necessário
 refletir sobre as práticas sociais atuais envoltas e atravessadas pelas
@@ -10101,7 +10116,7 @@ Janotti Junior, Jeder (org.), *Territórios afetivos da imagem e do som*,
 Belo Horizonte: Fafich/Selo PPGCOM/UFMG, 2020: 294-309.
 
 \_\_\_\_\_\_. 'Circulação: das múltiplas perspectivas de valor à
-valorização do visível', in *Revista Intercom -- RBCC 42.2* (May/August
+valorização do visível', in *Revista Intercom — RBCC 42.2* (May/August
 2019): 21-33.
 
 \_\_\_\_\_\_. 'A imagem como referência: tensionamentos entre
@@ -10110,7 +10125,7 @@ CAPES-Stint*, São Leopoldo/Stockholm, 8 July 2021,
 https://www.youtube.com/watch?v=yV3_CFYLC9g&t=69s.\
 \
 'Radicais invadem e depredam o Planalto, Congresso e o Supremo', *CNN
-Brasil*, 8 January, 2023.
+Brasil*, 8 January 2023.
 https://www.cnnbrasil.com.br/politica/radicais-invadem-e-depredam-planalto-congresso-e-supremo-veja-imagens/.
 
 Silva, Vitor. 'Um olhar diferente do Brasil - Invasão do Congresso por
@@ -10179,7 +10194,7 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     Unisinos, 2014.
 
 [^9]: Ana Paula da Rosa, 'Circulação: das múltiplas perspectivas de
-    valor à valorização do visível', in *Revista Intercom -- RBCC*,
+    valor à valorização do visível', in *Revista Intercom — RBCC*,
     (May/August, 2019).
 
 [^10]: Embora neste texto esteja evidenciada a relação com as águas dos
@@ -10233,16 +10248,16 @@ www.instagram.com/p/Coc5I7gPKEl/?igshid=YmMyMTA2M2Y%3D.
     mas nada de novo sol*l, São Paulo: Paulus, 2016, p. 71.
 
 [^18]: 'Radicais invadem e depredam o Planalto, Congresso e o Supremo',
-    *CNN Brasil,* 8 January, 2023.
+    *CNN Brasil,* 8 January 2023.
     https://www.cnnbrasil.com.br/politica/radicais-invadem-e-depredam-planalto-congresso-e-supremo-veja-imagens/.
 
 [^19]: Vitor Silva, 'Um olhar diferente do Brasil - Invasão do Congresso
-    por populares', Youtube, Janeiro 8, 2023,
+    por populares', Youtube, 8 January 2023,
     https://www.youtube.com/watch?v=e4litzHI65Y.
 
 [^20]: Sandra Jeppesen, 'Performance Crime and Self-Surveillant Subjects
     in the Capitol Riots', in Sandra Jeppesen et al, '*The Capitol Riots
-    -- Digital Media, Disinformation, and Democracy Under Attack'*,
+    — Digital Media, Disinformation, and Democracy Under Attack'*,
     Routledge: New York, 2022, pp.127-135.
 
 [^21]: Jeppesen, 'Performance Crime', p. 135
@@ -10330,19 +10345,11 @@ protester, a so-called 'Patriot', tried to prevent a dissident truck
 from breaking through a road blockade and clung to the truck's
 windshield on a 10km high-speed journey. Images of the man hanging on
 the outside of the truck were captured on video and soon went viral on
-the internet. As soon as these initial images were shared on social
-media, they were immediately appropriated by various social actors who
-produced numerous memes that circulated widely across different
-platforms, becoming the most prominent meme of 2022 on the Brazilian
-internet. This collective action provided an opportunity for the left to
-gain superiority on social media in the post-election period, where
-laughter became a tool for celebrating Lula's victory and signaling the
-demise of Bolsonaro. However, as the meme circulated, Bolsonarist
-protests and threats of coups and anti-democratic acts escalated. We
+the internet. We
 analyze the appropriation of the image of the \'Truck Patriot\' from
 multiple angles, framings, and reconfigurations as a unique
-interdiscursive internet phenomenon - the circulation of laughter
-through memetics - which helped to, on the one hand, unify
+interdiscursive internet phenomenon — the circulation of laughter
+through memetics — which helped to, on the one hand, unify
 anti-Bolsonarist audiences in the post-electoral period and on the other
 hand, fuel the hatred and resentment of Bolsonarists, which would
 culminate months later in the attempted coup on January 8, 2023.
@@ -10353,7 +10360,7 @@ culminate months later in the attempted coup on January 8, 2023.
 
 The demonstrations of January 8, 2023, in Brazil, can be read as an
 ultra-right insurrection similar to Mussolini\'s March on Rome, in 1922.
-Here we will seek to draw parallels between Bolsonarism and fascism. The
+Here I will seek to draw parallels between Bolsonarism and fascism. The
 paper points out elements that indicate that the events on January 8 had
 a similar objective to that of the March on Rome: to create a climate
 that would lead the authorities to hand over power to the leader of the
@@ -10363,7 +10370,7 @@ movement.
 
 ### Aline Roes Dalmolin and Maria Eduarda Mathias
 
-The chapter aims to analyze how the mobilization for the anti-democratic
+The chapter analyzes how the mobilization for the anti-democratic
 act of January 8th, 2023 took place through extreme-right Bolsonarist
 groups on social media platforms in Brazil. We bring here the reality of
 platformization, which encompasses new technologies and their impacts on
@@ -10418,7 +10425,7 @@ narrative in understanding the unfolding of the Planalto Riots.
 Our chapter highlights aspects of communication-media dynamics that
 affect Brazilian democratic life today. We do so notably through the
 discussion of the violent insurrection on 8 January 2023, that took
-place in Brasília, the federal capital of Brazil, after a week of the
+place in Brasilia, the federal capital of Brazil, after a week of the
 emblematic inauguration of Luiz Inácio Lula da Silva to the presidency
 of the Republic. The inauguration, which did not include the solemn act
 of handing over the position by his predecessor, Jair Messias Bolsonaro,
@@ -10445,7 +10452,7 @@ war that has (mis)information as its main input.
 The article begins the discussion by addressing the current political
 situation in Brazil, where there is a significant far-right presence
 that attempted to seize power by invading the buildings of the Three
-Powers in Brasília, the capital of Brazil. However, the actions of the
+Powers in Brasilia, the capital of Brazil. However, the actions of the
 far-right on January 8, 2023, appear to be more of a continuation of the
 protests from previous decades. In a recent past, about ten years ago,
 since the \'June Protests\' of 2013, conservative and far-right
@@ -10575,7 +10582,7 @@ democracy and confronting patriarchal and colonial legacies.
 
 We resort to the myth of Narcissus to problematize images and their
 power both in the invasion of the Três Poderes Square (Palácio do
-Planalto, Supreme Court, and the National Congress) in Brasília, on
+Planalto, Supreme Court, and the National Congress) in Brasilia, on
 January 8th, 2023 where images of the event are considered an expression
 of vanity, and the humanitarian crisis involving the Yanomami
 Reservation in Roraima revealed only days later, where images act as
@@ -10584,7 +10591,7 @@ amplitude in media circuits, we are interested in thinking about the
 role of the image as an agent of meaning in these mediatized conflicts.
 In particular, such images allow us to understand the social practices
 and the communicative dynamics that reveal both the cult of exposure in
-the case of the PLanalto Riots and the disappearance of subjects through
+the case of the Planalto Riots and the disappearance of subjects through
 invisibility through the Yanomami humanitarian crisis -- happening only
 days between each other. In this sense, the gaze falls on the notion of
 \'performative crime\' in digital media as a narcissistic movement of
@@ -10619,12 +10626,12 @@ O capítulo mostra como a circulação do meme que ficou conhecido como
 política e ativismo no periodo pós-eleitoral no pleito presidencial no
 Brasil em 2022. Assim que os resultados da eleição foram divulgados e a
 vitória do pleito dada a Luiz Inácio Lula da Silva, militantes
-bolsonaristas auto-denominados 'patriotas' organizaram bloqueios nas
+bolsonaristas autodenominados 'patriotas' organizaram bloqueios nas
 estradas com apoio de grupos de caminhoneiros e de trabalhadores
 autônomos, e conivência de Polícia Rodoviária Federal. O meme surgiu do
 fato inusitado de um militante bolsonarista tentar impedir que um
 caminhão furasse os bloqueios nas estradas, sendo levado pelo caminhão
-agarrado ao pára-brisas por um percurso de 10km em alta velocidade. Esta
+agarrado ao para-brisas por um percurso de 10km em alta velocidade. Esta
 ação frustrada do bolsonarista foi registrada em diversos vídeos tanto
 de dentro do caminhão quanto por transeuntes das estradas. Tão logo
 foram veiculadas essas primeiras imagens pelas redes sociais, elas foram
@@ -10639,7 +10646,7 @@ golpes e atos antidemocráticos por parte dos bolsonaristas. Refletimos
 que a apropriação da imagem do \'Patriota do Caminhão\' por múltiplas
 angulações, enquadramentos e reconfigurações denotam um fenômeno ímpar
 -- a circulação do riso em rede por meio do memetivismo -- que
-articulou, por um lado, a unificação de públicos anti-bolsonaristas e
+articulou, por um lado, a unificação de públicos antibolsonaristas e
 por outro, contribuiu para alimentar o ódio e ressentimento dos
 bolsonaristas, que culminaria meses depois na tentativa de golpe do 8 de
 janeiro de 2023.
@@ -10744,8 +10751,7 @@ O artigo inicia o debate falando sobre o atual momento político do
 Brasil, onde há uma extrema-direita expressiva que tentou tomar o poder
 com uma invasão aos prédios dos Três Poderes, em Brasília, capital do
 Brasil. No entanto, os atos da extrema-direita ocorridos no dia 8 de
-janeiro de 2023 parecem ser mais uma continuidade das manifestações das
-décadas anteriores. Pois, em um passado recente, há dez anos, desde as
+janeiro de 2023 parecem ser mais uma continuidade das manifestações da década anterior. Pois, em um passado recente, há dez anos, desde as
 'Jornadas de Junho' de 2013, movimentos conservadores e de
 extrema-direita já aproveitavam o enfraquecimento e subsequente
 criminalização de protestos da esquerda que se faziam presentes nas
@@ -10783,8 +10789,8 @@ os eventos diários, a temporalidade que une as obras aqui evocadas é a
 da resistência às mentalidades (colonial e autoritária) que ainda
 norteiam as decisões políticas nacionais. Paralelamente à longa duração,
 as proposições da arte aparecem em tempo diverso às reflexões
-históricas; tornam-se reações imediatas; algumas obras nascem no "calor
-da hora" -- surgem da espontaneidade proibida aos outros saberes que
+históricas; tornam-se reações imediatas; algumas obras nascem no 'calor
+da hora' -- surgem da espontaneidade proibida aos outros saberes que
 demandam maturação e que necessitam do julgamento do decurso. Acima de
 tudo, a preocupação deste texto está em observar como os artistas
 conseguem captar o instante político presente no cotidiano -- livres de
@@ -10827,7 +10833,7 @@ Escrever uma carta para alguém é um ato de afeto, é um convite para o
 diálogo abrindo um canal de comunicação direto entre duas pessoas. Nesse
 contexto, o artigo adota esse formato para, de forma provocatória e
 cordial, especular uma conversa com o arquiteto Oscar Niemeyer
-(in-memoriam) sobre a relação da concepção e construção da capital
+(*in memoriam*) sobre a relação da concepção e construção da capital
 Brasília como um espaço segregativo na sua essência, com os fatos
 ocorridos no dia 8 de Janeiro de 2023 em Brasília, quando os três
 principais edifícios das esferas de poder do Brasil foram invadidos e
@@ -10853,7 +10859,7 @@ maneira inequívoca nas telas e nas redes sociais a negação de uma
 democracia que até 2018, antes esteve ao lado de uma parcela pequena,
 porém ativa da população brasileira. O presente texto pretende refletir
 sobre o impacto das imagens das invasões de vândalos no Congresso
-Nacional, no Supremo Tribunal Federal e no palácio do planalto, e de
+Nacional, no Supremo Tribunal Federal e no Palácio do Planalto, e de
 algumas manchetes de jornal do período em veículos oficiais, e como os
 fatos podem atender mais às narrativas ficcionais do que às factuais e
 memoriais. A data de 8 de janeiro oficializa, uma semana após a posse do
@@ -10879,7 +10885,7 @@ paralelo aos eventos da posse. Posteriormente, é avaliado o impacto dos
 ataques ao Planalto em 8 de janeiro de 2023 para os povos indígenas. Em
 seguida, aborda-se a cerimônia de posse da deputada federal eleita e
 líder indígena Sônia Guajajara como a primeira Ministra dos Povos
-Indígenas, na semana seguinte aos atos anti-democráticos. Por fim,
+Indígenas, na semana seguinte aos atos anti democráticos. Por fim,
 explora as mobilizações durante a *19ª Edição do Acampamento Terra Livre
 2023* sob o tema 'O Futuro Indígena é Hoje: Sem Demarcação, não há
 Democracia!'. O objetivo deste artigo é elucidar a importância da
@@ -10950,18 +10956,6 @@ published *Satellite Lifelines: Art, Media, Migration and the Crisis of
 Hospitality in Divided Cities* with the INC. Website:
 www.isabellofgren.se.
 
-**Paola Madrid Sartoretto** is an Associate Professor in Media and
-Communication at the School of Education and Communication, Jönköping
-University, Sweden where she coordinates the international MSSc in
-Sustainable Communication. Her research interests are in the
-intersection between communication, political participation, and social
-change, with a focus on communication among marginalized groups.
-Sartoretto has also conducted research in collaboration with social
-movements in Brazil and co-edited with Sandra Jeppesen the anthology
-*Media Activist Research Ethics* (2020) published by Palgrave in the
-IAMCR series *Global Transformations in Media and Communication
-Research*.
-
 **Gizele de Oliveira Martins** is a journalist and a PhD candidate in
 Communication at the Federal University of Rio de Janeiro (UFRJ). She
 graduated in journalism from PUC-Rio and holds a master\'s degree in
@@ -10978,6 +10972,18 @@ and Communicators in Brazil. Today, she works with community
 organizations such as the *Coalizão de Mídias Periféricas*; *Faveladas,
 Quilombolas e Indígenas*; *Coletivo Maré 0800*; and *Frente de
 Mobilização da Maré*.
+
+**Paola Sartoretto** is an Associate Professor in Media and
+Communication at the School of Education and Communication, Jönköping
+University, Sweden where she coordinates the international MSSc in
+Sustainable Communication. Her research interests are in the
+intersection between communication, political participation, and social
+change, with a focus on communication among marginalized groups.
+Sartoretto has also conducted research in collaboration with social
+movements in Brazil and co-edited with Sandra Jeppesen the anthology
+*Media Activist Research Ethics* (2020) published by Palgrave in the
+IAMCR series *Global Transformations in Media and Communication
+Research*.
 
 ## Contributors: 
 
@@ -10998,19 +11004,18 @@ independent publication fairs, workshops, meetings, and even a doctoral
 defense. Since 2018, he has been working with Gustavo Speridião on the
 FAIXA PROTESTA project, which involves bringing banners with paintings
 and rebellious poetry to protests. He has participated in various group
-exhibitions, including \"O que há de música em você\" at Athena Galeria
-de Arte in October 2023, \"Sol a Sol\" at Galeria Arte Fasam in August
-2020, \"A Casa Carioca\" at MAR-Rio in 2020, \"Atelier Sanitário +
-Bastardo\" at Centro Cultural Phábrika in 2018, \"Entre #4\" at Portas
-Vilaseca Galeria in 2017, and \"Tudo fora de ordem\" at Espaço Saracura
+exhibitions, including *O que há de música em você* at Athena Galeria
+de Arte in October 2023, *Sol a Sol* at Galeria Arte Fasam in August
+2020, *A Casa Carioca* at MAR-Rio in 2020, *Atelier Sanitário +
+Bastardo* at Centro Cultural Phábrika in 2018, *Entre #4* at Portas
+Vilaseca Galeria in 2017, and *Tudo fora de ordem* at Espaço Saracura
 in 2017. You can find him on Instagram: \@leandro_barboza.
 
 **Viviane Borelli** is an associate professor in the Graduate Program in
 Communication and the undergraduate programs of Social Communication -
 Journalism, Editorial Production, Public Relations, and Advertising at
-the Federal University of Santa Maria (UFSM), located in Santa Maria,
-RS, Brazil. She holds a PhD in Communication Sciences from Unisinos, São
-Leopoldo, RS. She coordinates the Media Communication and Communication
+the Federal University of Santa Maria (UFSM), in Santa Maria, Brazil. She holds a PhD in Communication Sciences from Unisinos, São
+Leopoldo, Brazil. She coordinates the Media Communication and Communication
 Strategies Research Group (Cimid) and the research project 'Societies in
 Mediatization: Circulation, Discourses and Platforms'. Her research
 interests lie in the areas of mediatization, communication theories,
@@ -11280,8 +11285,8 @@ Federal do Rio de Janeiro e Doutorado em Filosofia, Arte e Pensamento
 Crítico pela European Graduate School - EGS (Suíça). Suas áreas de
 pesquisa incluem política visual, arte contemporânea, filosofia das
 mídias e ativismo midiático. Tem uma prática artística desde 2003 com
-diversas exposições, prêmios e editais como IASPIS -- The Swedish Arts
-Grants Committee e FUNARTE -- Fundação Nacional de Artes, e colabora
+diversas exposições, prêmios e editais como IASPIS — The Swedish Arts
+Grants Committee e FUNARTE — Fundação Nacional de Artes, e colabora
 frequentemente com laboratórios e coletivos artísticos, instituições de
 arte e organizações da sociedade civil em sua prática de pesquisa
 artística. Ela escreveu extensamente sobre cultura popular digital,
@@ -11293,18 +11298,6 @@ conferência *Urgent Publishing* (INC, 2019), entre outros eventos. Em
 2020, publicou o livro *Satellite Lifelines: Art, Media, Migration and
 the Crisis of Hospitality in Divided Cities* na série *Theory on Demand*
 com o INC. Web: www.isabellofgren.se.
-
-**Paola Madrid Sartoretto** é Professora Associada em Comunicação e
-Mídia na Escola de Educação e Comunicação da Universidade de Jönköping,
-Suécia, onde coordena o programa internacional de Mestrado em
-Comunicação Sustentável (*International MSSc Sustainable
-Communication)*. Sua pesquisa combina comunicação, participação política
-e mudança social, com foco na comunicação entre grupos marginalizados.
-Sartoretto também realizou pesquisas em colaboração com movimentos
-sociais no Brasil e co-editou, juntamente com Sandra Jeppesen, a
-antologia *Media Activist Research Ethics*, publicada em 2020 pela
-Palgrave na série *Global Transformations in Media and Communication
-Research* editada pela IAMCR/AIECS.
 
 **Gizele Martins** é jornalista e doutoranda em Comunicação na
 Universidade Federal do Rio de Janeiro (UFRJ). Formou-se em jornalismo
@@ -11324,10 +11317,22 @@ Mídias Periféricas, Faveladas, Quilombolas e Indígenas, no Coletivo Maré
 Dicionário Marielle Franco e do Lab Reviravolta. E-mail:
 gizelemartins@ufrj.br.
 
+**Paola Sartoretto** é Professora Associada em Comunicação e
+Mídia na Escola de Educação e Comunicação da Universidade de Jönköping,
+Suécia, onde coordena o programa internacional de Mestrado em
+Comunicação Sustentável (*International MSSc Sustainable
+Communication)*. Sua pesquisa combina comunicação, participação política
+e mudança social, com foco na comunicação entre grupos marginalizados.
+Sartoretto também realizou pesquisas em colaboração com movimentos
+sociais no Brasil e co-editou, juntamente com Sandra Jeppesen, a
+antologia *Media Activist Research Ethics*, publicada em 2020 pela
+Palgrave na série *Global Transformations in Media and Communication
+Research* editada pela IAMCR/AIECS.
+
 ## Contribuidores: 
 
 **Leandro Barboza** é artista visual e restaurador, vive e trabalha no
-Rio de Janeiro.. É Bacharel em Pintura pela Escola de Belas,
+Rio de Janeiro. É Bacharel em Pintura pela Escola de Belas,
 Universidade Federal do Rio de Janeiro - UFRJ, em 2004. Participa com
 Gustavo Speridião no coletivo Faixa Protesta. Além de inúmeras obras de
 restaurações em locais históricos no Rio de Janeiro, em 2016, inaugura o
@@ -11395,7 +11400,7 @@ Aperfeiçoamento de Pessoal do Ensino Superior - CAPES, no Programa de
 Pós-Graduação em Comunicação da Universidade Federal de Santa Maria -
 UFSM, na linha de pesquisa Mídias e Identidades Contemporâneas.
 Doutoranda sanduíche, bolsista CAPES-STINT no Departamento de Estudos de
-Mídia e Comunicação da Sodertorn University (Estocolmo, Suécia). É
+Mídia e Comunicação da Södertörn University (Estocolmo, Suécia). É
 mestra em Comunicação (2019) e Bacharela em Comunicação Social -
 Jornalismo (2017) pela UFSM. Integrante do Grupo de Pesquisa
 Comunicação, Identidades e Fronteiras - CIFront (UFSM/CNPq) desde 2014 e
@@ -11442,7 +11447,7 @@ Estocolmo, Suécia.
 **Ada C. Machado Silveira** é professora titular da Universidade Federal
 de Santa Maria - UFSM e pesquisadora do Conselho Nacional de
 Desenvolvimento Científico e Tecnológico - CNPq, Brasil. Atuou como
-Pesquisadora Visitante Sênior na Sodertorn University, Estocolmo, Suécia
+Pesquisadora Visitante Sênior na Södertörn University, Estocolmo, Suécia
 (2022-2023), Acordo CAPES-STINT. Desempenha como pesquisadora nos
 programas de pós-graduação em Comunicação da UFSM e da Universidade
 Federal do Pampa - Unipampa, Brasil. Atuou como professora visitante em
@@ -11581,7 +11586,7 @@ Chateaubriand (Museu de Arte Moderna, Rio de Janeiro), a do Museu de
 Arte Contemporânea de Niterói e a do Museu de Arte do Rio de Janeiro
 Website: www.speridiao.com.
 
-**Oscar Svanelid** é e pesquisador de pós-doutorado em História da Arte
+**Oscar Svanelid** é pesquisador de pós-doutorado em História da Arte
 no Instituto de Cultura e Educação da Universidade de Södertörn, na
 Suécia. Ele está atualmente trabalhando em um projeto de pós-doutorado
 (financiado pelo Conselho de Pesquisa Sueco) sobre arte e democracia na
@@ -11593,7 +11598,5 @@ e, mais recentemente, Svanelid investigou a noção de branquitude na
 *Arte Indígena Contemporânea*.
 
 
-#Acknowledgments
 
-We created this book out of a need to create a historical document about what we consider to be one of the ‘darkest episodes of an already dark period’ in Brazilian history, as Clementino Jesus Junior writes in his article. Given the urgency of this book, this book is the collective of the editors and contributors who we would like to thank for their time and dedication in writing their texts and for their belief in our proposal. We would also like to thank Geert Lovink and the INC team for receiving our idea enthusiastically and waiting patiently for the manuscript to materialize. We also thank the entire team at INC who keeps the Theory on Demand series going, especially [Name of everyone in the INC team]. We are proud to be part of this collection. 
 

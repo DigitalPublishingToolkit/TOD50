@@ -22,7 +22,7 @@ Rights: CC BY-NC 4.0
 ### Bartira S. Fortes
 
 
-## PROLOGUE - The Cocar[^2] and the Sash: Indigenous Participation in the Presidential Handover
+## PROLOGUE — The Cocar[^2] and the Sash: Indigenous Participation in the Presidential Handover
 
 ![Figure 1: President Lula alongside representatives of the Brazilian
 civil society ascending the Planalto ramp for the presidential sash
@@ -72,7 +72,7 @@ Glued to my computer screen, I watched Lula's inauguration speech,
 wherein he summoned the spirit of unity in a divided nation. During his
 address, he made a resolute commitment to tackle the pressing political,
 social, and economic challenges that had plagued the country,
-particularly in the past seven years[^4]. Lula vowed to strengthen
+particularly in the past seven years.[^4] Lula vowed to strengthen
 democratic institutions, champion social equality, and combat the perils
 of climate change, framing Brazil's environmental commitments and
 Indigenous rights as the wellspring from which the country would regain
@@ -81,7 +81,7 @@ its standing on the global stage and restore its democratic ideals:
 > Indigenous peoples need to have their lands demarcated and free from the
 > threats of illegal and predatory economic activities. Their culture must
 > be preserved, their dignity respected, and sustainability ensured. They
-> are not hindrances to development -- they are guardians of our rivers
+> are not hindrances to development — they are guardians of our rivers
 > and forests and an essential part of our greatness as a nation.
 > Therefore, we are creating the Ministry of Indigenous Peoples to combat
 > 500 years of inequality.[^5]
@@ -99,7 +99,7 @@ country's policies.
 
 In the wake of this unprecedented event, speculations reverberated
 across news outlets and social media platforms about who would take on
-the symbolic duty of handing over the presidential sash to Lula -- a
+the symbolic duty of handing over the presidential sash to Lula — a
 tradition that represents the peaceful transfer of power. The refusal of
 former president Jair Bolsonaro to partake in the sashing ceremony
 sparked debates on the profound divisions that had plagued the country
@@ -145,7 +145,7 @@ added a crucial dimension to Brazil's democracy. In this pivotal moment,
 Indigenous peoples, who have long endured marginalization under
 persistent colonial power structures, stood at the forefront of the
 country's future. The act of bestowing the sash, traditionally a symbol
-of power and authority, now held a deeper meaning -- it became a conduit
+of power and authority, now held a deeper meaning — it became a conduit
 for the recognition of the plurality of cultures, languages, and
 ontologies at the core of our societies. The prologue to the
 presidential inauguration had set the stage for a new chapter in
@@ -154,7 +154,7 @@ democracy can only thrive through the acknowledgment and political
 participation of Indigenous peoples.
 
 As the vibrant festivities subside, an underlying concern resurfaces,
-casting a shadow over the horizon: Will the newly elected government be
+casting a shadow over the horizon. Will the newly elected government be
 able to uphold its commitments to demarcate Indigenous lands and
 confront the pervasive exploitative economic activities within these
 territories? This question encapsulates the complexity of the task at
@@ -169,7 +169,7 @@ exploitation and the disregard for the fundamental rights of Indigenous
 peoples. Navigating the path forward will undoubtedly present formidable
 challenges.
 
-## ACT 1 -- Future Brazil: Reclaiming Democracy through Indigenous Art
+## ACT 1 — *Future Brazil*: Reclaiming Democracy through Indigenous Art
 
 ![Figure 2: Daiara Tukano, *A queda do céu e a mãe de todas as lutas* (The
 Falling Sky and the Mother of All Struggles), 2023. Part of the
@@ -179,8 +179,8 @@ Forms of Democracy*).[^11] Photo: Marina Gadelha / ASCOM SECEC DF.](imgs/22_2.jp
 <br/>
 
 In conjunction with the presidential inauguration, the National Museum
-of the Republic in Brazil unveiled the exhibition Brasil Futuro: as
-Formas da Democracia (Future Brazil: The Forms of Democracy). Driven by
+of the Republic in Brazil unveiled the exhibition *Brasil Futuro: as
+Formas da Democracia* (*Future Brazil: The Forms of Democracy*). Driven by
 a sense of curiosity, I navigated through online platforms, embarking on
 a quest to explore the exhibition's visual compositions and messages.
 The exhibition featured a diverse collection of Brazilian artworks, with
@@ -194,7 +194,7 @@ perspectives into the exhibition's multifaceted portrayal of the
 country's path forward.
 
 Amongst the artworks on display was the painting A queda do céu e a mãe
-de todas as lutas (The falling sky and the mother of all struggles)
+de todas as lutas ('The falling sky and the mother of all struggles')
 (Figure 2) by Daiara Tukano, an artist, activist, educator, and
 communicator from the Eremiri Húusiro Parameri clan of the Yepá Mahsã
 people, also known as Tukano, from the Upper Rio Negro in the Brazilian
@@ -300,7 +300,7 @@ dimensions of Indigenous perspectives but also posed a challenge to
 dominant narratives and power structures deeply ingrained in Brazilian
 politics.
 
-## ACT 2 -- Unmasking Colonial Violence: 'What if it were us?'
+## ACT 2 — Unmasking Colonial Violence: 'What if it were us?'
 
 ![Figure 3: The photo depicts Valda Ferreira de Souza, an Indigenous
 Sateré-Mawé woman, holding her baby while resisting a military operation
@@ -360,7 +360,7 @@ aspirations for the indigenization of democracy, revealing the systemic
 repression and enduring presence of colonial power structures that
 continue to shape Brazil.
 
-## ACT 3 - The Sacred Echo of the *Maracá*[^32]: 'It is Time to Indigenize Politics and Reforest Minds'
+## ACT 3 — The Sacred Echo of the *Maracá*[^32]: 'It is Time to Indigenize Politics and Reforest Minds'
 
 ![Figure 4: Sônia Guajajara is lifted by Indigenous people at the end of
 her inauguration ceremony as Minister of Indigenous Peoples on January
@@ -395,7 +395,7 @@ Guajajara was the first to be sworn in. Her impactful swearing-in speech
 took us back to a significant moment in her life. At the age of 17, she
 got called in by her aunt Maria Santana, a spiritual leader and midwife,
 urging her to visit Aldeia Lagoa Quieta in the Araribóia Indigenous
-territory. There, her aunt bestowed upon her two gifts -- a necklace and
+territory. There, her aunt bestowed upon her two gifts — a necklace and
 a maracá, designating her as the spokesperson for their people:
 
 > I want to give you these gifts, symbols of leadership. I pass on to you
@@ -472,7 +472,7 @@ underscored in her closing statements: 'Never again a Brazil without
 us!'[^46], leaving a resounding message on the importance of Indigenous
 political participation in shaping Brazil's future.
 
-## EPILOGUE -- 'Indigenous Future is Today: Without demarcation, there is no democracy!'
+## EPILOGUE — 'Indigenous Future is Today: Without demarcation, there is no democracy!'
 
 ![Figure 5: Mobilization at the 19th Edition of Camp Terra Livre 2023
 organized by APIB (Articulation of Indigenous Peoples of Brazil) between
@@ -609,7 +609,7 @@ https://www.instagram.com/p/CnLAxMZPU1v/?igshid=NTc4MTIwNjQ2YQ%3D%3D.
 Charny, Israel W. (ed.) *Encyclopedia of genocide*, Volume II, Santa
 Barbara, Calif.: ABC-CLIO, 1999.
 
-\@daiaratukano. 'Brasil Futuro: As formas da Democracia -- Parte 2', 3
+\@daiaratukano. 'Brasil Futuro: As formas da Democracia — Parte 2', 3
 January 2023,
 https://www.instagram.com/tv/Cm9r8h_he09/?igshid=NTc4MTIwNjQ2YQ==.
 
@@ -682,7 +682,7 @@ https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saud
 
 Mondardo, Marcos and Zane do Nascimento. 'Povos indígenas, comunidades
 quilombolas e migrações', *Revista Tocantinense de Geografia*, 12.26
-(2023): 01--21, p. 5, DOI: 10.20873/rtg.v12i26.15747.
+(2023): 01-21, p. 5, DOI: 10.20873/rtg.v12i26.15747.
 
 Paiva, Alessandra Simões. *A virada decolonial na arte brasileira*,
 Bauru, SP: Editora Mireveja Ltda, 2022.
@@ -809,7 +809,7 @@ https://www.worldpressphoto.org/collection/photo-contest/2009/luiz-vasconcelos/1
 
 [^12]: *Arte Indígena Contemporânea* (Contemporary Indigenous Art),
     largely established and consolidated in Brazil by the Indigenous
-    artist Jaider Esbell (1979--2021), is characterized by the
+    artist Jaider Esbell (1979-2021), is characterized by the
     protagonism of Indigenous artists. This artistic movement aims to
     rectify historical injustices from within the art realm itself,
     remaining deeply rooted in Indigenous cosmologies while engaging
@@ -891,7 +891,7 @@ https://www.worldpressphoto.org/collection/photo-contest/2009/luiz-vasconcelos/1
     to Donate Rare Feather Cape to Brazil', *Via Ritzau*, 27 June 2023,
     https://via.ritzau.dk/pressemeddelelse/the-national-museum-of-denmark-to-donate-rare-feather-cape-to-brazil?publisherId=13560791&releaseId=13700505
 
-[^22]: \@daiaratukano 'Brasil Futuro: As formas da Democracia -- Parte
+[^22]: \@daiaratukano 'Brasil Futuro: As formas da Democracia - Parte
     2', Instagram post, 3 January 2023, *author's translation*,
     https://www.instagram.com/tv/Cm9r8h_he09/?igshid=NTc4MTIwNjQ2YQ==.
 
@@ -1056,7 +1056,7 @@ https://www.worldpressphoto.org/collection/photo-contest/2009/luiz-vasconcelos/1
 
 [^45]: Marcos Mondardo and Zane do Nascimento, 'Povos indígenas,
     comunidades quilombolas e migrações', *Revista Tocantinense de
-    Geografia*, 12.26 (2023): 01--21, p. 5, DOI:
+    Geografia*, 12.26 (2023): 01-21, p. 5, DOI:
     10.20873/rtg.v12i26.15747.
 
 [^46]: Sonia Guajajara speech, *UOL*, 11 January 2023.

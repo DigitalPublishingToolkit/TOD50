@@ -1,6 +1,5 @@
 
 
-
 general:
 	- each chapter has notes about the authors in the first footnote, take that out? YES
 	- find a way to format all the artworks in the same way (they should all have english and portuguese translation already)
