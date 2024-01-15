@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 #The Planalto Riots
-## Making and Unmaking A Failed Coup in Brazil
+## Making and Unmaking: A Failed Coup in Brazil
 
 <div style="page-break-after: always"></div>
 

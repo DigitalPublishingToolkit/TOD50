@@ -19,15 +19,16 @@ Rights: CC BY-NC 4.0
 
 # Against the Ultra-Right Coup-Mongers, Organize Self-Defense / Contra a ultra-direita golpista, organizar a auto-defesa
 
-### Gustavo Speridião and Leandro Barboza/Faixa Protesta
+### Gustavo Speridião and Leandro Barboza / Faixa Protesta
 <br/>
 Next pages: 
+
 Against the Ultra–Right, Self–Defense, 2023
 Paint on cotton canvas
 
 Images taken during protests on January 9, 2023 in Cinelândia, Rio de Janeiro, Brazil.
-
-Próximas páginas:
+***
+Próximas páginas: 
 
 Contra a ultra–direita a auto–defesa, 2023
 Tinta sobre pano de algodão
@@ -41,4 +42,3 @@ Photo credit: Faixa Protesta
 ![](imgs/13_1.tif)
 
 <br/>
-

@@ -838,8 +838,11 @@ https://revistaforum.com.br/cultura/2022/11/6/video-bolsonarista-do-caminho-vira
 Wikipedia contributors, 'Patriota do Caminhão', 15 November 2022,
 https://pt.wikipedia.org/wiki/Patriota_do_caminh%C3%A3o, accessed 10
 October 2023.
-
-
+***
+![](imgs/06_16.tif)
+![](imgs/06_17.tif)
+![](imgs/06_15.tif)
+![](imgs/06_18.tif)
 
 [^f06_3]: Eça de Queiroz, *AS FARPAS: crônica mensal da politica, das letras
     e dos costume*s. Lisboa: Tipografia Universal, fevereiro de 1872,
@@ -1109,6 +1112,6 @@ October 2023.
 
 [^f06_52]: Viviane Borelli, Aline Dalmolin, M.Z. Feliciani, Herivelto
     Regiani, 'O Riso como Resistência: Memes contra Bolsonaro no
-    Contexto da Pandemia', A*nais do 44º Congresso brasileiro de
+    Contexto da Pandemia', *Anais do 44º Congresso brasileiro de
     ciências da comunicação - INTERCOM*, Recife, Brasil, October 2021,
     https://www.portalintercom.org.br/anais/nacional2021/resumos/dt8-ci/herivelton-regiani.pdf.
