@@ -24,7 +24,7 @@ Rights: CC BY-NC 4.0
 > 'A história é objeto de uma construção cujo lugar não é o tempo
 > homogêneo e o vazio, mas o tempo saturado de \'agoras\'.'\
 > 
-> — Walter Benjamin[^2]
+> — Walter Benjamin[^f15_2]
 
 Toda arte é política? Essa definitivamente é uma questão perturbadora. A
 crítica dos modernistas, o realismo social dos clubes de gravura, a
@@ -44,7 +44,7 @@ tratam sobre o contexto político desses dois decênios do século 21 — um
 período de reviravoltas.
 
 \'Contra a foice e o martelo, a família marcha com Deus pela liberdade\'
-— o slogan da \'revolução gloriosa\' de 1964[^3] ainda ressoava nas
+— o slogan da \'revolução gloriosa\' de 1964[^f15_3] ainda ressoava nas
 ruas, quando em 1968, o mundo passou por insurreições estudantis: além
 das barricadas francesas, eclodiram os movimentos de contracultura nos
 EUA, a Primavera de Praga na República Tcheca, o Massacre de Tlatelolco
@@ -75,7 +75,7 @@ liberdades civis. 
 A censura política e a repressão normatizaram o pensamento e o
 comportamento dos brasileiros por mais de duas décadas. Para as artes o
 saldo foi de: 500 filmes e 450 espetáculos teatrais interditados, 200
-livros proibidos e mais de 1.000 letras de músicas censuradas[^4]. Nas
+livros proibidos e mais de 1.000 letras de músicas censuradas[^f15_4]. Nas
 artes visuais, táticas subversivas e estratégias de escamoteamento
 integraram, cada vez mais, os trabalhos. Adotaram-se a marginalidade
 experimental como enfrentamento dos códigos moralistas em vigor, o
@@ -129,7 +129,7 @@ profunda dessa produção brasileira. Percebe-se também a sombra da
 censura militar cercando as exposições. Nesse sentido, o embate entre
 arte e ditadura estava definitivamente posto às claras. Aqui, as
 perspectivas divergem: para muitos pesquisadores, \'não foi a arte que
-enfrentou a ditadura: foi a ditadura que enfrentou a arte\'.[^5]
+enfrentou a ditadura: foi a ditadura que enfrentou a arte\'.[^f15_5]
 
 De qualquer modo, a ideia de morte como símbolo do momento político e a
 denúncia da prática de tortura exercida pelos militares se fazem
@@ -197,7 +197,7 @@ tempo e, às vezes, trazem a abundância de citações, referências e
 metáforas tão presentes nas narrativas contemporâneas. Aliás, as ficções
 sempre foram o vértice entre arte e política. Segundo Rancière, arte e
 política produzem ficções, construídas entre a aparência e a realidade,
-entre o visível e o seu significado, entre o singular e o comum.[^6]
+entre o visível e o seu significado, entre o singular e o comum.[^f15_6]
 Então, os artistas trazem indagações envolvidas pelo \'calor da hora\' e
 continuam criando obras motivadas pelas circunstâncias políticas de sua
 época — algo que os teóricos não conseguem de modo tão tenaz,
@@ -356,7 +356,7 @@ Collor, em 1992. Nessa movimentação, encontravam-se artistas militantes
 
 Dos grandes aos pequenos acontecimentos, \'nada do que um dia acontecer
 pode ser considerado perdido para a história\', como diria Walter
-Benjamin...[^7] e tampouco à arte. A revolução diária dos artistas
+Benjamin...[^f15_7] e tampouco à arte. A revolução diária dos artistas
 mostra-se profundamente comprometida com o combate à exclusão social.
 Beth Moysés está envolvida com universo feminino, trazendo para suas
 obras embates sobre gênero, identidade, abusos, violência doméstica,
@@ -428,7 +428,7 @@ repulsa? De fato, a imagem anterior de um corvo enforcado (presente em
 *Rebote*, 2019), segundo o artista, refere-se a Vladimir Herzog, morto,
 em 1975, pelas forças repressoras da ditadura militar no Brasil. Décadas
 depois desse assassinato, sucessivas manifestações de rua pediam a volta
-do regime militar ao país[^8]. Então, o exercício de \'rebote\' sugere a
+do regime militar ao país[^f15_8]. Então, o exercício de \'rebote\' sugere a
 pulsão de morte e simultânea resistência ao retorno desse difícil
 período histórico (Figuras 10 e 11).
 
@@ -548,33 +548,33 @@ Brasil. São Paulo: Conrad Editora do Brasil, 2004 (Coleção Baderna).
 Ranciére, Jacques. 'Política da arte', in *São Paulo S.A. —  práticas
 estéticas, sociais e políticas em debate*. São Paulo: SESC, 2005.
 
-[^1]: Alecsandra Matias de Oliveira, doutora em Artes Visuais - ECA USP,
+[^f15_1]: Alecsandra Matias de Oliveira, doutora em Artes Visuais - ECA USP,
     crítica de arte e curadora independente. E-mail:
     alecsandramatias@gmail.com.
 
-[^2]: Walter Benjamin, 'Teses sobre o conceito da história'. In *O Anjo
+[^f15_2]: Walter Benjamin, 'Teses sobre o conceito da história'. In *O Anjo
     da História*. Belo Horizonte: Autêntica Editora, 2012, pp. 7-20.
 
-[^3]: O golpe militar surge na historiografia revisionista como
+[^f15_3]: O golpe militar surge na historiografia revisionista como
     \'revolução gloriosa\'. Na verdade, trata-se da ditadura
     civil-militar imposta ao Brasil, entre os anos de 1964 e 1985. Aqui,
     no texto, o termo é irônico.
 
-[^4]: Alecsandra Matias de Oliveira. \'Contexto sociocultural da década
+[^f15_4]: Alecsandra Matias de Oliveira. \'Contexto sociocultural da década
     de 70\', in Elza Ajzenberg *Schenberg — Arte e Ciência*, 1995, p.
     129-142.
 
-[^5]: Julia Buenaventura Valencia Cayses, 'Isto não é uma obra: arte e
+[^f15_5]: Julia Buenaventura Valencia Cayses, 'Isto não é uma obra: arte e
     ditadura', 50 Anos do Golpe de 64, Estudos avançados, 28.80 (April
     2014),
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142014000100011.
 
-[^6]: Jacques Rancière, 'Política da arte', in *São Paulo S.A. —
+[^f15_6]: Jacques Rancière, 'Política da arte', in *São Paulo S.A. —
     práticas estéticas, sociais e políticas em debate*. São Paulo: SESC,
     2005.
 
-[^7]: Walter Benjamin, 'Teses sobre o conceito da história'. In *O Anjo
+[^f15_7]: Walter Benjamin, 'Teses sobre o conceito da história'. In *O Anjo
     da História*. Belo Horizonte: Autêntica Editora, 2012, pp. 7-20.
 
-[^8]: Ver Alecsandra Matias de Oliveira, 'Rebote', *aínas magazine,*
+[^f15_8]: Ver Alecsandra Matias de Oliveira, 'Rebote', *aínas magazine,*
     2023, pp. 59-62

@@ -33,7 +33,7 @@ defender a permanência e manutenção de seu projeto de governo e de país.
 Tal tentativa de golpe, levada a cabo no dia 8 de janeiro, encabeçada
 por Jair Bolsonaro e pelos setores das forças armadas mais próximos a
 ele, chegaram a reivindicar explicitamente um golpe militar contra o
-Estado Democrático de Direito Brasileiro.[^2]
+Estado Democrático de Direito Brasileiro.[^f12_2]
 
 Na história do Brasil, era inimaginável até então que 'manifestantes'
 conseguissem invadir a sede dos Três Poderes da República, o Congresso
@@ -41,12 +41,12 @@ Nacional, o Palácio do Planalto e até o Supremo Tribunal Federal. Mas,
 com a visível conivência da polícia militar de Brasília, a atual capital
 do país foi sitiada: cerca de cem ônibus chegaram com quase quatro mil
 pessoas que desembarcaram na capital para tentar anular ou reverter os
-resultados das eleições.[^3] Na ocasião, vidraças foram quebradas, salas
+resultados das eleições.[^f12_3] Na ocasião, vidraças foram quebradas, salas
 foram invadidas e documentos históricos do País foram destruídos. Os
 atos de 8 de janeiro em Brasília foram precedidos em quase todos os
 estados por ações de militares e extremistas que saíram às ruas e
 ocuparam a frente dos quartéis, pedindo a retirada de Luiz Inácio Lula
-da Silva do poder.[^4]
+da Silva do poder.[^f12_4]
 
 Ou seja, a partir do dia 8, mas também durante toda a primeira semana de
 janeiro, os atos foram se disseminando em todo o país. Em certo momento,
@@ -58,7 +58,7 @@ sociais desde o resultado final das eleições, todos eles explicitamente
 incentivados por Bolsonaro. Os atos antidemocráticos questionavam, sem
 provas, os resultados do pleito presidencial encerrado em outubro de
 2022, no qual Luiz Inácio Lula da Silva saiu vencedor com uma pequena
-margem.[^5]
+margem.[^f12_5]
 
 Importante destacar que estamos falando da primeira semana após o
 término do (2023) governo de Jair Bolsonaro, durante o qual mais de 700
@@ -74,7 +74,7 @@ O governo de Bolsonaro utilizou de empresas de tecnologia para
 disseminar informações falsas, seja sobre a pandemia da Covid-19, seja
 para criminalizar os governos anteriores ligados ao PT, ou mesmo
 disseminar notícias falsas sobre o caso Marielle Franco, vereadora
-assassinada em 2018.[^6] De fato, analisando o histórico desse governo
+assassinada em 2018.[^f12_6] De fato, analisando o histórico desse governo
 de extrema-direita, não poderíamos esperar uma atitude diferente diante
 da derrota nas eleições para o governo PT, que foi alvo de diversas fake
 news.
@@ -97,11 +97,11 @@ outras que sempre se posicionaram e escreveram enquanto moradoras da
 favela, sugiro a provocação como estratégia de análise dos movimentos de
 extrema-direita que começaram a se auto-organizar em 2013, ocupando e
 infiltrando-se em manifestações de esquerda, em espaços populares e em
-organizações de esquerda nas mais diferentes capitais do país.[^7]
+organizações de esquerda nas mais diferentes capitais do país.[^f12_7]
 
 Durante as disputas das eleições presidenciais de anos anteriores,
 passeatas e 'panelaços' organizados pela extrema-direita já vinham se
-tornando parte do cotidiano brasileiro. A mídia comercial,[^8] que se
+tornando parte do cotidiano brasileiro. A mídia comercial,[^f12_8] que se
 concentra nas mãos de 11 famílias ligadas a políticos e grandes
 empresários brasileiros, participou ativamente destes momentos,
 influenciando a população a se colocar contra as pautas levantadas pela
@@ -110,7 +110,7 @@ esquerda. Exemplo disso foi a matéria publicada no *Portal G1*
 2015, com o título 'Todos os estados e o DF têm protestos contra o
 governo Dilma - Atos deste domingo pediram a saída da presidente e fim
 da corrupção. Mais pessoas foram às ruas do que em abril, mas menos do
-que em março'.[^9]
+que em março'.[^f12_9]
 
 Assim, lá em 2015, a mídia já reforçava insistentemente que a Presidenta
 Dilma era corrupta, mesmo sem quaisquer provas. Depois de muitos ataques
@@ -141,7 +141,7 @@ estatal-partidária.
 ## Contexto: O Impacto dos Governos Petistas nas Favelas Cariocas
 
 Em 2023 a 'Jornadas de Junho' completam dez anos. Na época, inúmeros
-movimentos sociais tomaram as ruas das grandes capitais do Brasil.[^10]
+movimentos sociais tomaram as ruas das grandes capitais do Brasil.[^f12_10]
 Iniciadas com o movimento estudantil *Passe Livre*, as manifestações
 convocaram a população a participar de atos públicos contra o aumento
 das tarifas das passagens de ônibus em São Paulo, se espalhando
@@ -153,8 +153,8 @@ especial a Copa do Mundo (2014) e os Jogos Olímpicos (2016).
 Neste período, as favelas e periferias do Rio de Janeiro foram
 transformadas pelos projetos de urbanização que visavam preparar a
 cidade para os megaeventos esportivos. Foram mais de 50 favelas e
-comunidades removidas[^11] e outras 49 invadidas pelas Unidades de
-Polícia Pacificadora (UPPs).[^12] Isto sem contar as ocupações urbanas
+comunidades removidas[^f12_11] e outras 49 invadidas pelas Unidades de
+Polícia Pacificadora (UPPs).[^f12_12] Isto sem contar as ocupações urbanas
 localizadas na parte central da cidade que resultaram no despejo das
 populações precarizadas.
 
@@ -167,9 +167,9 @@ outras demandas da população como: o direito à cidade; a luta contra o
 racismo; a humanização da segurança pública (que automaticamente
 envolveu o tema da UPP) e do sistema penitenciário; a desmilitarização
 da polícia e da área urbana; a defesa da educação e da saúde pública,
-dos direitos reprodutivos e da liberdade sexual.[^13] Estas e outras
+dos direitos reprodutivos e da liberdade sexual.[^f12_13] Estas e outras
 bandeiras continuam sendo levantadas pelas multidões que ainda ocupam as
-ruas do Centro do Rio.[^14]
+ruas do Centro do Rio.[^f12_14]
 
 O governo federal, estadual e municipal tentaram projetar na mídia a
 imagem de um Rio de Janeiro seguro. Apoiando-se nos discursos de
@@ -182,13 +182,13 @@ nas áreas da Zona Sul e Norte.
 
 Parte das favelas receberam reforço policial através das UPPs, outras
 foram ocupadas pelas Forças Armadas. Em 2014, um ano depois da Copa das
-Confederações,[^15] o Conjunto de Favelas da Maré,[^16] na Zona Norte do
+Confederações,[^f12_15] o Conjunto de Favelas da Maré,[^f12_16] na Zona Norte do
 Rio de Janeiro, foi invadido pelo exército. A Maré é formada por 16
 favelas com aproximadamente 132,000 habitantes. O exército no Rio de
-Janeiro, sob o comando do General Braga Netto,[^17] passou a dominar
+Janeiro, sob o comando do General Braga Netto,[^f12_17] passou a dominar
 todo complexo com tanques de guerra e helicópteros. A partir deste
 momento, revistas constantes, prisões e assassinatos passaram a fazer
-parte do cotidiano em todo o território mareense.[^18]
+parte do cotidiano em todo o território mareense.[^f12_18]
 
 Além disso, foi durante as grandes manifestações que estudantes,
 pesquisadores, defensores de direitos humanos e favelados passaram a
@@ -198,19 +198,19 @@ dos movimentos sociais que ocupavam as ruas do centro do Rio.
 
 Os gastos com a operação de guerra no Rio de Janeiro foram exorbitantes.
 Dados do Diário Oficial da União mostram como a publicação de uma medida
-provisória,[^19] assinada pela então presidenta Dilma Rousseff, revelam
+provisória,[^f12_19] assinada pela então presidenta Dilma Rousseff, revelam
 que a mobilização de cerca de 2.500 militares (incluindo 200 policiais)
 foi mantida por um crédito extraordinário a favor do Ministério da
 Defesa no valor de R\$ 5,1 bilhões de reais. Durante o período, o
 governo federal aumentou a dívida pública visando unicamente o controle
-das populações negras e periféricas.[^20]
+das populações negras e periféricas.[^f12_20]
 
 No Brasil, os direitos civis tem servido historicamente aos interesses
 da elite, em favor da opressão povos negros, pobres e favelados. Por
 aqui, os direitos civis são sinônimos de militarização e controle dos
 corpos e dos territórios negros. Para quem vive nas favelas e nas
 periferias do Brasil, os termos 'pacificação', 'polícia', 'exército',
-'tanques' e 'caveirões'[^21] são eufemismos para controle, militarização
+'tanques' e 'caveirões'[^f12_21] são eufemismos para controle, militarização
 e criminalização da pobreza. Para o filósofo camaronês Achille Mbembe,
 esta é uma forma de controle que tem suas raízes na colonização:
 
@@ -218,11 +218,11 @@ esta é uma forma de controle que tem suas raízes na colonização:
 > razão. A política só pode ser traçada como uma transgressão em espiral,
 > como aquela diferença que desorienta a própria ideia do limite. Mais
 > especificamente a política é a diferença colocada em jogo pela violação
-> do tabu.[^22]
+> do tabu.[^f12_22]
 
 Não por acaso, em um período de um ano e cinco meses, entre 2014 e 2015,
 o exército efetivamente ocupou a Maré, na proporção de um soldado para
-cada 53 moradores (2,500 militares para 132,000 moradores).[^23] No
+cada 53 moradores (2,500 militares para 132,000 moradores).[^f12_23] No
 entanto, alguns anos depois, em 2020, em um momento de grave crise
 sanitária, durante a pandemia da COVID-19, estes mesmos moradores não
 contaram com pelo menos um médico ou enfermeiro para cada 53 moradores.
@@ -299,7 +299,7 @@ empobrecida nas pautas de seu governo. Mas ocorreu o contrário. Três
 anos após o início das manifestações, o governo continuou a reprimir os
 protestos, alegando que as manifestações alinhavam-se com as demandas da
 direita, o que afastou e enfraqueceu os movimentos sociais que estavam
-apenas lutando pela vida, dignidade e direitos nas ruas.[^24]
+apenas lutando pela vida, dignidade e direitos nas ruas.[^f12_24]
 
 Neste texto, pensamos o 8 de janeiro a partir de reflexões históricas de
 quem esteve nas ruas protestando contra as opressões que os favelados
@@ -380,13 +380,13 @@ https://jornalocidadao.net/a-favela-os-megaeventos-e-as-manifestacoes/.
 \_\_\_\_\_\_. *Militarização e Censura: A luta por liberdade de
 expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
 
-[^1]: Gizele Martins é ........E-mail: gizelemartins@ufrj.br.
+[^f12_1]: Gizele Martins é ........E-mail: gizelemartins@ufrj.br.
 
-[^2]: Francisco Carlos Teixeira da Silva e Karl Schurster, *Como (não)
+[^f12_2]: Francisco Carlos Teixeira da Silva e Karl Schurster, *Como (não)
     fazer um golpe de estado no Brasil: uma história interna do 8 de
     janeiro de 2023,* Recife: Editora Universidade de Pernambuco, 2023.
 
-[^3]: '[Mais de 1,4 mil bolsonaristas radicais estão
+[^f12_3]: '[Mais de 1,4 mil bolsonaristas radicais estão
     presos](https://g1.globo.com/politica/noticia/2023/01/11/cnj-diz-que-ha-1418-presos-por-ataques-as-sedes-dos-tres-poderes.ghtml)
     no DF após os ataques, segundo dados do Conselho Nacional de Justiça
     (CNJ). Pouco mais de 200 foram detidos em flagrante, ainda durante o
@@ -404,47 +404,47 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     as forças de segurança', *Portal G1*, 13 Janeiro 2023,
     https://g1.globo.com/df/distrito-federal/noticia/2023/01/13/ataques-em-brasilia-quem-quebrou-quem-bancou-quem-incitou-e-como-agiram-as-forcas-de-seguranca.ghtml#
 
-[^4]: Ana Clara Costa, 'A teia do Golpe de 8 de Janeiro', *Piauí* 201
+[^f12_4]: Ana Clara Costa, 'A teia do Golpe de 8 de Janeiro', *Piauí* 201
     (Junho 2023), https://piaui.folha.uol.com.br/materia/teia-do-golpe/.
 
-[^5]: TV Cultura, 'Campanha de Bolsonaro apresenta documentos que
+[^f12_5]: TV Cultura, 'Campanha de Bolsonaro apresenta documentos que
     comprovariam tese de fraude eleitoral' YouTube video, 3:28, 25
     outubro 2022, https://www.youtube.com/watch?v=jKfQa5AmpYU.
 
-[^6]: Patrícia C. Mello, *A máquina do ódio: Notas de uma repórter sobre
+[^f12_6]: Patrícia C. Mello, *A máquina do ódio: Notas de uma repórter sobre
     Fake news e violência digital*, São Paulo: Companhia das Letras,
     2020.
 
-[^7]: Breno Altman and Maria Carlotto (eds), *Junho de 2013: A rebelião
+[^f12_7]: Breno Altman and Maria Carlotto (eds), *Junho de 2013: A rebelião
     fantasma,* São Paulo: Boitempo, 2023.
 
-[^8]: 'Apenas 11 famílias controlam os principais meios de comunicação
+[^f12_8]: 'Apenas 11 famílias controlam os principais meios de comunicação
     brasileiros. Além disso, 25% dos senadores e 10% dos deputados são
     donos de concessões de rádio e televisão. Guilherme Bergamini,
     'Mídia brasileira é controlada por apenas 11 famílias', *FNDC*, 17
     setembro 2015,
     http://www.fndc.org.br/noticias/midia-brasileira-e-controlada-por-apenas-11-familias-924625/
 
-[^9]: G1, 'Todos os estados e o DF têm protestos contra o governo
+[^f12_9]: G1, 'Todos os estados e o DF têm protestos contra o governo
     Dilma', Portal G1, 16 August 2015,
     https://g1.globo.com/politica/noticia/2015/08/manifestantes-protestam-contra-o-governo-dilma-em-cidades-do-brasil.html
 
-[^10]: As manifestações de 2013 reuniram movimentos de favelas que
+[^f12_10]: As manifestações de 2013 reuniram movimentos de favelas que
     lutavam contra as remoções forçadas, contra a instalação das
     Unidades de Polícia Pacificadora dentro de 50 favelas, contra o
     aumento das passagens, além de diversos outras bandeiras de lutas,
     assim como a reivindicação pelo aumento do salário de professores de
     escolas públicas, melhoria na saúde etc.
 
-[^11]: As favelas foram removidas para dar lugar a instalações
+[^f12_11]: As favelas foram removidas para dar lugar a instalações
     esportivas e 'sanear' a cidade para visitantes estrangeiros,
     aproveitou-se a ocasião para um gigantesco remanejamento urbano.
 
-[^12]: Instituto Pacs, *Militarização do Cotidiano: Um legado olímpico,*
+[^f12_12]: Instituto Pacs, *Militarização do Cotidiano: Um legado olímpico,*
     Rio de Janeiro: Instituto Pacs, 2017,
     http://biblioteca.pacs.org.br/wp-content/uploads/2018/06/Militarizac%CC%A7a%CC%83o-do-Cotidiano-Um-legado-oli%CC%81mpico.pdf.
 
-[^13]: 'Desde junho de 2013 as ruas do Rio de Janeiro e de diversos
+[^f12_13]: 'Desde junho de 2013 as ruas do Rio de Janeiro e de diversos
     estados do Brasil começaram a ser ocupadas por grandes
     manifestações, no início, a pauta era pelo não aumento das
     passagens. Várias cidades do país estavam sofrendo com mais uma ação
@@ -458,7 +458,7 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     Cidadão*, 17 de novembro de 2013,
     https://jornalocidadao.net/a-favela-os-megaeventos-e-as-manifestacoes/.
 
-[^14]: 'Por isto, a ideia de que \'Não são só pelos 20 centavos\'.
+[^f12_14]: 'Por isto, a ideia de que \'Não são só pelos 20 centavos\'.
     Outros movimentos sociais começaram a colocar nos cartazes, nos
     gritos e nas intervenções dos carros de som outras demandas da
     população. E, hoje, outras bandeiras também são levantadas pelas
@@ -469,55 +469,55 @@ expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018.
     penitenciário'. Gizele Martins, 'A favela, os megaeventos e as
     manifestações no Rio de Janeiro'.
 
-[^15]: Copa das Confederações FIFA ou Taça das Confederações FIFA, é
+[^f12_15]: Copa das Confederações FIFA ou Taça das Confederações FIFA, é
     um torneio de futebol organizado pela Federação Internacional de
     Futebol entre seleções a cada quatro anos. Em 2013 e 2014 foi
     realizada no Rio de Janeiro, no Brasil.
 
-[^16]: As favelas que formam todo o conjunto
+[^f12_16]: As favelas que formam todo o conjunto
     são: Baixa do Sapateiro, Morro do Timbau, Parque Maré, Nova Maré,
     Nova Holanda, Rubens Vaz, Parque União, Conjunto Esperança, Conjunto
     Pinheiros, Vila do Pinheiro, Vila do João, 'Salsa e Merengue',
     Marcílio Dias, Roquete Pinto, Praia de Ramos, Bento Ribeiro Dantas e
     Mandacaru. (Martins, 2018, p 32)
 
-[^17]: Durante o governo de Bolsonaro, o General Braga Netto foi
+[^f12_17]: Durante o governo de Bolsonaro, o General Braga Netto foi
     Ministro da Defesa, muito devido ao seu envolvimento como
     interventor de segurança pública durante o ano de 2018 no Rio de
     Janeiro. Na última eleição presidencial, ele foi vice na chapa de
     Bolsonaro.
 
-[^18]: O termo mareense foi inventado pelo jornal *O Cidadão* com a
+[^f12_18]: O termo mareense foi inventado pelo jornal *O Cidadão* com a
     ideia de fazer com que os moradores se afirmassem como parte da
     favela. O Jornal *O Cidadão* é um projeto da ONG Centro de Estudos e
     Ações Solidárias da Maré (CEASM), situado na Praça dos Caetés, nº7,
     Morro do Timbau, na Maré. *Jornal Cidadão*,
     https://jornalocidadao.net/sobre/.
 
-[^19]: Brasil, Presidência da República, *Medida Provisória 642/2014,
+[^f12_19]: Brasil, Presidência da República, *Medida Provisória 642/2014,
     Diário Oficial da União,* Publicada em 22 de abril de 2014,
     https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1264174&filename=MPV%20642/2014.
 
-[^20]: Gizele Martins, *Militarização e Censura: A luta por liberdade de
+[^f12_20]: Gizele Martins, *Militarização e Censura: A luta por liberdade de
     expressão na Favela da Maré*, Rio de Janeiro: NPC, 2018, p. 41.
 
-[^21]: 'Caveirões' são carros blindados da Polícia Militar do Rio de
+[^f12_21]: 'Caveirões' são carros blindados da Polícia Militar do Rio de
     Janeiro utilizados dentro das favelas e periferias do Rio de
     Janeiro. Os carros blindados foram apelidados de caveirão pelos
     moradores de favelas, pois o logotipo da polícia especial (BOPE)
     exibido nestes carros é uma caveira.
 
-[^22]: Achille Mbembe, 'Necropolítica'*, Trad: Renata Santini, Arte &
+[^f12_22]: Achille Mbembe, 'Necropolítica'*, Trad: Renata Santini, Arte &
     Ensaios* 32 (Dezembro, 2016)*,* p. 16.
 
-[^23]: \'No primeiro dia, 5 de abril de 2014, de acordo com reportagem
+[^f12_23]: \'No primeiro dia, 5 de abril de 2014, de acordo com reportagem
     do jornal O Globo, as forças armadas chegaram com tanques. Foram
     empregados na Força de Pacificação da Maré 1.900 militares do
     Exército (Brigada de Infantaria Paraquedista), 400 da Marinha (Corpo
     de Fuzileiros Navais) e 200 da PM\'. Martins, *Militarização e
     Censura, 2018*
 
-[^24]: No que diz respeito à propriedade industrial e intelectual,
+[^f12_24]: No que diz respeito à propriedade industrial e intelectual,
     atribuiu ao governo federal a obrigatoriedade de controlar,
     fiscalizar e reprimir quaisquer atos que infringissem os direitos de
     exploração comercial dos símbolos, expressões idiomáticas e produtos

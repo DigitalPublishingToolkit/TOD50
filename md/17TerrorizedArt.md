@@ -24,12 +24,12 @@ Rights: CC BY-NC 4.0
 > 'The old world is dying. The new world is emerging slowly. And in this
 > *chiaroscuro*, monsters are born.' 
 > 
-> — Antonio Gramsci[^2]
+> — Antonio Gramsci[^f17_2]
 
 The political ideology of Bolsonarismo revealed its true monstrous face
 at the attempted coup of January 8^th^ in 2023, known as the Planalto
 Riots. This movement which earlier boasted about representing the
-'upstanding citizen',[^3] now exposed itself as an unruly gang of
+'upstanding citizen',[^f17_3] now exposed itself as an unruly gang of
 neo-fascists defecating and urinating on the floor in a self-deprecating
 attack on the most prominent democratic institutions in Brazil. Their
 violent attack on the world-famous modernist buildings which Oscar
@@ -37,7 +37,7 @@ Niemeyer drew in the 1950s showed them to be as ignorant of the values
 of democracy and national cultural heritage as many other neofascist
 movements across the globe. What they really wanted was to spread terror
 that, to their twisted minds, could restore a nightmarish world of
-authoritarian and theocratic order.[^4]
+authoritarian and theocratic order.[^f17_4]
 
 The Planalto Riots occurred on a Sunday when the government buildings
 were mostly empty, so the rioters mainly targeted the architectural
@@ -47,7 +47,7 @@ objects. However, I am wary of accepting the economic narrative at face
 value. Instead, I propose viewing the Planalto Riots from the
 perspective of the damaged objects themselves. Or, at the very least,
 presenting them as actors 'on the historical stage \[who\] parallels and
-participates in the stories we tell ourselves'.[^5] I suggest this
+participates in the stories we tell ourselves'.[^f17_5] I suggest this
 approach as I feel that after this national trauma, everyone was
 speaking except for the victims themselves. While it may seem naive to
 empathize with a broken table, a kidnapped sculpture, or a wounded
@@ -65,7 +65,7 @@ opposed movements such as Black Lives Matter activists destroying
 sculptures of slave traders and white supremacists burning the Quran.
 This shows that contemporary political ideologies continue to live out
 the desire to destroy the symbolic order of the enemy, known as
-iconoclasm.[^6] When speaking about the Planalto Riots, we should also
+iconoclasm.[^f17_6] When speaking about the Planalto Riots, we should also
 not forget that one of the many nicknames of the former president of
 Brazil, Jair Bolsonaro, is 'the enemy of modernity'. Therefore, it
 hardly came as a surprise when his followers attacked the *Praça dos
@@ -76,15 +76,15 @@ represent.
 
 Costa\'s famous *Plano Piloto* (Pilot Plan) for Brasilia in 1957 was
 chosen by the jury as the purest representation of a new,
-post-historical beginning for Brazil.[^7] While this *tabula rasa* could
+post-historical beginning for Brazil.[^f17_7] While this *tabula rasa* could
 never actually function as a founding myth for the country, it certainly
 encapsulated what in the 1950s was understood as the modernized flight
 towards an (impossible) modern utopia. This idea did not simply arrive
 in a stroke of genius, as Costa liked to argue, but was deeply rooted in
 a colonial hallucination of occupying an empty land that belonged to
-Indigenous peoples.[^8] Moreover, the so-called \'egalitarian order\'
+Indigenous peoples.[^f17_8] Moreover, the so-called \'egalitarian order\'
 that Costa envisaged for Brasilia exacerbated the very socioeconomic and
-racial divisions it aimed to surpass.[^9]
+racial divisions it aimed to surpass.[^f17_9]
 
 The worst tragedy of Brasilia, however, occurred after the military coup
 in 1964, when this modernist city, which originally hinted at a
@@ -106,7 +106,7 @@ Brazilian president Juscelino Kubitschek in the 1960s.](imgs/16_1.png)
 
 The object that I sympathize with the most is a wooden table that was
 used as a barricade by *Bolsonaristas* during the riots at the
-Presidential Palace.[^10] This table was designed by Brazilian architect
+Presidential Palace.[^f17_10] This table was designed by Brazilian architect
 Oscar Niemeyer and was made from Jacaranda wood, which was very popular
 in Brazilian furniture design at the time. The table could also be
 adjusted to change its size, making it an iconic example of modern
@@ -115,9 +115,9 @@ Kubitschek (JK) in his office as a material support for his vision of a
 modernized Brazil. However, over time, the table\'s role changed. In
 1964, it witnessed the military coup that overthrew the democratic
 political system, which its founding fathers had put their faith
-in.[^11] After this event, the table was used by generals who wrote the
+in.[^f17_11] After this event, the table was used by generals who wrote the
 documents that enabled some of the worst human rights abuses in modern
-Brazilian history on its polished wooden surface.[^12] Niemeyer's table
+Brazilian history on its polished wooden surface.[^f17_12] Niemeyer's table
 at least cannot complain that its life has been boring.
 
 Fortunately, in the 1970s, the table was granted the elevated status of
@@ -135,10 +135,10 @@ unexpectedly brought back into use. One can only imagine how it must
 have felt to be reduced once again to a mere object. To make matters
 worse, this happened during the government of interim president Michel
 Temer (2016-2018), when the table was placed in the office of the
-Minister of the President\'s General Secretariat, Moreira Franco.[^13]
+Minister of the President\'s General Secretariat, Moreira Franco.[^f17_13]
 Franco tweeted that the table, which had become a symbol of the
 prosperous modern era for him, would inspire him to 'put Brazil back on
-track'.[^14]
+track'.[^f17_14]
 
 While it is true that designed objects can play a role in shaping our
 human world, some problems are too complex for a wooden table to solve.
@@ -171,7 +171,7 @@ Legal theorist Rafael Lazzarotto Simioni suggests that *A Justiça* has
 not lost her scale by accident but has willingly given it away. This is
 to indicate that the scale has become the property of every citizen who,
 as subjects of the law, are responsible for balancing their deeds and
-desires.[^15] People can no longer view Lady Justice as the allegorical
+desires.[^f17_15] People can no longer view Lady Justice as the allegorical
 embodiment of divine law; they are now expected to look inward and
 develop a sense of right and wrong themselves. This may explain why *A
 Justiça* is not standing up, waving her sword, as in many other
@@ -212,7 +212,7 @@ Supreme Federal Court, she lost her ability to make independent
 judgments. This has put her in a position of dependence where she is
 unable to refuse even the most outrageous commands. Philosopher Giorgio
 Agamben reminds us that Lady Justice sometimes loses her mind, which is
-an essential aspect of her being as a historical figure.[^16] We can
+an essential aspect of her being as a historical figure.[^f17_16] We can
 only imagine the traumatic memories from the basements of the military
 regime, where she appeared as a ghostly presence, brought back by the
 rioters when they held her hostage. At the same time, the Bolsonaristas
@@ -222,16 +222,16 @@ likes to pretend.
 This opens the riddle of why Lady Justice is portrayed as blindfolded.
 The most commonly accepted explanation is that the blindfold is meant to
 ensure impartiality in her verdicts, as she cannot base her decisions on
-appearance or be swayed by sparkling gifts.[^17] Some may also argue
+appearance or be swayed by sparkling gifts.[^f17_17] Some may also argue
 that the blindfold rather serves as a veil of ignorance that humans have
 imposed on Lady Justice to protect ourselves from her piercing
-gaze.[^18] However, historian Adriano Prosperi suggests that the leftist
+gaze.[^f17_18] However, historian Adriano Prosperi suggests that the leftist
 poet Edgar Lee Masters offers the most compelling explanation for Lady
 Justice\'s blindfold. Masters wrote that the blindfold is actually a
 bandage covering Lady Justice\'s eyes, which she had clawed out in a
 moment of madness. It thus appears that Ceschiatti is attempting to
 deceive us by using the image of a youthful body, but if we were to
-uncover her eyes, we might see the turmoil of a spirit in decline.[^19]
+uncover her eyes, we might see the turmoil of a spirit in decline.[^f17_19]
 Therefore, it is important to condemn and penalize any form of
 psychological abuse against Lady Justice. In these times, it is crucial
 to ensure that Lady Justice is treated with the utmost care.
@@ -246,7 +246,7 @@ x 3,43 m.](imgs/16_3.png)
 The act of vandalism that received the most attention in the Planalto
 Riots targeted a famous painting by Brazilian painter Emiliano Di
 Cavalcanti which circulated in the media with the derogatory title *As
-mulatas* (The Mulattas) from 1962.[^20] Di Cavalcanti's painting was
+mulatas* (The Mulattas) from 1962.[^f17_20] Di Cavalcanti's painting was
 wounded with several holes, which were likely caused by sharp
 cobblestones thrown by rioters. These cuts draw attention to the
 misogynistic aspect of neofascist movements, to which Bolsonaro
@@ -257,19 +257,19 @@ been a persistent issue in Brazilian society. However, the situation
 worsened under Bolsonaro\'s government. On one hand, the government made
 it easier for the population to access firearms. On the other hand, it
 opposed the so-called gender ideology, further contributing to the
-problem.[^21]
+problem.[^f17_21]
 
 Although Di Cavalcanti's painting has been hanging in the Presidential
 Palace for several decades, it wasn\'t originally commissioned for that
 location. It was first displayed in the dining room of a cruiser named
-after Princess Leopoldina of Brazil.[^22] The painting depicts a
+after Princess Leopoldina of Brazil.[^f17_22] The painting depicts a
 picturesque tropical setting with a group of women of color engaged in
 their daily activities. One is cleaning fish while the others are
 playing guitar and sitting quietly around a table. In the background, a
 harbor can be seen where a fisherman is unloading the day\'s catch. In
 recent years, there has been valid criticism of Di Cavalcanti\'s
 portrayal of black women in his paintings as sexualized objects of male
-desire, particularly those referred to as *mulatas*.[^23] What stands
+desire, particularly those referred to as *mulatas*.[^f17_23] What stands
 out in this painting is also the women\'s absent gazes, which adds a
 sense of unease to the scene. It feels as if these women are waiting for
 something terrible to happen.
@@ -317,11 +317,11 @@ and today serve as symbols of the preservation of democratic culture.
 The 8th of January 2023 can be seen as a traumatic day in the history of
 Brazilian democracy. It is one of many such traumas that the country has
 faced. Bolsonarismo, according to Rodrigo Nunes, views politics as a
-battle to the death where anything goes.[^24] This attitude may stem
+battle to the death where anything goes.[^f17_24] This attitude may stem
 from Brazil\'s historical formation, where the state apparatus often
 masks an archaic structure of command inherited from the colonial
 division of labor. Local landowners have long confused their private
-interests with those of the public.[^25] During the Planalto Riots, the
+interests with those of the public.[^f17_25] During the Planalto Riots, the
 ghost of authoritarian rule returned, embodied in the figure of
 Bolsonaro, and transformed into a mass movement. While the rioters may
 have reenacted the 1964 military coup in a farcical manner, it is
@@ -340,7 +340,7 @@ Arjan Martin\'s Complexo atlântico (Atlantic Complex - Rope), 2020,
 showcased at the Ciccillo Matarazzo pavilion during the 34th São Paulo
 Biennial, features a rusty anchor and a thick rope that stretches across
 the building\'s floor, stopping the messianic flight embodied by
-Niemeyer\'s iconic modernist structure.[^26]
+Niemeyer\'s iconic modernist structure.[^f17_26]
 
 What is arguably needed at Planalto are artworks that resonate with the
 historical traumas and make the governmental buildings come alive. We
@@ -418,47 +418,47 @@ Uribe, Gustavo, 'Mesa de JK no Planalto deve passar por restauração e
 ser aposentada', *CNN Brasil*, 5 January 2023,
 https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-restauracao-e-ser-aposentada/.
 
-[^1]: Senior Lecturer and Postdoctoral Researcher in Art History at the
+[^f17_1]: Senior Lecturer and Postdoctoral Researcher in Art History at the
     Institution of Culture and Education at Södertörn University. Email:
     oscar.svanelid@sh.se
 
-[^2]: A quote from Antonio Gramsci reprinted in yellow and green on
+[^f17_2]: A quote from Antonio Gramsci reprinted in yellow and green on
     posters in artist Alfredo Jaar's work Chiraoscuro (2021) at the
     34^th^ Bienal de São Paulo.
 
-[^3]: Rodrigo Nunes, 'Of What Is Bolsonaro the Name?', *Radical
+[^f17_3]: Rodrigo Nunes, 'Of What Is Bolsonaro the Name?', *Radical
     Philosophy 209* (Winter 2020), p 8.
 
-[^4]: For a vivid reflection on the notion of terror in Bolsonarismo,
+[^f17_4]: For a vivid reflection on the notion of terror in Bolsonarismo,
     see Thotti, 'We Too Were Modern, Part I: Of Brazilian Autophagic
     Flowers and Navigators', *e-flux Journal* 133 (February 2023),
     https://www.e-flux.com/journal/133/516348/we-too-were-modern-part-i-of-brazilian-autophagic-flowers-and-navigators/.
 
-[^5]: W. J. T. Mitchell, *Iconology: Image, Text, Ideology*, Chicago:
+[^f17_5]: W. J. T. Mitchell, *Iconology: Image, Text, Ideology*, Chicago:
     University of Chicago Press, 1986.
 
-[^6]: Dario Gamboni, *The Destruction of Art: Iconoclasm & Vandalism
+[^f17_6]: Dario Gamboni, *The Destruction of Art: Iconoclasm & Vandalism
     Since the French Revolution*, London: Reaktion, 1997, pp.17-20.
 
-[^7]: In 1957, Lúcio Costa submitted his Plano Piloto as his proposal
+[^f17_7]: In 1957, Lúcio Costa submitted his Plano Piloto as his proposal
     for the construction of Brazil's new capital Brasilia. His proposal
     consisted of a series of simpler sketches beginning with a black
     cross against a white background.
 
-[^8]: See James Holston, *The Modernist City: An Anthropological
+[^f17_8]: See James Holston, *The Modernist City: An Anthropological
     Critique of Brasília*, Chicago: University of Chicago Press, 1989,
     p. 60-74.
 
-[^9]: Holston, *The Modernist City*, p. 211-217.
+[^f17_9]: Holston, *The Modernist City*, p. 211-217.
 
-[^10]: Gustavo Uribe, 'Mesa de JK no Planalto deve passar por
+[^f17_10]: Gustavo Uribe, 'Mesa de JK no Planalto deve passar por
     restauração e ser aposentada', *CNN Brasil*, 5 January 2023,
     https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-restauracao-e-ser-aposentada/.
 
-[^11]: Uribe, 'Mesa de JK no Planalto deve passar por restauração e ser
+[^f17_11]: Uribe, 'Mesa de JK no Planalto deve passar por restauração e ser
     aposentada'.
 
-[^12]: In 1968, the Brazilian dictator Artur da Costa e Silva issued a
+[^f17_12]: In 1968, the Brazilian dictator Artur da Costa e Silva issued a
     decree called AI5, which resulted in the suspension of habeas
     corpus. This led to a significant increase in the use of torture and
     the execution of political opposition members. Additionally, it led
@@ -469,57 +469,57 @@ https://www.cnnbrasil.com.br/politica/mesa-de-jk-no-planalto-deve-passar-por-res
     Antonio Manuel, Artur Barrio, and Cildo Meireles*, Durham: Duke
     University Press, 2012.
 
-[^13]: Michel Temer served as vice president for Dilma Rousseff during
+[^f17_13]: Michel Temer served as vice president for Dilma Rousseff during
     her second term as president (2014-2016) and subsequently replaced
     her in May 2016 as the President of Brazil after a highly
     controversial impeachment process in which he was actively involved.
 
-[^14]: See, 'Saiu uma reforma de Temer: a dos móveis do Palácio do
+[^f17_14]: See, 'Saiu uma reforma de Temer: a dos móveis do Palácio do
     Planalto', *Gazeta do povo*, 6 November, 2017.
     https://www.gazetadopovo.com.br/politica/republica/saiu-uma-reforma-de-temer-a-dos-moveis-do-palacio-do-planalto-5fug8enmdy0io9678kryewsdk/.
 
-[^15]: Rafael Lazzarotto Simioni, 'Arte e direito: A Justiça, de Alfredo
+[^f17_15]: Rafael Lazzarotto Simioni, 'Arte e direito: A Justiça, de Alfredo
     Ceschiatti, no STF', *Suprema: revista de estudos constitucionais* 1
     (July/December 2021), p. 248-250.
 
-[^16]: Giorgio Agamben, *State of Exception*, trans. Kevin Attell.
+[^f17_16]: Giorgio Agamben, *State of Exception*, trans. Kevin Attell.
     Chicago: University of Chicago Press, 2005.
 
-[^17]: Adriano Prosperi, *Justice Blindfolded: The Historical Course of
+[^f17_17]: Adriano Prosperi, *Justice Blindfolded: The Historical Course of
     an Image*, trans. John Tedeschi & Anne C. Tedeschi, Leiden: Brill,
     2018, pp. 8-10.
 
-[^18]: See Adriano Prosperi, *Justice Blindfolded*, p.60 and Rafael
+[^f17_18]: See Adriano Prosperi, *Justice Blindfolded*, p.60 and Rafael
     Lazzarotto Simioni, ''Arte e direito', p.246.
 
-[^19]: Cf. Edgar Lee Masters, *Spoon River Anthology*, New York: Collier
+[^f17_19]: Cf. Edgar Lee Masters, *Spoon River Anthology*, New York: Collier
     Books, 1967, cit in Adriano Prosperi, *Justice Blindfolded*, p.IX.
 
-[^20]: It seems that Di Cavalcanti did not title the work, and the title
+[^f17_20]: It seems that Di Cavalcanti did not title the work, and the title
     *As mulatas* was projected onto the painting by gallerists and
     collectors.
 
-[^21]: Mario Francisco Giani MonteiroI, Jackeline Aparecida Ferreira
+[^f17_21]: Mario Francisco Giani MonteiroI, Jackeline Aparecida Ferreira
     RomioII and Jefferson Drezett, 'Is There Race/Color Differential on
     Femicide in Brazil? The Inequality of Mortality Rates for Violent
     Causes Among White and Black Women´, *Journal of Human Growth and
     Development* 31.2 (May/August 2021), p. 363.
 
-[^22]: Eduardo Simões, 'Da sala de jantar de navio ao Salão Nobre, a
+[^f17_22]: Eduardo Simões, 'Da sala de jantar de navio ao Salão Nobre, a
     viagem de \'As Mulatas\' até a depredação', *Neofeed*, 14 January
     2023,
     https://neofeed.com.br/blog/home/de-sala-de-jantar-de-navio-ao-salao-nobre-a-viagem-de-as-mulatas-ate-a-depredacao/.
 
-[^23]: For an engaged reading, see Andréa Marques Chamon, *As 'mulatas'
+[^f17_23]: For an engaged reading, see Andréa Marques Chamon, *As 'mulatas'
     de Di Cavalcanti — um estudo em Psicologia Social*, Master thesis,
     Faculdade de Filosofia e Ciências Humanas da Universidade Federal de
     Minas Gerais, Belo Horizonte, 2017.
 
-[^24]: Rodrigo Nunes, 'Of What Is Bolsonaro the Name?', p.9.
+[^f17_24]: Rodrigo Nunes, 'Of What Is Bolsonaro the Name?', p.9.
 
-[^25]: Rodrigo Nunes, 'Of What Is Bolsonaro the Name?', p. 10.
+[^f17_25]: Rodrigo Nunes, 'Of What Is Bolsonaro the Name?', p. 10.
 
-[^26]: This work is discussed in more detail in my review of the 34th
+[^f17_26]: This work is discussed in more detail in my review of the 34th
     São Paulo Biennial. Oscar Svanelid, 'The São Paulo Biennial Ventures
     Deep Into the Brazilian Darkness', *Kunstkritikk*, 22 October 2021,
     https://kunstkritikk.com/the-sao-paulo-biennial-ventures-deep-into-the-brazilian-darkness/.

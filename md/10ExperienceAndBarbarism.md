@@ -42,11 +42,11 @@ The images I saw that Sunday and in the following days and weeks left me
 intellectually immobilized. I couldn\'t find anything that would help me
 understand the events I witnessed in theoretical frameworks. At that
 time, I was finishing a dissertation about a French anti-vax movement
-that I had observed and analyzed from emergence to dusk,[^2] and yet I
+that I had observed and analyzed from emergence to dusk,[^f10_2] and yet I
 felt intellectually impotent to face what was happening in my own
 country. But it was precisely the perception that I was experiencing
 those events that made me realize that one of the possible ways to
-understand them had been paved 80 years ago by Walter Benjamin.[^3]
+understand them had been paved 80 years ago by Walter Benjamin.[^f10_3]
 
 This (short) essay is a personal account of the savage journey in trying
 to understand the Planalto Riots and the motivation of the Brazilian
@@ -55,7 +55,7 @@ one even in my wildest dreams. My discussion on Walter Benjamin's
 understanding of History, experience, and barbarism is a humble attempt
 to assess this moment in Brazilian history.
 
-## 'And suddenly there was a terrible roar all around us'[^4]
+## 'And suddenly there was a terrible roar all around us'[^f10_4]
 
 I do not remember the exact time of the first live broadcast of the
 riots that I watched on TV. I remember being at my mother-in-law\'s
@@ -72,7 +72,7 @@ saw what it was about, I sat glued to the screen next to my
 mother-in-law for the next few hours. At that time, in the early
 afternoon, the rioters had just broken the last barrier set up by the
 police, which had failed to prevent them from reaching Praça dos Três
-Poderes.[^5] I remember watching a green-and-yellow-clad mob running
+Poderes.[^f10_5] I remember watching a green-and-yellow-clad mob running
 towards the National Congress Palace at the center of the square and
 expecting them to eventually begin to disperse.
 
@@ -87,7 +87,7 @@ enter the buildings and then escape.
 
 The images and the sounds from the television shocked me but did not
 surprise me. The Planalto riots seemed like just one more attempt to
-shake Brazil\'s young democracy in the last six decades.[^6] Shortly
+shake Brazil\'s young democracy in the last six decades.[^f10_6] Shortly
 after the results of the second round of the presidential election were
 announced on the evening of October 30th, 2022, bolsonarist militants
 began gathering in front of military headquarters across Brazil to
@@ -97,15 +97,15 @@ Bolsonaro supporters. It can be said that the events of January 8th
 began in the camp set up in front of the army headquarters in Brasilia.
 The slogans of the hundreds of people who marched on Brazil\'s capital
 city on that Sunday were the same as those heard in the camps since
-months before and in demonstrations since at least 2016:[^7] there were
+months before and in demonstrations since at least 2016:[^f10_7] there were
 calls for a military coup, for the return of the military dictatorship,
-for the reinstatement of AI-5,[^8] for the imprisonment of Supreme Court
+for the reinstatement of AI-5,[^f10_8] for the imprisonment of Supreme Court
 judges, and for the closure of the National Congress.
 
 On Twitter, many of my friends said they were surprised to see people
 from different generations among rioters and that they could not tell
 whether the majority was made up of elderly or young people. My late
-grandfather, who was part of the *Legality Struggle*[^9] against the
+grandfather, who was part of the *Legality Struggle*[^f10_9] against the
 military coup in 1964, once told me that his generation had almost no
 experience dealing with democracy and that the foundations he and his
 contemporaries had built would have to be strengthened in the future. My
@@ -139,7 +139,7 @@ finally bring Benjamin closer to the fire.
 
 The idea of a ruined past, of kairos, and even the danger of glorifying
 the past are things I learned from Benjamin and are directly related to
-his complex meditations on History.[^10] For the German philosopher,
+his complex meditations on History.[^f10_10] For the German philosopher,
 History cannot be understood as something progressive and linear, in
 which the future is guaranteed, and it is enough to move on. And if the
 future is not given, the past is not over either: it is in ruins,
@@ -159,12 +159,12 @@ However, making history is not easy. For Benjamin, this is only possible
 if we first manage to secure the material conditions for our survival
 (which in a liberal democracy is linked to exploitation in class
 conflicts) and when we claim the spiritual aspects (i.e. culture,
-knowledge, and even art).[^11] The reason why this is so important for
+knowledge, and even art).[^f10_11] The reason why this is so important for
 Benjamin is that spiritual elements are constructed out of experience
 and are devices of re-signification that also refer back to that past in
 ruins. The past shines through in the present and if we do not catch its
 brief sparkle, the truth about it will escape us. How can we catch this
-truth? How can we make it easier to grasp? Through storytelling.[^12]
+truth? How can we make it easier to grasp? Through storytelling.[^f10_12]
 
 According to Benjamin, experience is made up of complex relationships
 established between subjects, time, space, history, and memory. It is
@@ -174,12 +174,12 @@ with the world, or the collective dimension. Thus, experience, in
 addition to being singular, cannot be contained in a limiting concept
 that defines it as an accumulation of information or knowledge. And for
 it to be properly transmitted (or narrated) there must be a shared
-context between those who speak and those who listen.[^13]
+context between those who speak and those who listen.[^f10_13]
 
 Benjamin saw the end of the experience as the consequence of traditional
 storytelling's failure, which at the time he wrote had been replaced by
 other more ephemeral forms of narrative that did not inspire deep
-reflection, such as the novel and the newspaper.[^14] What we have
+reflection, such as the novel and the newspaper.[^f10_14] What we have
 noticed in the last decade all over the world is that collective
 experience has suddenly been replaced only by its individual dimension
 due to a deepening of the ephemerality, individuality, and personalism
@@ -220,7 +220,7 @@ The video had millions of views, and thousands of shares with people
 showing they believed in the video content. This kind of action and
 reaction based on fake news is one of the main engines of Bolsonarismo,
 and what lies behind the looping 72-hour wait. This corroborates
-Benjamin\'s idea that people have indeed become less enlightened.[^15]
+Benjamin\'s idea that people have indeed become less enlightened.[^f10_15]
 This is not a personal judgment but an observation that people\'s sense
 of their place in the world is increasingly diffuse. The small material
 progress that societies have made (and in very heterogeneous ways) can
@@ -259,7 +259,7 @@ electoral crimes during the 2022 elections. According to Benjamin,
 monuments are erected with the intention of illuminating a past and are
 linked to historical, cultural, social, and even economic relations that
 are established and consolidated so they can be passed on to the next
-generations.[^16] But let us not deceive ourselves: the transmission of
+generations.[^f10_16] But let us not deceive ourselves: the transmission of
 a monument, as Benjamin has shown us, always involves the transmission
 of barbarism. And barbarism is a condition resulting from the end of a
 connection that existed between humanity, its inner essence, and nature.
@@ -273,7 +273,7 @@ revolutions and the vindication of spiritual elements.
 How does all this relate to what happened in Brasilia on January 8th?
 The answer is not simple, but here is my attempt.
 
-## 'There was madness in any direction, at any hour'[^17]
+## 'There was madness in any direction, at any hour'[^f10_17]
 
 The time it took me to write this text was the same time it took the
 rioters to invade, ravage and loot the buildings of the Brazilian
@@ -284,7 +284,7 @@ repression of this attempted coup can be understood as the result of
 breaking those bolsonaristas' connection with what was most human in its
 essence.
 
-In Experience and Poverty,[^18] following the discussion of the
+In Experience and Poverty,[^f10_18] following the discussion of the
 impoverishment of experience mentioned above, Benjamin affirms that this
 impoverishment, when linked to the overvaluation of technology, leads to
 galvanization, a phenomenon that drives people away from experience.
@@ -333,7 +333,7 @@ what happened in Brasilia on January 8, 2023. Notwithstanding, we must
 catch this truth before it escapes us. It is necessary to break with
 individualism so that we can reconstruct experience from its collective
 dimension, and then think of new ways of building narratives. We cannot
-deny modernity, but we can 'brush history against its grain'.[^19]
+deny modernity, but we can 'brush history against its grain'.[^f10_19]
 
 \*\*\*
 
@@ -368,30 +368,30 @@ Santa Maria/Brazil, 2023.
 Thompson, Hunter, *Fear and Loathing in Las Vegas: A Savage Journey to
 the Heart of the American Dream*, New York: Vintage, 1998.
 
-[^1]: Doctoral student and MA in Media Communication at Universidade
+[^f10_1]: Doctoral student and MA in Media Communication at Universidade
     Federal de Santa Maria, Brazil. E-mail:
     eduardo.ruedell@acad.ufsm.br.
 
-[^2]: Eduardo Ruedell, *Aux armes, ativax! Uma análise da estrutura
+[^f10_2]: Eduardo Ruedell, *Aux armes, ativax! Uma análise da estrutura
     comunicacional do coletivo Lyon Pour La Liberté*, MA diss., Graduate
     Program in Media Communication, Universidade Federal de Santa Maria,
     Santa Maria/Brazil, 2023.
 
-[^3]: Walter Benjamin, 'On the Concept of History', in Howard Eiland and
+[^f10_3]: Walter Benjamin, 'On the Concept of History', in Howard Eiland and
     Michael W. Jennings (eds.), Walter Benjamin: Selected Writings
     Volume 4: 1938 - 1940, Cambridge: Harvard University Press, 2003.
 
-[^4]: Hunter Thompson, *Fear and Loathing in Las Vegas: A Savage Journey
+[^f10_4]: Hunter Thompson, *Fear and Loathing in Las Vegas: A Savage Journey
     to the Heart of the American Dream*, 1998, p. 4.
 
-[^5]: *Praça dos Três Poderes* is a public plaza in Brasilia that
+[^f10_5]: *Praça dos Três Poderes* is a public plaza in Brasilia that
     concentrates the headquarters of the three branches of the Brazilian
     government: the Palácio do Planalto (headquarters of the executive
     branch), the National Congress Palace (headquarters of the
     legislative branch) and the Supreme Court Palace (headquarters of
     the judicial branch).
 
-[^6]: Throughout Brazil\'s existence as a nation-state, since the
+[^f10_6]: Throughout Brazil\'s existence as a nation-state, since the
     Proclamation of Independence from Portugal in 1822, the country has
     suffered at least nine coups d\'état, most of them perpetrated by
     the military. The most recent, in 1964, resulted in a military
@@ -401,7 +401,7 @@ the Heart of the American Dream*, New York: Vintage, 1998.
     constitution that is still in effect, marking the beginning of what
     is often considered the country\'s first truly democratic period.
 
-[^7]: In 2016, the then-president of Brazil, Dilma Roussef (PT -
+[^f10_7]: In 2016, the then-president of Brazil, Dilma Roussef (PT -
     Workers\' Party), was removed from office following a parliamentary
     coup supported by her then-vice president. Public demonstrations
     against President Dilma had been observed since 2013, when a wave of
@@ -413,36 +413,36 @@ the Heart of the American Dream*, New York: Vintage, 1998.
     major cities, using the slogan 'first we\'ll remove PT, and then we
     take out the rest'.
 
-[^8]: AI-5 was a decree promulgated by General Costa e Silva in 1968
+[^f10_8]: AI-5 was a decree promulgated by General Costa e Silva in 1968
     that removed from their ranks and positions the politicians who
     opposed his government and established a system of direct federal
     intervention in the states and municipalities.
 
-[^9]: This term refers to military personnel, mainly from the state of
+[^f10_9]: This term refers to military personnel, mainly from the state of
     Rio Grande do Sul, who opposed the 1964 military coup that overthrew
     the then president, João Goulart (1961-1964).
 
-[^10]: Walter Benjamin, 'On the Concept of History', 2003.
+[^f10_10]: Walter Benjamin, 'On the Concept of History', 2003.
 
-[^11]: Walter Benjamin, 'On the Concept of History', 2003.
+[^f10_11]: Walter Benjamin, 'On the Concept of History', 2003.
 
-[^12]: Walter Benjamin, 'Experience and Poverty', Atlas of Places,
+[^f10_12]: Walter Benjamin, 'Experience and Poverty', Atlas of Places,
     January 2018,
     https://www.atlasofplaces.com/essays/experience-and-poverty/.
 
-[^13]: Walter Benjamin, 'On the Concept of History', 2003.
+[^f10_13]: Walter Benjamin, 'On the Concept of History', 2003.
 
-[^14]: Walter Benjamin,'The Storyteller: Observations on the Works of
+[^f10_14]: Walter Benjamin,'The Storyteller: Observations on the Works of
     Nikolai Leskov', in Howard Eiland and Michael W. Jennings (eds)
     *Walter Benjamin: Selected Writings Volume 3: 1935 - 1938*,
     Cambridge: Harvard University Press, 2002.
 
-[^15]: Walter Benjamin, 'On the Concept of History', 2003.
+[^f10_15]: Walter Benjamin, 'On the Concept of History', 2003.
 
-[^16]: Ibid.
+[^f10_16]: Ibid.
 
-[^17]: Thompson, 1998, p. 31.
+[^f10_17]: Thompson, 1998, p. 31.
 
-[^18]: Benjamin, 'Experience and Poverty', 2018.
+[^f10_18]: Benjamin, 'Experience and Poverty', 2018.
 
-[^19]: Benjamin, 'On the Concept of History', 2003.
+[^f10_19]: Benjamin, 'On the Concept of History', 2003.

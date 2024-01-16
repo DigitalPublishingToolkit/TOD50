@@ -166,11 +166,11 @@ refletir e questionar como chegamos até aqui. Porém, esse flashback não
 pode ater-se somente aos últimos anos. Seria até natural nos refrear nos
 últimos 10 anos quando gradis foram instalados na Praça dos 3 Poderes
 para conter as manifestações populares iniciadas pela reinvindicação do
-'Passe Livre' no transporte público.[^2] Adiante, esses protestos de
-Junho de 2013[^3] foram desvirtuados, desencadeando a ascensão da
+'Passe Livre' no transporte público.[^f19_2] Adiante, esses protestos de
+Junho de 2013[^f19_3] foram desvirtuados, desencadeando a ascensão da
 extrema direita na esfera política brasileira, além de outras distorções
 políticas como o injusto impeachment da presidente eleita Dilma
-Rousseff.[^4] Mas eu não vou detalhar esses fatos pois imagino que no
+Rousseff.[^f19_4] Mas eu não vou detalhar esses fatos pois imagino que no
 seu descanso você tenha acompanhado essa triste parte da nossa história
 política.
 
@@ -187,14 +187,14 @@ sobre a nossa história, incluindo a idealizacão, concepção e construção
 de Brasília e da nossa nação.
 
 Você deve estar careca de saber que a ideia de transferir a capital para
-o interior do país não foi do Juscelino Kubitscheck,[^5] mas já vinha do
+o interior do país não foi do Juscelino Kubitscheck,[^f19_5] mas já vinha do
 período colonial e posteriormente foi incluída na Constituição de
-1891.[^6] Juscelino a colocou em prática e executou as obras em 3 anos,
+1891.[^f19_6] Juscelino a colocou em prática e executou as obras em 3 anos,
 um tempo extremamente curto e acelerado considerando a grandiosidade do
 projeto, uma cidade. No dia 1º de outubro de 1957 a lei que fixava a
 data da transferência da capital do Rio de Janeiro para Brasília foi
 sancionada e, nessa ocasião o presidente proferiu as palavras que hoje
-ornamentam as paredes do *Salão Negro* do Congresso Nacional.[^7]
+ornamentam as paredes do *Salão Negro* do Congresso Nacional.[^f19_7]
 Nestas, ele descreve a empreitada como 'o passo mais viril, mais
 enérgico que a nação dá, com a extraordinária tarefa de povoar e
 civilizar as terras que conquistou'. Essas palavras de JK proclamadas em
@@ -258,13 +258,13 @@ foi instaurada.
 A Missão Cruls não foi a única excursão de interiorização no Brasil, o
 então presidente em 1943, Getúlio Vargas persistiu com o intuito de
 explorar o entroterra e crescer o país nessa direção, iniciando o
-projeto \'A Marcha para o Oeste\'[^8]. Detalhes da primeira expedição da
+projeto \'A Marcha para o Oeste\'[^f19_8]. Detalhes da primeira expedição da
 Marcha está no relato compartilhado pelos irmãos Villas Bôas, que
 lideraram parte dessa expedição. Eles relatam no diário que foi
 posteriormente prublicado que a área era muito abundosa de animais,
 vegetação e principalmente profusa na diversidade de etnias indígenas.
 Suponho que você deve ter acompanhado alguma notícia em direto pelo
-popular Repórter Esso[^9] que, em rede nacional relatava os avanços
+popular Repórter Esso[^f19_9] que, em rede nacional relatava os avanços
 dessa mais recente empreitada ao centro do país. A Marcha usa a mesma
 retórica colonial: para implementar 'progresso e civilização'. No
 entanto, os encontros com a vasta biodiversidade e principalmente com os
@@ -290,7 +290,7 @@ ou não esse povo brasileiro na construção do país. Isto posto, acho
 difícil não associar a sua arquitetura a uma política destrutiva,
 opressora, excludente e não democrática.
 
-Nos anos como estudante de arquitetura na Faculdade da UFRJ,[^10] eu fui
+Nos anos como estudante de arquitetura na Faculdade da UFRJ,[^f19_10] eu fui
 apresentada a Brasília somente pelas suas glórias, fui ensinada a
 apreciar incondicionalmente as suas belas obras arquitetônicas. Mas
 Brasília só pôde existir combinada a esse projeto político de destruição
@@ -306,7 +306,7 @@ desenvolvimento e progresso.
 Durante o período colonial, os negros escravizados que conseguiam fugir
 dos seus algozes se refugiavam em áreas remotas, os quilombos, para
 reconstruir suas vidas longe dos senhorios. Aproximadamente a 300
-quilômetros ao norte de Brasília o Quilombo Kalunga[^11] é o maior
+quilômetros ao norte de Brasília o Quilombo Kalunga[^f19_11] é o maior
 território de afro descendentes quilombolas do Brasil, mantendo uma
 história de luta e resistência e salvaguarda da biodiversidade do
 Cerrado. Além dos povos originários na região, seria provável que
@@ -375,7 +375,7 @@ passagem do livro *A Peste* de Albert Camus que diz assim:
 > permanecer adormecido por anos e anos em móveis e baús à espera em
 > quartos, porões, móveis e estantes - para que talvez chegue o dia em
 > que, para desgraça e esclarecimento dos homens, seus ratos despertem
-> novamente e os envie para morrer em uma cidade feliz'.[^12]
+> novamente e os envie para morrer em uma cidade feliz'.[^f19_12]
 
 Brasília consegue ao mesmo tempo ser sublime e fomentar ideias de
 opressão, destruição e segregação. É nesse dilema que me encontro. Será
@@ -452,7 +452,7 @@ Quero ouvir seus pensamentos e sentimentos sobre arquitetura e
 democracia. É importante manter o diálogo, buscar compreender as
 diferentes perspectivas e, revisitar o nosso passado para construirmos
 um futuro para o nosso país e para o povo de fato. Millôr Fernandes já
-dizia: 'o Brasil tem um enorme passado pela frente'.[^13]
+dizia: 'o Brasil tem um enorme passado pela frente'.[^f19_13]
 
 Te abraço fortemente e com muito respeito.
 
@@ -597,27 +597,27 @@ JK a fazer Brasília*, São Paulo: Geração Editorial, 2019.
 Villas Bôas,Orlando e Claudio. *A Marcha para Oeste*. São Paulo:
 Companhia das Letras, 2012.
 
-[^1]: Tatiana Letier Pinto é uma arquiteta e pesquisadora com uma
+[^f19_1]: Tatiana Letier Pinto é uma arquiteta e pesquisadora com uma
     perspectiva feminista decolonial nos seus processos artisticos como
     escrita, performances e interações públicas. Vive em Estocolmo e no
     Rio de Janeiro. Email: tatianaletier@gmail.com. Website:
     www.tatianapinto.info.
 
-[^2]: Movimento Passe Livre (MPL) é um movimento popular que defende a
+[^f19_2]: Movimento Passe Livre (MPL) é um movimento popular que defende a
     tarifa zero para o transporte público questionando a acessibilidade
     e direito de ir e vir nas cidades.
 
-[^3]: Os protestos de Junho de 2013 no Brasil foram uma série de
+[^f19_3]: Os protestos de Junho de 2013 no Brasil foram uma série de
     manifestações populares que tinham sido começadas pelo MPL lutando
     pelo direito á cidade mas foram apropriadas por outros movimentos
     com pautas anti-corrupção.
 
-[^4]: Dilma Rousseff foi presidente eleita em 2011 e depois foi
+[^f19_4]: Dilma Rousseff foi presidente eleita em 2011 e depois foi
     re-eleita em 2015 para cumprir o seu segundo mandato. No primeiro
     ano do segundo mandato ela sofreu impeachment e foi substituída pelo
     seu vice Michel Temer.
 
-[^5]: Juscelino Kubistcheck foi o vigésimo primeiro presidente eleito do
+[^f19_5]: Juscelino Kubistcheck foi o vigésimo primeiro presidente eleito do
     Brasil ocupando o cargo no período de 31 de janeiro de 1956 até 31
     de Janeiro de 1961. Ele se elegeu com uma campanha
     desenvolvimentista usando o slogan '50 anos em 5'. Já no primeiro
@@ -625,7 +625,7 @@ Companhia das Letras, 2012.
     Lei nº 2874, de 19 de setembro de 1956 com a mudança da capital. Em
     1957 a construção de Brasília começou.
 
-[^6]: A primeira Constituição da República dos Estados Unidos do Brasil
+[^f19_6]: A primeira Constituição da República dos Estados Unidos do Brasil
     foi decretada e promulgada pelo Congresso Nacional em 24/02/1891.
     Nela já consta a proposta de transferência da capital para o
     Planalto Central descrita no Art. 3º 'Fica pertencendo á União, no
@@ -633,21 +633,21 @@ Companhia das Letras, 2012.
     quadrados, que será oportunamente demarcada, para nela
     estabelecer-se a futura Capital Federal'.
 
-[^7]: Lei nº 3273 que estabeleceu um cronograma para a transferência da
+[^f19_7]: Lei nº 3273 que estabeleceu um cronograma para a transferência da
     capital e fixou o dia 21 de abril de 1960 como data de inauguração.
 
-[^8]: Orlando e Claudio Villas Bôas, A Marcha para Oeste (São Paulo:
+[^f19_8]: Orlando e Claudio Villas Bôas, A Marcha para Oeste (São Paulo:
     Companhia das Letras, 2012).
 
-[^9]: Repórter Esso foi o primeiro noticiário jornalístico na rádio
+[^f19_9]: Repórter Esso foi o primeiro noticiário jornalístico na rádio
     brasileira. Era patrocinado pela companhia estadunidense Esso e as
     notícias eram sob controle dos Estados Unidos.
 
-[^10]: UFRJ - Universidade Federal do Rio de Janeiro.
+[^f19_10]: UFRJ - Universidade Federal do Rio de Janeiro.
 
-[^11]: \'Quem somos\', Quilombo Kalunga, acessado 13 de Outubro de 2023, https://quilombokalunga.org/press/quem-somos/
+[^f19_11]: \'Quem somos\', Quilombo Kalunga, acessado 13 de Outubro de 2023, https://quilombokalunga.org/press/quem-somos/
 
-[^12]: Albert Camus, *A Peste,* Rio de Janeiro: Record, 2017, p. 288.
+[^f19_12]: Albert Camus, *A Peste,* Rio de Janeiro: Record, 2017, p. 288.
 
-[^13]: Aforismo conhecido do cartunista, escritor e jornalista Millôr
+[^f19_13]: Aforismo conhecido do cartunista, escritor e jornalista Millôr
     Fernandes (1923–2012).
