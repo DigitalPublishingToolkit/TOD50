@@ -4,9 +4,17 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Volumes/Katja 1TB SSD/Projecten B/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#50 cover DEF2 map/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/inc/Documents/GitHub/TOD50/cover/TOD#50 cover DEF3 map/Document fonts/AdobeFnt23.lst
 FileLength:4251
-FileModTime:724624359
+FileModTime:727090286
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/inc/Documents/GitHub/TOD50/cover/TOD#50 cover DEF3 map/Document fonts/AdobeFnt24.lst
+FileLength:4243
+FileModTime:727090286
 %EndFont
 
 %BeginFont
@@ -22,7 +30,7 @@ WidthClass:5
 AngleClass:0
 FullName:Helvetica Neue LT Pro 75 Bold
 WritingScript:Roman
-OutlineFileName:/Volumes/Katja 1TB SSD/Projecten B/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#50 cover DEF2 map/Document fonts/HelveticaNeueLTPro-Bd.otf
+OutlineFileName:/Users/inc/Documents/GitHub/TOD50/cover/TOD#50 cover DEF3 map/Document fonts/HelveticaNeueLTPro-Bd.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -30,7 +38,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:35688
-FileModTime:719235404
+FileModTime:727090286
 NameArray:0,Mac,18,HelveticaNeueLT Pro 75 Bd
 NameArray:0,Mac,4,Helvetica Neue LT Pro 75 Bold
 NameArray:0,Win,1,HelveticaNeueLT Pro 55 Roman
@@ -50,7 +58,7 @@ WidthClass:5
 AngleClass:0
 FullName:Helvetica Neue LT Pro 45 Light
 WritingScript:Roman
-OutlineFileName:/Volumes/Katja 1TB SSD/Projecten B/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#50 cover DEF2 map/Document fonts/HelveticaNeueLTPro-Lt.otf
+OutlineFileName:/Users/inc/Documents/GitHub/TOD50/cover/TOD#50 cover DEF3 map/Document fonts/HelveticaNeueLTPro-Lt.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -58,7 +66,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:43800
-FileModTime:719235407
+FileModTime:727090286
 NameArray:0,Mac,18,HelveticaNeueLT Pro 45 Lt
 NameArray:0,Mac,4,Helvetica Neue LT Pro 45 Light
 NameArray:0,Win,1,HelveticaNeueLT Pro 45 Lt
@@ -78,7 +86,7 @@ WidthClass:5
 AngleClass:1
 FullName:Helvetica Neue LT Pro 46 Light Italic
 WritingScript:Roman
-OutlineFileName:/Volumes/Katja 1TB SSD/Projecten B/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#50 cover DEF2 map/Document fonts/HelveticaNeueLTPro-LtIt.otf
+OutlineFileName:/Users/inc/Documents/GitHub/TOD50/cover/TOD#50 cover DEF3 map/Document fonts/HelveticaNeueLTPro-LtIt.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -86,7 +94,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:39948
-FileModTime:719235404
+FileModTime:727090286
 NameArray:0,Mac,18,HelveticaNeueLT Pro 46 LtIt
 NameArray:0,Mac,4,Helvetica Neue LT Pro 46 Light Italic
 NameArray:0,Win,1,HelveticaNeueLT Pro 45 Lt
@@ -106,7 +114,7 @@ WidthClass:5
 AngleClass:0
 FullName:Trade Gothic Next LT Pro Bold
 WritingScript:Roman
-OutlineFileName:/Volumes/Katja 1TB SSD/Projecten B/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#50 cover DEF2 map/Document fonts/TradeGothicNextLTPro-Bd.otf
+OutlineFileName:/Users/inc/Documents/GitHub/TOD50/cover/TOD#50 cover DEF3 map/Document fonts/TradeGothicNextLTPro-Bd.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -114,7 +122,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:59240
-FileModTime:318181126
+FileModTime:727090286
 NameArray:0,Mac,4,Trade Gothic Next LT Pro Bold
 NameArray:0,Win,1,Trade Gothic Next LT Pro Bold
 NameArray:0,Win,16,Trade Gothic Next LT Pro
@@ -133,7 +141,7 @@ WidthClass:5
 AngleClass:0
 FullName:Trade Gothic Next LT Pro Light
 WritingScript:Roman
-OutlineFileName:/Volumes/Katja 1TB SSD/Projecten B/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#50 cover DEF2 map/Document fonts/TradeGothicNextLTPro-Lt.otf
+OutlineFileName:/Users/inc/Documents/GitHub/TOD50/cover/TOD#50 cover DEF3 map/Document fonts/TradeGothicNextLTPro-Lt.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -141,7 +149,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:57640
-FileModTime:318181136
+FileModTime:727090286
 NameArray:0,Mac,18,Trade Gothic Next LT Pro Lt
 NameArray:0,Mac,4,Trade Gothic Next LT Pro Light
 NameArray:0,Win,1,Trade Gothic Next LT Pro Lt

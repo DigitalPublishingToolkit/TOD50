@@ -8,7 +8,7 @@
 # Colophon 
 
 **INC Theory on Demand #51** <br/>
-The Planalto Riots Making and Unmaking of A Failed Coup in Brazil
+The Planalto Riots. Making and Unmaking of A Failed Coup in Brazil
 
 **Edited by:** Lou Caffagni, Isabel Löfgren,
 Gizele Martins and Paola Sartoretto
